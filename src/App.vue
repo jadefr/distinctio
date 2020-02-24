@@ -1,14 +1,19 @@
 <template>
   <div id="app">
+
     <!-- Background -->
     <div id="bg"></div>
 
-    <!-- Header -->
-    <header>
-      <a href="#">Distinctio</a>
-    </header>
+    <!-- Content -->
+    <div class="content">
 
-    <main>
+      <!-- Header esta causando margin-top -->
+      <header>
+        <h1>Distinctio</h1>
+      </header>
+
+      <main>
+      <!-- List card -->
       <section id="card">
         <ul>
           <li>
@@ -31,12 +36,14 @@
       </section>
 
       <section id="primary">
-        <h1>Distinctio</h1>
-        <p>Totam fuga quis consequuntur ex ad non numquam modi vero nulla, animi deleniti ea in id? Nulla, ex!</p>
-
-        <a href="#" class="btn">Eveniet minima</a>
+        <p>Amet assumenda at aut consectetur consequatur cum deserunt dicta error esse et eveniet expedita impedit incidunt, iste labore laborum laudantium magnam maiores mollitia nam nesciunt officiis perferendis porro qui quia quos reprehenderit rerum unde voluptas voluptates.</p>
+<!--        <p>Totam fuga quis consequuntur ex ad non numquam modi vero nulla, animi deleniti ea in id? Nulla, ex!</p>-->
       </section>
-    </main>
+      </main>
+
+      <a href="#" class="btn">Eveniet minima</a>
+
+    </div>
 
   </div>
 </template>
