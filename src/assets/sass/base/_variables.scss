@@ -2,14 +2,16 @@ $padding: 15px;
 $borders: 15px;
 
 $colors: (
-        primary: #005DFF,
-        primary-light: lighten(#005DFF, 40%),
-        primary-dark: darken(#005DFF, 40%),
+        blue: #005DFF,
+        blue-light: lighten(#005DFF, 40%),
+        blue-dark: darken(#005DFF, 40%),
         btn-color: #FFF6BB,
+        yellow-light: lighten(#FFF6BB, 40%),
+        yellow-dark: darken(#FFF6BB, 40%),
         brown: #590606,
         brown-contrast: #F3EED9,
-        brown-light: lighten(#590606, 40%),
-        brown-dark: darken(#590606, 40%),
+        brown-light: lighten(#590606, 15%),
+        brown-dark: darken(#590606, 7%),
 );
 
 $desktop: 840px;
