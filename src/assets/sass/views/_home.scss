@@ -1,3 +1,5 @@
+@import '../libraries/_mixins.scss';
+
 body, html {
   height: 100%;
 }
@@ -17,7 +19,6 @@ body {
 
     @include mobile {
       clip-path: polygon(100% 0, 100% 82%, 45% 100%, 0 100%, 0 0);
-      //clip-path: polygon(0 0, 75% 0, 55% 100%, 0% 100%);
     }
   }
 

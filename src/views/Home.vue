@@ -49,3 +49,7 @@
     </div>
   </div>
 </template>
+
+<style lang="scss" scoped>
+  @import '../assets/sass/views/_home.scss';
+</style>

@@ -1,10 +1,10 @@
 <template>
   <div class="blog-view-container">
   <!-- Border -->
-<!--    <div id="left"></div>-->
-<!--    <div id="right"></div>-->
-<!--    <div id="top"></div>-->
-<!--    <div id="bottom"></div>-->
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="top"></div>
+    <div id="bottom"></div>
 
     <!-- Section A -->
     <section class="section-a">
