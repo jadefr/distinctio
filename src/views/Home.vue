@@ -1,11 +1,16 @@
 <template>
-  <div id="app">
+  <div id="home-view-container">
 
     <!-- Background -->
     <div id="bg"></div>
 
     <!-- Content -->
     <div class="content">
+
+      <!-- Icon -->
+      <div id="icon">
+        <b-icon icon="book" id="book-icon"></b-icon>
+      </div>
 
       <!-- Header -->
       <header>

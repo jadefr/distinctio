@@ -1,143 +1,157 @@
 @import '../libraries/_mixins.scss';
+@import '../libraries/_functions.sass';
+@import '../base/_variables.scss';
 
 body, html {
   height: 100%;
 }
 
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
   background-color: color(brown-contrast);
 
-  #bg {
-    clip-path: polygon(78% 0, 65% 100%, 0 100%, 0 0);
-    background-color: color(brown);
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    z-index: -1;
-
-    @include mobile {
-      clip-path: polygon(100% 0, 100% 82%, 45% 100%, 0 100%, 0 0);
-    }
-  }
-
-  .content {
-
-    header {
-      display: block;
-      text-align: center;
-      padding-top: 4em;
-
-      h1 {
-        margin-top: 0px;
-        text-transform: uppercase;
-        color: white;
-        font-size: 3.2em;
-        line-height: .9em;
-
-        @include mobile {
-          font-size: 2.2em;
-          padding-top: 0;
-        }
-      }
-    }
-
-    main {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      grid-template-areas: "side-text card";
+    #bg {
+      clip-path: polygon(78% 0, 65% 100%, 0 100%, 0 0);
+      background-color: color(brown);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      z-index: -1;
 
       @include mobile {
-        grid-template-columns: 1fr;
-        grid-template-areas:
-                "card"
-                "side-text"
+        clip-path: polygon(100% 0, 100% 82%, 45% 100%, 0 100%, 0 0);
+      }
+    }
+
+    .content {
+
+      #book-icon {
+        color: color(brown-contrast);
+        margin-left: 1em;
+        font-weight: lighter;
+        width: 60px;
+        height: 60px;
+        margin-top: 1em;
       }
 
-      section#card {
-        grid-area: card;
-        height: fit-content;
-        align-self: center;
-        background: #fff;
-        padding: 20px;
-        border-radius: $borders;
-        box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
-        width: 80%;
-        margin: 10% 1em 1em;
+      header {
+        display: block;
+        text-align: center;
+        //padding-top: 4em;
+        padding-top: 2.5em;
 
-        @include mobile {
-          margin: 1em auto;
-        }
+        h1 {
+          font-family: "Roboto Light";
+          letter-spacing: 0.5rem;
+          margin-top: 0px;
+          text-transform: uppercase;
+          color: white;
+          font-size: 3.2em;
+          line-height: .9em;
 
-        ul {
-          list-style-type: none;
-          margin: 0;
-          padding: 0;
-
-          li {
-            margin-bottom: 10px;
-            font-size: 0.8em;
-
-            span {
-              position: absolute;
-              width: 30px;
-              height: 30px;
-              background-color: color(blue-light);
-              border-radius: 50%;
-              margin-right: 10px;
-            }
-
-            strong {
-              display: inline-block;
-              margin-left: max(40px);
-              margin-top: 10px;
-            }
+          @include mobile {
+            font-size: 2.2em;
+            padding-top: 0;
           }
         }
       }
 
-      section#side-text {
-        grid-area: side-text;
-        color: #fff;
-        padding: 2em;
-        text-align: left;
-        margin: 10% 0 0 4em;
+      main {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "side-text card";
 
         @include mobile {
-          text-align: center;
-          margin: 0;
-          padding: 0;
+          grid-template-columns: 1fr;
+          grid-template-areas: "card" "side-text"
+        }
+
+        section#card {
+          grid-area: card;
+          height: fit-content;
+          align-self: center;
+          background: #fff;
+          padding: 20px;
+          border-radius: $borders;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
+          width: 80%;
+          margin: 10% 1em 1em;
+
+          @include mobile {
+            margin: 1em auto;
+          }
+
+          ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+              margin-bottom: 10px;
+              font-size: 0.8em;
+
+              span {
+                position: absolute;
+                width: 30px;
+                height: 30px;
+                background-color: color(blue-light);
+                border-radius: 50%;
+                margin-right: 10px;
+              }
+
+              strong {
+                display: inline-block;
+                margin-left: max(40px);
+                margin-top: 10px;
+              }
+            }
+          }
+        }
+
+        section#side-text {
+          grid-area: side-text;
+          color: #fff;
+          padding: 2em;
+          text-align: left;
+          margin: 10% 0 0 4em;
+
+          @include mobile {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+          }
+        }
+      }
+
+
+      .btn {
+        color: color(blue-dark);
+        border-radius: $borders;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-color: color(btn-color);
+        text-align: center;
+        display: inline-block;
+        padding: $padding $padding * 7;
+        margin-top: 8%;
+        margin-left: 40%;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
+
+        &:hover {
+          background: color(brown-dark);
+          color: color(brown-contrast);
+          //box-shadow: 0 1rem 1rem;
+        }
+
+
+        @include mobile {
+          display: block;
+          padding: $padding;
+          margin: 0 2em;
         }
       }
     }
-
-
-    .btn {
-      color: color(blue-dark);
-      border-radius: $borders;
-      text-decoration: none;
-      text-transform: uppercase;
-      font-weight: bold;
-      background-color: color(btn-color);
-      text-align: center;
-      display: inline-block;
-      padding: $padding $padding * 7;
-      margin-top: 10%;
-      margin-left: 40%;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
-      &:hover {
-        background: color(brown-dark);
-        color: color(brown-contrast);
-        //box-shadow: 0 1rem 1rem;
-      }
-
-
-      @include mobile {
-        display: block;
-        padding: $padding;
-        margin: 0 2em;
-      }
-    }
   }
-}
+
+

@@ -2,19 +2,11 @@
 @import '../libraries/_functions.sass';
 @import '../base/_variables.scss';
 
-.blog-view-container {
-  background: color(brown-dark);
+.document-view-container {
 
-  .section-a {
-    color: red;
-  }
-
-  .section-b {
-    color: greenyellow;
-  }
-
+  // Borders
   #top, #bottom, #left, #right {
-    background: #a5ebff;
+    background: color(brown-dark);
     position: fixed;
   }
   #left, #right {
@@ -30,6 +22,18 @@
   }
   #top { top: 0; }
   #bottom { bottom: 0; }
+
+  // Header
+  header {
+    h1 {
+      margin: 2em;
+    }
+  }
+
+  // Article
+  article {
+    margin: 2em;
+  }
 
 }
 
