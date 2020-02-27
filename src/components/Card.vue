@@ -1,6 +1,7 @@
 <template>
-  <div class="card-container">
+  <div class="card-component-container">
 
+    <!-- Card -->
     <b-card no-body class="overflow-hidden" style="max-width: 540px;">
       <b-row no-gutters>
         <b-col md="6">
@@ -10,13 +11,14 @@
           <b-card-body>
             <b-card-title>{{ title }}</b-card-title>
             <b-card-text>
-              <p>{{ section }}</p>
+              <h6>{{ section }}</h6>
               <p>{{ author }}</p>
             </b-card-text>
           </b-card-body>
         </b-col>
       </b-row>
     </b-card>
+
   </div>
 
 </template>
@@ -31,3 +33,7 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+
+</style>

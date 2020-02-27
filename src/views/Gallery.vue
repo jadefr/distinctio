@@ -10,13 +10,16 @@
       </b-navbar-nav>
     </b-navbar>
 
-    <!-- Card -->
-    <Card v-for="(obj, key) in cards" :key="key"
-      :title="obj.title"
-      :section="obj.section"
-      :author="obj.author"
-    />
+    <!-- Cards -->
+    <b-card-group columns>
+      <Card v-for="(obj, key) in cards" :key="key"
+            :title="obj.title"
+            :section="obj.section"
+            :author="obj.author"
+      />
+    </b-card-group>
   </div>
+
 </template>
 
 <script>
@@ -65,9 +68,6 @@ export default {
   // }),
   components: {
     Card
-  },
-  data () {
-    return {}
   },
   computed: {
     ...mapState([

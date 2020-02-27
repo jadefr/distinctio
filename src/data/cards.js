@@ -1,37 +1,58 @@
 export default [
   {
-    title: 'fedon',
-    author: 'platao',
-    section: 'conto-1'
+    title: 'Fedon',
+    author: 'Platão',
+    section: 'Conto I',
+    titleURL: 'fedon',
+    authorURL: 'platao',
+    sectionURL: 'conto-I'
   },
   {
-    title: 'sobre-a-alma',
-    author: 'aristoteles',
-    section: 'livro-1'
+    title: 'Sobre a Alma',
+    author: 'Aristóteles',
+    section: 'Livro I',
+    titleURL: 'sobre-a-alma',
+    authorURL: 'aristoteles',
+    sectionURL: 'livro-1'
   },
   {
-    title: 'imagens-e-simbolos',
-    author: 'mircea-eliade',
-    section: 'psicologia-e-historia-das-religioes'
+    title: 'Imagens e Símbolos',
+    author: 'Mircea Eliade',
+    section: 'Psicologia e História das Religiões',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'psicologia-e-historia-das-religioes'
   },
   {
-    title: 'imagens-e-simbolos',
-    author: 'mircea-eliade',
-    section: 'historia-e-arquetipos'
+    title: 'Imagens e Símbolos',
+    author: 'Mircea Eliade',
+    section: 'História e Arquétipos',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'historia-e-arquetipos'
   },
   {
-    title: 'imagens-e-simbolos',
-    author: 'mircea-eliade',
-    section: 'a-imagem-do-mundo'
+    title: 'Imagens e Símbolos',
+    author: 'Mircea Eliade',
+    section: 'A Imagem do Mundo',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'a-imagem-do-mundo'
   },
   {
-    title: 'imagens-e-simbolos',
-    author: 'mircea-eliade',
-    section: 'simbolismo-de-centro'
+    title: 'Imagens e Símbolos',
+    author: 'Mircea Eliade',
+    section: 'Simbolismo de Centro',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'simbolismo-de-centro'
   },
   {
-    title: 'imagens-e-simbolos',
-    author: 'mircea-eliade',
-    section: 'simbolismo-da-ascencao'
+    title: 'Imagens e Símbolos',
+    author: 'Mircea Eliade',
+    section: 'Simbolismo da Ascenção',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'simbolismo-da-ascencao'
   }
 ]

@@ -13,12 +13,12 @@ const routes = [
     component: Home
   },
   {
-    path: '/gallery',
+    path: '/galeria',
     name: 'Gallery',
     component: Gallery
   },
   {
-    path: '/gallery/document',
+    path: '/galeria/document',
     name: 'Document',
     component: Document
   }
