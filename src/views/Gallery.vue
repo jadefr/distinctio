@@ -12,9 +12,9 @@
 
     <!-- Card -->
     <Card v-for="(obj, key) in dataAPI" :key="key"
-      title="cards.title"
-      section="Section"
-      author="Autor"
+      :title="obj.title"
+      :section="obj.section"
+      :author="obj.author"
     />
   </div>
 </template>
