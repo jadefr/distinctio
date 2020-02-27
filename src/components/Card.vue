@@ -9,9 +9,10 @@
         </b-col>
         <b-col md="6">
           <b-card-body>
-            <b-card-title>{{ title }}</b-card-title>
-            <b-card-text>
-              <h6>{{ section }}</h6>
+            <b-card-title id="card-title">{{ title }}</b-card-title>
+            <hr>
+            <b-card-text id="card-text">
+              <h5>{{ section }}</h5>
               <p>{{ author }}</p>
             </b-card-text>
           </b-card-body>
@@ -35,5 +36,15 @@ export default {
 </script>
 
 <style lang="scss">
+  .card-component-container {
+
+    #card-title {
+      text-align: center;
+    }
+
+    #card-text {
+      text-align: center;
+    }
+  }
 
 </style>

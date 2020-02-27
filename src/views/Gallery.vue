@@ -1,23 +1,41 @@
 <template>
   <div class="gallery-view-container">
+<!--    <b-navbar id="gallery-navbar">-->
+<!--      <b-navbar-nav>-->
+<!--        <b-nav-item href="#" class="nav-bar-item">-->
+<!--        </b-nav-item>-->
+<!--        <b-nav-item class="nav-bar-item">Lang</b-nav-item>-->
+<!--        <b-nav-item class="nav-bar-item">User</b-nav-item>-->
+<!--        <b-nav-item class="nav-bar-item">User</b-nav-item>-->
+<!--      </b-navbar-nav>-->
+<!--    </b-navbar>-->
 
     <!-- NavBar -->
-    <b-navbar type="dark" variant="dark">
-      <b-navbar-nav>
-        <b-nav-item href="#">Home</b-nav-item>
-        <b-nav-item>Lang</b-nav-item>
-        <b-nav-item>User</b-nav-item>
-      </b-navbar-nav>
-    </b-navbar>
+    <div id="gallery-navbar">
+      <!-- Icon -->
+      <div id="icon">
+        <a href="/">
+          <b-icon icon="book" id="book-icon"></b-icon>
+        </a>
+      </div>
+      <b-nav class="nav justify-content-end" id="nav">
+        <b-nav-item active>Active</b-nav-item>
+        <b-nav-item>Link</b-nav-item>
+        <b-nav-item>Another Link</b-nav-item>
+        <b-nav-item disabled>Disabled</b-nav-item>
+      </b-nav>
+    </div>
 
     <!-- Cards -->
-    <b-card-group columns>
-      <Card v-for="(obj, key) in cards" :key="key"
-            :title="obj.title"
-            :section="obj.section"
-            :author="obj.author"
-      />
-    </b-card-group>
+    <div class="gallery-card">
+      <b-card-group columns>
+        <Card v-for="(obj, key) in cards" :key="key"
+              :title="obj.title"
+              :section="obj.section"
+              :author="obj.author"
+        />
+      </b-card-group>
+    </div>
   </div>
 
 </template>
@@ -27,45 +45,6 @@ import { mapState } from 'vuex'
 import Card from '@/components/Card'
 
 export default {
-  // data: () => ({
-  //   dataAPI: [
-  //     {
-  //       title: 'fedon',
-  //       author: 'platao',
-  //       section: 'conto-1'
-  //     },
-  //     {
-  //       title: 'sobre-a-alma',
-  //       author: 'aristoteles',
-  //       section: 'livro-1'
-  //     },
-  //     {
-  //       title: 'imagens-e-simbolos',
-  //       author: 'mircea-eliade',
-  //       section: 'psicologia-e-historia-das-religioes'
-  //     },
-  //     {
-  //       title: 'imagens-e-simbolos',
-  //       author: 'mircea-eliade',
-  //       section: 'historia-e-arquetipos'
-  //     },
-  //     {
-  //       title: 'imagens-e-simbolos',
-  //       author: 'mircea-eliade',
-  //       section: 'a-imagem-do-mundo'
-  //     },
-  //     {
-  //       title: 'imagens-e-simbolos',
-  //       author: 'mircea-eliade',
-  //       section: 'simbolismo-de-centro'
-  //     },
-  //     {
-  //       title: 'imagens-e-simbolos',
-  //       author: 'mircea-eliade',
-  //       section: 'simbolismo-da-ascencao'
-  //     }
-  //   ]
-  // }),
   components: {
     Card
   },
@@ -76,3 +55,7 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+  @import '../assets/sass/views/_gallery.scss';
+</style>

@@ -4,10 +4,44 @@
 
 .gallery-view-container {
 
+  #gallery-navbar {
+    background-color: color(brown);
+    display: flex;
 
-  //.card-gallery {
-  //  display: flex;
-  //}
+    #icon {
+      color: white;
+      flex: 1;
+
+      a {
+        text-decoration: none;
+
+        #book-icon {
+          width: 60px;
+          height: 60px;
+          margin-left: 1em;
+          font-weight: lighter;
+          margin-top: 1em;
+          cursor: pointer;
+        }
+      }
+
+    }
+
+    #nav {
+      padding-top: 1em;
+      flex: 1;
+      .navbar-nav .nav-link {
+        color: white;
+      }
+    }
 
 
+  }
+
+
+  .gallery-card {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 }
