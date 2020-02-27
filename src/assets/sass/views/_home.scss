@@ -38,8 +38,7 @@ body {
       header {
         display: block;
         text-align: center;
-        //padding-top: 4em;
-        padding-top: 2.5em;
+        padding-top: 1em;
 
         h1 {
           font-family: "Roboto Light";
@@ -61,10 +60,13 @@ body {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-areas: "side-text card";
+        position: fixed;
+        top: 25%;
 
         @include mobile {
           grid-template-columns: 1fr;
-          grid-template-areas: "card" "side-text"
+          grid-template-areas: "card" "side-text";
+          position: relative;
         }
 
         section#card {
