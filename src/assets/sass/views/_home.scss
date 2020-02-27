@@ -32,6 +32,7 @@ body {
         width: 60px;
         height: 60px;
         margin-top: 1em;
+        cursor: pointer;
       }
 
       header {
@@ -134,9 +135,11 @@ body {
         text-align: center;
         display: inline-block;
         padding: $padding $padding * 7;
-        margin-top: 8%;
+        //margin-top: 8%;
         margin-left: 40%;
         box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
+        position: fixed;
+        bottom: 10%;
 
         &:hover {
           background: color(brown-dark);
@@ -144,8 +147,8 @@ body {
           //box-shadow: 0 1rem 1rem;
         }
 
-
         @include mobile {
+          position: relative;
           display: block;
           padding: $padding;
           margin: 0 2em;

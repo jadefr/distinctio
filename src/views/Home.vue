@@ -49,7 +49,7 @@
       </main>
 
       <!-- Button -->
-      <a href="/blog" class="btn">Eveniet minima</a>
+      <a href="/gallery" class="btn">Eveniet minima</a>
 
     </div>
   </div>
