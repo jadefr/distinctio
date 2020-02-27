@@ -11,7 +11,7 @@
     </b-navbar>
 
     <!-- Card -->
-    <Card v-for="(obj, key) in dataAPI" :key="key"
+    <Card v-for="(obj, key) in cards" :key="key"
       :title="obj.title"
       :section="obj.section"
       :author="obj.author"
@@ -20,50 +20,59 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
 import Card from '@/components/Card'
 
 export default {
-  data: () => ({
-    dataAPI: [
-      {
-        title: 'fedon',
-        author: 'platao',
-        section: 'conto-1'
-      },
-      {
-        title: 'sobre-a-alma',
-        author: 'aristoteles',
-        section: 'livro-1'
-      },
-      {
-        title: 'imagens-e-simbolos',
-        author: 'mircea-eliade',
-        section: 'psicologia-e-historia-das-religioes'
-      },
-      {
-        title: 'imagens-e-simbolos',
-        author: 'mircea-eliade',
-        section: 'historia-e-arquetipos'
-      },
-      {
-        title: 'imagens-e-simbolos',
-        author: 'mircea-eliade',
-        section: 'a-imagem-do-mundo'
-      },
-      {
-        title: 'imagens-e-simbolos',
-        author: 'mircea-eliade',
-        section: 'simbolismo-de-centro'
-      },
-      {
-        title: 'imagens-e-simbolos',
-        author: 'mircea-eliade',
-        section: 'simbolismo-da-ascencao'
-      }
-    ]
-  }),
+  // data: () => ({
+  //   dataAPI: [
+  //     {
+  //       title: 'fedon',
+  //       author: 'platao',
+  //       section: 'conto-1'
+  //     },
+  //     {
+  //       title: 'sobre-a-alma',
+  //       author: 'aristoteles',
+  //       section: 'livro-1'
+  //     },
+  //     {
+  //       title: 'imagens-e-simbolos',
+  //       author: 'mircea-eliade',
+  //       section: 'psicologia-e-historia-das-religioes'
+  //     },
+  //     {
+  //       title: 'imagens-e-simbolos',
+  //       author: 'mircea-eliade',
+  //       section: 'historia-e-arquetipos'
+  //     },
+  //     {
+  //       title: 'imagens-e-simbolos',
+  //       author: 'mircea-eliade',
+  //       section: 'a-imagem-do-mundo'
+  //     },
+  //     {
+  //       title: 'imagens-e-simbolos',
+  //       author: 'mircea-eliade',
+  //       section: 'simbolismo-de-centro'
+  //     },
+  //     {
+  //       title: 'imagens-e-simbolos',
+  //       author: 'mircea-eliade',
+  //       section: 'simbolismo-da-ascencao'
+  //     }
+  //   ]
+  // }),
   components: {
     Card
+  },
+  data () {
+    return {}
+  },
+  computed: {
+    ...mapState([
+      'cards'
+    ])
   }
 }
 </script>
