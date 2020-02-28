@@ -6,6 +6,7 @@
 
   background: color(sepia-bg);
   color: color(sepia-font);
+  font-family: Georgia, "Times New Roman", serif;
 
   // Borders
   .borders {
@@ -41,17 +42,37 @@
     }
   }
 
-  // Article
-  article {
-    margin: 4em;
-    text-align: justify;
+  // Back to top
+    .btn-to-top {
+      width: 2.7em;
+      height: 2.7em;
+      font-size: 22px;
+      line-height: 22px;
+      background: color(brown);
+      opacity: 40%;
 
-    @include mobile {
-      margin: 1.5em;
+      &:hover {
+        opacity: 80%;
+      }
+
+      @include mobile {
+        width: 2.5em;
+        height: 2.5em;
+        font-size: 22px;
+        line-height: 22px;
+        text-align: center;
+      }
     }
 
+
+
+  // Article
+  article {
+    margin: 10%;
+    text-align: justify;
+
     p {
-      font-size: 1.6rem;
+      font-size: 2rem;
       text-indent: 4rem;
 
       @include mobile {
