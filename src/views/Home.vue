@@ -26,7 +26,7 @@
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong>Maiores reiciendis exercitationem</strong>
+              <strong>Maiores reiciendis</strong>
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
@@ -34,7 +34,7 @@
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong>Soluta tempora tenetur veniam veritatis</strong>
+              <strong>Soluta tempora tenetur</strong>
             </li>
           </ul>
         </section>
