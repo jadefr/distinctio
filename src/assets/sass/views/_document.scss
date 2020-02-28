@@ -4,35 +4,61 @@
 
 .document-view-container {
 
-  // Borders
-  #top, #bottom, #left, #right {
-    background: color(brown-dark);
-    position: fixed;
-  }
-  #left, #right {
-    top: 0; bottom: 0;
-    width: 10px;
-  }
-  #left { left: 0; }
-  #right { right: 0; }
+  background: color(sepia-bg);
+  color: color(sepia-font);
 
-  #top, #bottom {
-    left: 0; right: 0;
-    height: 10px;
+  // Borders
+  .borders {
+    #top, #bottom, #left, #right {
+      background: color(brown-dark);
+      position: fixed;
+    }
+    #left, #right {
+      top: 0; bottom: 0;
+      width: 10px;
+    }
+    #left { left: 0; }
+    #right { right: 0; }
+
+    #top, #bottom {
+      left: 0; right: 0;
+      height: 10px;
+    }
+    #top { top: 0; }
+    #bottom { bottom: 0; }
   }
-  #top { top: 0; }
-  #bottom { bottom: 0; }
 
   // Header
   header {
     h1 {
-      margin: 2em;
+      margin: 1.5em;
+      text-align: center;
+
+      @include mobile {
+        margin: 1em;
+        font-size: 2rem;
+      }
     }
   }
 
   // Article
   article {
-    margin: 2em;
+    margin: 4em;
+    text-align: justify;
+
+    @include mobile {
+      margin: 1.5em;
+    }
+
+    p {
+      font-size: 1.6rem;
+      text-indent: 4rem;
+
+      @include mobile {
+        font-size: 1.4rem;
+        text-indent: 2rem;
+      }
+    }
   }
 
 }
