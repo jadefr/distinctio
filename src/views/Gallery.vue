@@ -1,14 +1,5 @@
 <template>
   <div class="gallery-view-container">
-<!--    <b-navbar id="gallery-navbar">-->
-<!--      <b-navbar-nav>-->
-<!--        <b-nav-item href="#" class="nav-bar-item">-->
-<!--        </b-nav-item>-->
-<!--        <b-nav-item class="nav-bar-item">Lang</b-nav-item>-->
-<!--        <b-nav-item class="nav-bar-item">User</b-nav-item>-->
-<!--        <b-nav-item class="nav-bar-item">User</b-nav-item>-->
-<!--      </b-navbar-nav>-->
-<!--    </b-navbar>-->
 
     <!-- NavBar -->
     <div id="gallery-navbar">
@@ -19,17 +10,33 @@
         </a>
       </div>
       <b-nav class="nav justify-content-end" id="nav">
-<!--        <b-nav-item active>Active</b-nav-item>-->
-<!--        <b-nav-item>Link</b-nav-item>-->
-<!--        <b-nav-item>Another Link</b-nav-item>-->
         <b-nav-item disabled>Disabled</b-nav-item>
       </b-nav>
     </div>
+
+<!--    <div>-->
+<!--      <br>-->
+<!--      <h1>Testing Method</h1>-->
+<!--      <br>-->
+<!--      <div v-for="(card, key) in cards" :key="key">-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <h2>Item Novo</h2>-->
+<!--        <h3>card.author: {{ card.author }}; card.img: {{ card.img }}</h3>-->
+<!--        <div v-for="(img, index) in imgs" :key="index">-->
+<!--          <h2>card.img: {{ card.img }} | img.toString()): {{ img.toString() }} | {{img.toString().includes(card.img) }}</h2>-->
+<!--          <div v-if="img.toString().includes(card.img)">-->
+<!--            <img :src="img" style="max-width: 540px; max-height: 360px;"/>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
 
     <!-- Cards -->
     <div class="gallery-card">
       <b-card-group columns>
         <Card v-for="(obj, key) in cards" :key="key"
+              :img="img(obj)"
               :title="obj.title"
               :section="obj.section"
               :author="obj.author"
@@ -50,8 +57,24 @@ export default {
   },
   computed: {
     ...mapState([
-      'cards'
+      'cards',
+      'imgs'
     ])
+  },
+  methods: {
+    // eslint-disable-next-line vue/no-dupe-keys
+    img(obj) {
+      // eslint-disable-next-line no-unused-vars
+      let img = ''
+      for (let j = 0; j < this.imgs.length; j++) {
+        img = this.imgs[j]
+        // eslint-disable-next-line no-undef
+        if (img.toString().includes(obj.img)) {
+          console.log('img.toString: ' + img.toString() + ' || obj.img: ' + obj.img)
+          return img
+        }
+      }
+    }
   }
 }
 </script>
