@@ -93,19 +93,18 @@ body {
               margin-bottom: 10px;
               font-size: 0.8em;
 
-              span {
-                //position: absolute;
-                width: 30px;
-                height: 30px;
-                background-color: color(blue-light);
-                border-radius: 50%;
-                margin-right: 10px;
+              .circle-icon {
+                color: color(blue-light);
+                font-weight: lighter;
+                width: 20px;
+                height: 20px;
+                //margin-left: 10px;
               }
 
               strong {
                 display: inline-block;
                 margin-left: max(40px);
-                margin-top: 10px;
+                //padding-bottom: 10px;
               }
             }
           }

@@ -8,9 +8,7 @@
     <div class="content">
 
       <!-- Icon -->
-      <div id="icon">
-        <b-icon icon="book" id="book-icon"></b-icon>
-      </div>
+      <b-icon icon="book" id="book-icon"></b-icon>
 
       <!-- Header -->
       <header>
@@ -23,19 +21,19 @@
         <section id="card">
           <ul>
             <li>
-              <span></span>
+              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
               <strong>Lorem ipsum dolor sit amet</strong>
             </li>
             <li>
-              <span></span>
+              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
               <strong>Maiores reiciendis exercitationem</strong>
             </li>
             <li>
-              <span></span>
+              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
               <strong>Quasi ipsum atque velit</strong>
             </li>
             <li>
-              <span></span>
+              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
               <strong>Soluta tempora tenetur veniam veritatis</strong>
             </li>
           </ul>
