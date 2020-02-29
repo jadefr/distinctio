@@ -9,9 +9,9 @@
           <b-icon icon="book" id="book-icon"></b-icon>
         </a>
       </div>
-      <b-nav class="nav justify-content-end" id="nav">
-        <b-nav-item disabled>Disabled</b-nav-item>
-      </b-nav>
+<!--      <b-nav class="nav justify-content-end" id="nav">-->
+<!--        <b-nav-item disabled>Disabled</b-nav-item>-->
+<!--      </b-nav>-->
     </div>
 
 <!--    <div>-->

@@ -33,12 +33,6 @@ export default {
     authorURL: String,
     titleURL: String,
     sectionURL: String
-  },
-  methods: {
-    test() {
-      console.log('entrou')
-      console.log(this.title)
-    }
   }
 }
 </script>

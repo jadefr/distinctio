@@ -4,6 +4,8 @@
 
 .document-view-container {
 
+  height: auto;
+  width: 100%;
   background: color(sepia-bg);
   color: color(sepia-font);
   font-family: Georgia, "Times New Roman", serif;
@@ -29,20 +31,63 @@
     #bottom { bottom: 0; }
   }
 
+  // Book Icon
+  #book-icon {
+    color: color(brown);
+    margin-left: 1em;
+    font-weight: lighter;
+    width: 60px;
+    height: 60px;
+    margin-top: 1em;
+    cursor: pointer;
+    opacity: 70%;
+
+    &:hover {
+      opacity: 100%;
+    }
+  }
+
   // Header
   header {
+    text-align: center;
+
+    @include mobile {
+      padding: 0 40px 40px;
+    }
+
     h1 {
-      margin: 1.5em;
-      text-align: center;
-      font-weight: bold;
-      font-size: 3.5em;
+      font-size: 3.6em;
       letter-spacing: 3px;
+      line-height: 2em;
+      font-weight: 300;
 
       @include mobile {
-        margin: 1em;
-        font-size: 2rem;
+        font-size: 2.7rem;
+        letter-spacing: 1.6px;
+        line-height: 1em;
+        padding-bottom: 1rem;
       }
     }
+
+    h2 {
+      display: inline-block;
+      font-size: 2.6em;
+      font-weight: lighter;
+
+      @include mobile {
+        font-size: 2.1rem;
+      }
+    }
+
+    #diamond-header-icon {
+      font-size: 25px;
+      margin: 0 20px;
+    }
+
+    .subtitle {
+      padding: 0 40px;
+    }
+
   }
 
   // Back to top
@@ -64,6 +109,7 @@
         font-size: 22px;
         line-height: 22px;
         text-align: center;
+        opacity: 30%;
       }
     }
 
@@ -74,12 +120,16 @@
     margin: 10%;
     text-align: justify;
 
+    @include mobile {
+      margin: 6%
+    }
+
     p {
       font-size: 2rem;
       text-indent: 4rem;
 
       @include mobile {
-        font-size: 1.4rem;
+        font-size: 1.7em;
         text-indent: 2rem;
       }
     }
