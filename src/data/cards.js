@@ -85,7 +85,7 @@ export default [
     section: 'Simbolismo da Ascenção',
     img: 'cicero',
     imgIndex: '1',
-    titleURL: 'Livro II',
+    titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
     sectionURL: 'livro-II'
   },

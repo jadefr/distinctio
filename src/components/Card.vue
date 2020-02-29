@@ -5,11 +5,7 @@
     <b-card no-body class="overflow-hidden" style="max-width: 540px;">
       <b-row no-gutters>
         <b-col md="6">
-<!--          <a href="/galeria/document" ><b-card-img :src="img" class="rounded-0"></b-card-img></a>-->
-            <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`" ><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
-<!--          <template v-slot:document>-->
-<!--            <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>-->
-<!--          </template>-->
+          <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
         </b-col>
         <b-col md="6">
           <b-card-body>
@@ -23,13 +19,12 @@
         </b-col>
       </b-row>
     </b-card>
-
   </div>
-
 </template>
 
 <script>
 export default {
+  name: 'Card',
   props: {
     title: String,
     author: String,
@@ -38,6 +33,12 @@ export default {
     authorURL: String,
     titleURL: String,
     sectionURL: String
+  },
+  methods: {
+    test() {
+      console.log('entrou')
+      console.log(this.title)
+    }
   }
 }
 </script>
@@ -53,5 +54,4 @@ export default {
       text-align: center;
     }
   }
-
 </style>

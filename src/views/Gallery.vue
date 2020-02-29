@@ -65,15 +65,12 @@ export default {
     ])
   },
   methods: {
-    // eslint-disable-next-line vue/no-dupe-keys
     img(obj) {
-      // eslint-disable-next-line no-unused-vars
       let img = ''
       for (let j = 0; j < this.imgs.length; j++) {
         img = this.imgs[j]
-        // eslint-disable-next-line no-undef
         if (img.toString().includes(obj.img)) {
-          console.log('img.toString: ' + img.toString() + ' || obj.img: ' + obj.img)
+          // console.log('img.toString: ' + img.toString() + ' || obj.img: ' + obj.img)
           return img
         }
       }
