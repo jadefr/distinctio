@@ -18,7 +18,7 @@ const routes = [
     component: Gallery
   },
   {
-    path: '/galeria/document',
+    path: '/galeria/:authorURL/:titleURL/:sectionURL',
     name: 'Document',
     component: Document
   }

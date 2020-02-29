@@ -10,7 +10,8 @@
 
     <!-- Header -->
     <header>
-      <h1>For Publius Quinctius</h1>
+      <h1>{{ title }}</h1>
+      <h2>{{ section }}</h2><b-icon icon="dot" id="dot-icon"></b-icon><h2>{{ author }}</h2>
     </header>
 
     <!-- Back to top -->
@@ -29,8 +30,26 @@
 </template>
 
 <script>
-export default {
+import { mapState } from 'vuex'
 
+export default {
+  props: {
+    title: String,
+    author: String,
+    section: String,
+    titleURL: String,
+    authorURL: String,
+    sectionURL: String
+  },
+  computed: {
+    ...mapState([
+      'cards'
+    ])
+  },
+  mounted () {
+    const document = this[this.$route.params.authorURL][this.$route.params.titleURL][this.$route.params.sectionURL]
+    this.document = document
+  }
 }
 </script>
 <style lang="scss" scoped>

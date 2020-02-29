@@ -36,6 +36,9 @@
     <div class="gallery-card">
       <b-card-group columns>
         <Card v-for="(obj, key) in cards" :key="key"
+              :author-u-r-l="obj.authorURL"
+              :title-u-r-l="obj.titleURL"
+              :section-u-r-l="obj.sectionURL"
               :img="img(obj)"
               :title="obj.title"
               :section="obj.section"

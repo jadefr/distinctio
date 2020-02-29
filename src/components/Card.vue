@@ -5,7 +5,11 @@
     <b-card no-body class="overflow-hidden" style="max-width: 540px;">
       <b-row no-gutters>
         <b-col md="6">
-          <a href="/galeria/document" ><b-card-img :src="img" class="rounded-0"></b-card-img></a>
+<!--          <a href="/galeria/document" ><b-card-img :src="img" class="rounded-0"></b-card-img></a>-->
+            <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`" ><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
+<!--          <template v-slot:document>-->
+<!--            <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>-->
+<!--          </template>-->
         </b-col>
         <b-col md="6">
           <b-card-body>
@@ -30,7 +34,10 @@ export default {
     title: String,
     author: String,
     section: String,
-    img: String
+    img: String,
+    authorURL: String,
+    titleURL: String,
+    sectionURL: String
   }
 }
 </script>

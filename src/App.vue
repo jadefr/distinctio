@@ -2,9 +2,6 @@
   <div id="app">
     <router-link to="/"></router-link>
     <router-view/>
-    <!--    <b-container>-->
-    <!--      <router-view/>-->
-    <!--    </b-container>-->
   </div>
 </template>
 
