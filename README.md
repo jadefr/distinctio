@@ -5,7 +5,7 @@
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
 ## Tech Stack
-* Vue.js/Vue.router/Vuex
+* Vue.js/Vue Router/Vuex
 * Sass
 
 ## Requisitos
