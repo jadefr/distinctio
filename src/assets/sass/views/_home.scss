@@ -136,15 +136,16 @@ body {
 
       .btn {
         color: color(blue-dark);
-        border-radius: $borders;
+        //border-radius: $borders;
+        border-radius: 25px;
+        //border: solid #A52A2A 3px;
         text-decoration: none;
         text-transform: uppercase;
         font-weight: bold;
         background-color: color(btn-color);
         text-align: center;
         display: inline-block;
-        padding: $padding $padding * 7;
-        //margin-top: 8%;
+        padding: 10px $padding * 7;
         margin-left: 40%;
         box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
         position: fixed;
@@ -153,7 +154,6 @@ body {
         &:hover {
           background: color(brown-dark);
           color: color(brown-contrast);
-          //box-shadow: 0 1rem 1rem;
         }
 
         @include mobile {

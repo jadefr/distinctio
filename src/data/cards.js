@@ -7,7 +7,36 @@ export default [
     imgIndex: '4',
     titleURL: 'fedon',
     authorURL: 'platao',
-    sectionURL: 'conto-I'
+    sectionURL: 'conto-I',
+    text:
+      {
+        sectionText: '',
+        sectionAuthor: '',
+        sectionContent: [
+          {
+            contentFirst: '',
+            contentSecond: ''
+          },
+          {
+            contentFirst: '',
+            contentSecond: ''
+          },
+          {
+            contentFirst: '',
+            contentSecond: {
+              contentThird: '',
+              contentFourth: [
+                {
+                  contentFifth: ''
+                },
+                {
+                  contentFifth: ''
+                }
+              ]
+            }
+          }
+        ]
+      }
   },
   {
     title: 'Sobre a Alma',
@@ -17,7 +46,17 @@ export default [
     imgIndex: '0',
     titleURL: 'sobre-a-alma',
     authorURL: 'aristoteles',
-    sectionURL: 'livro-1'
+    sectionURL: 'livro-1',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Imagens e Símbolos I',
@@ -27,7 +66,17 @@ export default [
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
-    sectionURL: 'psicologia-e-historia-das-religioes'
+    sectionURL: 'psicologia-e-historia-das-religioes',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Imagens e Símbolos II',
@@ -37,7 +86,17 @@ export default [
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
-    sectionURL: 'historia-e-arquetipos'
+    sectionURL: 'historia-e-arquetipos',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Imagens e Símbolos III',
@@ -47,7 +106,17 @@ export default [
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
-    sectionURL: 'a-imagem-do-mundo'
+    sectionURL: 'a-imagem-do-mundo',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Imagens e Símbolos IV',
@@ -57,7 +126,17 @@ export default [
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
-    sectionURL: 'simbolismo-de-centro'
+    sectionURL: 'simbolismo-de-centro',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Imagens e Símbolos V',
@@ -67,7 +146,17 @@ export default [
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
-    sectionURL: 'simbolismo-da-ascencao'
+    sectionURL: 'simbolismo-da-ascencao',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Da República',
@@ -77,7 +166,17 @@ export default [
     imgIndex: '1',
     titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-I'
+    sectionURL: 'livro-I',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Da República',
@@ -87,7 +186,17 @@ export default [
     imgIndex: '1',
     titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-II'
+    sectionURL: 'livro-II',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Meditações',
@@ -97,7 +206,17 @@ export default [
     imgIndex: '2',
     titleURL: 'meditacoes',
     authorURL: 'marco-aurelio',
-    sectionURL: 'livro-I'
+    sectionURL: 'livro-I',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Meditações',
@@ -107,7 +226,17 @@ export default [
     imgIndex: '2',
     titleURL: 'meditacoes',
     authorURL: 'marco-aurelio',
-    sectionURL: 'livro-I'
+    sectionURL: 'livro-I',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   },
   {
     title: 'Da Tranquilidade da Alma',
@@ -117,7 +246,17 @@ export default [
     imgIndex: '5',
     titleURL: 'da-tranquilidade-da-alma',
     authorURL: 'seneca',
-    sectionURL: 'sereno-a-seneca'
+    sectionURL: 'sereno-a-seneca',
+    text:
+      {
+        sectionText: 'abd',
+        sectionAuthor: 'dsjdshjdsd',
+        sectionContent:
+          {
+            contentFirst: 'sdhsjdhsjd',
+            contentSecond: 'hdsjdnebfje'
+          }
+      }
   }
 
 ]
