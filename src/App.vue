@@ -6,7 +6,7 @@
 </template>
 
 <style lang="scss">
-  #app {
-    margin: 0;
+  html, body {
+    font-family: 'Roboto', serif;
   }
 </style>

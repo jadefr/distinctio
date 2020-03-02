@@ -47,7 +47,7 @@
       </main>
 
       <!-- Button -->
-      <a href="/galeria" class="btn">Eveniet minima</a>
+      <a href="/galeria" class="btn">Galeria</a>
 
     </div>
   </div>
