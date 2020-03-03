@@ -22,7 +22,7 @@ export default [
         bold: [
           {
             firstIndex: '0',
-            lastIndex: '3'
+            lastIndex: '2'
           }
         ]
       },

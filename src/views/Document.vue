@@ -36,6 +36,8 @@
     <!-- Article -->
     <article>
       <Paragraph v-for="(obj, index) in paragraphs" :key="index"
+                 :test="boldChar(obj, index)"
+                 :bold="totalArrayToBeBold[index]"
                  :paragraph="obj"
       />
     </article>
@@ -53,8 +55,26 @@ export default {
   },
   data () {
     return {
+      colorStyle: {
+        fontWeight: '800',
+        color: 'red'
+      },
       paragraphs: [],
-      paragraphString: ''
+      paragraphString: '',
+      paragraphsLength: '',
+      boldStringLength: '',
+      boldArray: [],
+      boldLength: '',
+      boldString: '',
+      boldFirstIndex: '',
+      boldLastIndex: '',
+      letterToBeBold: '',
+      normalParagraphString: '',
+      paragraphArrayToBeBold: [],
+      totalArrayToBeBold: [],
+      boldIndexArray: [],
+      charToBeBold: '',
+      totalCharToBeBold: []
     }
   },
   computed: {
@@ -127,8 +147,57 @@ export default {
     //     }
     //   }
     // },
-    test () {
-      console.log(this.paragraphs)
+    getBoldIndexArray (boldFirstIndex, boldLastIndex) {
+      const beginning = parseInt(boldFirstIndex)
+      const end = parseInt(boldLastIndex) + 1
+      const array = []
+      let index = ''
+      for (let i = beginning; i < end; i++) {
+        index = i
+        array.push(index)
+      }
+      return array
+    },
+    color (paragraphText, index) {
+      // let boldArray = []
+      // boldArray = this.totalArrayToBeBold[index]
+      let color = ''
+      color = 'normal'
+      if (paragraphText.includes('Fedão')) {
+        color = 'bold'
+      } else {
+        color = 'normal'
+      }
+      // for (let i = 0; i < boldArray.length; i++) {
+      //   if (paragraphText.charAt(boldArray[i]) === 'a') {
+      //     color = 'bold'
+      //   } else {
+      //     color = 'normal'
+      //   }
+      // }
+      return color
+    },
+    boldChar (obj, index) {
+      const intIndex = index
+      const paragraph = String(obj)
+      console.log('1. index :: ' + index)
+      console.log('2. boldIndex :: + ' + this.totalArrayToBeBold[index])
+      if (this.totalArrayToBeBold[intIndex].length) {
+        const boldIndexLength = this.totalArrayToBeBold[intIndex].length
+        console.log('3. boldIndexLength :: ' + boldIndexLength)
+        console.log(paragraph)
+        let boldChar = ''
+        const boldArray = []
+        for (let i = 0; i < boldIndexLength; i++) {
+          console.log(paragraph.charAt(i))
+          boldChar = paragraph.charAt(i)
+          boldArray.push(boldChar)
+        }
+        console.log('4 ::  ' + boldArray.toString())
+        const boldString = boldArray.join('')
+        console.log('5. boldString ::  ' + boldString)
+        return boldString
+      }
     }
   },
   mounted: function () {
@@ -137,18 +206,81 @@ export default {
   created () {
     for (let i = 0; i < this.documents.length; i++) {
       if (this.$route.params.sectionURL.includes(this.documents[i].sectionURL)) {
-        for (let j = 0; j < this.documents[i].paragraphs.length; j++) {
+        this.paragraphsLength = this.documents[i].paragraphs.length
+        for (let j = 0; j < this.paragraphsLength; j++) {
           this.paragraphString = this.documents[i].paragraphs[j].text
           if (this.paragraphString.length) {
-            console.log(this.paragraphString)
+            // console.log(this.paragraphString)
+            // this.paragraphs.push(this.paragraphString)
+            this.boldLength = this.documents[i].paragraphs[j].bold.length
+            for (let k = 0; k < this.boldLength; k++) {
+              this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
+              this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
+              this.boldStringLength = this.boldLastIndex - this.boldFirstIndex + 1
+              // console.log(this.boldFirstIndex)
+              // console.log(this.boldLastIndex)
+              // console.log(this.boldStringLength)
+              this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
+              this.totalArrayToBeBold.push(this.boldIndexArray)
+            }
+            // console.log('5. this.boldIndexArray j ::  ' + this.boldIndexArray)
+            // console.log('6. totalArrayToBeBold ::  ' + this.totalArrayToBeBold)
             this.paragraphs.push(this.paragraphString)
+            // console.log('2. boldIndexArray ::  ' + this.boldIndexArray)
+            //
+            // this.normalParagraphString = this.documents[i].paragraphs[j].text
+            // console.log('1. normalParagraphString ::  ' + this.normalParagraphString)
+            // console.log('2. this.boldStringLength ::  ' + this.boldStringLength)
+            // let letter = ''
+            // const array = []
+            // for (let m = 0; m < this.boldStringLength; m++) {
+            //   letter = this.normalParagraphString.charAt(m)
+            //   array.push(letter)
+            //   letter = ''
+            // }
+            // console.log('3. array ::  ' + array.toString())
+            //
+            //
+            // for (let m = 0; m < this.boldStringLength; m++) {
+            //
+            //   console.log(this.strToBeBold)
+            //   // this.color(this.strToBeBold)
+            //   this.arrayToBeBold.push(this.strToBeBold)
+            //   console.log(this.arrayToBeBold.length)
+            //   // console.log(this.arrayToBeBold[m])
+            // }
+
+            // for (let k = 0; k < this.paragraphsLength; k++) {
+            //   this.boldArray = this.documents[i].paragraphs[j].bold[k]
+
+            // console.log('boldArray :: ' + this.boldArray)
+            // if (this.boldArray.length) {
+            //   this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
+            //   this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
+            //   if (this.boldFirstIndex.length && this.boldLastIndex.length) {
+            //     this.boldStringLength = this.boldLastIndex - this.boldFirstIndex + 1
+            //     console.log(this.boldStringLength)
+            //   }
+            // }
           }
         }
       }
     }
+    // console.log('7. this.boldIndexArray  ::  ' + this.boldIndexArray)
+    // console.log('8. totalArrayToBeBold index ::  ' + this.totalArrayToBeBold[4])
   }
 }
 </script>
 <style lang="scss" scoped>
   @import '../assets/sass/views/document';
+
+  .bold {
+    font-weight: bold;
+    color: red;
+  }
+
+  .normal {
+    font-weight: normal;
+    color: blue;
+  }
 </style>
