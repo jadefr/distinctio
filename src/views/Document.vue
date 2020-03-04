@@ -8,17 +8,6 @@
       <div id="bottom"></div>
     </div>
 
-<!--    <div>-->
-<!--      <h1 slot="test" v-html="paragraphWithBolds">-->
-<!--      </h1>-->
-<!--    </div>-->
-
-<!--    <div>-->
-<!--      <h1 slot="test2" v-for="(obj, index) in paragraphs" :key="index"-->
-<!--          v-html="obj">-->
-<!--      </h1>-->
-<!--    </div>-->
-
     <!-- Icon -->
     <a href="/galeria">
       <b-icon icon="book" id="book-icon"></b-icon>
@@ -46,11 +35,9 @@
 
     <!-- Article -->
     <article>
-<!--      <Paragraph v-for="(obj, index) in paragraphs" :key="index"-->
-<!--                 :paragraph="obj"-->
-<!--      />-->
-      <p v-html="paragraphWithBolds">
-      </p>
+          <p v-for="(obj, index) in paragraphs" :key="index"
+            v-html="obj">
+          </p>
     </article>
 
   </div>
@@ -152,88 +139,25 @@ export default {
       }
       return color
     },
-    breakParagraph (paragraphString) {
-      // const flags = []
-      // let i = 0
-      // while (i < paragraphString.length) {
-      //   flags.push(i)
-      //   i++
-      // }
-      // for (let i = 0; i < paragraphString.length; i++) {
-      //   if (paragraphString.charAt(i) === '.' && paragraphString.charAt(i + 1) !== ' ') {
-      //     flags.push(i)
-      //   }
-      // }
-      // console.log(flags.length)
-      // for (const flag of flags) {
-      //   console.log(flag)
-      //   console.log('paragraphString ::  ' + paragraphString.charAt(flag))
-      //   console.log(paragraphString.charAt(flag + 2))
-      //   console.log(paragraphString)
-      // }
-      return paragraphString
-    },
-    leonardo () {
-      const rawParagraph = 'Fedão - Não, eu mesmo, Equécrates.'
-      const bolds = [
-        {
-          start: '',
-          end: ''
-        },
-        {
-          start: 23,
-          end: 33
-        }
-      ]
-
-      // console.log(rawParagraph)
-
-      let processedParagraph = ''
-      const boldStarts = []
-      const boldEnds = []
-
-      for (const bold of bolds) {
-        boldStarts.push(bold.start)
-        boldEnds.push(bold.end)
-      }
-
-      // console.log(boldStarts)
-      // console.log(boldEnds)
-
-      for (let i = 0; i < rawParagraph.length; i++) {
-        if (boldStarts.includes(i)) {
-          // console.log('posicao ' + i + ' inicia um bold')
-          processedParagraph += '<b>'
-        }
-
-        if (boldEnds.includes(i)) {
-          // console.log('posicao ' + i + ' fecha um bold')
-          processedParagraph += '</b>'
-        }
-
-        processedParagraph += rawParagraph.charAt(i)
-      }
-
-      return processedParagraph
-    },
     // setBold (index) {
     //   let str = ''
     //   str = this.totalArrayToBeBold[index].join('')
     //   console.log(str)
     //   return str
     // }
-    turnBold (paragraphString) {
-      for (let i = 0; i < paragraphString.length; i++) {
+    turnBold () {
+      // let paragraph = ''
+      for (let i = 0; i < this.paragraphs.length; i++) {
+        // paragraph = this.paragraphs[i]
         if (this.boldIndexArray[0] === i) {
           this.paragraphWithBolds += '<b>'
         }
         if (this.boldIndexArray[this.boldIndexArray.length - 1] === i) {
           this.paragraphWithBolds += '</b>'
         }
-        this.paragraphWithBolds += paragraphString.charAt(i)
+        // this.paragraphWithBolds += paragraphs.charAt(i)
       }
-      this.paragraphWithBolds += '<br>'
-      this.paragraphs.push(this.paragraphWithBolds)
+      this.paragraphWithBolds += '<br><br>'
     }
   },
   mounted: function () {
@@ -258,30 +182,7 @@ export default {
               this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
             }
           }
-          // this.paragraphs.push(this.paragraphString)
-          this.turnBold(paragraph)
-          // this.paragraphs.push(paragraph)
-          //
-          // if (this.boldIndexArray[0]) {
-          //   this.paragraphWithBolds += '<b>'
-          // }
-          // if (this.boldIndexArray[this.boldIndexArray.length - 1]) {
-          //   this.paragraphWithBolds += '</b>'
-          // }
-          // for (let a = 0; a < this.boldIndexArray; a++) {
-          //   if (this.boldFirstIndexArray.includes(j)) {
-          //     // this.paragraphString += '<hr>'
-          //     this.paragraphWithBolds += '<b>'
-          //   }
-          //   if (this.boldLastIndexArray.includes(j)) {
-          //     // this.paragraphString += '<hr>'
-          //     this.paragraphWithBolds += '</b>'
-          //   }
-          // }
-          // this.paragraphWithBolds += this.paragraphString.charAt(j)
-          // this.paragraphString += '<br><br>'
-          // this.paragraphs.push(this.paragraphString)
-          // this.paragraphs.push(this.paragraphWithBolds)
+          this.paragraphs.push(paragraph)
         }
       }
     }
