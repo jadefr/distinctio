@@ -8,7 +8,7 @@ export default [
     titleURL: 'fedon',
     authorURL: 'platao',
     sectionURL: 'conto-I',
-    content: 'Fica perto da cadeia. Ali esperávamos conversando até que a cadeia abrisse, pois não costumam abri-lamuito cedo. Porém logo que isso se dava, corríamos para junto de Sócrates equase sempre passávamos com ele o dia todo. Nessa manhã reunimo-nos maiscedo, porque na tarde anterior, ao nos retirarmos da prisão, soubemos que onavio chegara de Delo. Por isso, combinamos encontrar- nos o mais cedopossível no lugar habitual. Ao chegarmos, o porteiro que costumava receber-nosveio ao nosso encontro para dizer que esperássemos fora e não entrássemos semque ele nos avisasse. Neste momento, nos disse, os Onze estão tirando os ferrosde Sócrates e lhe comunicam que hoje ele terá de morrer. Depois de algumtempo, voltou para dizer que entrássemos. Ao penetrarmos no recinto,encontramos Sócrates, que acabava de ser aliviado dos ferros, e Xantipa -conhece-Ia decerto - com o filho pequeno, sentada junto do marido. Ao ver-nos,começou Xantipa a lastimar-se e clamar como de hábito nas mulheres, dizendo:Pela última vez, Sócrates, teus amigos conversarão contigo, e tu com eles.Virando-se para Critão, Sócrates lhe disse: Critão, leva-a para casa. A isso, algunsdos homens de Critão a retiraram, não cessando ela de gritar e debater-se.Sócrates, de seu lado, sentado no catre, dobrou a perna sobre a coxa e começou africcioná-la duro com a mão, ao mesmo tempo que dizia: Como é extraordinário,senhores, o que os homens denominam prazer, e como se associaadmiravelmente com o sofrimento, que passa, aliás, por ser o seu contrário. Nãogostam de ficar juntos no homem; mal alguém persegue e alcança um deles, deregra é obrigado a apanhar o outro, como se ambos, com serem dois, estivessemligados pela cabeça. Quer parecer-me, continuou, que se Esopo houvesse feitoessa observação, não deixaria de compor uma fábula: Resolvendo Zeus pôrtermo as suas dissensões contínuas, e não o conseguindo, uniu- os pelaextremidade. Por isso, sempre que alguém alcança um deles, o outro lhe vem norastro. Meu caso é parecido: após o incômodo da perna causada pelos ferros,segue-se-lhe o prazer.IV - Nesta altura, falou Cebete: Por Zeus, Sócrates, disse, foi bom que molembrasses. Diversas pessoas já me têm falado a respeito dos poemas queescreveste, aproveitando as fábulas de Esopo, e do hino em louvor de Apolo.Anteontem mesmo, o poeta Eveno me interpelou sobre a razão de comporesverso desde que te encontras aqui, o que antes nunca fizeras. Se te importadeixar-me em condições de responder a Eveno quando ele voltar a falar- me aesse respeito - e tenho certeza de que o fará - instrui- me sobre o que devereidizer-lhe.Então dize-lhe a verdade, Cebete, replicou: que não me movia o desejo defazer-lhe concorrência nem aos seus poemas, quando compus os meus, o que,aliás, tentativa para rastrear o significado de uns sonhos e cumprir, assim, minhaobrigação, no sentido de saber se era essa a modalidade de música que merecomendavam com insistência. É o seguinte: Muitas e muitas vezes em minhavida pregressa, sob formas diferentes me apareceu um sonho, porém dizendosempre a mesma coisa: Sócrates, me falava, compõe música e a executa. Atéagora eu estava convencido de ser justamente o que eu fizera a vida toda o que o',
+    content: '',
     disclaimer: 'Versão eletrônica do diálogo platônico “Fedão”   Tradução: Carlos Alberto NunesCréditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)Homepage do grupo: http://br.egroups.com/group/acropolis/',
     paragraphs: [
       {
@@ -21,8 +21,8 @@ export default [
         ],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '2'
+            firstIndex: 0,
+            lastIndex: 2
           }
         ]
       },
@@ -31,8 +31,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -41,8 +41,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -51,8 +51,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -61,8 +61,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -71,8 +71,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -81,8 +81,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -91,8 +91,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -101,8 +101,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '16'
+            firstIndex: 0,
+            lastIndex: 16
           }
         ]
       },
@@ -111,8 +111,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -121,8 +121,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -131,8 +131,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -141,8 +141,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -151,8 +151,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -161,8 +161,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -171,8 +171,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -181,8 +181,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -191,8 +191,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -201,8 +201,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -211,8 +211,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -221,8 +221,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -231,8 +231,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -241,8 +241,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -251,8 +251,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '6'
+            firstIndex: 0,
+            lastIndex: 6
           }
         ]
       },
@@ -261,8 +261,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '11'
+            firstIndex: 0,
+            lastIndex: 11
           }
         ]
       },
@@ -271,8 +271,8 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '12'
+            firstIndex: 0,
+            lastIndex: 12
           }
         ]
       },
@@ -281,382 +281,639 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '3'
+            firstIndex: 0,
+            lastIndex: 3
           }
         ]
       },
       {
         text: 'Então dize-lhe a verdade, Cebete, replicou: que não me movia o desejo de fazer-lhe concorrência nem aos seus poemas, quando compus os meus, o que, aliás, tentativa para rastrear o significado de uns sonhos e cumprir, assim, minha obrigação, no sentido de saber se era essa a modalidade de música que me recomendavam com insistência. É o seguinte: Muitas e muitas vezes em minha vida pregressa, sob formas diferentes me apareceu um sonho, porém dizendo sempre a mesma coisa: Sócrates, me falava, compõe música e a executa. Até agora eu estava convencido de ser justamente o que eu fizera a vida toda o que o sonho me insinuava e concitava a fazer, à maneira de como costumamos estimular os corredores: desse mesmo modo, o sonho me exortava a prosseguir em minha prática habitual, a compor música, por ser a Filosofia a música mais nobre e a ela eu dedicar-me. Agora, porém, depois do julgamento e por haver o festival do deus adiado minha morte, perguntei a mim mesmo se a música que com tanta insistência o sonho me mandava compor não seria essa espécie popular, tendo concluído que o que importava não era desobedecer ao sonho, porém fazer o que ele me ordenava. Seria mais seguro cumprir essa obrigação antes de partir, e compor poemas em obediência ao sonho. Assim, comecei por escrever um hino em louvor à divindade cuja festa então se celebrava. Depois da divindade, considerando que quem quiser ser poeta de verdade terá de compor mitos e não palavras, por saber-me incapaz de criar no domínio da mitologia, recorri às fabulas de Esopo que eu sabia de cor e tinha mais à mão, havendo versificado as que me ocorreram primeiro.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'V – Isso, Cebete, é o que deverás dizer a Eveno. Apresenta-lhe, também, saudações de minha parte, acrescentando que, se ele for sábio, deverá seguir-me quanto antes. Parto, ao que parece, hoje mesmo; assim os determinam os Atenienses.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '2'
+            firstIndex: 0,
+            lastIndex: 2
           }
         ]
       },
       {
         text: 'Símias exclamou: Que conselho, Sócrates, mandas dar a Eveno! Tenho estado bastantes vezes com o homem, e por tudo o que sei dele, não terá grande desejo de aceitar-te a indicação.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Como assim? Perguntou; Eveno não é filósofo?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Penso que é, retrucou Símias.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Nesse caso, terá de aceitá-la, tanto Eveno como quem quer que se aplique dignamente a esse estudo. O que é preciso é não empregar violência contra si próprio. Dizem que isso não é permitido.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Assim falando, sentou-se e apoiou no chão os pés, permanecendo nessa posição, daí por diante, durante todo o tempo da conversa',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Nessa altura Cebete o interpelou: Por que disseste, Sócrates, que não é permitido a ninguém empregar violência  contra si próprio, se, ao mesmo tempo, afirmas que o filósofo deseja ir após de quem morre?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Como, Cebete, nunca ouvistes nada a esse respeito, tu e Símias, quando convivestes com Filolau?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Ouvi, Sócrates, porém muito pela rama.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sobre isso eu também só posso falar de outiva; porém nada me impede de comunicar-vos o que sei. Talvez, mesmo, seja a quem se encontra no ponto de imigrar para o outro mundo que compete investigar acerca dessa viagem e dizer como será preciso imaginá-la. Que melhor coisa se poderá fazer para passar o tempo até sol baixar?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'VI – Qual o motivo, então, Sócrates, de dizerem que a ninguém é permitido suicidar-se? De fato, sobre o que me perguntaste, ouvi Filolau afirmar, quando esteve entre nós, e também outras pessoas, que não devemos fazer isso. Porém nunca ouvi de ninguém maiores particularidades.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '3'
+            firstIndex: 0,
+            lastIndex: 3
           }
         ]
       },
       {
         text: 'Então, o que importa é não desanimares, disse; é possível que ainda venhas a ouvi-las. Talvez te pareça estranho que entre todos os casos seja este o único simples e que não comporte como os demais, decisões arbitrárias, segundo as circunstâncias, a saber: que é melhor estar morto do que vivo. E havendo pessoas para quem a morte, de fato, é preferível, não saberás dar a razão de ser vedado aos homens procurarem para si mesmos semelhante benefício, mas precisarem esperar por benfeitor estranho.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Itto Zeus, disses Cebete em seu dialeto, esboçando um sorriso: Deus o saberá.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Aparentemente, continuou Sócrates, isso carece de lógica; mas o fato é que tem a sua razão de ser. Aquilo dos mistérios, de que nós, homens, nos encontramos numa espécie de cárcere que nos é vedado abrir para escapar, afigura-me de peso e anda fácil de entender. Uma coisa, pelo menos, Cebete, me parece bem enunciada: que os deuses são nossos guardiães, e nós, homens, propriedade deles. Aceitas esse ponto?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Perfeitamente, respondeu Cebete.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Tu também, continuou, na hipótese de algum dos teus escravos pôr termo à vida, sem que lhes houvesse dado a entender que estavas de acordo em que se matasse, não te aborrecerias com ele, e se fosse possível, não o punirias?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Sem dúvida, respondeu.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Por conseguinte, não acho absurdo ninguém poder matar-se sem que a divindade o coloque nessa contingência, como é o nosso caso agora.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'VII – Essa parte, observou Cebete, também me parece razoável. Porém o que afirmaste antes, sobre a disposição do filósofo para morrer, é um verdadeiro contra-senso, Sócrates, se estiver certo o que dissemos há pouco, que Deus cuida de nós e que somos propriedades dele. Que os indivíduos mais sábios se insurjam contra semelhante tutela e procurem evitá-la, quando a exercem, precisamente, os deuses, os melhores dirigentes, é o que não chego a compreender. Pois ninguém ousará dizer que saberá cuidar melhor de si mesmo, uma vez em liberdade. Um indivíduo insensato poderia raciocinar dessa maneira, por achar bom fugir do amo, sem considerar que não se deve fugir do bem, mas ficar junto dele o maior tempo possível. Foge por carecer de senso. O indivíduo inteligente, pelo contrário, só deseja continuar junto de quem lhe seja superior. Por isso, Sócrates, o certo é, precisamente, o oposto do que foi dito há pouco: aos sábios é que fica bem insurgir-se contra a idéia da morte, e aos insensatos, exultar ante essa perspectiva.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '4'
+            firstIndex: 0,
+            lastIndex: 4
           }
         ]
       },
       {
         text: 'Ao ouvi-lo assim falar, quis parecer-me que Sócrates se alegrava com a agudeza de Cebete; depois, voltando-se para nosso lado, falou: Cebete anda sempre à cata de argumentos, sem aceitar de pronto a opinião dos outros.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Ao que Símias observou: Porém quer parecer-me, Sócrates, que há bastante senso nas palavras de Cebete. Não se compreende, de fato, que indivíduos verdadeiramente sábios fujam de amos melhores do que eles e se alegrem com essa liberdade. A meu ver, o argumento de Cebete vai dirigido contra ti, por aceitares à ligeira a idéia de deixar-nos, e também aos amos cuja superioridade és o primeiro a proclamar.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Tens razão, observou. Pelo que vejo, sois de parecer que preciso defender-me dessa acusação, como o fiz no tribunal.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Perfeitamente, respondeu Símias.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'VIII – Pois que seja, disse. Vejamos se diante de vós outros minha defesa saíra mais convincente do que a feita na frente dos juízes. O fato, Símias e Cebete, prosseguiu, é que se eu não acreditasse, primeiro, que vou para junto de outros deuses, sábios e bons, e, depois, para o lugar de homens falecidos muito melhores do que os daqui, cometeria uma grande erro por não me insurgir contra a morte. Porém podes fiar que espero juntar-me a homens de bem. Sobre esse ponto não me manifesto com muita segurança; mas no que entende com minha transferência para junto de deuses que são excelentes amos: se há o que eu defenda com convicção é precisamente isso. Esse motivo de não me revoltar a idéia da morte. Pelo contrário, tenho esperança de que alguma coisa há para os mortos, e, de acordo com antiga tradição, muito melhor para os bons do que para os maus.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Como assim, Sócrates, perguntou Símias; com semelhante convicção queres deixar-nos sem no-la dar a conhecer? Eu, pelo menos, acho que se trata de algo de grande relevância para nós todos. Ao mesmo tempo, com isso farás a tu a defesa, se com o que disseres conseguires convencer-nos.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'É o que vou tentar, continuou; porém primeiro vejamos o que o nosso Critão há tanto tempo quer dizer-me.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Trata-se apenas do seguinte, Sócrates, falou Critão: é que há muito vem insistido comigo a pessoa encarregada de dar-te o veneno, para avisar-te de que deves conversar o menos possível. Conversa muito animada esquenta, é o que ele afirma, e isso prejudica a ação da droga. Do contrário, já tem acontecido precisar tomar duas ou três doses quem se comporta desse jeito.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'É Sócrates: Manda-o passear! disse. E que prepare dose dupla, e até tripla, se for preciso.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Deixa-o, disse. E agora, juízes, pretendo expor-vos as razões de estar convencido de que o indivíduo que se dedicou a vida inteira à Filosofia, terá de mostrar-se confiante na hora da morte, pela esperança de vir a participar, depois de morto, dos mais valiosos bens. Como poderá ser dessa maneira, Símias e Cebete, é o que tentarei explicar-vos.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'IX – Embora os homens não o percebam, é possível que todos os que se dedicam verdadeiramente à Filosofia, a nada mais aspirem do que a morrer e estarem mortos. Sendo isso um fato, seria absurdo, não fazendo outra coisa o filósofo toda a vida, ao chegar esse momento, insurgir-se contra o que ele mesmo pedira com tal empenho e em pós do que sempre se afanara.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '3'
+            firstIndex: 0,
+            lastIndex: 3
           }
         ]
       },
       {
         text: 'Símias, então, rindo, Por Zeus, Sócrates, interrompeu-o; fizeste-me rir, em que pese à minha falta de disposição para isso. O que penso é que, se os homens te ouvissem discorrer dessa maneira, achariam certo o que se diz dos filósofos – e nesse ponto contariam com a aprovação de nossa gente – que em verdade eles vivem a morrer, sabendo perfeitamente que outra coisa não merecem.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'E só diriam a verdade, Símias, como exceção do que se refere a estarem cientes desse ponto, pois, de fato, não sabem de que modo o verdadeiro filósofo deseja a morte, nem como pode vir a alcançá-la. Porém deixemos essa gente de lado e perguntemos a nós mesmos se acreditamos que a morte seja alguma coisa?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Sem dúvida, respondeu Símias.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Que não será senão a separação entre a alma e o corpo? Morrer, então, consistirá em apartar-se da alma o corpo, ficando este reduzido a si mesmo e, por outro lado, em libertar-se do corpo a alma e isolar-se em si mesma? Ou será a morte outra coisa?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Não; é isso, precisamente, respondeu.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Considera agora, meu caro, se pensas como eu. Estou certo de que desse modo ficaremos conhecendo melhor o que nos propomos investigar. És de opinião que seja próprio do filósofo esforçar-se para a aquisição dos pretensos prazeres, tal como comer e beber?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'De forma alguma, Sócrates, replicou Símias.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'E como relação aos prazeres do amor?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'A mesma coisa.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'E os demais prazeres, que entendem com os cuidados do corpo? És de parecer que lhes atribua algum valor? A posse de roupas vistosas, ou de calçados e toda a sorte de ornamentos do corpo, que tal achas? Eles os aprecia ou os despreza no que não for de estrita necessidade?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Eu, pelo menos, respondeu, sou de parecer que o verdadeiro filósofo os despreza.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Sendo assim, continuou, não achas que, de modo geral, as preocupações dessa pessoa, não visam ao corpo, porém tendem, na medida do possível, a afastar-se dele para aproximar-se da alma?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'É também o que eu penso.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Nisto, por conseguinte, antes de mais nada, é que o filósofo se diferencia dos demais homens: no empenho de retirar quanto possível a alma na companhia do corpo.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Evidentemente.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Essa é a razão, Símias, de, na opinião da maioria dos homens, não merecer viver o indivíduo a quem nada disso é agradável e que não se importa com tais práticas, por achar-se muito mais perto da condição de morto e por não dar a menor importância aos prazeres alcançados por intermédio do corpo.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Tens razão.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'X – E como referência à aquisição do conhecimento? O corpo constitui ou não constitui obstáculo, quando chamado para participar da pesquisa? O que digo é o seguinte: a vista e o ouvido asseguram aos homens alguma verdade? Ou será certo o que os poetas não se cansam de afirmar, que nada vemos nem ouvimos com exatidão? Ora, se esses dois sentidos corpóreos não são nem exatos nem de confiança, que diremos dos demais, em tudo inferiores aos primeiros? Não pensas desse modo?',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
-            lastIndex: '2'
+            firstIndex: 0,
+            lastIndex: 2
           }
         ]
       },
       {
         text: 'Perfeitamente, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Então, perguntou, quando é que a alma atinge a verdade? É fora de dúvida que, desde o momento em que tenta investigar algo na companhia do corpo, vê se lograda por ele.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Tens razão.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E não é no pensamento – se tiver de ser de algum modo – que algo da realidade se lhe patenteia? ',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Perfeitamente.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Ora, a alma pensa melhor quando não tem nada disso a perturbá-la, nem a vista nem o ouvido, nem dor nem prazer de espécie alguma, e concentrada ao máximo em si mesma, dispensa a companhia do corpo, evitando tanto quanto possível qualquer comércio com ele, e esforça-se por apreender a verdade.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Certo.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E não é nesse estado que a alma do filósofo despreza o corpo e dele foge, trabalhando por concentrar-se em si própria?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Evidentemente.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E com relação ao seguinte, Símias: afirmaremos ou não que o justo em si mesmo seja alguma coisa? ',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Afirmaremos, sem dúvida, por Zeus.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E também o belo em si e o bem?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Também.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E algum dia já percebeste com os olhos qualquer deles?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Nunca, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Ou por intermédio de outro sentido corpóreo? Refiro-me a tudo: grandeza, saúde, força e o mais que for, numa palavra: à essência de tudo o que existe, conforme a natureza de cada coisa. É por intermédio do corpo que percebemos o que neles há de verdadeiro, ou tudo se passará da seguinte maneira: quem de nós ficar em melhores condições de pensar em si mesmo o mais exatamente possível o que se propõe examinar, não é esse que estará mais perto do conhecimento de cada coisa? Ou não?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Perfeitamente.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E não alcançará semelhante objetivo da maneira mais pura quem se aproximar de cada coisa só com o pensamento, sem arrastar para a reflexão a vista ou qualquer outro sentido, nem associá-los a seu raciocínio, porém valendo-se do pensamento puro, esforçar-se por apreender a realidade de cada coisa em sua maior pureza, apartado, quanto possível, da vista e do ouvido, e, por assim dizer, de todo o corpo, por ser o corpo fator de perturbação para a alma e impedi-la de alcançar a verdade e o pensamento, sempre que a ele se associa? Não será, Símias, esse indivíduo, se houver alguém em tais condições, que alcançara o conhecimento do Ser?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Tens toda a razão, Sócrates, respondeu Símias.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'XI – Por tudo isso, continuou, é natural nascer no espírito dos filósofos autênticos certa convicção que os leva a discorrer entre eles mais ou menos nos seguintes termos: Há de haver para nós outros algum atalho direto, quando o raciocínio nos acompanha na pesquisa; porque enquanto tivermos corpo e nossa alma se encontrar atolada em sua corrupção, jamais poderemos alcançar o que almejamos. E o que queremos, declaremo-lo de uma vez por todas, é a verdade. Não têm conta os embaraços que o corpo nos apresta, pela necessidade de alimentar-se, sem falarmos nas doenças intercorrentes, que são outros empecilhos na caça da verdade. Com amores, receios, cupidez, imaginações de toda a espécie e um sem número de banalidades, a tal ponto ele nos satura, que, de fato, como se diz, por sua causa jamais conseguiremos alcançar o conhecimento do quer que seja. Mais, ainda: guerras, batalhas, dissensões, suscita-as exclusivamente o corpo com seus apetites. Outra causa não têm as guerras senão o amor do dinheiro e dos bens que nos vemos forçados a adquirir por causa do corpo, visto sermos obrigados a servi-lo. Se carecermos de vagar para nos dedicarmos à Filosofia, a causa é tudo isso que enumeramos. O pior é que, mal conseguimos alguma trégua e nos dispomos a refletir sobre determinado ponto, na mesma hora o corpo intervém para perturbar-nos de mil modos, causando tumulto e inquietude em nossa investigação, até deixar-nos inteiramente incapazes de perceber a verdade. Por outro lado, ensina-nos a experiência que, se quisermos alcançar o conhecimento puro de alguma coisa, teremos de separar-nos do corpo e considerar apenas com a alma como as coisas são em si mesmas. Só nessas condições, ao que parece, é que alcançaremos o que desejamos e do que nos declaramos amorosos, a sabedoria, isto é, depois de mortos, conforme nosso argumento o indica, nunca enquanto vivermos. Ora, se realmente, na companhia do corpo não é possível obter o conhecimento puro do que quer que seja, de duas uma terá de ser: ou jamais conseguiremos adquirir esse conhecimento, ou só o faremos depois de mortos, pois só então a alma se recolherá em si mesma, separada do corpo, nunca antes disso. Ao que parece, enquanto vivermos, a única maneira de ficarmos mais perto do pensamento, é abstermo-nos o mais possível da companhia do corpo e de qualquer comunicação com ele, salvo e estritamente necessário, sem nos deixarmos saturar de sua natureza sem permitir que nos macule, até que a divindade nos venha libertar. Puros, assim, e livres da insanidade do corpo, com toda a probalidade nos uniremos a seres iguais a nós e reconheceremos por nós mesmos o que for estreme de impurezas. É nisso, provavelmente, que consiste a verdade. Não é permitido ao impuro entrar em contato com o puro. – Eis aí, meu caro Símias, quero crer, o que necessariamente pensam entre si e conversam uns com os outros os verdadeiros amantes da sabedoria. Não é esse, também, o teu modo de pensar?',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
+            firstIndex: 0,
             lastIndex: '3'
           }
         ]
@@ -664,14 +921,17 @@ export default [
       {
         text: 'Perfeitamente, Sócrates.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'XII – Por conseguinte, companheiro, continuou Sócrates, se tudo isso estiver certo, há muita esperança de que somente no ponto em que me encontro, e mais em tempo algum, é que alguém poderá alcançar o que durante a vida constitui nosso único objetivo. Por isso, a viagem que me foi agora imposta deve ser iniciada com uma boa esperança, o que se dará também com quantos tiverem certeza de achar-se com a mente preparada e, de algum modo, pura.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
+            firstIndex: 0,
             lastIndex: '4'
           }
         ]
@@ -679,64 +939,97 @@ export default [
       {
         text: 'Isso mesmo, observou Símias.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E purificação não vem a ser, precisamente, o que dissemos antes: separar do corpo, quanto possível, a alma, e habituá-la a concentrar-se e a recolher-se a si mesma, a afastar-se de todas as partes do corpo e a viver, agora e no futuro, isolada quanto possível e por si mesma, e como que libertada dos grilhões do corpo?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'É muito certo, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E o que denominamos morte, não será a liberação da alma e seu apartamento do corpo?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sem dúvida, tornou a falar.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E essa separação, como dissemos, os que mais se esforçam por alcançá-la e os únicos a consegui-la não são os que se dedicam verdadeiramente à Filosofia, e não consiste toda a atividade dos filósofos na libertação da alma e na sua separação do corpo?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Exato.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sendo assim, como disse no começo, não seria ridículo preparar-se alguém a vida inteira para viver o mais perto possível da morte, e revoltar-se no instante em que ela chega?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Ridículo, como não?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Logo, Símias, continuou, os que praticam verdadeiramente a Filosofia, de fato se preparam para morrer, sendo eles, de todos os homens, os que menos temor revelam à idéia da morte. Basta considerarmos o seguinte: se de todo o jeito eles desprezam o corpo e desejam, acima de tudo, ficar sós com a alma, não seria o cúmulo do absurdo mostrar medo e revoltar-se no instante em que isso acontecesse, em vez de partirem contentes para onde esperam alcançar o que a vida inteira tanto amara – sim, pois eram justamente isso: amantes da sabedoria – e ficar livres para sempre da companhia dos que os molestavam? Como! Amores humanos, ante a perda de amigos, esposas e filhos, têm levado tanta gente a baixar voluntariamente, ao Hades, movidos apenas da esperança de lá reverem o objeto de seus anelos e de com eles conviverem; no entanto, quem ama de verdade a sabedoria, e mais: está firmemente convencido de que em parte alguma poder encontrá-la a não ser no Hades, haverá de insurgir-se contra a morte, em vez de partir contente para lá? Sim, é o que teremos de admitir, meu caro, se se tratar de um verdadeiro amante da sabedoria. Pois este há de estar firmemente convencido de que a não ser lá, em parte alguma poderá encontrar a verdade em toda a sua pureza. Se as coisas se passam realmente como acabo de dizer, não seria dar prova de insensatez temer a morte semelhante indivíduo?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sem dúvida, por Zeus, foi a sua resposta.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'XIII – Por consequência, continuou, ao vires um homem revoltar-se no instante de morrer, não será isso prova suficiente de que não trata de um amante da sabedoria, porém amante do corpo? Um indivíduo nessas condições, também será, possivelmente, amante do dinheiro ou da fama, se não o for de ambos ao mesmo tempo.',
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
+            firstIndex: 0,
             lastIndex: '5'
           }
         ]
@@ -744,52 +1037,82 @@ export default [
       {
         text: 'É exatamente como dizes, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E a virtude denominada coragem, Símias, prosseguiu, não assenta maravilhosamente bem nos indivíduos com essa disposição?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sem dúvida, respondeu',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E a temperança, o que todo o mundo chama temperança: não deixar-se dominar pelos apetites, porém desprezá-los e revelar moderação, não será qualidade apenas das pessoas que em grau eminentíssimo desdenham do corpo e vivem para a Filosofia?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Necessariamente, foi a resposta.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Se considerares, prosseguiu, nos outros homens a coragem e a temperança, hás de achá-las mais do que absurdas.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Como assim, Sócrates?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Ignoras porventura, lhe disse, que na opinião de toda a gente a morte se inclui entre os denominados males?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sei disso, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E não é pelo medo de um mal ainda maior que enfrentam a morte esses indivíduos corajosos, quando a enfrentam.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Certo.',
@@ -826,7 +1149,7 @@ export default [
         footnote: [],
         bold: [
           {
-            firstIndex: '0',
+            firstIndex: 0,
             lastIndex: '4'
           }
         ]
@@ -834,152 +1157,246 @@ export default [
       {
         text: 'Tens razão, Cebete, respondeu Sócrates. Mas que podemos fazer? Não queres examinar mais de espaço essa questão, para ver se as coisas, realmente, se passam desse modo?',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'Eu, pelo menos, respondeu Cebete, ouvirei de muito bom grado o que disseres a esse respeito.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Estou certo de que desta vez, continuou Sócrates, quem nos ouvir, mas que seja algum comediógrafo, não poderá dizer que só digo baboseiras e nunca me ocupo com coisa de interesse. Se estiveres de acordo, investigaremos esse ponto.',
         footnote: [],
-        bold: []
+        bold: [
+          {
+            firstIndex: '',
+            lastIndex: ''
+          }
+        ]
       },
       {
         text: 'XV- Estudemo-lo, pois, sob o seguinte aspecto: se as almas dos mortos se encontram ou não se encontram no Hades? Conforme antiga tradição, que ora me ocorre, as almas lá existentes foram daqui mesmo e para cá deverão voltar, renascendo os mortos. A ser assim, e  se os vivos nascem dos mortos, não terão de estar lá mesmo nossas almas? Pois não poderiam renascer se não existissem, vindo a ser essa, justamente a prova decisiva, no caso de ser possível deixar manifesto que os vivos de outra parte não procedem senão dos mortos. Se isso não for verdade, teremos de procurar outro argumento.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Isso mesmo, disse Cebete.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Para deixar a questão mais fácil de entender, observou, não te limites a considerá-la com relação aos homens, porém estende-a ao conjunto dos animais e das plantas, numa palavra, a tudo o que nasce, a fim de vermos se cada coisa não se origina exclusivamente do seu contrário, onde quer que se verifique essa relação, tal como no caso do belo, que tem como contrário o feio, no do justo e do injusto e em mil outro exemplos que se poderiam enumerar. Investiguemos, então, se é forçoso que tudo o que tenha algum contrário de nada mais possa originar-se a não ser desse mesmo contrário. Por exemplo: para ficar grande alguma coisa, é preciso que antes fosse pequena, sem o que não poderia aumentar.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Certo.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E para diminuir, não é preciso ser maior, para depois vir a ficar pequena?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Exatamente, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Assim, do mais forte nasce o mais fraco e do moroso, o rápido.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sem dúvida.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E então? Se alguma coisa piora, é porque antes era melhor, como terá sido antes injusta para poder tornar-se justa? ',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Como não?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E agora? Não é próprio dessa oposição universal haver dois processos de nascimento: o que vai de um contrário para o outro, e o de sentido inverso: deste último para aquele? Entre a coisa maior e a menor há crescimento e diminuição, razão por que dizemos que uma delas cresce e a outra diminui.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'É certo, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Vale o mesmo para a combinação e a decomposição, o resfriamento e o aquecimento, e para as demais oposições do mesmo tipo. E embora nem sempre tenhamos para todas elas designação apropriada, é forçoso nesses casos ser idêntico o processo, de forma que cada coisa cresce  à custa de outra, sendo recíproca a geração entre elas.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sem dúvida, observou.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'XVI – E então? Prosseguiu: viver não comporta um contrário, tal como se dá com a vigília e o sono?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Perfeitamente, respondeu.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Qual é?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Estar morto, foi a resposta.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Sendo assim, cada um desses estados provém do outro, visto serem contrários, havendo entre ambos um processo recíproco de geração.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Como não?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Vou falar de um dos pares de contrários a que me referi há pouco, disse Sócrates, e de suas respectivas gerações; tu te manifestarás a respeito do outro. Denomino o primeiro, vigília e sono; da vigília nasce o sono, e vice-versa: do sono, a vigília, tendo um dos processos o nome de acordar e o outro o de dormir. Isso te basta, perguntou, ou não?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Perfeitamente.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'É tua agora a vez, prosseguiu, de falar a respeito da vida e da morte. Não disseste que estar vivo é o contrário de estar morto.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Disse.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'E que um é gerado do outro?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Também.',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: 'Que é, então, o que provém do vivo?O morto, respondeu.E do morto, voltou a falar, o que se origina?Será forçoso convir que é o vivo.Sendo assim, Cebete, do que está morto provêm os homens e tudo o que tem vida?É evidente, respondeu.Logo, continuou, nossas almas estão no Hades.Parece que sim.E desses dois processos correlativos, um não nos é manifesto? Pois o ato de morrer é bem visível, não é isso mesmo?',
         footnote: [],
-        bold: []
+        bold: [{
+          firstIndex: '',
+          lastIndex: ''
+        }]
       },
       {
         text: '',

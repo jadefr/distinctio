@@ -10,6 +10,10 @@
   color: color(sepia-font);
   font-family: Georgia, "Times New Roman", serif;
 
+  h1 {
+    padding: 20px;
+  }
+
   // Borders
   .borders {
     #top, #bottom, #left, #right {
@@ -121,7 +125,7 @@
     text-align: justify;
 
     @include mobile {
-      margin: 6%
+      margin: 7%
     }
 
     p {

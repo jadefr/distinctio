@@ -8,6 +8,17 @@
       <div id="bottom"></div>
     </div>
 
+<!--    <div>-->
+<!--      <h1 slot="test" v-html="paragraphWithBolds">-->
+<!--      </h1>-->
+<!--    </div>-->
+
+<!--    <div>-->
+<!--      <h1 slot="test2" v-for="(obj, index) in paragraphs" :key="index"-->
+<!--          v-html="obj">-->
+<!--      </h1>-->
+<!--    </div>-->
+
     <!-- Icon -->
     <a href="/galeria">
       <b-icon icon="book" id="book-icon"></b-icon>
@@ -35,11 +46,11 @@
 
     <!-- Article -->
     <article>
-      <Paragraph v-for="(obj, index) in paragraphs" :key="index"
-                 :test="boldChar(obj, index)"
-                 :bold="totalArrayToBeBold[index]"
-                 :paragraph="obj"
-      />
+<!--      <Paragraph v-for="(obj, index) in paragraphs" :key="index"-->
+<!--                 :paragraph="obj"-->
+<!--      />-->
+      <p v-html="paragraphWithBolds">
+      </p>
     </article>
 
   </div>
@@ -47,34 +58,24 @@
 
 <script>
 import { mapState } from 'vuex'
-import Paragraph from '@/components/Paragraph'
+// import Paragraph from '@/components/Paragraph'
 
 export default {
-  components: {
-    Paragraph
-  },
+  // components: {
+  //   Paragraph
+  // },
   data () {
     return {
-      colorStyle: {
-        fontWeight: '800',
-        color: 'red'
-      },
+      test: 'socrates <br> platao',
       paragraphs: [],
-      paragraphString: '',
+      // paragraphString: '',
       paragraphsLength: '',
-      boldStringLength: '',
-      boldArray: [],
-      boldLength: '',
-      boldString: '',
       boldFirstIndex: '',
       boldLastIndex: '',
-      letterToBeBold: '',
-      normalParagraphString: '',
-      paragraphArrayToBeBold: [],
-      totalArrayToBeBold: [],
-      boldIndexArray: [],
-      charToBeBold: '',
-      totalCharToBeBold: []
+      boldFirstIndexArray: [],
+      boldLastIndexArray: [],
+      paragraphWithBolds: '',
+      boldIndexArray: []
     }
   },
   computed: {
@@ -131,22 +132,6 @@ export default {
         }
       }
     },
-    // paragraphTesting () {
-    //   // const paragraphs = []
-    //   for (let i = 0; i < this.documents.length; i++) {
-    //     if (this.$route.params.sectionURL.includes(this.documents[i].sectionURL)) {
-    //       for (let j = 0; j < this.documents[i].paragraphs.length; j++) {
-    //         this.paragraphString = this.documents[i].paragraphs[j].text
-    //         if (this.paragraphString.length) {
-    //           console.log(this.paragraphString)
-    //           this.paragraphs.push(this.paragraphString)
-    //           // console.log(this.paragraphs[j])
-    //           // return this.paragraphs
-    //         }
-    //       }
-    //     }
-    //   }
-    // },
     getBoldIndexArray (boldFirstIndex, boldLastIndex) {
       const beginning = parseInt(boldFirstIndex)
       const end = parseInt(boldLastIndex) + 1
@@ -158,46 +143,97 @@ export default {
       }
       return array
     },
-    color (paragraphText, index) {
-      // let boldArray = []
-      // boldArray = this.totalArrayToBeBold[index]
+    color (str) {
       let color = ''
-      color = 'normal'
-      if (paragraphText.includes('Fedão')) {
-        color = 'bold'
+      if (str.includes('Fedão')) {
+        color = 'red'
       } else {
-        color = 'normal'
+        color = 'blue'
       }
-      // for (let i = 0; i < boldArray.length; i++) {
-      //   if (paragraphText.charAt(boldArray[i]) === 'a') {
-      //     color = 'bold'
-      //   } else {
-      //     color = 'normal'
-      //   }
-      // }
       return color
     },
-    boldChar (obj, index) {
-      const intIndex = index
-      const paragraph = String(obj)
-      console.log('1. index :: ' + index)
-      console.log('2. boldIndex :: + ' + this.totalArrayToBeBold[index])
-      if (this.totalArrayToBeBold[intIndex].length) {
-        const boldIndexLength = this.totalArrayToBeBold[intIndex].length
-        console.log('3. boldIndexLength :: ' + boldIndexLength)
-        console.log(paragraph)
-        let boldChar = ''
-        const boldArray = []
-        for (let i = 0; i < boldIndexLength; i++) {
-          console.log(paragraph.charAt(i))
-          boldChar = paragraph.charAt(i)
-          boldArray.push(boldChar)
+    breakParagraph (paragraphString) {
+      // const flags = []
+      // let i = 0
+      // while (i < paragraphString.length) {
+      //   flags.push(i)
+      //   i++
+      // }
+      // for (let i = 0; i < paragraphString.length; i++) {
+      //   if (paragraphString.charAt(i) === '.' && paragraphString.charAt(i + 1) !== ' ') {
+      //     flags.push(i)
+      //   }
+      // }
+      // console.log(flags.length)
+      // for (const flag of flags) {
+      //   console.log(flag)
+      //   console.log('paragraphString ::  ' + paragraphString.charAt(flag))
+      //   console.log(paragraphString.charAt(flag + 2))
+      //   console.log(paragraphString)
+      // }
+      return paragraphString
+    },
+    leonardo () {
+      const rawParagraph = 'Fedão - Não, eu mesmo, Equécrates.'
+      const bolds = [
+        {
+          start: '',
+          end: ''
+        },
+        {
+          start: 23,
+          end: 33
         }
-        console.log('4 ::  ' + boldArray.toString())
-        const boldString = boldArray.join('')
-        console.log('5. boldString ::  ' + boldString)
-        return boldString
+      ]
+
+      // console.log(rawParagraph)
+
+      let processedParagraph = ''
+      const boldStarts = []
+      const boldEnds = []
+
+      for (const bold of bolds) {
+        boldStarts.push(bold.start)
+        boldEnds.push(bold.end)
       }
+
+      // console.log(boldStarts)
+      // console.log(boldEnds)
+
+      for (let i = 0; i < rawParagraph.length; i++) {
+        if (boldStarts.includes(i)) {
+          // console.log('posicao ' + i + ' inicia um bold')
+          processedParagraph += '<b>'
+        }
+
+        if (boldEnds.includes(i)) {
+          // console.log('posicao ' + i + ' fecha um bold')
+          processedParagraph += '</b>'
+        }
+
+        processedParagraph += rawParagraph.charAt(i)
+      }
+
+      return processedParagraph
+    },
+    // setBold (index) {
+    //   let str = ''
+    //   str = this.totalArrayToBeBold[index].join('')
+    //   console.log(str)
+    //   return str
+    // }
+    turnBold (paragraphString) {
+      for (let i = 0; i < paragraphString.length; i++) {
+        if (this.boldIndexArray[0] === i) {
+          this.paragraphWithBolds += '<b>'
+        }
+        if (this.boldIndexArray[this.boldIndexArray.length - 1] === i) {
+          this.paragraphWithBolds += '</b>'
+        }
+        this.paragraphWithBolds += paragraphString.charAt(i)
+      }
+      this.paragraphWithBolds += '<br>'
+      this.paragraphs.push(this.paragraphWithBolds)
     }
   },
   mounted: function () {
@@ -207,79 +243,60 @@ export default {
     for (let i = 0; i < this.documents.length; i++) {
       if (this.$route.params.sectionURL.includes(this.documents[i].sectionURL)) {
         this.paragraphsLength = this.documents[i].paragraphs.length
+        let paragraph = ''
         for (let j = 0; j < this.paragraphsLength; j++) {
-          this.paragraphString = this.documents[i].paragraphs[j].text
-          if (this.paragraphString.length) {
-            // console.log(this.paragraphString)
-            // this.paragraphs.push(this.paragraphString)
-            this.boldLength = this.documents[i].paragraphs[j].bold.length
+          paragraph = this.documents[i].paragraphs[j].text
+          // this.paragraphString = this.documents[i].paragraphs[j].text
+          // this.paragraphs.push(this.paragraphString)
+          this.boldLength = this.documents[i].paragraphs[j].bold.length
+          if (this.boldLength) {
             for (let k = 0; k < this.boldLength; k++) {
               this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
               this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
-              this.boldStringLength = this.boldLastIndex - this.boldFirstIndex + 1
-              // console.log(this.boldFirstIndex)
-              // console.log(this.boldLastIndex)
-              // console.log(this.boldStringLength)
+              this.boldFirstIndexArray.push(this.boldFirstIndex)
+              this.boldLastIndexArray.push(this.boldLastIndex)
               this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
-              this.totalArrayToBeBold.push(this.boldIndexArray)
             }
-            // console.log('5. this.boldIndexArray j ::  ' + this.boldIndexArray)
-            // console.log('6. totalArrayToBeBold ::  ' + this.totalArrayToBeBold)
-            this.paragraphs.push(this.paragraphString)
-            // console.log('2. boldIndexArray ::  ' + this.boldIndexArray)
-            //
-            // this.normalParagraphString = this.documents[i].paragraphs[j].text
-            // console.log('1. normalParagraphString ::  ' + this.normalParagraphString)
-            // console.log('2. this.boldStringLength ::  ' + this.boldStringLength)
-            // let letter = ''
-            // const array = []
-            // for (let m = 0; m < this.boldStringLength; m++) {
-            //   letter = this.normalParagraphString.charAt(m)
-            //   array.push(letter)
-            //   letter = ''
-            // }
-            // console.log('3. array ::  ' + array.toString())
-            //
-            //
-            // for (let m = 0; m < this.boldStringLength; m++) {
-            //
-            //   console.log(this.strToBeBold)
-            //   // this.color(this.strToBeBold)
-            //   this.arrayToBeBold.push(this.strToBeBold)
-            //   console.log(this.arrayToBeBold.length)
-            //   // console.log(this.arrayToBeBold[m])
-            // }
-
-            // for (let k = 0; k < this.paragraphsLength; k++) {
-            //   this.boldArray = this.documents[i].paragraphs[j].bold[k]
-
-            // console.log('boldArray :: ' + this.boldArray)
-            // if (this.boldArray.length) {
-            //   this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
-            //   this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
-            //   if (this.boldFirstIndex.length && this.boldLastIndex.length) {
-            //     this.boldStringLength = this.boldLastIndex - this.boldFirstIndex + 1
-            //     console.log(this.boldStringLength)
-            //   }
-            // }
           }
+          // this.paragraphs.push(this.paragraphString)
+          this.turnBold(paragraph)
+          // this.paragraphs.push(paragraph)
+          //
+          // if (this.boldIndexArray[0]) {
+          //   this.paragraphWithBolds += '<b>'
+          // }
+          // if (this.boldIndexArray[this.boldIndexArray.length - 1]) {
+          //   this.paragraphWithBolds += '</b>'
+          // }
+          // for (let a = 0; a < this.boldIndexArray; a++) {
+          //   if (this.boldFirstIndexArray.includes(j)) {
+          //     // this.paragraphString += '<hr>'
+          //     this.paragraphWithBolds += '<b>'
+          //   }
+          //   if (this.boldLastIndexArray.includes(j)) {
+          //     // this.paragraphString += '<hr>'
+          //     this.paragraphWithBolds += '</b>'
+          //   }
+          // }
+          // this.paragraphWithBolds += this.paragraphString.charAt(j)
+          // this.paragraphString += '<br><br>'
+          // this.paragraphs.push(this.paragraphString)
+          // this.paragraphs.push(this.paragraphWithBolds)
         }
       }
     }
-    // console.log('7. this.boldIndexArray  ::  ' + this.boldIndexArray)
-    // console.log('8. totalArrayToBeBold index ::  ' + this.totalArrayToBeBold[4])
   }
 }
 </script>
 <style lang="scss" scoped>
   @import '../assets/sass/views/document';
 
-  .bold {
+  .red {
     font-weight: bold;
     color: red;
   }
 
-  .normal {
+  .blue {
     font-weight: normal;
     color: blue;
   }
