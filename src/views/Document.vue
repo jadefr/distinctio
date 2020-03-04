@@ -172,16 +172,16 @@ export default {
           paragraph = this.documents[i].paragraphs[j].text
           // this.paragraphString = this.documents[i].paragraphs[j].text
           // this.paragraphs.push(this.paragraphString)
-          this.boldLength = this.documents[i].paragraphs[j].bold.length
-          if (this.boldLength) {
-            for (let k = 0; k < this.boldLength; k++) {
-              this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
-              this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
-              this.boldFirstIndexArray.push(this.boldFirstIndex)
-              this.boldLastIndexArray.push(this.boldLastIndex)
-              this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
-            }
-          }
+          // this.boldLength = this.documents[i].paragraphs[j].bold.length
+          // if (this.boldLength) {
+          //   for (let k = 0; k < this.boldLength; k++) {
+          //     this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
+          //     this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
+          //     this.boldFirstIndexArray.push(this.boldFirstIndex)
+          //     this.boldLastIndexArray.push(this.boldLastIndex)
+          //     this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
+          //   }
+          // }
           this.paragraphs.push(paragraph)
         }
       }

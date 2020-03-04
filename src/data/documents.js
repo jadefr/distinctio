@@ -27,7 +27,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Não, eu mesmo, Equécrates.',
+        text: '<b>Fedão –</b> Não, eu mesmo, Equécrates.',
         footnote: [],
         bold: [
           {
@@ -37,7 +37,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Então, que disse o homem antes de morrer? E como foi a sua morte? Gostaria de saber tudo o que se passou. Recentemente, nenhum cidadão de Fliunte tem ido a Atenas, e há muito não nos vêm de lá forasteiros capazes de dar-nos informações seguras, salvo dizerem que morreu depois de tomar o veneno. Quanto ao mais, nada informam de particular.',
+        text: '<b>Equécrates –</b> Então, que disse o homem antes de morrer? E como foi a sua morte? Gostaria de saber tudo o que se passou. Recentemente, nenhum cidadão de Fliunte tem ido a Atenas, e há muito não nos vêm de lá forasteiros capazes de dar-nos informações seguras, salvo dizerem que morreu depois de tomar o veneno. Quanto ao mais, nada informam de particular.',
         footnote: [],
         bold: [
           {
@@ -47,7 +47,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – E também não ouviste contar como foi o julgamento?',
+        text: '<b>Fedão –</b> E também não ouviste contar como foi o julgamento?',
         footnote: [],
         bold: [
           {
@@ -57,7 +57,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Ouvimos, sim; alguém nos falou nisso. Surpreendeu- nos, justamente, ter sido bem antes o julgamento e ele só vir a morrer muito depois. Que aconteceu, Fedão?',
+        text: '<b>Equécrates –</b> Ouvimos, sim; alguém nos falou nisso. Surpreendeu- nos, justamente, ter sido bem antes o julgamento e ele só vir a morrer muito depois. Que aconteceu, Fedão?',
         footnote: [],
         bold: [
           {
@@ -67,7 +67,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Foi tudo obra do acaso, Equécrates, o que se passou com ele. Precisamente na véspera do julgamento coroaram a popa do navio que os Atenienses enviam a Delo.',
+        text: '<b>Fedão –</b> Foi tudo obra do acaso, Equécrates, o que se passou com ele. Precisamente na véspera do julgamento coroaram a popa do navio que os Atenienses enviam a Delo.',
         footnote: [],
         bold: [
           {
@@ -87,7 +87,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Segundo os Atenienses, é o navio em que outrora Teseu levou para Creta as duas septenas de jovens, moços e moças, que ele salvou, salvando-se também. Nessa ocasião, segundo contam, prometeram a Apolo enviar anualmente uma deputação a Delo, no caso de se salvarem, e até hoje todos os anos vão em romaria à divindade. Desde o início dos preparativos da viagem, determina a lei que se proceda à purificação do burgo, não sendo permitido executar ninguém por crime público antes de chegar a Delo o navio e retornar de lá. Por vezes esse prazo fica muito dilatado, quando os ventos são adversos. O início da peregrinação é contado a partir do momento em que o sacerdote de Apolo coroa a popa do navio, o que se deu, conforme disse, na véspera do julgamento. Esse o motivo de ter estado Sócrates tanto tempo na prisão, desde o julgamento até à morte.',
+        text: '<b>Fedão –</b> Segundo os Atenienses, é o navio em que outrora Teseu levou para Creta as duas septenas de jovens, moços e moças, que ele salvou, salvando-se também. Nessa ocasião, segundo contam, prometeram a Apolo enviar anualmente uma deputação a Delo, no caso de se salvarem, e até hoje todos os anos vão em romaria à divindade. Desde o início dos preparativos da viagem, determina a lei que se proceda à purificação do burgo, não sendo permitido executar ninguém por crime público antes de chegar a Delo o navio e retornar de lá. Por vezes esse prazo fica muito dilatado, quando os ventos são adversos. O início da peregrinação é contado a partir do momento em que o sacerdote de Apolo coroa a popa do navio, o que se deu, conforme disse, na véspera do julgamento. Esse o motivo de ter estado Sócrates tanto tempo na prisão, desde o julgamento até à morte.',
         footnote: [],
         bold: [
           {
@@ -97,7 +97,7 @@ export default [
         ]
       },
       {
-        text: 'II – Equécrates – E as condições em que morreu, Fedão? Quais foram suas palavras? Como se houve em tudo? Quais dos seus familiares se encontravam ao seu lado? Ou as autoridades não permitiram que entrassem, vindo ele a morrer privado de assistência dos amigos?',
+        text: 'II – <b>Equécrates –</b> E as condições em que morreu, Fedão? Quais foram suas palavras? Como se houve em tudo? Quais dos seus familiares se encontravam ao seu lado? Ou as autoridades não permitiram que entrassem, vindo ele a morrer privado de assistência dos amigos?',
         footnote: [],
         bold: [
           {
@@ -107,7 +107,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – De forma alguma; vários estiveram presentes; em grande número, mesmo.',
+        text: '<b>Fedão –</b> De forma alguma; vários estiveram presentes; em grande número, mesmo.',
         footnote: [],
         bold: [
           {
@@ -127,7 +127,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Disponho, sim, e vou tentar expor-vos o que se deu. Para mim, nada é tão agradável como recordar-me de Sócrates, ou seja quando falo nele, ou quando ouço alguém falar a seu respeito.',
+        text: '<b>Fedão –</b> Disponho, sim, e vou tentar expor-vos o que se deu. Para mim, nada é tão agradável como recordar-me de Sócrates, ou seja quando falo nele, ou quando ouço alguém falar a seu respeito.',
         footnote: [],
         bold: [
           {
@@ -147,7 +147,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Era por demais estranho o que eu sentia junto dele. Não podia lastimá-lo, como o faria perto de um ente querido no transe derradeiro. O homem me parecia felicíssimo, Equécrates, tanto nos gestos como nas palavras, reflexo exato da intrepidez e da nobreza com que se despedia da vida. Minha impressão naquele instante foi que sua passagem para o Hades não se dava sem disposição divina, e que, uma vez lá chegando, sentir-se-ia tão venturoso com os que mais o foram. Por isso mesmo, não me dominou nenhum sentimento de piedade, o que seria natural na presença de um moribundo. Também não me sentia alegre, como costumava ficar em nossa práticas sobre filosofia. Sim, porque toda nossa conversa girou em torno de temas filosóficos. Era um estado difícil de definir, misto insólito de alegria e tristeza, por lembrar-me de que ele iria morrer dentro de pouco. As mais pessoas presentes se encontravam em condições quase idênticas, umas rindo, outras chorando, principalmente Apolodoro. Conheces o homem e sabes como ele é.',
+        text: '<b>Fedão –</b> Era por demais estranho o que eu sentia junto dele. Não podia lastimá-lo, como o faria perto de um ente querido no transe derradeiro. O homem me parecia felicíssimo, Equécrates, tanto nos gestos como nas palavras, reflexo exato da intrepidez e da nobreza com que se despedia da vida. Minha impressão naquele instante foi que sua passagem para o Hades não se dava sem disposição divina, e que, uma vez lá chegando, sentir-se-ia tão venturoso com os que mais o foram. Por isso mesmo, não me dominou nenhum sentimento de piedade, o que seria natural na presença de um moribundo. Também não me sentia alegre, como costumava ficar em nossa práticas sobre filosofia. Sim, porque toda nossa conversa girou em torno de temas filosóficos. Era um estado difícil de definir, misto insólito de alegria e tristeza, por lembrar-me de que ele iria morrer dentro de pouco. As mais pessoas presentes se encontravam em condições quase idênticas, umas rindo, outras chorando, principalmente Apolodoro. Conheces o homem e sabes como ele é.',
         footnote: [],
         bold: [
           {
@@ -167,7 +167,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Pois desse jeito se comportou o tempo todo. Eu também, fiquei muito abalado, a mesma coisa passando-se com os outros. ',
+        text: '<b>Fedão –</b> Pois desse jeito se comportou o tempo todo. Eu também, fiquei muito abalado, a mesma coisa passando-se com os outros. ',
         footnote: [],
         bold: [
           {
@@ -187,7 +187,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Além do mencionado Apolodoro, seus conterrâneos Critobulo e o pai, Hermógenes, Epígenes, Ésquines e Antístenes. Ctesipo de Peânia também esteve presente, Menéxeno e mais alguns da mesma região. Se não me engano, Platão se achava doente.',
+        text: '<b>Fedão –</b> Além do mencionado Apolodoro, seus conterrâneos Critobulo e o pai, Hermógenes, Epígenes, Ésquines e Antístenes. Ctesipo de Peânia também esteve presente, Menéxeno e mais alguns da mesma região. Se não me engano, Platão se achava doente.',
         footnote: [],
         bold: [
           {
@@ -207,7 +207,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Sim, os Tebanos Símias, Cebete e Fedondes; e de Mégara, Euclides e Térpsio.',
+        text: '<b>Fedão –</b> Sim, os Tebanos Símias, Cebete e Fedondes; e de Mégara, Euclides e Térpsio.',
         footnote: [],
         bold: [
           {
@@ -217,7 +217,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Nesse caso, Aristipo e Cleômbroto também estiveram com ele?',
+        text: '<b>Equécrates –</b>Nesse caso, Aristipo e Cleômbroto também estiveram com ele?',
         footnote: [],
         bold: [
           {
@@ -227,7 +227,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Não; falaram que se encontravam em Egina.',
+        text: '<b>Fedão –</b> Não; falaram que se encontravam em Egina.',
         footnote: [],
         bold: [
           {
@@ -237,7 +237,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Havia mais alguém?',
+        text: '<b>Equécrates –</b>Havia mais alguém?',
         footnote: [],
         bold: [
           {
@@ -247,7 +247,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Creio que eram só esses.',
+        text: '<b>Fedão –</b> Creio que eram só esses.',
         footnote: [],
         bold: [
           {
@@ -257,7 +257,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – E depois? Quais foram os discursos a que te referiste?',
+        text: '<b>Equécrates –</b>E depois? Quais foram os discursos a que te referiste?',
         footnote: [],
         bold: [
           {
@@ -267,7 +267,7 @@ export default [
         ]
       },
       {
-        text: 'III – Fedão – Vou esforçar-me para contar tudo do começo. Tal como na véspera, todos os dias visitávamos Sócrates, e desde a manhãzinha íamos encontrar-nos no tribunal em que se deu o julgamento. Fica perto da cadeia. Ali esperávamos conversando até que a cadeia abrisse, pois não costumam abri-la muito cedo. Porém logo que isso se dava, corríamos para junto de Sócrates e quase sempre passávamos com ele o dia todo. Nessa manhã reunimo-nos mais cedo, porque na tarde anterior, ao nos retirarmos da prisão, soubemos que o navio chegara de Delo. Por isso, combinamos encontrar-nos o mais cedo possível no lugar habitual. Ao chegarmos, o porteiro que costumava receber-nos veio ao nosso encontro para dizer que esperássemos fora e não entrássemos sem que ele nos avisasse. Neste momento, nos disse, os Onze estão tirando os ferros de Sócrates e lhe comunicam que hoje ele terá de morrer. Depois de algum tempo, voltou para dizer que entrássemos. Ao penetrarmos no recinto, encontramos Sócrates, que acabava de ser aliviado dos ferros, e Xantipa – conhece-la  decerto – com o filho pequeno, sentada junto do marido. Ao ver-nos, começou Xantipa a lastimar-se e clamar como de hábito nas mulheres, dizendo: Pela última vez, Sócrates, teus amigos conversarão contigo, e tu com eles. Virando-se para Critão, Sócrates lhe disse: Critão, leva-a para casa. A isso, alguns dos homens de Critão a retiraram, não cessando ela de gritar e debater-se. Sócrates, de seu lado, sentado no catre, dobrou a perna sobre a coxa e começou a friccioná-la duro com a mão, ao mesmo tempo que dizia: Como é extraordinário, senhores, o que os homens denominam prazer, e como se associa admiravelmente com o sofrimento, que passa, aliás, por ser o seu contrário. Não gostam de ficar juntos no homem; mal alguém persegue e alcança um deles, de regra é obrigado a apanhar o outro, como se ambos, com serem dois, estivessem ligados pela cabeça. Quer parecer-me, continuou, que se Esopo houvesse feito essa observação, não deixaria de compor uma fábula: Resolvendo Zeus pôr termo as suas dissensões contínuas, e não o conseguindo, uniu-os pela extremidade. Por isso, sempre que alguém alcança um deles, o outro lhe vem no rastro. Meu caso é parecido: após o incômodo da perna causada pelos ferros, segue-se-lhe o prazer.',
+        text: 'III – <b>Fedão –</b>Vou esforçar-me para contar tudo do começo. Tal como na véspera, todos os dias visitávamos Sócrates, e desde a manhãzinha íamos encontrar-nos no tribunal em que se deu o julgamento. Fica perto da cadeia. Ali esperávamos conversando até que a cadeia abrisse, pois não costumam abri-la muito cedo. Porém logo que isso se dava, corríamos para junto de Sócrates e quase sempre passávamos com ele o dia todo. Nessa manhã reunimo-nos mais cedo, porque na tarde anterior, ao nos retirarmos da prisão, soubemos que o navio chegara de Delo. Por isso, combinamos encontrar-nos o mais cedo possível no lugar habitual. Ao chegarmos, o porteiro que costumava receber-nos veio ao nosso encontro para dizer que esperássemos fora e não entrássemos sem que ele nos avisasse. Neste momento, nos disse, os Onze estão tirando os ferros de Sócrates e lhe comunicam que hoje ele terá de morrer. Depois de algum tempo, voltou para dizer que entrássemos. Ao penetrarmos no recinto, encontramos Sócrates, que acabava de ser aliviado dos ferros, e Xantipa – conhece-la  decerto – com o filho pequeno, sentada junto do marido. Ao ver-nos, começou Xantipa a lastimar-se e clamar como de hábito nas mulheres, dizendo: Pela última vez, Sócrates, teus amigos conversarão contigo, e tu com eles. Virando-se para Critão, Sócrates lhe disse: Critão, leva-a para casa. A isso, alguns dos homens de Critão a retiraram, não cessando ela de gritar e debater-se. Sócrates, de seu lado, sentado no catre, dobrou a perna sobre a coxa e começou a friccioná-la duro com a mão, ao mesmo tempo que dizia: Como é extraordinário, senhores, o que os homens denominam prazer, e como se associa admiravelmente com o sofrimento, que passa, aliás, por ser o seu contrário. Não gostam de ficar juntos no homem; mal alguém persegue e alcança um deles, de regra é obrigado a apanhar o outro, como se ambos, com serem dois, estivessem ligados pela cabeça. Quer parecer-me, continuou, que se Esopo houvesse feito essa observação, não deixaria de compor uma fábula: Resolvendo Zeus pôr termo as suas dissensões contínuas, e não o conseguindo, uniu-os pela extremidade. Por isso, sempre que alguém alcança um deles, o outro lhe vem no rastro. Meu caso é parecido: após o incômodo da perna causada pelos ferros, segue-se-lhe o prazer.',
         footnote: [],
         bold: [
           {
@@ -2988,7 +2988,7 @@ export default [
         bold: []
       },
       {
-        text: 'Equécrates – Pelos deuses, Fedão! Compreendo o que se passou convosco, pois\n' +
+        text: '<b>Equécrates –</b>Pelos deuses, Fedão! Compreendo o que se passou convosco, pois\n' +
           'agora mesmo, perguntei-me em que argumento poderemos confiar daqui por diante, se o\n' +
           'que Sócrates acabou de desenvolver, com ser tão convincente, perdeu de todo o crédito? É\n' +
           'maravilhosa a atração que sobre mim sempre exerceu, e ainda exerce, a doutrina de que\n' +
@@ -3008,7 +3008,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Em verdade, Equécrates, por mais que antes eu tivesse admirado Sócrates,\n' +
+        text: '<b>Fedão –</b> Em verdade, Equécrates, por mais que antes eu tivesse admirado Sócrates,\n' +
           'nunca me senti tão arrebatado naquele instante. Não é de espantar que um homem do seu\n' +
           'estofo pudesse sair-se bem em semelhante conjuntura. Mas o que nele, primeiro de tudo,\n' +
           'me admirou ao extremo foi a maneira delicada, cordial e deferente com o que acolheu as\n' +
@@ -3024,7 +3024,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – De que modo?',
+        text: '<b>Equécrates –</b>De que modo?',
         footnote: [],
         bold: [
           {
@@ -3034,7 +3034,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Vou te dizer como foi. Aconteceu que eu me achava, justamente à sua\n' +
+        text: '<b>Fedão –</b> Vou te dizer como foi. Aconteceu que eu me achava, justamente à sua\n' +
           'direita, num banquinho ao pé do catre, ficando ele num plano muito mais alto. Afagandome\n' +
           'a cabeça e abarcando com a mão os cabelos que me cobriam a nuca – pois sempre que\n' +
           'se lhe oferecia ocasião graceja a respeito de minha cabeleira – me disse: Decerto é amanhã,\n' +
@@ -3998,7 +3998,7 @@ export default [
         bold: []
       },
       {
-        text: 'Equécrates – Por Zeus, Fedão, nem lhe seria possível expressar-se de outro modo,\n' +
+        text: '<b>Equécrates –</b>Por Zeus, Fedão, nem lhe seria possível expressar-se de outro modo,\n' +
           'pois me parece de clareza meridiana semelhante explanação, até mesmo para quem for\n' +
           'dotado de parco entendimento.',
         footnote: [],
@@ -4010,7 +4010,7 @@ export default [
         ]
       },
       {
-        text: 'Fedão – Perfeitamente, Equécrates; todos os circunstantes foram desse mesmo\n' +
+        text: '<b>Fedão –</b> Perfeitamente, Equécrates; todos os circunstantes foram desse mesmo\n' +
           'parecer.',
         footnote: [],
         bold: [
@@ -4021,7 +4021,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Que é também o de todos nós que não participamos do colóquio e te\n' +
+        text: '<b>Equécrates –</b>Que é também o de todos nós que não participamos do colóquio e te\n' +
           'ouvimos neste momento.',
         footnote: [],
         bold: [{
@@ -4038,7 +4038,7 @@ export default [
         }]
       },
       {
-        text: 'Fedão – Segundo creio, depois de lhe concederem esse ponto e de admitirem a\n' +
+        text: '<b>Fedão –</b> Segundo creio, depois de lhe concederem esse ponto e de admitirem a\n' +
           'existência real das idéias e que é da sua participação que as diferentes coisas recebem\n' +
           'determinação particular, perguntou Sócrates o seguinte: Se é assim que falas, continuou,\n' +
           'quando dizes que Símias é maior do que Sócrates porém menor do que Fedão, não equivale\n' +
@@ -5256,17 +5256,6 @@ export default [
       'Portugal',
     paragraphs: [
       {
-        text: 'Psicologia e história das religiões',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ],
-        bold: [],
-        chapterTitle: 'y'
-      },
-      {
         text: 'Muitos profanos há que invejam a vocação do historiador das\n' +
           'religiões. Que outra ocupação mais nobre e enriquecedora haverá do que\n' +
           'frequentar os grandes místicos de todas as religiões, viver entre símbolos\n' +
@@ -5321,8 +5310,8 @@ export default [
       {
         text: 'Em certa medida, os responsáveis encontram-se entre nós,\n' +
           'historiadores das religiões. Quisemos a todo o custo apresentar uma\n' +
-          'história \ <i> \ objetiva \ </i> \ das religiões, sem nos darmos sempre conta de que\n' +
-          'aquilo a que chamámos \ <i> \ objetividade \ </i> \, seguia a moda do pensamento do\n' +
+          'história <i> objetiva </i>  das religiões, sem nos darmos sempre conta de que\n' +
+          'aquilo a que chamámos <i> objetividade </i> , seguia a moda do pensamento do\n' +
           'nosso tempo. Esforçamo-nos, há cerca de um século, por construir a\n' +
           'história das religiões como disciplina autónoma, sem termos conseguido;\n' +
           'a história das religiões continua como todos sabem, a ser confundida com\n' +
@@ -5351,9 +5340,9 @@ export default [
           'um mito fosse a mesma coisa exatamente do que a história de um dado\n' +
           'país ou a monografia de determinado povo primitivo). Numa palavra,\n' +
           'descurou-se este fato essencial: que na expressão «história das religiões»\n' +
-          'a tónica não deve recair no termo \ <i> \ história \ </i> \ mas sim no termo religião. Pois\n' +
-          'se há diversas maneiras de praticar a \ <i> \ história \ </i> \ — da história dos técnicos à\n' +
-          '\ <i> \ história \ </i> \ do pensamento humano — há apenas uma para abordar a\n' +
+          'a tónica não deve recair no termo <i>história</i>mas sim no termo religião. Pois\n' +
+          'se há diversas maneiras de praticar a <i> história </i>— da história dos técnicos à\n' +
+          ' <i> história </i> do pensamento humano — há apenas uma para abordar a\n' +
           'religião e que consiste em fixar-se nos fatos religiosos. Antes de se fazer a\n' +
           'história de qualquer coisa, é importante compreender bem essa mesma\n' +
           'coisa em si própria e por ela. Eis porque é preciso sublinhar aqui a obra do\n' +
@@ -5414,7 +5403,7 @@ export default [
           'como as ido «homem primitivo» em geral. O que é concreto é o\n' +
           'fenómeno religioso manifestado na história e através da história. Que\n' +
           'sentido poderia portanto ter na história das religiões uma fórmula comum como por exemplo a abordagem ritual da imortalidade? É. necessário\n' +
-          'precisar imediatamente de que imortalidade se trata. Pois, \ <i> \ a priori \ </i> \, não\n' +
+          'precisar imediatamente de que imortalidade se trata. Pois, <i> a priori </i>, não\n' +
           'estamos certos de que a humanidade ao seu conjunto tenha tido\n' +
           'espontaneamente, a intuição ou até o desejo da imortalidade. Falais do\n' +
           'simbolismo do «Centro». Com que direito na qualidade de historiador de\n' +
@@ -5434,8 +5423,8 @@ export default [
       }, {
         text: 'Creio que todas estas objecções são justificadas, e, na qualidade de\n' +
           'historiador das religiões, devo levá-las em conta. Mas não as julgo\n' +
-          'intransponíveis. Sei perfeitamente que estamos a tratar -com \ <i> \ fenômenos \ </i> \\n' +
-          'religiosos e, pelo simples fato de eles serem \ <i> \ fenômenos \ </i> \, quer dizer que se\n' +
+          'intransponíveis. Sei perfeitamente que estamos a tratar -com <i> fenômenos </i> \\n' +
+          'religiosos e, pelo simples fato de eles serem <i> fenômenos </i>, quer dizer que se\n' +
           'manifestam, se nos revelam, são cunhados, como uma medalha, pelo\n' +
           'momento histórico que os viu nascer. Não existe fato religioso «puro»\n' +
           'fora do tempo. A mais nobre mensagem religiosa a mais universal das\n' +
@@ -5474,7 +5463,7 @@ export default [
           'nível e com outros meios dialéticos, as teorias, hoje um pouco caducas,\n' +
           'dos condicionamentos geográficos, económicos, sociais e até mesmo\n' +
           'fisiológicos. Todos concordam que um fato espiritual sendo um fato\n' +
-          '\ <i> \ humano \ </i> \ é forçosamente condicionado por tudo o que concorre para fazer\n' +
+          '<i> humano </i> é forçosamente condicionado por tudo o que concorre para fazer\n' +
           'um homem, desde a anatomia e fisiologia até à linguagem. Por outras\n' +
           'palavras, um fato espiritual pressupõe o ser humano integral, isto é, e a\n' +
           'entidade fisiológica, e o homem social, e o homem económico, e assim\n' +
@@ -5508,150 +5497,7 @@ export default [
           'do inconsciente que, também elas, pertencem ao ser humano integral.\n' +
           'Quanto mais uma consciência está desperta, mais ela ultrapassa a sua\n' +
           'própria historicidade. Basta-nos recordar os místicos e os sábios de todos\n' +
-          'os tempos e, em primeiro lugar, os do Oriente.\',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      }, {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
-        footnote: [],
-        bold: [],
-        chapterTitle: ''
-      },
-      {
-        text: '',
+          'os tempos e, em primeiro lugar, os do Oriente.',
         footnote: [],
         bold: [],
         chapterTitle: ''
@@ -5674,18 +5520,165 @@ export default [
       'Portugal',
     paragraphs: [
       {
-        text: '',
+        text: 'Mas deixemos de parte as objecções que poderiam opor-se ao\n' +
+          'historicismo e ao existencialismo historicista e voltemos ao nosso\n' +
+          'problema, isto é, aos dilemas do historiador das religiões. Este, dizíamos,\n' +
+          'esquece muitas vezes que está a lidar com um comportamento humano\n' +
+          'arcaico e integral e que, por conseguinte, o seu papel não deveria reduzirse\n' +
+          'ao <i>registo das manifestações históricas deste comportamento</i>, ele\n' +
+          'deveria aplicar-se também a penetrar mais profundamente os seus\n' +
+          'significados e as suas articulações. Tomemos um só exemplo; sabe-se hoje\n' +
+          'que certos mitos e símbolos circularam através do mundo divulgados por\n' +
+          'determinados tipos de cultura; quer dizer que estes mitos e estes\n' +
+          'símbolos nem por isso são descobertas espontâneas do homem arcaico\n' +
+          'mas criações de um complexo cultural bem delimitado, elaborado e veiculado por certas sociedades humanas; tais criações foram difundidas\n' +
+          'muito longe do Seu lugar de origem e foram assimiladas por povos e\n' +
+          'sociedades que doutro modo as não teriam conhecido.',
         footnote: [
           {
-            index: '',
+            index: 'Creio que estudando tão rigorosamente quanto possível as relações\n' +
+              'entre certos complexos religiosos e certas formas de cultura, e precisando\n' +
+              'as etapas da difusão destes complexos o <i>etnólogo</i> tem o direito de se\n' +
+              'declarar satisfeito com os resultados das suas pesquisas. Mas este não\n' +
+              'seria o caso do historiador das religiões: uma vez aceites e integrados os\n' +
+              'resultados da etnologia, aquele deve ainda pôr-se outros problemas:\n' +
+              'porquê tal mito ou tal símbolo puderam ser difundidos? Que revelavam\n' +
+              'eles? Por que motivo certos pormenores — mesmo muito importantes —\n' +
+              'se perdem durante a difusão, enquanto outros continuam a sobreviver?\n' +
+              'Em suma: <i>a que respondem estes mitos e estes símbolos para terem tido\n' +
+              'uma tal difusão?</i> É preciso não abandonar estas questões aos psicólogos,\n' +
+              'aos sociólogos e aos filósofos porque ninguém está mais bem preparado\n' +
+              'para as resolver do que o historiador das religiões.',
             content: ''
           }
         ],
         bold: []
       },
       {
-        text: '',
+        text: 'Basta que nos demos ao trabalho de estudar o problema para\n' +
+          'verificar que, difundidos ou descobertos espontaneamente, os símbolos,\n' +
+          'os mitos e os ritos revelam sempre uma situação--histórica: situação\n' +
+          'limite quer dizer: aquela que o homem descobre ao tomar consciência do\n' +
+          'seu lugar no Universo. É principalmente ao esclarecer estas situaçõeslimite\n' +
+          'que o historiador das religiões cumpre a sua tarefa e vai ao\n' +
+          'encontro das investigações da psicologia de profundidade e até mesmo da\n' +
+          'filosofia. Este estudo é possível e, aliás, já foi iniciado. Chamando a\n' +
+          'atenção para a sobrevivência dos símbolos e temas míticos na psiqué do\n' +
+          'homem moderno, mostrando que a redescoberta espontânea dos\n' +
+          'arquétipos do simbolismo arcaico é coisa vulgar entre nós, seres\n' +
+          'humanos, sem diferença de raça e de meio histórico, a psicologia de\n' +
+          'profundidade libertou o historiador das religiões das suas últimas\n' +
+          'hesitações. Dentro em pouco daremos alguns exemplos de redescoberta\n' +
+          'espontânea de um simbolismo arcaico e veremos o que eles podem\n' +
+          'ensinar a um historiador das religiões.',
         footnote: [],
+        bold: []
+      },
+      {
+        text: 'Mas desde já se adivinham as perspetivas que se abririam à história das religiões se ela soubesse tirar partido de todas as suas próprias\n' +
+          'descobertas e das da etnologia, da sociologia e da psicologia de\n' +
+          'profundidade. A encarar o estudo do homem não apenas como ser\n' +
+          'histórico, mas também como símbolo vivo, a história das religiões poderia\n' +
+          'transformar-se, perdoem-nos o termo, numa <i>metapsicanálise</i>. Porque ela\n' +
+          'conduziria a um despertar e a uma retomada de consciência dos símbolos\n' +
+          'e dos arquétipos arcaicos, vivos ou fossilizados nas tradições religiosas da\n' +
+          'humanidade inteira. Arriscámos o termo: metapsicanálise pois se trata de\n' +
+          'uma técnica mais espiritual, aplicando-se antes de mais a esclarecer o\n' +
+          'conteúdo teórico dos símbolos e dos arquétipos, a tornar transparente o\n' +
+          'que é «alusivo», críptico ou fragmentário. Falar-se-ia assim também de\n' +
+          'uma nova maiêutica: tal como Sócrates no <i>Tuteto</i> (149 a sq., 161 e) fazia\n' +
+          'com que o espírito desse à luz os pensamentos que aquele continha sem\n' +
+          'o saber, a história das religiões poderia dar à luz um homem novo, mais\n' +
+          'autêntico e mais completo; pois, através do estudo das tradições\n' +
+          'religiosas, o homem moderno não reencontraria apenas um\n' +
+          'comportamento arcaico; tomaria, além disso, consciência da riqueza\n' +
+          'espiritual que implica um tal comportamento.',
+        footnote: [],
+        bold: []
+      },
+      {
+        text: 'Esta maiêutica realizada com a colaboração do simbolismo religioso\n' +
+          'contribuiria assim para libertar o homem moderno do seu provincianismo\n' +
+          'cultural e, sobretudo, do relativismo historicista e existencialista. Porque,\n' +
+          'como se verá, o homem opõe-se à própria história mesmo quando se\n' +
+          'dedica a fazê-la, mesmo quando pretende nada mais ser do que\n' +
+          '«história». E, na medida em que o homem ultrapassa o seu momento\n' +
+          'histórico e dá livre curso ao seu desejo de reviver os arquétipos, ele\n' +
+          'realiza-se como um ser integral, universal. Na medida em que se opõe à\n' +
+          'história, o homem moderno encontra as posições arquetípicas. Até o seu\n' +
+          'sono, as suas tendências orgíacas estão carregadas de significado\n' +
+          'espiritual. Pelo simples fato de encontrar no mais fundo do seu ser os\n' +
+          'ritmos cósmicos — a alternância dos dias e das noites, por exemplo, ou\n' +
+          'Inverno-Verão — ele alcança um conhecimento mais total do seu destino\n' +
+          'e do seu significado.',
+        footnote: [],
+        bold: []
+      },
+      {
+        text: 'Ainda em auxílio do historiador das religiões, o homem moderno poderia reencontrar o simbolismo do seu corpo, que é um antropocosmos.\n' +
+          'Aquilo que as diversas técnicas da imaginação, e especialmente\n' +
+          'as técnicas poéticas, realizaram a este respeito, não é quase nada ao pé\n' +
+          'das promessas da história das religiões. Todos estes dados subsistem\n' +
+          'ainda, mesmo no homem moderno; é necessário apenas reanimá-los e\n' +
+          'trazê-los ao limiar da consciência. Ao retomar consciência do seu próprio\n' +
+          'simbolismo antropo-cósmico — que não passa de uma variante do\n' +
+          'simbolismo arcaico — o homem moderno obterá uma nova dimensão\n' +
+          'existencial, totalmente ignorada pelo existencialismo e pelo historicismo\n' +
+          'atual: é um modo de ser autêntico e maior, que o defende do nihilismo e\n' +
+          'do relativismo historicista sem todavia o subtrair da história. Porque a\n' +
+          'própria história poderia um dia encontrar o seu verdadeiro sentido: o da\n' +
+          'epifania de uma condição humana gloriosa e absoluta. Basta que nos\n' +
+          'recordemos da valorização que o judaico-cristianismo deu à existência\n' +
+          'histórica, para nos apercebermos de como e em que sentido histórico\n' +
+          'aquela poderia tornar-se «gloriosa» e mesmo «absoluta».',
+        footnote: [],
+        bold: []
+      },
+      {
+        text: 'Não é pretender-se, evidentemente, que o estudo racional da\n' +
+          'história das religiões deva ou possa ser substituído pela experiência\n' +
+          'religiosa, e menos ainda pela experiência da fé. Mas, mesmo para uma\n' +
+          'consciência cristã, a maiêutica pela interpretação do simbolismo arcaico\n' +
+          'dará os seus frutos. O cristianismo herdou uma antiquíssima e muito\n' +
+          'complexa tradição religiosa, cujas estruturas sobreviveram dentro da\n' +
+          'Igreja, mesmo que os valores espirituais e a orientação teológica tenham\n' +
+          'mudado. De qualquer modo, nada do que, através do Cosmos, manifesta\n' +
+          'a Glória — para falar em termos cristãos — pode deiXar indiferente um\n' +
+          'crente.',
+        footnote: [],
+        bold: []
+      },
+      {
+        text: 'Enfim, o estudo racional das religiões trará à luz um fato\n' +
+          'insuficientemente notado até agora: é que existe uma lógica do símbolo,\n' +
+          'que certos grupos de símbolos, pelo menos, se mostram coerentes,\n' +
+          'logicamente encadeados entre si<sup>1</sup>; que se pode, numa palavra, formulálos\n' +
+          'sistematicamente, traduzi-los em termos racionais. Esta lógica interna dos símbolos põe um problema de pesadas consequências; certas zonas\n' +
+          'do inconsciente individual ou coletivo serão ou não dominadas também\n' +
+          'pelo <i>logos</i>, ou estaremos perante manifestações de um transconsciente?\n' +
+          'Este problema não poderia ser resolvido unicamente pela psicologia de\n' +
+          'profundidade, pois os simbolismos que decifram esta última são\n' +
+          'constituídos na maior parte do tempo, por fragmentos dispersos e por\n' +
+          'manifestações de uma psiqué em crise, se não em regressão patológica.\n' +
+          'Para surpreender as verdadeiras estruturas e funções dos símbolos, é\n' +
+          'preciso que nos dirijamos ao inesgotável repertório da história das\n' +
+          'religiões. Mas, ainda aqui é preciso saber escolher pois os nossos\n' +
+          'documentos apresentam frequentemente formas decadentes, aberrantes\n' +
+          'ou francamente medíocres. Se se quiser chegar a uma compreensão\n' +
+          'adequada do simbolismo religioso arcaico é-se obrigado a fazer uma\n' +
+          'selecção, do mesmo modo que, para se ter ideia de uma literatura\n' +
+          'estrangeira, não se consideram ao acaso os primeiros dez ou cem livros\n' +
+          'que se encontram na primeira biblioteca pública. Deve esperar-se que os\n' +
+          'historiadores das religiões façam um dia o trabalho de hierarquização dos\n' +
+          'seus documentos, tendo em conta o seu valor e o seu estado, tal como os\n' +
+          'seus colegas, os historiadores das literaturas. Mas, mesmo assim, estamos\n' +
+          'apenas no princípio.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ver, mais adiante, o capítulo TH: O «deus ligador» e o simbolismo dos nós.'
+          }
+        ],
         bold: []
       }
     ]
@@ -5706,17 +5699,151 @@ export default [
       'Portugal',
     paragraphs: [
       {
-        text: '',
+        text: 'As sociedades arcaicas e tradicionais concebem o mundo em seu\n' +
+          'redor com um microcosmos. Nos limites deste mundo fechado, começa o\n' +
+          'domínio do desconhecido, do não-formado. De um lado existe o espaço\n' +
+          'cosmisado, portanto habitado e organizado — de outro lado, no exterior\n' +
+          'deste espaço familiar, existe a região desconhecida e terrível dos\n' +
+          'demónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,\n' +
+          'a morte, a noite. Esta imagem de um microcosmomundo habitado,\n' +
+          'rodeado de regiões desérticas assimiladas ao caos ou ao reino dos mortos, sobreviveu mesmo nas civilizações muito evoluídas, com as da\n' +
+          'China, da Mesopotâmia ou do Egipto. De fato, um grande número de\n' +
+          'textos assimila os adversários, prontos a atacar o território nacional, às\n' +
+          'larvas, aos demónios ou às forças do caos. Assim, os adversários do Faraó\n' +
+          'eram considerados como «filhos da ruína, dos lobos, dos cães», etc. O\n' +
+          'Faraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto os\n' +
+          'seus inimigos eram identificados com este dragão mítico <sup><a href="#">1</a></sup>. Pelo fato de\n' +
+          'atacarem e porem em perigo o equilíbrio e a própria vida da cidade (ou\n' +
+          'ide qualquer outro território habitado e organizado), os inimigos são\n' +
+          'assimilados às forças demoníacas, pois eles esforçam-se por reintegrar\n' +
+          'este microcosmos no estado caótico, ou seja suprimi-lo. A destruição de\n' +
+          'uma ordem estabelecida, a abolição de uma imagem arquetípica,\n' +
+          'equivalia a uma regressão para o caos, para o pré-formal, para o estado\n' +
+          'não diferenciado que precedia a cosmogonia. Notemos que as mesmas\n' +
+          'imagens são ainda utilizadas nos nossos dias quando se trata de formular\n' +
+          'os perigos que ameaçam um certo tipo de civilização: fala-se\n' +
+          'nomeadamente de «caos», de «desordem», das «trevas» em que\n' +
+          'mergulhará o «nosso mundo». Todas estas expressões, como bem se vê,\n' +
+          'significam a abolição de uma ordem, de um Cosmos, de uma estrutura, e\n' +
+          'a re-imersão num estado fluido, amorfo, caótico enfim.',
         footnote: [
           {
-            index: '',
-            content: ''
+            index: 1,
+            content: 'Ver o nosso livro Le Mythe de l\'Éternel Retour: Archétypes et Répétition\n' +
+              '(Gallimard, Paris, 1949), pp. 68 sq.'
           }
         ]
       },
       {
-        text: '',
-        footnote: []
+        text: 'A concepção do adversário sob a forma de um ser demoníaco,\n' +
+          'verdadeira encarnação idas forças do mal, sobreviveu igualmente até aos\n' +
+          'nossos dias. A psicanálise destas imagens míticas que ainda hoje animam\n' +
+          'o mundo moderno, mostrar-nos-á talvez em que medida projetamos nos\n' +
+          '«inimigos» os nossos próprios desejos de destruição. Mas este problema\n' +
+          'ultrapassa a nossa competência. O que queremos trazer à luz é o fato de,\n' +
+          'para o mundo arcaico em geral, os inimigos que ameaçavam o\n' +
+          'microcosmos serem perigosos não tanto como seres humanos (em si) mas\n' +
+          'porque encarnavam as forças hostis e destruidoras. É muito provável que\n' +
+          'as defesas dos lugares habitados e das cidades tenham começado por ser\n' +
+          'defesas mágicas; pois estas defesas — fossos, labirintos, muralhas, etc. — eram dispostas mais para impedir a invasão dos espíritos maus do que o\n' +
+          'ataque dos humanos<sup><a href="#">2</a></sup>. Mesmo muito mais tarde na história, na Idade\n' +
+          'Média, por exemplo, os muros das cidades eram consagrados ritualmente\n' +
+          'como uma defesa contra o Demónio, a doença e a morte. Além do mais, o\n' +
+          'simbolismo arcaico não encontra qualquer dificuldade em assimilar o\n' +
+          'inimigo humano ao Demónio ou à Morte. Afinal o resultado dos seus\n' +
+          'ataques, quer sejam demoníacos, quer militares, é sempre o mesmo: a\n' +
+          'ruína, a desintegração, a morte.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. W. J. Knight, Cumaean Gates (Oxford, 1936); Karl Kerényi, Labyrinth-Studien (Amsterdam-Leipzig, 1941, Albae Vigilae, Heft XV).'
+          }
+        ]
+      },
+      {
+        text: 'Todo o microcosmos, toda a região habitada, tem aquilo a que\n' +
+          'poderia chamar-se um «Centro», isto é um lugar sagrado por excelência. É\n' +
+          'aí, nesse Centro, que o sagrado se manifesta de uma maneira total, quer\n' +
+          'sob a forma de hierofanias elementares — como entre os «primitivos» (os\n' +
+          'centros totémicos, por exemplo, as cavernas onde se enterram os\n' +
+          '<i>tchuringas</i>, etc.) — quer sob a forma mais evoluída das epifanias diretas\n' +
+          'dos deuses, como nas civilizações tradicionais. Mas não se deve encarar\n' +
+          'este simbolismo do Centro com as suas implicações geométricas do\n' +
+          'espírito científico ocidental. Para cada um destes microcosmos podem\n' +
+          'existir vários «centros». Como não tardaremos a ver, todas as civilizações\n' +
+          'orientais — Mesopotâmia, índia, China, etc. — conhecem um número\n' +
+          'ilimitado de «Centros». Melhor ainda: cada um destes «Centros» é\n' +
+          'considerado e mesmo designado literalmente por «Centro do Mundo».\n' +
+          'Como se trata de um <i>espaço sagrado</i>, que é dado por uma hierofania ou\n' +
+          'construído ritualmente, e não de um espaço profano, homogéneo,\n' +
+          'geométrico, a pluralidade dos «Centros da Terra» no interior de uma só\n' +
+          'região habitada não oferece qualquer dificuldade<sup><a href="#">3</a></sup>. Estamos em presença\n' +
+          'de uma geografia sagrada e mítica, a única efetivamente <i>real</i> e não de\n' +
+          'uma geografia profana, «objetiva», de certo modo abstrata e não\n' +
+          'essencial, construção teórica de um espaço e de um mundo que não se\n' +
+          'habita e que portanto, não se conhece.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Nosso Traité d\'Histoire des Religions (Payot, Paris, 1949), pp. 315 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Na geografia mítica, o espaço sagrado é o espaço <i>real</i> por excelência, pois, tal como se provou recentemente<sup><a href="#">4</a></sup>, para o mundo arcaico o mito é\n' +
+          'real porque ele relata as manifestações da verdadeira realidade: o\n' +
+          '<i>sagrado</i>. É em tal espaço que se está diretamente em contato com o\n' +
+          'sagrado — seja este materializado em certos objetos (<i>tchuringas</i>,\n' +
+          'representações da divindade, etc.) ou manifestado nos símbolos hierocósmicos\n' +
+          '(Pilar do Mundo, Árvore Cósmica, etc.). Nas culturas que\n' +
+          'conhecem a concepção das três regiões cósmicas — Céu, Terra, Inferno—\n' +
+          'o «centro» constitui o ponto de intersecção destas regiões. É aqui que se\n' +
+          'torna possível uma ruptura de nível e, ao mesmo tempo, uma\n' +
+          'comunicação entre estas três regiões. Temos motivos para crer que a\n' +
+          'imagem de três níveis cósmicos é bastante arcaica; ela encontra-se, por\n' +
+          'exemplo, nos pigmeus Semang da península de Malaca: no centro do\n' +
+          'Mundo ergue-se um enorme rochedo, Batu-Ribn; debaixo dele encontrase\n' +
+          'o Inferno. Outrora de Batu-Ribn elevava-se um trono em direcção ao Céu\n' +
+          '<sup><a href="#">5</a></sup>. O inferno, no centro da terra e a «porta» do Céu encontram-se pois\n' +
+          'no mesmo eixo, e por este eixo se efetuava a passagem de uma região\n' +
+          'cósmica para outra. Hesitar-se-ia em crer na autenticidade desta teoria\n' +
+          'cosmológica entre os pigmeus Semang se não tivessemos bases para\n' +
+          'admitir que a mesma teoria tinha sido já esboçada na época pré-histórica<sup><a href="#">6</a></sup>.\n' +
+          'Os Semang dizem que <i>antigamente</i> um tronco de árvore ligava\n' +
+          'o cume da Montanha Cósmica, o Centro do Mundo, com o Céu. É uma\n' +
+          'alusão a um tema mítico extremamente difundido: outrora, as\n' +
+          'comunicações com o Céu e as relações com a divindade eram fáceis e\n' +
+          '«naturais»; em consequência de uma falta ritual, estas comunicações\n' +
+          'foram interrompidas e os deuses retiraram-se mais para o alto nos céus. Só os curandeiros, os Xamãs, os padres e os heróis ou os soberanos\n' +
+          'conseguem restabelecer, de modo passageiro e unicamente para seu\n' +
+          'próprio uso, as comunicações com o Céu<sup><a href="#">7</a></sup>. O mito de um paraíso\n' +
+          'primordial perdido por causa de uma determinada falta é extremamente\n' +
+          'importante — mas, se bem que de certo modo se relacione com o nosso\n' +
+          'assunto, não o podemos discutir agora.',
+        footnote: [
+          {
+            index: 4,
+            content: 'Cf. . R. Pettazzoni, Miti e Leggende, I (Torino, 1948), p. v; id., Veritá del Mito\n' +
+              '(Studi e Materiali di Storia delle Religioni, vol. XXI, 1947-1948, pp. 104-116); G.\n' +
+              'van der Leeuw, Die Bedeutung der Mythen (Festschrift für Alfred Bertholet,\n' +
+              'Tübingen, 1949, pp. 287-293); M. Elíade, Traité d\'Histoire des Religions, pp. 350\n' +
+              'sq.'
+          },
+          {
+            index: 5,
+            content: 'P. Schebesta, Les Pygmées (trad. fr., Paris, 1940), pp. 156 sq.'
+          },
+          {
+            index: 6,
+            content: 'Cf. por exemplo, W. Gaerte, Kosmische Vorstellungen im Bilde prähistorisher\n' +
+              'Zeit: Erdberg, Himmelsberg, Erdnabel und Welttenströme (Anthropos, IX, 1914,\n' +
+              'pp. 956-979).'
+          },
+          {
+            index: 7,
+            content: 'Cf. nosso Chamanisme et les techniques archaïques de l\'extase (Payot, 1951).'
+          }
+        ]
       }
     ]
   },
@@ -5735,7 +5862,23 @@ export default [
       'Portugal',
     paragraphs: [
       {
-        text: '',
+        text: 'Voltemos pois à imagem das três regiões cósmicas ligadas, num\n' +
+          '«Centro» por um eixo. É sobretudo nas civilizações palco-orientais que\n' +
+          'encontramos esta imagem arquetípica. O nome dos santuários de Nippur,\n' +
+          'Larsa e Sippar era <i>Dur-an-ki</i>, «ligação entre o céu e a terra». Mas é ainda\n' +
+          'na Babilónia que se faz a ligação entre a Terra e as regiões inferiores, pois\n' +
+          'a cidade fora edificada sobre <i>bâb-apsi</i>, a «Porta de <i>apsû</i>», designando\n' +
+          'apsû as águas do caos antes da Criação. Encontramos esta mesma\n' +
+          'tradição entra os hebreus. O rochedo de Jerusalém penetrava\n' +
+          'profundamente nas águas subterrâneas (<i>tehôm</i>). Diz-se na Mishna que o\n' +
+          'Templo se encontra precisamente em cima de tehôm (equivalente\n' +
+          'hebraico de <i>apsû</i>). E, ainda como na Babilónia, havia a «porta de <i>apsû</i>»: o\n' +
+          'rochedo do Templo de Jerusalém fechava a «boca do <i>tehôm</i>». Encontramse\n' +
+          'tradições similares no mundo indo-europeu. Nos Romanos, por\n' +
+          'exemplo, o mundus constitui o ponto de encontro das regiões inferiores e\n' +
+          'do mundo terrestre. O templo itálico era a zona de intersecção dos\n' +
+          'mundos superior (divino), terrestre e subterrâneo (infernal; cf. <i>Le Mythe\n' +
+          'de l\'Eternel Retour, pp. 32 sq.</i>).',
         footnote: [
           {
             index: '',
@@ -5744,8 +5887,222 @@ export default [
         ]
       },
       {
-        text: '',
-        footnote: []
+        text: 'De fato, toda a cidade oriental se encontrava no centro do mundo.\n' +
+          'Babilónia era uma <i>Bâbilâni</i>, uma «porta dos deuses», pois era aí que os deuses desciam à terra. A capital do soberano chinês perfeito encontravase\n' +
+          'junto da Árvore miraculosa «<i>Mastro erguido</i>», <i>Kien-mou</i>, no ponto\n' +
+          'onde se entrecruzavam as três zonas cósmicas: Céu, Terra e Inferno. E\n' +
+          'poder-se-ia continuar a acumular exemplos indefinidamente. Todas estas\n' +
+          '\'cidades, templos ou palácios considerados como Centros do Mundo, não\n' +
+          'são mais do que réplicas infinitamente multiplicadas de uma imagem\n' +
+          'arcaica: a Montanha Cósmica, a Arvore do Mundo ou o Pilar central que\n' +
+          'sustém os níveis cósmicos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O símbolo de uma Montanha, de uma Árvore ou de um Pilar situados\n' +
+          'no Centro do Mundo, está extremamente difundido. Recordemos o\n' +
+          'Monte Meru da tradição índia, Haraberazaiti dos iranianos, Himingbjõr\n' +
+          'dos Germânicos, o «Monte dos Países» da tradição mesopotâmica, o\n' +
+          'Monte Thabor, na Palestina, (que poderia significar <i>tabbur</i> ou seja\n' +
+          '«umbigo da terra», o Gólgota que, para os cristãos, se encontra no centro\n' +
+          'do mundo, etc. (cf. <i>Traité, pp 321 sq.; Le Mythe de l\'Éternel Retour, pp. 30\n' +
+          'sq</i>.) Pelo fato de o território, a cidade, o templo ou o palácio real se\n' +
+          'encontrarem no «Centro do Mundo», isto é no cume da Montanha\n' +
+          'Cósmica, aqueles eram considerados como o lugar mais alto do mundo, o\n' +
+          'único que não fora submergido pelo dilúvio. «A terra de Israel não foi\n' +
+          'submergida pelo dilúvio», diz um texto rabínico. E, segundo a tradição\n' +
+          'islâmica, o lugar mais elevado da terra é a Kâ\'aba, porque «a estrela polar\n' +
+          'prova que ela se encontra na direcção do centro do Céu» (textos do\n' +
+          '<i>Mythe de l\'Éternel Retour, pp. 33</i>). O nome das torres e dos templos\n' +
+          'sagrados da Babilónia testemunha a sua assimilação à Montanha Cósmica,\n' +
+          'quer dizer ao Centro do Mundo: «Monte da Casa», «Casa do Monte de\n' +
+          'todas as terras», «Monte das tempestades», «Ligação entre o Céu e a\n' +
+          'Terra», etc. A <i>ziqqurar</i> era, a bem dizer, uma montanha cósmica, isto é,\n' +
+          'uma imagem simbólica do Cosmos: os sete andares representavam os\n' +
+          'sete céus planetários; subindo-os o padre atingia o topo do Universo. Este\n' +
+          'mesmo simbolismo está na base da construção do templo de Barabudur:\n' +
+          'este é edificado como uma montanha artificial. A sua ascensão equivale a\n' +
+          'uma viagem ao Centro do Mundo; ao atingir o terraço superior o\n' +
+          'peregrino realiza uma ruptura de nível; ele transcende o espaço profano e\n' +
+          'penetra numa «região pura». Estamos em presença de um «rito do centro» (textos em <i>Traité, pp. 323 sq.</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O topo da Montanha Cósmica não é apenas o ponto mais alto da\n' +
+          'Terra; ele é o umbigo da Terra, o ponto onde começou a criação. «O\n' +
+          'Santíssimo criou o mundo como um embrião», afirma um texto rabínico.\n' +
+          '«Tal como o embrião cresce a partir do umbigo, também Deus começou a\n' +
+          'criar o mundo pelo umbigo e daí ele expandiu-se em todas as direções.»\n' +
+          '«O mundo foi criado começando por Sião», diz um outro texto. O mesmo\n' +
+          'simbolismo aparece na Índia antiga: no <i>Rig Veda</i>, o Universo é concebido\n' +
+          'como adquirindo a sua extensão a partir de um ponto central (cf. <i>Traité,\n' +
+          'p. 324; Le Mythe, p. 36</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A criação do homem, réplica da cosmologia, teve semelhantemente\n' +
+          'lugar num ponto central, no Centro do Mundo. Segundo a tradição\n' +
+          'mesopotâmica, o homem foi feito no «umbigo da terra», no mesmo lugar\n' +
+          'onde se encontra também <i>Dur-an-ki</i>, o «laço entre o Céu e a Terra».\n' +
+          'Ohrmazd cria o homem primordial, Gajômard, no centro do Mundo. O\n' +
+          'Paraíso onde Adão foi criado a partir do barro encontra-se, bem\n' +
+          'entendido, no Centro do Cosmos. O Paraíso era o «umbigo da Terra», e,\n' +
+          'segundo uma tradição síria, ficava «numa montanha mais alta ido que\n' +
+          'todas as outras». De acordo com o livro sírio <i>A caverna dos Tesouros</i>,\n' +
+          'Adão foi criado no Centro da Terra, no próprio local onde devia erguer-se\n' +
+          'mais tarde a Cruz de Jesus. As mesmas tradições foram conservadas pelo\n' +
+          'judaismo. O apocalipse judaico e o midrash precisam que Adão foi criado\n' +
+          'em Jerusalém. Tendo Adão sido enterrado no mesmo local onde fora\n' +
+          'criado, ou seja no centro do mundo, sobre o Gólgota, também o sangue\n' +
+          'do Senhor o redimiu (ver <i>Traité, pp. 323 sq.; Le Mythe, pp. 32 sq.</i>). A\n' +
+          'variante mais difundida do simbolismo do Centro é a Árvore Cósmica que\n' +
+          'se encontra no meio do Universo e que sustenta, como um eixo, os três\n' +
+          'Mundos. A Índia de Veda, a China antiga, a mitologia germânica tal como\n' +
+          'as religiões «primitivas» conhecem, sob formas diferentes, esta Árvore\n' +
+          'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
+          'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
+          'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
+          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
+          'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
+          'rituais que encontramos na história das religiões não passa de réplica, de\n' +
+          'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
+          'dizer, supõe-se que todas as árvores sagradas se encontram no Centro do\n' +
+          'Mundo e todas as árvores rituais ou postes, que se consagram antes ou\n' +
+          'durante qualquer cerimónia religiosa, são como que magicamente\n' +
+          'projetados no Centro doMundo. Contentemo-nos com alguns exemplos.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Cf. nosso Traité pp. 236 sq.; Le Chamanisme, pp. 244 sq.; sobre o simbolismo cristão\n' +
+              'da Cruz = Árvore Cósmica, ver H. de Lubac, Aspets da Boudhisme (Paris, 1951),\n' +
+              'pp. 61 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Na índia védica o poste sacrificial (<i>yûpa</i>) é feito de uma árvore que é\n' +
+          'assimilada à Árvore Universal. Enquanto se abate, o padre sacrificador\n' +
+          'dirige-lhe estas palavras: «Com o teu cimo não rasgues o Céu, com o teu\n' +
+          'centro não firas a atmosfera...» Vê-se bem que nos encontramos aqui\n' +
+          'perante a Árvore do Mundo. Da madeira dessa árvore faz-se o poste\n' +
+          'sacrificial e este torna-se uma espécie de pilar cósmico: «Ergue-te, oh\n' +
+          'Senhor da floresta ao topo da Terral», assim invoca o <i>Rig Veda, III, 8, 3</i>.\n' +
+          '«Com o teu cimo suportas o Céu, com a tua parte média enches os ares,\n' +
+          'com o teu pé seguras a Terra», proclama o <i>Çatapatha Brâhmana, III, 7, 1,\n' +
+          '4</i>.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A instalação e a consagração do poste sacrificial constituem um rito\n' +
+          'do Centro. Assimilado à Árvore do Mundo o poste transforma-se por seu\n' +
+          'turno no eixo que liga as três regiões cósmicas. A comunicação entre o\n' +
+          'Céu e a Terra torna-se possível por meio deste pilar. E, de fato, o\n' +
+          'sacrificador sobe ao Céu, só ou com a mulher, neste poste transformado\n' +
+          'ritualmente no próprio Eixo do Mundo. Colocando uma escada, o\n' +
+          'sacrificador dirige-se à mulher: «Vem, subamos ao Céu!» «A mulher\n' +
+          'responde: subamos!» (<i>Çat. Br.</i>, V, 2, 1, 9). E começam a subir a escada. No\n' +
+          'topo e tocando o capitel, o sacrificador exclama: «Chegámos ao Céu!\n' +
+          '(<i>Taittiriya Samhitâ, Çat. Br.</i>, etc.). Ou, escalando os degraus do poste,\n' +
+          'estende as mãos (como uma ave estende as asas) e, chegado ao cimo\n' +
+          'exclama: «Atingi o Céu, os deuses: tornei-me imortal!» (<i>Taittiriya Samhitâ, 1, 7, 9</i>). «Na verdade, diz ainda o <i>Taittiriya Samhitâ</i> (VI, 6, 4, 2), o\n' +
+          'sacrificador faz uma escada e uma ponte para atingir o mundo celeste.»',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O ponto ou a escada entre o Céu e a Terra eram possíveis porque se\n' +
+          'elevavam num Centro do Mundo. Exatamente como a escada vista em\n' +
+          'sonhos por Jacob e que tocava no Céu. E «os anjos de Deus subiam e\n' +
+          'desciam ao longo dessa escada» (Génesis, 28, 11 sq.). O rito índio faz\n' +
+          'também alusão à imortalidade que se obtém por se ter subido ao Céu.\n' +
+          'Como veremos dentro em pouco, uma quantidade de outras abordagens\n' +
+          'rituais de um Centro equivalem a uma conquista da imortalidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A assimilação da árvore ritual à Árvore Cósmica é ainda mais\n' +
+          'transparente no Xamanismo central e norte-asiático. A escalada desta\n' +
+          'árvore para o Xamã tártaro simboliza a sua ascensão ao Céu.\n' +
+          'Efetivamente fazem-se na árvore 7 ou 9 entalhes e subindo por eles o\n' +
+          'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
+          'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
+          'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
+          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#">2</a></sup>.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. materiais e bibliografia no nosso livro Le Chamanisme, pp. 171 sq.'
+          }
+        ]
+      },
+      {
+        text: 'A árvore xamânica é apenas uma réplica da Árvore do Mundo, que se\n' +
+          'eleva no meio do Universo e no cimo da qual se encontra o Deus Supremo\n' +
+          'ou o deus solarizado. Os 7 ou 9 entalhes na árvore Xamânica simbolizam\n' +
+          'os 7 ou 9 ramos da Árvore Cósmica, ou seja os 7 ou 9 céus. O xamã sentese,\n' +
+          'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
+          'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
+          'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
+          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#">3</a></sup>. É\n' +
+          'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
+          'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
+          'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
+          'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
+          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#">4</a></sup>. Estamos\n' +
+          'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
+          'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
+          'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
+          'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
+          'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
+          'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
+          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#">5</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'A. A. Popov, Tavgijcy. Materialy po etnografii avamskich i vedeevskich tavgicev\n' +
+              '(Moska-Leningrad, 1936), pp. 84 sq.; ver Le Chamanisme et les techniques\n' +
+              'archaiques de l\'extase, pp. 160 sq.'
+          },
+          {
+            index: 4,
+            content: 'Cf. E. Emsheimer, Schamanentrommel und Trommelbaum (Ethnos, vol. IV, 1946, pp. 166-181).'
+          },
+          {
+            index: 5,
+            content: 'A ascensão iniciática de uma árvore cerimonial encontra-se também no\n' +
+              'xamanismo indonésio, sul-americano (Araucan) e norte-americano (Pomo), cf.\n' +
+              'Le Chamanisme, pp. 122 sq., 125 sq.'
+          }
+        ]
       }
     ]
   },
@@ -5764,7 +6121,153 @@ export default [
       'Portugal',
     paragraphs: [
       {
-        text: '',
+        text: 'É bastante provável que, pelo menos no caso das religiões centroasiáticas\n' +
+          'e siberianas, este simbolismo do Centro seja influenciado por\n' +
+          'esquemas cosmológicos indo-iranianos e, em última análise,\n' +
+          'mesopotâmicos. A importância do número 7, entre outras coisas, parece\n' +
+          'prová-lo. Mas importa fazer bem a distinção entre o empréstimo de uma\n' +
+          '<i>teoria cosmológica</i> elaborada em torno do simbolismo do Centro — como\n' +
+          'seria, por exemplo, a concepção de 7 níveis celestes — e o <i>simbolismo</i> do\n' +
+          'centro em si. Já vimos que este simbolismo é extremamente arcaico, que\n' +
+          'é conhecido pelos Pigmeus da península de Malaca. E mesmo que se\n' +
+          'pudesse suspeitar de uma longínqua influência indiana nestes Pigmeus\n' +
+          'Semang, ficaria ainda por explicar o simbolismo do Centro encontrado nos\n' +
+          'monumentos pré-históricos (Montanhas Cósmicas, os quatro rios, a\n' +
+          'Árvore e a espiral, etc.). Melhor ainda: pôde demonstrar-se que o simbolismo de um eixo cósmico é já conhecido nas culturas arcaicas (as\n' +
+          '<i>Urkulturen</i> da escola Graebner-Schmidt) e, em primeiro lugar, pelas\n' +
+          'populações árticas e norte-americanas: a trave central da habitação\n' +
+          'destes povos é assimilada ao Eixo Cósmico. E é na base deste poste que se\n' +
+          'colocam as oferendas destinadas às divindades celestiais, pois é só ao\n' +
+          'longo deste eixo que as oferendas podem subir ao céu<sup><a href="#">1</a></sup>. Quando a forma\n' +
+          'da habitação se altera a cabana é substituída pela yurta (como, por\n' +
+          'exemplo, entre os pastores-criadores da Ásia central), a função míticoritual\n' +
+          'do pilar central é assegurada pela abertura superior destinada esta\n' +
+          'ao escapamento do fumo. Na altura dos sacrifícios, introduz-se na yurta\n' +
+          'uma árvore cujo cimo sai por aquela abertura. Esta árvore sacrificial, pelos\n' +
+          'seus 7 ramos simboliza as 7 esferas celestes. Assim, por um lado, <i>a casa\n' +
+          'está homologada ao Universo</i> e por outro lado ela é vista como situada no\n' +
+          '<i>Centro do Mundo</i>, ficando a abertura destinada ao fumo na direcção da\n' +
+          'estrela polar.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ver Le Chamanisme, pp. 235 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Voltaremos em breve a esta assimilação simbólica da habitação no\n' +
+          '«Centro do Mundo», pois ela trai um dos comportamentos mais\n' +
+          'instrutivos do homem religioso arcaico. Para já fiquemos nos ritos de\n' +
+          'ascensão que se verificam num «centro». Vimos que o Xamã tártaro ou\n' +
+          'siberiano trepa a uma árvore e que o sacrificador védico sobe uma\n' +
+          'escada. Os dois ritos perseguem a mesma finalidade: a ascensão ao Céu.\n' +
+          'Um número considerável de mitos fala de uma árvore, de uma liana, de\n' +
+          'uma corda, de um fio de aranha ou de uma escada que liga a Terra ao Céu\n' +
+          'e por intermédio dos quais certos seres privilegiados sobem efetivamente\n' +
+          'ao céu. Estes mitos têm, bem entendido, correspondências rituais —\n' +
+          'como, por exemplo a árvore Xamânica ou o mastro do sacrifício védico. A\n' +
+          'escada cerimonial desempenha igualmente um papel importante.\n' +
+          'Contentemo-nos com alguns exemplos: Polyeno (<i>Stratagematon</i>, VII, 22)\n' +
+          'fala-nos de Kosingas, padre-rei de algumas populações da Trácia, que\n' +
+          'ameaçava deixar os súbditos subindo por uma escada de madeira até à\n' +
+          'deusa Hera; o que prova que a dita escada ritual existia e que se supunha\n' +
+          'que pudesse conduzir o padre-rei até ao Céu. A ascensão celeste pela subida cerimonial de uma escada fazia provavelmente parte de uma\n' +
+          'iniciação órfica. Em todo o caso voltamos a encontrá-la na iniciação\n' +
+          'mitríaca. Nos mistérios de Mithra, a escada (<i>clímax</i>) cerimonial tinha 7\n' +
+          'degraus, sendo cada degrau feito de um metal diferente. Segundo Celso\n' +
+          '(Origines, <i>Contra Celsum</i>, VI, 22), o primeiro degrau era de chumbo e\n' +
+          'correspondia ao «céu» do planeta Saturno, o segundo de estanho\n' +
+          '(Vénus), o terceiro de bronze (Júpiter), o quarto de ferro (Mercúrio), o\n' +
+          'quinto de «liga de moeda» (Marte), o sexto de prata (Lua), o sétimo de\n' +
+          'ouro (Sol). O oitavo degrau, diz-nos Celso, representa a esfera das estrelas\n' +
+          'fixas<sup><a href="#">3</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
+          'os 7 céus elevando-se assim até ao Empíreo — tal como se subia ao\n' +
+          'último céu escalando os 7 andares da <i>ziqqurat</i> babilónica ou se\n' +
+          'atravessavam as diferentes regiões cósmicas pelos terraços do templo\n' +
+          'Barabudur que constituía em si próprio, como vimos, uma Montanha\n' +
+          'Cósmica e uma <i>imago mundi</i>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Cf. os materiais reunidos no nosso Chamanisme, pp. 248 sq. Para o simbolismo\n' +
+              'cristão da ascensão ver Louis Beirnaert, Le Symbolisme ascensionnel dans la\n' +
+              'liturgie et la mystique chrétiennes (Eranos-Jahrbuch, XIX, Zürich, 1951, pp. 41-\n' +
+              '63).'
+          }
+        ]
+      },
+      {
+        text: 'Compreende-se facilmente que a escada da iniciação mitríaca era um\n' +
+          'Eixo do Mundo e que se encontrava no Centro do Universo; de outro\n' +
+          'modo a ruptura dos níveis não teria sido possível. «Iniciação» quer dizer,\n' +
+          'como se sabe, morte e ressurreição do neófito, ou, noutros contextos,\n' +
+          'descida aos Infernos seguida de ascensão ao Céu. A morte — iniciática ou\n' +
+          'não— é a ruptura de nível por excelência. E por isso que ela é simbolizada\n' +
+          'por uma escalada e frequentemente os rituais funerários utilizam escadas\n' +
+          'ou escadarias. A alma do morto sobe as veredas de uma montanha, ou\n' +
+          'trepa a uma árvore, ou liana até aos céus. Esta concepção encontra-se um\n' +
+          'pouco por todo o mundo, desde o Egipto antigo à Austrália. A expressão\n' +
+          'habitual em assiriano para o verbo «morrer» é: «agarrar-se à montanha».\n' +
+          'Igualmente em egípcio, <i>myny</i>, «agarrar-se», é um eufemismo para\n' +
+          '«morrer». Na tradição mítica indiana, Yam, o primeiro morto, trepou à\n' +
+          'montanha e percorreu os «altos desfiladeiros» para mostrar «o caminho a muitos homens»; assim se exprime o <i>Rig Veda</i> (X, 14, 1). O caminho dos\n' +
+          'mortos na crença popular uralo-altaica é a escalada dos montes; Bolot,\n' +
+          'herói Kara-Kirghiz, tal como Kesar, rei lendário dos mongóis, entra no\n' +
+          'outro mundo, à maneira de prova iniciática, por uma gruta situada no\n' +
+          'topo das montanhas; a descida do xamã aos Infernos também se realiza\n' +
+          'por meio de uma gruta. Os Egípcios conservam nos seus textos funerários\n' +
+          'a expressão <i>asket pet</i> (<i>asket</i> = «degrau») para indicar que a escada de que\n' +
+          'dispõe Ré, é uma escada real que liga a Terra ao Céu. «Está instalada, para\n' +
+          'mim, a escada de ver os deuses», diz o <i>Livro dos Mortos</i>. «Os deuses\n' +
+          'fazem-lhe uma escada para que, ao servir-se dela, ele suba ao Céu», diz\n' +
+          'ainda aquele livro. Em muitos túmulos do tempo das dinastias arcaicas e\n' +
+          'medievais, encontraram-se amuletos em forma de escada (<i>maqet</i>) ou\n' +
+          'uma escalda. O uso da escada funerária sobreviveu algures até aos nossos\n' +
+          'dias: diversas populações asiáticas primitivas — como, por exemplo, os\n' +
+          'Lolos, os Karens, etc. — erguem sobre os túmulos escadas rituais que\n' +
+          'servem para os defuntos subirem aos Céus<sup><a href="#">4</a></sup>.',
+        footnote: [
+          {
+            index: 4,
+            content: 'Ver Traité d\'Histoire des Religions, pp. 96 sq. Le Chamanisme et les techniques\n' +
+              'archaiques de l\'extase, pp. 420 sq'
+          }
+        ]
+      },
+      {
+        text: 'Como acabamos de ver, a escada contém um simbolismo\n' +
+          'extremamente rico sem deixar de ser perfeitamente coerente: <i>ela\n' +
+          'representa plasticamente a ruptura de nível que torna possível a\n' +
+          'passagem de um modo de ser a um outro</i>; ou, colocando-nos no plano\n' +
+          'cosmológico, <i>que torna possível a comunicação entre Céu, Terra e Inferno</i>.\n' +
+          'E por isso que a escada e a escalada desempenham um papel considerável\n' +
+          'tanto nos ritos e mitos de iniciação como nos ritos funerários, para não\n' +
+          'falar dos ritos de entronização real ou sacerdotal, ou dos ritos de\n' +
+          'casamento. Ora, sabe-se que o simbolismo da escalada e dos degraus se\n' +
+          'encontra com muita frequência na literatura psicanalítica, o que define\n' +
+          'que estamos perante um comportamento arcaico da psiqué humana e\n' +
+          'não perante uma criação «histórica», uma inovação devida a um certo\n' +
+          'momento histórico (digamos: o Egipto arcaico ou a índia védica, etc.).\n' +
+          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#">5</a></sup>.',
+        footnote: [
+          {
+            index: 5,
+            content: 'Ver nosso estudo Durohâna and the «waking dream» (Art and Thought, A\n' +
+              'volume in honour of the late Dr. Ananda K. Coomaraswamy, London, 1947, pp.\n' +
+              '209 sq.).'
+          }
+        ]
+      },
+      {
+        text: 'Julien Green nota no seu Diário de 4 de Abril de 1933: «Em todos os\n' +
+          'meus livros a ideia do medo ou de qualquer outra emoção um pouco forte\n' +
+          'parece ligada de maneira inexplicável a uma escada. Apercebi-me disso\n' +
+          'ontem, quando passava em revista todos os romances que escrevi...\n' +
+          '(Seguem-se as referências). Pergunto-me como pude eu repetir tantas\n' +
+          'vezes este efeito sem dar por isso. Em criança sonhava que me\n' +
+          'perseguiam numa escada. Minha Mãe sofreu dos mesmos temores na sua\n' +
+          'juventude; talvez tenha permanecido em mim um pouco disso...»',
         footnote: [
           {
             index: '',
@@ -5773,8 +6276,39 @@ export default [
         ]
       },
       {
-        text: '',
-        footnote: []
+        text: 'Sabemos hoje por que motivo a ideia de medo, no escritor francês,\n' +
+          'está ligada à imagem de uma escada e por que razão todos os\n' +
+          'acontecimentos dramáticos por ele descritos ao longo da sua obra —\n' +
+          'amor, morte, crime — tiveram lugar numa escada. A escalada ou a\n' +
+          'ascensão simboliza <i>o caminho para a realidade absoluta</i>; e, na consciência\n' +
+          'profana, a aproximação desta realidade provoca um sentimento\n' +
+          'ambivalente de medo e de alegria, de atracção e de repulsa, etc. As ideias\n' +
+          'de santificação, de morte, de amor e de libertação estão implicadas no\n' +
+          'simbolismo da escada. Com efeito, cada um destes modos de ser\n' +
+          'representa a abolição da condição humana profana, isto é, uma ruptura\n' +
+          'de nível ontológica: através do amor, da morte, da santidade, do\n' +
+          'conhecimento metafísico, o homem passa, como o diz a <i>Brihadâranyaka\n' +
+          'Upanisad</i>, do «irreal à realidade».',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Mas, é preciso que não se esqueça, a escada simboliza todas as\n' +
+          'coisas porque se supõe erguer-se num «centro», porque torna possível a\n' +
+          'comunicação entre os diferentes níveis do ser, porque, enfim, não é mais\n' +
+          'do que uma fórmula concreta da escada mítica, da liana ou do fio de\n' +
+          'aranha, ,da Árvore Cósmica ou do Pilar universal que ligam as três zonas\n' +
+          'cósmicas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   },
