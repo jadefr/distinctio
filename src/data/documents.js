@@ -5251,20 +5251,410 @@ export default [
     authorURL: 'mircea-eliade',
     sectionURL: 'psicologia-e-historia-das-religioes',
     content: 'Muitos   profanos   há   que   invejam   a   vocação   do   historiador   dasreligiões. Que outra ocupação mais nobre e enriquecedora haverá do quefrequentar os grandes místicos de todas as religiões, viver entre símbolose mistérios, ler e compreender os mitos ide todas as nações? Os profanospensam que um historiador das religiões está no seu ambiente tanto nosmitos gregos como nos egípcios, ou na mensagem autêntica de Buda, ounos   mistérios   taoístas,  ou   ainda  nos   ritos   secretos  de   iniciação  dassociedades   arcaicas.   Talvez   que   os   profanos   não   deixem   de   terinteiramente razão quando imaginam o historiador das religiões solicitadopelos  grandes  e  verdadeiros  problemas,  ocupado  a  decifrar  os  maisgrandiosos  símbolos  e  os  mitos  mais  complexos  e  mais  elevados  daimensa  massa  de  fatos  que  se  lhe  oferece.  Mas,  de  fato,  a  situação  étotalmente   diferente.   Muitos   historiadores   de   religiões   estão   tãoabsorvidos  pela  sua  especialidade  que  não  sabem  muito  más  sobre  osmitos gregos ou egípcios, sobre a mensagem deBuda, sobre as técnicastaoístas  ou  Xamanistas,  do  que  um  amador  que  soube  orientar  as  suasleituras.  A  maior  parte  nem  está  verdadeiramente  familiarizada  senãocom  um  pobre  setorzinho  do  imenso  domínio  da  história  das  religiões.Infelizmente, mesmo este setor tão modesto é, quase sempre, exploradosuperficialmente:  decifração,  edição  e  tradução  de  textos;  ensaios  decronologiaeestudo de influências; monografia histórica ou reportório dosmonumentoseassimsucessivamente.',
-    disclaimer: '',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
     paragraphs: [
       {
-        text: '',
+        text: 'Psicologia e história das religiões',
         footnote: [
           {
             index: '',
             content: ''
           }
-        ]
+        ],
+        bold: [],
+        chapterTitle: 'y'
+      },
+      {
+        text: 'Muitos profanos há que invejam a vocação do historiador das\n' +
+          'religiões. Que outra ocupação mais nobre e enriquecedora haverá do que\n' +
+          'frequentar os grandes místicos de todas as religiões, viver entre símbolos\n' +
+          'e mistérios, ler e compreender os mitos ide todas as nações? Os profanos\n' +
+          'pensam que um historiador das religiões está no seu ambiente tanto nos\n' +
+          'mitos gregos como nos egípcios, ou na mensagem autêntica de Buda, ou\n' +
+          'nos mistérios taoístas, ou ainda nos ritos secretos de iniciação das\n' +
+          'sociedades arcaicas. Talvez que os profanos não deixem de ter\n' +
+          'inteiramente razão quando imaginam o historiador das religiões solicitado\n' +
+          'pelos grandes e verdadeiros problemas, ocupado a decifrar os mais\n' +
+          'grandiosos símbolos e os mitos mais complexos e mais elevados da\n' +
+          'imensa massa de fatos que se lhe oferece. Mas, de fato, a situação é\n' +
+          'totalmente diferente. Muitos historiadores de religiões estão tão\n' +
+          'absorvidos pela sua especialidade que não sabem muito más sobre os\n' +
+          'mitos gregos ou egípcios, sobre a mensagem de Buda, sobre as técnicas\n' +
+          'taoístas ou Xamanistas, do que um amador que soube orientar as suas\n' +
+          'leituras. A maior parte nem está verdadeiramente familiarizada senão\n' +
+          'com um pobre setorzinho do imenso domínio da história das religiões.\n' +
+          'Infelizmente, mesmo este setor tão modesto é, quase sempre, explorado\n' +
+          'superficialmente: decifração, edição e tradução de textos; ensaios de\n' +
+          'cronologia e estudo de influências; monografia histórica ou reportório dos\n' +
+          'monumentos e assim sucessivamente. Confinado num assunto forçosamente limitado, o historiador das religiões muitas vezes tem a\n' +
+          'sensação de ter sacrificado a bela carreira espiritual sonhada na sua\n' +
+          'juventude a um dever de probidade científica.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: 'Mas, a excessiva probidade científica desta produção acabou por lhe\n' +
+          'alienar o público culto. Fora muito raras excepções, os historiadores das\n' +
+          'religiões não são lidos senão no círculo restrito dos seus colegas e\n' +
+          'discípulos. O público não lê já estes livros quer porque são demasiado\n' +
+          'técnicos, quer porque são enfadonhos; ao fim e ao cabo não têm nenhum\n' +
+          'interesse espiritual. À força de ouvir repetir, como, por exemplo, o fez sir\n' +
+          'James Frazer, em algumas vinte mil páginas, que tudo o que o homem\n' +
+          'pensou, imaginou ou desejou nas sociedades arcaicas, todos os seus mitos\n' +
+          'e ritos, todos os seus deuses e experiências religiosas, não passam de um\n' +
+          'amontoado monstruoso de insanidades, de crueldades e de superstições,\n' +
+          'felizmente abolidas pelo progresso racional do homem; à força de ouvir\n' +
+          'quase sempre a mesma coisa, o público acabou por se deixar convencer e\n' +
+          'deixou de se interessar pelo estudo objetivo da história das religiões. Uma\n' +
+          'parte, pelo menos, desse público tenta satisfazer a sua legítima\n' +
+          'curiosidade lendo livros péssimos sobre os mistérios das Pirâmides, os\n' +
+          'milagres do Yoga, as «revelações primordiais», ou a Atlântida — em\n' +
+          'resumo, interessa-se pela medonha literatura dos diletantes, dos neoespiritualistas\n' +
+          'ou dos pseudo-ocultistas.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: 'Em certa medida, os responsáveis encontram-se entre nós,\n' +
+          'historiadores das religiões. Quisemos a todo o custo apresentar uma\n' +
+          'história \ <i> \ objetiva \ </i> \ das religiões, sem nos darmos sempre conta de que\n' +
+          'aquilo a que chamámos \ <i> \ objetividade \ </i> \, seguia a moda do pensamento do\n' +
+          'nosso tempo. Esforçamo-nos, há cerca de um século, por construir a\n' +
+          'história das religiões como disciplina autónoma, sem termos conseguido;\n' +
+          'a história das religiões continua como todos sabem, a ser confundida com\n' +
+          'a antropologia, a etnologia, a sociologia, a psicologia religiosa e até\n' +
+          'mesmo com o orientalismo. Desejando a todo o transe obter o prestígio\n' +
+          'de uma «ciência», a história das religiões também passou por todas as\n' +
+          'crises do espírito científico moderno: os historiadores das religiões foram\n' +
+          'sucessivamente, e alguns deles não deixaram de o ser, positivistas, empiristas, nacionalistas ou historicistas. E o que é mais é que nenhuma\n' +
+          'das «modas» que dominaram sucessivamente a história das religiões,\n' +
+          'nenhuma das explicações globais e sistemáticas dadas ao fenômeno\n' +
+          'religioso, foi obra de um historiador das religiões; todas elas provêm de\n' +
+          'hipóteses propostas por eminentes linguistas, antropólogos, sociólogos\n' +
+          'ou etnólogos e aceites por seu turno por toda a gente, incluindo os\n' +
+          'historiadores de religiões.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: 'A situação apresenta-se, nos nossos dias, da seguinte maneira:\n' +
+          'progresso considerável na informação, que é pago por uma excessiva\n' +
+          'especialização e até por um sacrifício parcial da nossa vocação (pois\n' +
+          'muitos dos historiadores das religiões tornam-se orientalistas, classicistas,\n' +
+          'etnólogos, etc.); dependência dos métodos elaborados pela historiografia\n' +
+          'ou pela sociologia moderna (como se o estudo histórico de um rito ou de\n' +
+          'um mito fosse a mesma coisa exatamente do que a história de um dado\n' +
+          'país ou a monografia de determinado povo primitivo). Numa palavra,\n' +
+          'descurou-se este fato essencial: que na expressão «história das religiões»\n' +
+          'a tónica não deve recair no termo \ <i> \ história \ </i> \ mas sim no termo religião. Pois\n' +
+          'se há diversas maneiras de praticar a \ <i> \ história \ </i> \ — da história dos técnicos à\n' +
+          '\ <i> \ história \ </i> \ do pensamento humano — há apenas uma para abordar a\n' +
+          'religião e que consiste em fixar-se nos fatos religiosos. Antes de se fazer a\n' +
+          'história de qualquer coisa, é importante compreender bem essa mesma\n' +
+          'coisa em si própria e por ela. Eis porque é preciso sublinhar aqui a obra do\n' +
+          'professor Van der Leeuw, que tanto fez pela fenomenologia da religião e\n' +
+          'cujas numerosas e brilhantes publicações suscitaram junto do público\n' +
+          'culto um renovado interesse pela história das religiões em geral.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: 'De modo indireto, o mesmo interesse foi despertado pelas\n' +
+          'descobertas da psicanálise e da psicologia de profundidade, em primeiro\n' +
+          'lugar pela obra do professor Jung. De fato, não tardou que se verificasse\n' +
+          'que o enorme domínio da história das religiões constituía uma mina\n' +
+          'inesgotável de elementos de comparação com o comportamento da\n' +
+          'psique individual ou coletiva, comportamento estudado pelos psicólogos\n' +
+          'e pelos analistas. Ninguém ignora que a utilização de tais documentos\n' +
+          'socio-religiosos pelos psicólogos nem sempre obteve a adesão dos historiadores das religiões. Dentro em pouco examinaremos as objecções\n' +
+          'dirigidas a tais conclusões muitas das vezes, é certo, demasiado\n' +
+          'audaciosas. Mas, para desde já o dizer, se os historiadores das religiões\n' +
+          'tivessem abordado o seu objeto de estudo de uma perspetiva mais\n' +
+          'espiritual, se se tivessem esforçado por penetrar mais profundamente o\n' +
+          'simbolismo religioso arcaico, muitas interpretações psicológicas ou\n' +
+          'psicanalíticas, que parecem demasiado superficiais aos olhos dos\n' +
+          'especialistas, não teriam sido sugeridas. Os psicólogos encontraram nos\n' +
+          'nossos livros excelente material, mas raramente explicações em\n' +
+          'profundidade e foram levados a compensar esta lacuna colocando-se no\n' +
+          'lugar dos historiadores das religiões e avançando hipóteses de conjunto\n' +
+          'frequentemente por demais apressadas.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: 'Em duas palavras, as dificuldades que temos de ultrapassar hoje em\n' +
+          'dia são as seguintes: a) por um lado, tendo optado pelo prestígio de uma\n' +
+          'historiografia objetiva, «científica», a história das religiões é obrigada a\n' +
+          'fazer face às abjecções que se podem dirigir ao historicismo como tal; b)\n' +
+          'por outro lado, ela é também obrigada a responder ao desafio que acaba\n' +
+          'de lhe lançar a psicologia em geral, e em primeiro lugar a psicologia de\n' +
+          'profundidade que, ao começar a trabalhar diretamente com material\n' +
+          'histórico-religioso, propõe hipóteses de trabalho mais felizes, mais férteis\n' +
+          'ou, em todo o caso, mais retumbantes do que as que são correntes entre\n' +
+          'os historiadores das religiões.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: 'Para melhor compreender estas dificuldades, venhamos ao objeto\n' +
+          'deste estudo: o simbolismo do «Centro». Um historiador das religiões tem\n' +
+          'o direito de nos perguntar: que entende o senhor por esses termos? De\n' +
+          'que símbolos se trata? De que povos e de que culturas? E o historiador de\n' +
+          'religiões poderá argumentar: é sabido que a época de Taylor, de\n' +
+          'Mannhardt e de Frazer terminou; hoje deixámos de ter o direito de falar\n' +
+          'de mitos e de ritos «em geral», da unidade das reações do homem\n' +
+          'primitivo em relação à Natureza. Essas generalidades são abstracções, tais\n' +
+          'como as ido «homem primitivo» em geral. O que é concreto é o\n' +
+          'fenómeno religioso manifestado na história e através da história. Que\n' +
+          'sentido poderia portanto ter na história das religiões uma fórmula comum como por exemplo a abordagem ritual da imortalidade? É. necessário\n' +
+          'precisar imediatamente de que imortalidade se trata. Pois, \ <i> \ a priori \ </i> \, não\n' +
+          'estamos certos de que a humanidade ao seu conjunto tenha tido\n' +
+          'espontaneamente, a intuição ou até o desejo da imortalidade. Falais do\n' +
+          'simbolismo do «Centro». Com que direito na qualidade de historiador de\n' +
+          'religiões? Poder-se-á generalizar tão aereamente? Seria necessário antes\n' +
+          'começar por se interrogar: em que cultura e em consequência de que\n' +
+          'acontecimentos históricos se «cristalizou» a noção religiosa do «Centro»\n' +
+          'ou a da imortalidade? Como se integram e se justificam estas noções no\n' +
+          'sistema orgânico desta ou daquela cultura? Como se divulgaram e através\n' +
+          'de que povos? Depois de ter respondido a todas estas questões\n' +
+          'preliminares, ter-se-á o direito de generalizar e de sistematizar, de falar,\n' +
+          'em geral, dos ritos de imortalidade ou de símbolos do «Centro». Quando\n' +
+          'não estar-se-á a fazer psicologia ou filosofia, ou até mesmo teologia —\n' +
+          'mas não história das religiões.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: 'Creio que todas estas objecções são justificadas, e, na qualidade de\n' +
+          'historiador das religiões, devo levá-las em conta. Mas não as julgo\n' +
+          'intransponíveis. Sei perfeitamente que estamos a tratar -com \ <i> \ fenômenos \ </i> \\n' +
+          'religiosos e, pelo simples fato de eles serem \ <i> \ fenômenos \ </i> \, quer dizer que se\n' +
+          'manifestam, se nos revelam, são cunhados, como uma medalha, pelo\n' +
+          'momento histórico que os viu nascer. Não existe fato religioso «puro»\n' +
+          'fora do tempo. A mais nobre mensagem religiosa a mais universal das\n' +
+          'experiências místicas, o comportamento mais geralmente humano —\n' +
+          'como, por exemplo, o temor religioso, o rito, a oração — singularizam-se\n' +
+          'e delimitam-se desde que se manifestam. Quando o Filho de Deus\n' +
+          'encarnou e se fez Cristo, teve de falar aramaico; não podia deixar de\n' +
+          'comportar-se como um hebreu do seu tempo — e não um como yogi, um\n' +
+          'taoísta ou um Xamã. A sua mensagem religiosa, por universal que fosse,\n' +
+          'estava condicionada pela história passada e contemporânea do povo\n' +
+          'hebreu. Se o Filho de Deus tivesse nascido na Índia, a sua mensagem oral\n' +
+          'teria tido que se conformar com a estrutura dos idiomas indianos e com a\n' +
+          'tradição histórica e pré-histórica \'deste conglomerado de povos.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: 'Reconhece-se sem dificuldade nesta tomada de posição todo o progresso especulativo realizado desde Kant — que deve ser considerado\n' +
+          'como um precursor do historicismo — até aos últimos filósofos\n' +
+          'historicistas ou existencialistas. O homem, na sua qualidade de ser\n' +
+          'histórico, concreto, autêntico — está «em situação». A sua existência\n' +
+          'autêntica realiza-se na história, no tempo, no seu tempo — que não é o\n' +
+          'mesmo do seu pai. Também não é o tempo dos seus conterrâneos de\n' +
+          'outro continente ou mesmo de outro país. Neste caso, em que nome se\n' +
+          'fala do comportamento do homem em geral? Este homem em geral não\n' +
+          'passa de uma abstracção. Ele existe graças a um mal-entendido, devido à\n' +
+          'imperfeição da nossa linguagem.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: 'Não é este o lugar para uma abordagem à crítica filosófica do\n' +
+          'historicismo e do existencialismo historicista. Essa crítica foi já feita e por\n' +
+          'autores mais competentes do que nós. Sublinhemos, de passagem, que o\n' +
+          'condicionamento histórico da vida espiritual humana retoma, a um outro\n' +
+          'nível e com outros meios dialéticos, as teorias, hoje um pouco caducas,\n' +
+          'dos condicionamentos geográficos, económicos, sociais e até mesmo\n' +
+          'fisiológicos. Todos concordam que um fato espiritual sendo um fato\n' +
+          '\ <i> \ humano \ </i> \ é forçosamente condicionado por tudo o que concorre para fazer\n' +
+          'um homem, desde a anatomia e fisiologia até à linguagem. Por outras\n' +
+          'palavras, um fato espiritual pressupõe o ser humano integral, isto é, e a\n' +
+          'entidade fisiológica, e o homem social, e o homem económico, e assim\n' +
+          'por diante. Mas todos estes condicionamentos não chegam para esgotar,\n' +
+          'por si sós, a vida espiritual.',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: 'O que distingue o historiador das religiões de um historiador sem\n' +
+          'mais, é que ele lida com fatos que, se bem que históricos, revelam um\n' +
+          'comportamento que ultrapassa de longe os comportamentos históricos\n' +
+          'do ser humano. Se é verdade que o homem se encontra sempre «em\n' +
+          'situação», esta situação nem por isso é sempre histórica, ou seja,\n' +
+          'condicionada unicamente pelo momento histórico contemporâneo. O\n' +
+          'homem integral conhece outras situações além da sua condição histórica;\n' +
+          'conhece, por exemplo, o estado onírico, ou de sonho acordado, ou de\n' +
+          'melancolia e de desprendimento, ou de beatitude estética, ou de evasão,\n' +
+          'etc. — e todos estes estados não são «históricos», se bem que sejam também autênticos e tão importantes para a existência humana como a\n' +
+          'sua situação histórica. O homem conhece, aliás, diversos ritmos temporais\n' +
+          'e não unicamente o tempo histórico, ou seja o seu próprio tempo, a\n' +
+          'contemporaneidade histórica. Basta-lhe ouvir boa música, apaixonar-se\n' +
+          'ou rezar para sair do presente histórico e reintegrar o eterno presente do\n' +
+          'amor e da religião. Às vezes basta-lhe abrir um romance ou assistir a um\n' +
+          'espetáculo dramático para reencontrar um outro ritmo temporal —\n' +
+          'aquilo a que poderia chamar-se tempo contraído — que, em todo o caso,\n' +
+          'não é o mesmo que tempo histórico. Conclui-se apressadamente que a\n' +
+          'autenticidade de uma existência depende unicamente da consciência da\n' +
+          'sua própria historicidade. Esta consciência histórica desempenha um\n' +
+          'papel bastante modesto na consciência humana, para não falar das zonas\n' +
+          'do inconsciente que, também elas, pertencem ao ser humano integral.\n' +
+          'Quanto mais uma consciência está desperta, mais ela ultrapassa a sua\n' +
+          'própria historicidade. Basta-nos recordar os místicos e os sábios de todos\n' +
+          'os tempos e, em primeiro lugar, os do Oriente.\',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      }, {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
       },
       {
         text: '',
-        footnote: []
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
+      },
+      {
+        text: '',
+        footnote: [],
+        bold: [],
+        chapterTitle: ''
       }
     ]
   },
@@ -5279,7 +5669,9 @@ export default [
     sectionURL: 'historia-e-arquetipos',
     content: 'Também autênticos e tão importantes para aexistência humana como asua situação histórica. O homem conhece, aliás, diversos ritmos temporaise  não  unicamente  o  tempo  histórico,  ou  seja  oseu  próprio  tempo,  acontemporaneidade  histórica.  Basta-lhe  ouvir  boa  música,  apaixonar-seou rezar para sair do presente histórico e reintegrar o eterno presente doamor e da religião. Às vezes basta-lhe abrir um romance ou assistir a umespetáculo  dramático  para  reencontrar  um  outro  ritmo  temporal—aquilo a que poderia chamar-se tempo contraído—que, em todo o caso,não  é  o  mesmo  que  tempo  histórico.  Conclui-se  apressadamente  que  aautenticidade de umaexistência depende unicamente da consciência dasua  própria  historicidade.  Esta  consciência  histórica  desempenha  umpapel bastante modesto na consciência humana, para não falar das zonasdo  inconsciente  que,também  elas,  pertencem  ao  ser  humano  integral.Quanto  mais  uma  consciência  está  desperta,  mais  ela  ultrapassa  a  suaprópria historicidade. Basta-nos recordar os místicos e os sábios de todosos tempos e, em primeiro lugar, os do Oriente.História e arquétiposMas  deixemos  de  parte  as  objecções  que  poderiam  opor-se  aohistoricismo   e   ao   existencialismo   historicista   e   voltemos   ao   nossoproblema, isto é, aos dilemas do historiador das religiões. Este, dizíamos,esquece muitas vezes que está a lidar com um comportamento humanoarcaico e integral e que, por conseguinte, o seu papel não deveria reduzir-se  aoregisto  das  manifestações  históricas  deste  comportamento,eledeveria   aplicar-se   também   a   penetrar   mais   profundamente   os   seussignificadose as suas articulações. Tomemos um sóexemplo; sabe-se hojeque certos mitos e símbolos circularam através do mundo divulgados pordeterminados   tipos   de   cultura;   quer   dizer   que   estes   mitos   e   estessímbolos  nem  por  isso  são  descobertas  espontâneas  do  homem  arcaicomas  criações  de  um  complexo  cultural  bem  delimitado,  elaborado  e 34veiculado por certas sociedades humanas; tais criações foram difundidasmuito  longe  do  Seu  lugar  de  origem  e  foram  assimiladas  por  povos  esociedades que doutro modo as não teriam conhecido.Creio que estudando tão rigorosamente quanto possível as relaçõesentre certos complexos religiosos e certas formas decultura, e precisandoas  etapas  da  difusão  destes  complexos  oetnólogotem  o  direito  de  sedeclarar  satisfeito  com  os  resultados  das  suas  pesquisas.Mas  este  nãoseria o caso do historiador das religiões: uma vez aceites e integrados osresultados  da  etnologia,  aquele  deve  ainda  pôr-se  outros  problemas:porquê tal  mito  ou tal  símbolo puderam  ser  difundidos? Que  revelavameles? Por que motivo certos pormenores—mesmo muito importantes—se  perdem durante  a difusão,  enquanto  outros continuam a  sobreviver?Em suma:a que respondem estes mitoseestes símbolos para terem tidouma tal difusão?É preciso não abandonar estas questões aos psicólogos,aos sociólogos e aos filósofos porque ninguém está mais bem preparadopara as resolver do que o historiador das religiões.Basta  que  nos  demos  ao  trabalho  de  estudar  o  problema  paraverificar que, difundidos ou descobertos espontaneamente, os símbolos,os  mitos  eos  ritos  revelam  sempre  uma  situação--histórica:  situaçãolimite quer dizer: aquela que o homem descobre ao tomar consciência doseu  lugar  no  Universo.  É  principalmente  ao  esclarecer  estas  situações-limite  que  o  historiador  das  religiões  cumpre  a  sua  tarefa  e  vai  aoencontro das investigações da psicologia de profundidade e até mesmo dafilosofia.  Este  estudo  é  possívele,aliás,  já  foi  iniciado.  Chamando  aatenção para a sobrevivência dos símbolos e temas míticos na psiqué dohomem   moderno,   mostrando   que   aredescoberta   espontânea   dosarquétipos   do   simbolismo   arcaico   é   coisa   vulgar   entre   nós,   sereshumanos,  sem  diferença  de  raça  e  de  meio  histórico,  a  psicologia  deprofundidade   libertou   o   historiador   das   religiões   das   suas   últimashesitações. Dentro em poucodaremos alguns exemplos de redescobertaespontânea  de  um  simbolismo  arcaicoeveremos  o  que  eles  podemensinar a um historiador das religiões. Mas desde já se adivinham as perspetivas que se abririam à história\n' +
       'das  religiões  se  ela  soubesse  tirar  partidode  todas  as  suas  própriasdescobertas   e   das   da   etnologia,   da   sociologiaeda   psicologia   deprofundidade.  A  encarar  o  estudo  do  homem  não  apenas  como  serhistórico, mas também como símbolo vivo, a história das religiões poderiatransformar-se, perdoem-nosotermo, numametapsicanálise.Porque elaconduziria a umdespertar e a uma retomada de consciência dos símbolose dos arquétipos arcaicos, vivos ou fossilizados nas tradições religiosas dahumanidade inteira. Arriscámos o termo: metapsicanálise pois se trata deuma  técnica  mais  espiritual,  aplicando-se  antes  de  mais  a  esclarecer  oconteúdo teórico dos símbolos e dos arquétipos, a tornar transparente oque  é  «alusivo»,  críptico  ou  fragmentário.  Falar-se-ia  assim  também  deuma nova maiêutica: tal como Sócrates noTuteto(149a sq.,161e)faziacom queoespírito desse à luz os pensamentos que aquele continha semosaber, a história das religiões poderia dar à luz um homem novo, maisautêntico   e   mais   completo;   pois,   através   do   estudo   das   tradiçõesreligiosas,ohomemmodernonãoreencontrariaapenasumcomportamento   arcaico;   tomaria,   além   disso,  consciência  da   riquezaespiritual que implica um tal comportamento.Esta maiêutica realizada com a colaboração do simbolismo religiosocontribuiria assim para libertaro homem moderno do seu provincianismocultural e, sobretudo, do relativismo historicista eexistencialista. Porque,como  se  verá,  o  homem  opõe-se  à  própria  história  mesmo  quando  sededica   a   fazê-la,   mesmo   quando   pretende   nada   mais   ser   do   que«história».  E,na  medida  em  que  o  homem  ultrapassa  o  seu  momentohistóricoedá  livre  curso  ao  seu  desejo  de  reviver  os  arquétipos,  elerealiza-se como um ser integral, universal. Na medida em que se opõe àhistória, o homem moderno encontra as posições arquetípicas. Até o seusono,   as   suas   tendências   orgíacas   estão   carregadas   de   significadoespiritual.  Pelo  simples  fato  de  encontrar  no  mais  fundo  do  seu  ser  osritmos cósmicos—a alternância dos dias e das noites,  porexemplo, ouInverno-Verão—ele alcança um conhecimento mais total do seu destinoe do seu significado.',
-    disclaimer: '',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
     paragraphs: [
       {
         text: '',
@@ -5288,11 +5680,13 @@ export default [
             index: '',
             content: ''
           }
-        ]
+        ],
+        bold: []
       },
       {
         text: '',
-        footnote: []
+        footnote: [],
+        bold: []
       }
     ]
   },
@@ -5307,7 +5701,9 @@ export default [
     sectionURL: 'a-imagem-do-mundo',
     content: 'Dos símbolos põe um  problema de pesadas  consequências;  certas  zonasdo  inconsciente  individual  ou  coletivo  serão  ou  não  dominadas tambémpelologos,ou estaremos perante manifestações de um transconsciente?Este  problema  não  poderia  ser  resolvido  unicamente  pela  psicologia  deprofundidade,   pois   os   simbolismos   que   decifram   estaúltima   sãoconstituídos  na  maior  parte  do  tempo,  por  fragmentos  dispersos  e  pormanifestações de uma psiqué em crise, se não em regressão patológica.Para  surpreender  as  verdadeiras  estruturas  e  funções  dos  símbolos,  épreciso   que   nos   dirijamos   ao   inesgotável   repertório   da   história   dasreligiões.   Mas,   ainda   aqui   é   preciso   saber   escolher   pois   os   nossosdocumentos apresentam frequentemente formas decadentes, aberrantesou  francamente  medíocres.  Se  se  quiser  chegar  a  uma  compreensãoadequada  do  simbolismo  religioso  arcaico  é-se  obrigado  a  fazer  umaselecção,  do  mesmo  modo  que,  para  se  ter  ideia  de  uma  literaturaestrangeira,  não  se  consideram  ao acaso  os primeiros dez  ou  cem  livrosque se encontram na primeira biblioteca pública. Deve esperar-se que oshistoriadores das religiões façam um dia o trabalho de hierarquização dosseus documentos, tendo em conta o seu valor e o seu estado, tal como osseus colegas, os historiadores das literaturas. Mas, mesmo assim, estamosapenas no princípio.Aimagemdo mundoAs  sociedades  arcaicas  e  tradicionais  concebem  o  mundo  em  seuredor com um microcosmos. Nos limites deste mundo fechado, começa odomínio do desconhecido,  do  não-formado. De um  lado existe o  espaçocosmisado, portanto habitado e organizado—de outro lado, no exteriordeste   espaço   familiar,   existe   a   região   desconhecida   e   terrível   dosdemónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,a  morte,  a  noite.  Esta  imagem  de  um  microcosmomundo  habitado,rodeado  de  regiões  desérticas  assimiladas  ao  caos  ou   ao  reino  dos\n' +
       'mortos,  sobreviveu  mesmo  nas  civilizações  muito  evoluídas,  com  as  daChina,  da  Mesopotâmia  ou  do  Egipto.  De  fato,  um  grande  número  detextos  assimila  os  adversários,  prontos  a  atacar  o  território  nacional,  àslarvas, aos demónios ou às forças do caos. Assim, os adversários do Faraóeram  considerados  como  «filhos  da  ruína,  dos  lobos,  dos  cães»,  etc.  OFaraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto osseus  inimigoseram  identificados  com  este  dragão  mítico2.  Pelo  fato  deatacarem e porem em perigo o equilíbrio e a própriavida da cidade (ouide  qualquer  outro  território  habitado  e  organizado),  os  inimigos  sãoassimilados  às  forças  demoníacas,  pois  eles  esforçam-se  por  reintegrareste microcosmos no estado caótico, ou seja suprimi-lo. A destruição deuma   ordem   estabelecida,a   abolição   de   uma   imagem   arquetípica,equivalia a uma regressão para o caos, para o pré-formal, para o estadonão  diferenciado  que  precedia  a  cosmogonia.  Notemos  que  as  mesmasimagens são ainda utilizadas nos nossos dias quando se trata de formularos    perigos    que    ameaçam    um    certo    tipo    de    civilização:    fala-senomeadamente   de   «caos»,   de   «desordem»,   das   «trevas»   em   quemergulhará o «nosso mundo». Todas estas expressões, como bem se vê,significam a abolição de uma ordem, de um Cosmos, de uma estrutura, ea re-imersão num estado fluido, amorfo, caótico enfim.A  concepção  do  adversário  sob  a  forma  de  um  ser  demoníaco,verdadeira encarnação idas forças do mal, sobreviveu igualmente até aosnossos dias. A psicanálise destas imagens míticas que ainda hoje animamomundo moderno, mostrar-nos-á talvez em que medida projetamos nos«inimigos» os nossos próprios desejos de destruição. Mas este problemaultrapassa a nossa competência. O que queremos trazer à luz é o fato de,para   o   mundo   arcaico   em   geral,   os   inimigos   queameaçavam   omicrocosmos serem perigosos não tanto como seres humanos (em si) masporque encarnavam as forças hostis e destruidoras. É muito provável queas defesas dos lugares habitados e das cidades tenham começado por serdefesas mágicas; pois estas defesas—fossos, labirintos, muralhas, ',
-    disclaimer: '',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
     paragraphs: [
       {
         text: '',
@@ -5334,7 +5730,9 @@ export default [
     authorURL: 'mircea-eliade',
     sectionURL: 'simbolismo-de-centro',
     content: 'Voltemos  pois  à  imagem  das  três  regiões  cósmicas  ligadas,  num«Centro»  por  um  eixo.  É  sobretudo  nas  civilizações  palco-orientais  queencontramos esta imagem arquetípica. O nome dos santuários de Nippur,Larsa e Sippar eraDur-an-ki,«ligação entre o céu e a terra». Mas é aindana Babilónia que se faz a ligação entre a Terra e as regiões inferiores, poisa  cidade  fora  edificada  sobrebâb-apsi,a  «Porta  deapsû»,designandoapsû   as   águas   do   caos   antes  da   Criação.   Encontramos   esta   mesmatradição    entra    os    hebreus.    O    rochedo    de    Jerusalém    penetravaprofundamente nas águas subterrâneas(tehôm).Diz-se na Mishna que oTemplo   se   encontra   precisamente   em   cima   detehôm(equivalentehebraico deapsû).E, ainda como na Babilónia, havia a «porta deapsû»:orochedo do Templo de Jerusalém fechava a «boca dotehôm».Encontram-se   tradições   similares   no   mundo   indo-europeu.   Nos   Romanos,   porexemplo, omundusconstitui o ponto de encontro das regiões inferiores edo  mundo  terrestre.  O  templo  itálico  era  a  zonade  intersecção  dosmundos superior (divino), terrestre e subterrâneo (infernal; cf.Le Mythede l\'Eternel Retour,pp. 32sq.).',
-    disclaimer: '',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
     paragraphs: [
       {
         text: '',
@@ -5361,7 +5759,9 @@ export default [
     authorURL: 'mircea-eliade',
     sectionURL: 'simbolismo-da-ascencao',
     content: 'É  bastante  provável  que,  pelo  menos  no  caso  das  religiões  centro-asiáticas  e  siberianas,  este  simbolismo  do  Centro  seja  influenciado  poresquemascosmológicosindo-iranianose,emúltimaanálise,mesopotâmicos. A importância do número 7, entre outras coisas, pareceprová-lo. Mas importa fazer bem a distinção entre o empréstimo de umateoria cosmológicaelaborada em torno do simbolismo do Centro—comoseria, por exemplo, a concepção de 7 níveis celestes—e osimbolismodocentro em si. Já vimos que este simbolismo é extremamente arcaico,queé  conhecido  pelos  Pigmeus  da  península  de  Malaca.  E  mesmo  que  sepudesse  suspeitar  de  uma  longínqua  influência  indiana  nestes  PigmeusSemang, ficaria ainda por explicar o simbolismo do Centro encontrado nosmonumentos   pré-históricos   (Montanhas   Cósmicas,   os   quatro   rios,   aÁrvore   e   a   espiral,   etc.).   Melhor   ainda:   pôde   demonstrar-se   que   ',
-    disclaimer: '',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
     paragraphs: [
       {
         text: '',
