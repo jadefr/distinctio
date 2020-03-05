@@ -176,15 +176,14 @@ export default {
           paragraph = this.documents[i].paragraphs[j].text
           this.paragraphs.push(paragraph)
           //
-          console.log(this.documents[i].paragraphs[j].footnote.length)
           if (this.documents[i].paragraphs[j].footnote.length) {
             for (let k = 0; k < this.documents[i].paragraphs[j].footnote.length; k++) {
-              console.log(this.documents[i].paragraphs[j].footnote[k].content)
-              if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
-                console.log('entrou')
-                this.documents[i].paragraphs[j].text.replace('<a href="#">', '<a href="#footnote">')
+              // if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
+              //   this.documents[i].paragraphs[j].text.replace('<a href="#">', '<a href="#footnote">')
+              // }
+              if (this.documents[i].paragraphs[j].footnote[k].content !== '') {
+                this.footnotes.push(this.documents[i].paragraphs[j].footnote[k].content)
               }
-              this.footnotes.push(this.documents[i].paragraphs[j].footnote[k].content)
             }
           }
         }

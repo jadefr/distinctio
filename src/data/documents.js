@@ -234,7 +234,7 @@ export default [
         ]
       },
       {
-        text: '—  Todos  os  homens  devem  ter  uma  lira  no  coração,  —  ou  não  sejam homens. Que a lira ressoe a toda a hora, nem por qualquer motivo, não o digo eu,mas de longe em longe, e por algumas reminiscências particulares... Sabe por que éque lhe pareço poeta, apesar das Ordenações do Reino e dos cabelos grisalhos? éporque   vamos   por   esta   Glória   adiante,   costeando   aqui   a   Secretaria   deEstrangeiros... Lá está o outeiro célebre... Adiante há uma casa..',
+        text: '—  Todos  os  homens  devem  ter  uma  lira  no  coração,  —  ou  não  sejam homens. Que a lira ressoe a toda a hora, nem por qualquer motivo, não o digo eu, mas de longe em longe, e por algumas reminiscências particulares... Sabe por que é que lhe pareço poeta, apesar das Ordenações do Reino e dos cabelos grisalhos? É porque   vamos   por   esta   Glória   adiante,   costeando   aqui   a   Secretaria   de Estrangeiros... Lá está o outeiro célebre... Adiante há uma casa..',
         footnote: []
       },
       {
@@ -242,7 +242,7 @@ export default [
         footnote: []
       },
       {
-        text: '—  Vamos...  Divina  Quintília!  Todas  essas  caras  que  aí  passam  são  outras,mas falam-me daquele tempo, como se fossem as mesmas de outrora; é a lira queressoa, e a imaginação faz o resto. Divina Quintília!',
+        text: '—  Vamos...  Divina  Quintília!  Todas  essas  caras  que  aí  passam  são  outras, mas falam-me daquele tempo, como se fossem as mesmas de outrora; é a lira que ressoa, e a imaginação faz o resto. Divina Quintília!',
         footnote: []
       },
       {
@@ -290,7 +290,7 @@ export default [
         footnote: []
       },
       {
-        text: '—  Que é a saudade senão uma ironia do tempo e da fortuna? Veja  lá; começo a ficar sentencioso. Trinta anos; mas em verdade, não os parecia. Lembra-se  bem  que  era  magra  e  alta;  tinha  os  olhos  como  eu  então  dizia,  que  pareciam cortados  da  capa  da  última  noite,  mas  apesar  de  noturnos,  sem  mistérios  nemabismos.  A  voz  era  brandíssima,  um  tanto  apaulistada,  a  boca  larga,  e  os  dentes, quando  ela  simplesmente  falava,  davam-lhe  à  boca  um  ar  de  riso.  Ria  também,  e foram os risos dela, de parceria com os olhos, que me doeram muito durante certo tempo.\n',
+        text: '—  Que é a saudade senão uma ironia do tempo e da fortuna? Veja  lá; começo a ficar sentencioso. Trinta anos; mas em verdade, não os parecia. Lembra-se  bem  que  era  magra  e  alta;  tinha  os  olhos  como  eu  então  dizia,  que  pareciam cortados  da  capa  da  última  noite,  mas  apesar  de  noturnos,  sem  mistérios  nem abismos.  A  voz  era  brandíssima,  um  tanto  apaulistada,  a  boca  larga,  e  os  dentes, quando  ela  simplesmente  falava,  davam-lhe  à  boca  um  ar  de  riso.  Ria  também,  e foram os risos dela, de parceria com os olhos, que me doeram muito durante certo tempo.\n',
         footnote: []
       },
       {
@@ -298,7 +298,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Tanto  não  os  tinham  que  cheguei  ao  ponto  de  supor  que  eram  as  portas abertas do castelo, e o riso o clarim que chamava os cavaleiros. Já a conhecíamos, eu  e  o  meu  companheiro  de  escritório,  o  João  Nóbrega,  ambos  principiantes  na advocacia,  e  íntimos  como  ninguém  mais;  mas  nunca  nos  lembrou  namorá-la.  Elaandava então no galarim; era bela, rica, elegante, e da primeira roda. Mas um dia, noantigo  Teatro  Provisório  entre  dois  atos  dos  Puritanos,  estando  eu  num  corredor, um  grupo  de  moços  que  falavam  dela,  como  de  uma  fortaleza  inexpugnável. Dous confessaram haver tentado alguma cousa, mas sem fruto; e todos pasmavamdo celibato da moça que lhes parecia sem explicação. E chalaceavam: um dizia queera promessa até ver se engordava primeiro; outro que estava esperando a segunda mocidade do tio para casar com ele; outro que provavelmente encomendara algum anjo ao porteiro do céu; trivialidades que me aborreceram muito, e da parte dos que confessavam tê-la cortejado ou amado, achei que era uma grosseria sem nome. No que eles estavam todos de acordo é que ela era extraordinariamente bela; aí foram entusiastas e sinceros.',
+        text: '— Tanto  não  os  tinham  que  cheguei  ao  ponto  de  supor  que  eram  as  portas abertas do castelo, e o riso o clarim que chamava os cavaleiros. Já a conhecíamos, eu  e  o  meu  companheiro  de  escritório,  o  João  Nóbrega,  ambos  principiantes  na advocacia,  e  íntimos  como  ninguém  mais;  mas  nunca  nos  lembrou  namorá-la.  Ela andava então no galarim; era bela, rica, elegante, e da primeira roda. Mas um dia, no antigo  Teatro  Provisório  entre  dois  atos  dos  Puritanos,  estando  eu  num  corredor, um  grupo  de  moços  que  falavam  dela,  como  de  uma  fortaleza  inexpugnável. Dous confessaram haver tentado alguma cousa, mas sem fruto; e todos pasmavam do celibato da moça que lhes parecia sem explicação. E chalaceavam: um dizia que era promessa até ver se engordava primeiro; outro que estava esperando a segunda mocidade do tio para casar com ele; outro que provavelmente encomendara algum anjo ao porteiro do céu; trivialidades que me aborreceram muito, e da parte dos que confessavam tê-la cortejado ou amado, achei que era uma grosseria sem nome. No que eles estavam todos de acordo é que ela era extraordinariamente bela; aí foram entusiastas e sinceros.',
         footnote: []
       },
       {
@@ -306,7 +306,7 @@ export default [
         footnote: []
       },
       {
-        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  nãovinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso,refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-meuma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ouela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhorpara o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note queele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, euma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. Edizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
+        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  não vinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso, refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-meuma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ou ela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhor para o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note que ele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, e uma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. E dizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
         footnote: []
       },
       {
@@ -314,7 +314,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Foi  assim  brincando,  cheirando  ainda  aos  bancos  da  academia,  que  nos metemos  em  negócio  de  tanta  ponderação,  que  podia  acabar  em  nada,  mas  deu muito de si. Era um começo estouvado, quase um passatempo de crianças, sem anota  da  sinceridade;  mas  o  homem  põe  e  a  espécie  dispõe.  Conhecíamo-la,  postonão  tivéssemos  encontros  freqüentes;  uma  vez  que  nos  dispusemos  a  uma  ação comum,  entrou  um  elemento  novo  na  nossa  vida,  e  dentro  de  um  mês  estávamos brigados.',
+        text: '— Foi  assim  brincando,  cheirando  ainda  aos  bancos  da  academia,  que  nos metemos  em  negócio  de  tanta  ponderação,  que  podia  acabar  em  nada,  mas  deu muito de si. Era um começo estouvado, quase um passatempo de crianças, sem anota  da  sinceridade;  mas  o  homem  põe  e  a  espécie  dispõe.  Conhecíamo-la,  posto não  tivéssemos  encontros  freqüentes;  uma  vez  que  nos  dispusemos  a  uma  ação comum,  entrou  um  elemento  novo  na  nossa  vida,  e  dentro  de  um  mês  estávamos brigados.',
         footnote: []
       },
       {
@@ -330,7 +330,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Tragédia,  diga  tragédia;  porque  daí  a  pouco  tempo,  ou  por  desengano verbal  que  ela  lhe  desse,  ou  por  desespero  de  vencer,  Nóbrega  deixou-me  só  emcampo. Arranjou uma nomeação de juiz municipal lá para os sertões da Bahia, ondedefinhou  e  morreu  antes  de  acabar  o  quatriênio.  E  juro-lhe  que  não  foi  o  inculcado espírito  prático  de  Nóbrega  que  o  separou  de  mim;  ele,  que  tanto  falara  dasvantagens do dinheiro, morreu apaixonado como um simples Werther.',
+        text: '— Tragédia,  diga  tragédia;  porque  daí  a  pouco  tempo,  ou  por  desengano verbal  que  ela  lhe  desse,  ou  por  desespero  de  vencer,  Nóbrega  deixou-me  só  em campo. Arranjou uma nomeação de juiz municipal lá para os sertões da Bahia, onde definhou  e  morreu  antes  de  acabar  o  quatriênio.  E  juro-lhe  que  não  foi  o  inculcado espírito  prático  de  Nóbrega  que  o  separou  de  mim;  ele,  que  tanto  falara  dasvantagens do dinheiro, morreu apaixonado como um simples Werther.',
         footnote: []
       },
       {
@@ -338,15 +338,15 @@ export default [
         footnote: []
       },
       {
-        text: '— Também o veneno mata; e o amor de Quintília podia dizer-se alguma cousa parecido  com  isso,  foi  o  que  o  matou,  e  o  que  ainda  hoje  me  dói...  Mas,  vejo  peloseu dito que o estou aborrecendo...',
+        text: '— Também o veneno mata; e o amor de Quintília podia dizer-se alguma cousa parecido  com  isso,  foi  o  que  o  matou,  e  o  que  ainda  hoje  me  dói...  Mas,  vejo  pelo seu dito que o estou aborrecendo...',
         footnote: []
       },
       {
-        text: '— Pelo  amor  de  Deus.  Juro-lhe  que  não;  foi  uma  graçola  que  me  escapou.Vamos adiante, conselheiro; ficou só em campo.',
+        text: '— Pelo  amor  de  Deus.  Juro-lhe  que  não;  foi  uma  graçola  que  me  escapou. Vamos adiante, conselheiro; ficou só em campo.',
         footnote: []
       },
       {
-        text: '— Quintília  não  deixava  ninguém  estar  só  em  campo,  —  não  digo  por  ela, mas  pelos  outros.  Muitos  vinham  ali  tomar  um  cálix  de  esperanças,  e  iam  cear  aoutra  parte.  Ela  não  favorecia  a  um  mais  que  a  outro,  mas  era  lhana,  graciosa  etinha  essa  espécie  de  olhos  derramados  que  não  foram  feitos  para  homens ciumentos. Tive ciúmes amargos e, às vezes, terríveis. Todo argueiro me parecia umcavaleiro,   e   todo   cavaleiro   um   diabo.   Afinal   acostumei-me   a   ver   que   erampassageiros de um dia. Outros me metiam mais medo, eram os que vinham dentroda  luva  das  amigas.  Creio  que  houve  duas  ou  três  negociações  dessas,  mas  sem resultado. Quintília declarou que nada faria sem consultar o tio, e o tio aconselhou a recusa,  —  cousa  que  ela  sabia  de  antemão.  O  bom  velho  não  gostava  nunca  davisita  de  homens,  com  receio  de  que  a  sobrinha  escolhesse  algum  e  casasse. Estava  tão  acostumado  a  trazê-la  ao  pé  de  si,  como  uma  muleta  da  velha  alma aleijada, que temia perdê-la inteiramente.',
+        text: '— Quintília  não  deixava  ninguém  estar  só  em  campo,  —  não  digo  por  ela, mas  pelos  outros.  Muitos  vinham  ali  tomar  um  cálix  de  esperanças,  e  iam  cear  a outra  parte.  Ela  não  favorecia  a  um  mais  que  a  outro,  mas  era  lhana,  graciosa  e tinha  essa  espécie  de  olhos  derramados  que  não  foram  feitos  para  homens ciumentos. Tive ciúmes amargos e, às vezes, terríveis. Todo argueiro me parecia um cavaleiro,   e   todo   cavaleiro   um   diabo.   Afinal   acostumei-me   a   ver   que   eram passageiros de um dia. Outros me metiam mais medo, eram os que vinham dentro da  luva  das  amigas.  Creio  que  houve  duas  ou  três  negociações  dessas,  mas  sem resultado. Quintília declarou que nada faria sem consultar o tio, e o tio aconselhou a recusa,  —  cousa  que  ela  sabia  de  antemão.  O  bom  velho  não  gostava  nunca  da visita  de  homens,  com  receio  de  que  a  sobrinha  escolhesse  algum  e  casasse. Estava  tão  acostumado  a  trazê-la  ao  pé  de  si,  como  uma  muleta  da  velha  alma aleijada, que temia perdê-la inteiramente.',
         footnote: []
       },
       {
@@ -370,7 +370,7 @@ export default [
         footnote: []
       },
       {
-        text: '— De tudo o que ela não conversava com os outros; e era de fazer pasmar que  uma  pessoa  tão  amiga  de  bailes  e  passeios,  de  valsar  e  rir,  fosse  comigo  tãosevera e grave, tão diferente do que costumava ou parecia ser.',
+        text: '— De tudo o que ela não conversava com os outros; e era de fazer pasmar que  uma  pessoa  tão  amiga  de  bailes  e  passeios,  de  valsar  e  rir,  fosse  comigo  tão severa e grave, tão diferente do que costumava ou parecia ser.',
         footnote: []
       },
       {
@@ -378,7 +378,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Obrigado;  era  mais  profunda  a  causa  da  diferença,  e  a  diferença  ia-se acentuando com os tempos. Quando a vida cá embaixo a aborrecia muito, ia para o Cosme Velho, e ali as nossas conversações eram mais freqüentes e compridas. Não lhe  posso  dizer,  nem  o  senhor  compreenderia  nada,  o  que  foram  as  horas  que  alipassei, incorporando na minha vida toda a vida que jorrava dela. Muitas vezes quis dizer-lhe o que sentia, mas as palavras tinham medo e ficavam no coração. Escrevi cartas sobre cartas; todas me pareciam frias, difusas, ou inchadas de estilo. Demais, ela  não  dava  ensejo  a  nada,  tinha  um  ar  de  velha  amiga.  No  princípio  de  1857adoeceu meu pai em Itaboraí; corri a vê-lo, achei-o moribundo. Este fato reteve-me fora da Corte uns quatro meses. Voltei pelos fins de maio. Quintília recebeu-me triste da minha tristeza, e vi claramente que o meu luto passara aos olhos dela...',
+        text: '— Obrigado;  era  mais  profunda  a  causa  da  diferença,  e  a  diferença  ia-se acentuando com os tempos. Quando a vida cá embaixo a aborrecia muito, ia para o Cosme Velho, e ali as nossas conversações eram mais freqüentes e compridas. Não lhe  posso  dizer,  nem  o  senhor  compreenderia  nada,  o  que  foram  as  horas  que  ali passei, incorporando na minha vida toda a vida que jorrava dela. Muitas vezes quis dizer-lhe o que sentia, mas as palavras tinham medo e ficavam no coração. Escrevi cartas sobre cartas; todas me pareciam frias, difusas, ou inchadas de estilo. Demais, ela  não  dava  ensejo  a  nada,  tinha  um  ar  de  velha  amiga.  No  princípio  de  1857 adoeceu meu pai em Itaboraí; corri a vê-lo, achei-o moribundo. Este fato reteve-me fora da Corte uns quatro meses. Voltei pelos fins de maio. Quintília recebeu-me triste da minha tristeza, e vi claramente que o meu luto passara aos olhos dela...',
         footnote: []
       },
       {
@@ -386,7 +386,7 @@ export default [
         footnote: []
       },
       {
-        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete,uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessatransição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  Amoléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  medisse depois, estimou a coincidência do golpe, uma vez que tínhamos de o recebersem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  mesesdepois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavamno Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha.Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados,deixou-nos o campo livre.',
+        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete, uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessa transição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  Amoléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  me disse depois, estimou a coincidência do golpe, uma vez que tínhamos de o receber sem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  meses depois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavam no Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha. Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados, deixou-nos o campo livre.',
         footnote: []
       },
       {
@@ -402,7 +402,7 @@ export default [
         footnote: []
       },
       {
-        text: '—  Quintília  adivinhara,  pelo  transtorno  do  meu  rosto,  o  que  lhe  ia  pedir,  e deixou-me  falar  para  preparar  a  resposta.  A  resposta  foi  interrogativa  e  negativa. Casar para quê? Era melhor que ficássemos amigos como dantes. Respondi-lhe que a  amizade  era,  em  mim,  desde  muito,  a  simples  sentinela  do  amor;  não  podendo mais contê-lo, deixou que ele saísse. Quintília sorriu da metáfora, o que me doeu, e sem  razão;  ela,  vendo  o  efeito,  fez-se  outra  vez  séria  e  tratou  de  persuadir-me  deque  era  melhor  não  casar.  —  Estou  velha,  disse  ela;  vou  em  trinta  e  três  anos.  — Mas se eu a amo assim mesmo, repliquei, e disse-lhe uma porção de cousas, que não poderia repetir agora. Quintília refletiu um instante; depois insistiu nas relações de  amizade;  disse  que,  posto  que  mais  moço  que  ela,  tinha  a  gravidade  de  um homem mais velho e inspirava-lhe confiança como nenhum outro. Desesperançado, dei  algumas  passadas,  depois  sentei-me  outra  vez  e  narrei-lhe  tudo.  Ao  saber  da minha  briga  com  o  amigo  e  companheiro  da  academia,  e  a  separação  em  que ficamos,  sentiu-se,  não  sei  se  diga,  magoada  ou  irritada.  Censurou-nos  a  ambos, não  valia  a  pena  que  chegássemos  a  tal  ponto.  —  A  senhora  diz  isso  porque  nãosente  a  mesma  cousa.  —  Mas  então  é  um  delírio?  —  Creio  que  sim;  o  que  lhe afianço  é  que  ainda  agora,  se  fosse  necessário,  separar-me-ia  dele  uma  e  cem vezes;  e  creio  poder  afirmar-lhe  que  ele  faria  a  mesma  cousa.  Aqui  olhou  ela espantada  para  mim,  como  se  olha  para  uma  pessoa  cujas  faculdades  parecem transtornadas;  depois  abanou  a  cabeça,  e  repetiu  que  fora  um  erro;  não  valia  apena. — Fiquemos amigos, disse-me, estendendo a mão. — É impossível; pede-me cousa superior às minhas forças, nunca poderei ver na senhora uma simples amiga; não desejo impor-lhe nada; dir-lhe-ei até que nem mais insisto, porque não aceitaria outra resposta agora. Trocamos ainda algumas palavras, e retirei-me... Veja a minha mão.',
+        text: '—  Quintília  adivinhara,  pelo  transtorno  do  meu  rosto,  o  que  lhe  ia  pedir,  e deixou-me  falar  para  preparar  a  resposta.  A  resposta  foi  interrogativa  e  negativa. Casar para quê? Era melhor que ficássemos amigos como dantes. Respondi-lhe que a  amizade  era,  em  mim,  desde  muito,  a  simples  sentinela  do  amor;  não  podendo mais contê-lo, deixou que ele saísse. Quintília sorriu da metáfora, o que me doeu, e sem  razão;  ela,  vendo  o  efeito,  fez-se  outra  vez  séria  e  tratou  de  persuadir-me  de que  era  melhor  não  casar.  —  Estou  velha,  disse  ela;  vou  em  trinta  e  três  anos.  — Mas se eu a amo assim mesmo, repliquei, e disse-lhe uma porção de cousas, que não poderia repetir agora. Quintília refletiu um instante; depois insistiu nas relações de  amizade;  disse  que,  posto  que  mais  moço  que  ela,  tinha  a  gravidade  de  um homem mais velho e inspirava-lhe confiança como nenhum outro. Desesperançado, dei  algumas  passadas,  depois  sentei-me  outra  vez  e  narrei-lhe  tudo.  Ao  saber  da minha  briga  com  o  amigo  e  companheiro  da  academia,  e  a  separação  em  que ficamos,  sentiu-se,  não  sei  se  diga,  magoada  ou  irritada.  Censurou-nos  a  ambos, não  valia  a  pena  que  chegássemos  a  tal  ponto.  —  A  senhora  diz  isso  porque  não sente  a  mesma  cousa.  —  Mas  então  é  um  delírio?  —  Creio  que  sim;  o  que  lhe afianço  é  que  ainda  agora,  se  fosse  necessário,  separar-me-ia  dele  uma  e  cem vezes;  e  creio  poder  afirmar-lhe  que  ele  faria  a  mesma  cousa.  Aqui  olhou  ela espantada  para  mim,  como  se  olha  para  uma  pessoa  cujas  faculdades  parecem transtornadas;  depois  abanou  a  cabeça,  e  repetiu  que  fora  um  erro;  não  valia  apena. — Fiquemos amigos, disse-me, estendendo a mão. — É impossível; pede-me cousa superior às minhas forças, nunca poderei ver na senhora uma simples amiga; não desejo impor-lhe nada; dir-lhe-ei até que nem mais insisto, porque não aceitaria outra resposta agora. Trocamos ainda algumas palavras, e retirei-me... Veja a minha mão.',
         footnote: []
       },
       {
@@ -410,7 +410,7 @@ export default [
         footnote: []
       },
       {
-        text: '— E não lhe contei tudo. Não lhe digo aqui os aborrecimentos que tive, nem ador e o despeito que me ficaram. Estava arrependido, zangado, devia ter provocado aquele desengano desde as primeiras semanas, mas a culpa foi da esperança, queé uma planta daninha, que me comeu o lugar de outras plantas melhores. No fim de cinco dias saí para Itaboraí, onde me chamaram alguns interesses do inventário de meu pai. Quando voltei, três semanas depois, achei em casa uma carta de Quintília.',
+        text: '— E não lhe contei tudo. Não lhe digo aqui os aborrecimentos que tive, nem a dor e o despeito que me ficaram. Estava arrependido, zangado, devia ter provocado aquele desengano desde as primeiras semanas, mas a culpa foi da esperança, que é uma planta daninha, que me comeu o lugar de outras plantas melhores. No fim de cinco dias saí para Itaboraí, onde me chamaram alguns interesses do inventário de meu pai. Quando voltei, três semanas depois, achei em casa uma carta de Quintília.',
         footnote: []
       },
       {
@@ -418,7 +418,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Abri-a alvoroçadamente:  datava  de  quatro  dias.  Era  longa;  aludia  aosúltimos  sucessos,  e  dizia  cousas  meigas  e  graves.  Quintília  afirmava  ter  esperadopor  mim  todos  os  dias,  não  cuidando  que  eu  levasse  o  egoísmo  até  não  voltar  lá, por isso escrevia-me, pedindo que fizesse dos meus sentimentos pessoais esem eco uma página de história acabada; que ficasse só o amigo, e lá fosse ver asua amiga. E concluía com estas singulares palavras: "Quer uma garantia? Juro-lheque  não  casarei  nunca."  Compreendi  que  um  vínculo  de  simpatia  moral  nos  ligavaum ao outro; com a diferença que o que era em mim paixão específica, era nela uma simples eleição de caráter. Éramos dois sócios, que entravam no comércio da vida com diferente capital: eu, tudo o que possuía; ela, quase um óbolo. Respondi à cartadela  nesse  sentido;  e  declarei  que  era  tal  a  minha  obediência  e  o  meu  amor,  quecedia, mas de má vontade, porque, depois do que se passara entre nós, ia sentir-me humilhado.  Risquei  a  palavra  ridículo,  já  escrita,  para  poder  ir  vê-la  sem  este vexame; bastava o outro.',
+        text: '— Abri-a alvoroçadamente:  datava  de  quatro  dias.  Era  longa;  aludia  aos últimos  sucessos,  e  dizia  cousas  meigas  e  graves.  Quintília  afirmava  ter  esperado por  mim  todos  os  dias,  não  cuidando  que  eu  levasse  o  egoísmo  até  não  voltar  lá, por isso escrevia-me, pedindo que fizesse dos meus sentimentos pessoais e sem eco uma página de história acabada; que ficasse só o amigo, e lá fosse ver a sua amiga. E concluía com estas singulares palavras: "Quer uma garantia? Juro-lhe que  não  casarei  nunca."  Compreendi  que  um  vínculo  de  simpatia  moral  nos  ligava um ao outro; com a diferença que o que era em mim paixão específica, era nela uma simples eleição de caráter. Éramos dois sócios, que entravam no comércio da vida com diferente capital: eu, tudo o que possuía; ela, quase um óbolo. Respondi à carta dela  nesse  sentido;  e  declarei  que  era  tal  a  minha  obediência  e  o  meu  amor,  que cedia, mas de má vontade, porque, depois do que se passara entre nós, ia sentir-me humilhado.  Risquei  a  palavra  ridículo,  já  escrita,  para  poder  ir  vê-la  sem  este vexame; bastava o outro.',
         footnote: []
       },
       {
@@ -430,11 +430,11 @@ export default [
         footnote: []
       },
       {
-        text: '— Deixe-me  adivinhar  o  resto;  o  juramento  era  um  anzol  místico;  depois,  o senhor,  que  o  recebera,  podia  desobrigá-la  dele,  uma  vez  que  aproveitasse  com  aabsolvição. Mas, enfim, correr à casa dele.',
+        text: '— Deixe-me  adivinhar  o  resto;  o  juramento  era  um  anzol  místico;  depois,  o senhor,  que  o  recebera,  podia  desobrigá-la  dele,  uma  vez  que  aproveitasse  com  a absolvição. Mas, enfim, correr à casa dele.',
         footnote: []
       },
       {
-        text: '— Não corri; fui dous dias depois. No intervalo, respondeu ela à minha cartacom  um  bilhete  carinhoso,  que  rematava  com  esta  idéia:  "não  fale  de  humilhação, onde  não  houve  público."  Fui,  voltei  uma  e  mais  vezes  e  restabeleceram-se  as nossas relações. Não se falou em nada; ao princípio, custou-me muito parecer o queera dantes; depois, o demônio da esperança veio pousar outra vez no meu coração; e, sem nada exprimir, cuidei que um dia, um dia tarde, ela viesse a casar comigo. E foi  essa  esperança  que  me  retificou  aos  meus  próprios  olhos,  na  situação  em  que me achava. Os boatos de nosso casamento correram mundo. Chegaram aos nossos ouvidos; eu negava formalmente e sério; ela dava de ombros e ria. Foi essa fase danossa  vida  a  mais  serena  para  mim,  salvo  um  incidente  curto,  um  diplomata austríaco  ou  não  sei  que,  rapagão,  elegante,  ruivo,  olhos  grandes  e  atrativos,  efidalgo  ainda  por  cima.  Quintília  mostrou-se-lhe  tão  graciosa,  que  ele  cuidou  estaraceito, e tratou de ir adiante. Creio que algum gesto meu, inconsciente, ou então um pouco da percepção fina que o céu lhe dera, levou depressa o desengano à legaçã austríaca. Pouco depois ela adoeceu; e foi então que a nossa intimidade cresceu de vulto.  Ela,  enquanto  se  tratava,  resolveu  não  sair,  e  isso  mesmo  lhe  disseram  os médicos. Lá passava eu muitas horas diariamente. Ou elas tocavam, ou jogávamos os  três,  ou  então  lia-se  alguma  cousa;  a  maior  parte  das  vezes conversávamos somente. Foi então que a estudei muito; escutando as suas leituras vi que os livros puramente  amorosos  achava-os  incompreensíveis,  e,  se  as  paixões  aí  eram violentas,  largava-os  com  tédio.  Não  falava  assim  por  ignorante;  tinha  notícia  vagadas paixões, e assistira a algumas alheias.',
+        text: '— Não corri; fui dous dias depois. No intervalo, respondeu ela à minha carta com  um  bilhete  carinhoso,  que  rematava  com  esta  idéia:  "não  fale  de  humilhação, onde  não  houve  público."  Fui,  voltei  uma  e  mais  vezes  e  restabeleceram-se  as nossas relações. Não se falou em nada; ao princípio, custou-me muito parecer o que era dantes; depois, o demônio da esperança veio pousar outra vez no meu coração; e, sem nada exprimir, cuidei que um dia, um dia tarde, ela viesse a casar comigo. E foi  essa  esperança  que  me  retificou  aos  meus  próprios  olhos,  na  situação  em  que me achava. Os boatos de nosso casamento correram mundo. Chegaram aos nossos ouvidos; eu negava formalmente e sério; ela dava de ombros e ria. Foi essa fase da nossa  vida  a  mais  serena  para  mim,  salvo  um  incidente  curto,  um  diplomata austríaco  ou  não  sei  que,  rapagão,  elegante,  ruivo,  olhos  grandes  e  atrativos,  e fidalgo  ainda  por  cima.  Quintília  mostrou-se-lhe  tão  graciosa,  que  ele  cuidou  estar aceito, e tratou de ir adiante. Creio que algum gesto meu, inconsciente, ou então um pouco da percepção fina que o céu lhe dera, levou depressa o desengano à legaçã austríaca. Pouco depois ela adoeceu; e foi então que a nossa intimidade cresceu de vulto.  Ela,  enquanto  se  tratava,  resolveu  não  sair,  e  isso  mesmo  lhe  disseram  os médicos. Lá passava eu muitas horas diariamente. Ou elas tocavam, ou jogávamos os  três,  ou  então  lia-se  alguma  cousa;  a  maior  parte  das  vezes conversávamos somente. Foi então que a estudei muito; escutando as suas leituras vi que os livros puramente  amorosos  achava-os  incompreensíveis,  e,  se  as  paixões  aí  eram violentas,  largava-os  com  tédio.  Não  falava  assim  por  ignorante;  tinha  notícia  vagadas paixões, e assistira a algumas alheias.',
         footnote: []
       },
       {
@@ -442,7 +442,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Da espinha. Os médicos diziam que a moléstia não era talvez recente, e ia tocando  o  ponto  melindroso.  Chegamos  assim  a  1859.  Desde  março  desse  ano  a moléstia  agravou-se  muito;  teve  uma  pequena  parada,  mas  para  os  fins  do  mêschegou  ao  estado  desesperador.  Nunca  vi  depois  criatura  mais  enérgica  diante  daiminente catástrofe; estava então de uma magreza transparente, quase fluida; ria, ouantes, sorria apenas, e vendo que eu escondia as minhas lágrimas, apertava-me as mãos agradecida. Um dia, estando só com o médico, perguntou-lhe a verdade; ele ia mentir, ela disse-lhe que era inútil, que estava perdida. — Perdida, não, murmurou o médico. — Jura que não estou perdida? — Ele hesitou, ela agradeceu-lho. Uma vez certa que morria, ordenou o que prometera a si mesma.',
+        text: '— Da espinha. Os médicos diziam que a moléstia não era talvez recente, e ia tocando  o  ponto  melindroso.  Chegamos  assim  a  1859.  Desde  março  desse  ano  a moléstia  agravou-se  muito;  teve  uma  pequena  parada,  mas  para  os  fins  do  mês chegou  ao  estado  desesperador.  Nunca  vi  depois  criatura  mais  enérgica  diante  da iminente catástrofe; estava então de uma magreza transparente, quase fluida; ria, ou antes, sorria apenas, e vendo que eu escondia as minhas lágrimas, apertava-me as mãos agradecida. Um dia, estando só com o médico, perguntou-lhe a verdade; ele ia mentir, ela disse-lhe que era inútil, que estava perdida. — Perdida, não, murmurou o médico. — Jura que não estou perdida? — Ele hesitou, ela agradeceu-lho. Uma vez certa que morria, ordenou o que prometera a si mesma.',
         footnote: []
       },
       {
@@ -7069,7 +7069,7 @@ export default [
           '(Vénus), o terceiro de bronze (Júpiter), o quarto de ferro (Mercúrio), o\n' +
           'quinto de «liga de moeda» (Marte), o sexto de prata (Lua), o sétimo de\n' +
           'ouro (Sol). O oitavo degrau, diz-nos Celso, representa a esfera das estrelas\n' +
-          'fixas<sup><a href="#footnotes">3</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
+          'fixas<sup><a href="#footnotes">2</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
           'os 7 céus elevando-se assim até ao Empíreo — tal como se subia ao\n' +
           'último céu escalando os 7 andares da <i>ziqqurat</i> babilónica ou se\n' +
           'atravessavam as diferentes regiões cósmicas pelos terraços do templo\n' +
@@ -7077,7 +7077,7 @@ export default [
           'Cósmica e uma <i>imago mundi</i>.',
         footnote: [
           {
-            index: 3,
+            index: 2,
             content: 'Cf. os materiais reunidos no nosso Chamanisme, pp. 248 sq. Para o simbolismo\n' +
               'cristão da ascensão ver Louis Beirnaert, Le Symbolisme ascensionnel dans la\n' +
               'liturgie et la mystique chrétiennes (Eranos-Jahrbuch, XIX, Zürich, 1951, pp. 41-\n' +
@@ -7114,10 +7114,10 @@ export default [
           'uma escalda. O uso da escada funerária sobreviveu algures até aos nossos\n' +
           'dias: diversas populações asiáticas primitivas — como, por exemplo, os\n' +
           'Lolos, os Karens, etc. — erguem sobre os túmulos escadas rituais que\n' +
-          'servem para os defuntos subirem aos Céus<sup><a href="#footnotes">4</a></sup>.',
+          'servem para os defuntos subirem aos Céus<sup><a href="#footnotes">3</a></sup>.',
         footnote: [
           {
-            index: 4,
+            index: 3,
             content: 'Ver Traité d\'Histoire des Religions, pp. 96 sq. Le Chamanisme et les techniques\n' +
               'archaiques de l\'extase, pp. 420 sq'
           }
@@ -7137,10 +7137,10 @@ export default [
           'que estamos perante um comportamento arcaico da psiqué humana e\n' +
           'não perante uma criação «histórica», uma inovação devida a um certo\n' +
           'momento histórico (digamos: o Egipto arcaico ou a índia védica, etc.).\n' +
-          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#footnotes">5</a></sup>.',
+          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#footnotes">4</a></sup>.',
         footnote: [
           {
-            index: 5,
+            index: 4,
             content: 'Ver nosso estudo Durohâna and the «waking dream» (Art and Thought, A\n' +
               'volume in honour of the late Dr. Ananda K. Coomaraswamy, London, 1947, pp.\n' +
               '209 sq.).'
@@ -7189,7 +7189,7 @@ export default [
           'coisas porque se supõe erguer-se num «centro», porque torna possível a\n' +
           'comunicação entre os diferentes níveis do ser, porque, enfim, não é mais\n' +
           'do que uma fórmula concreta da escada mítica, da liana ou do fio de\n' +
-          'aranha, ,da Árvore Cósmica ou do Pilar universal que ligam as três zonas\n' +
+          'aranha, da Árvore Cósmica ou do Pilar universal que ligam as três zonas\n' +
           'cósmicas.',
         footnote: [
           {
@@ -7645,9 +7645,39 @@ export default [
     titleURL: 'meditacoes',
     authorURL: 'marco-aurelio',
     sectionURL: 'livro-I',
-    content: 'De Vero, meu avô, a honradez e serenidade. 2. Da reputação e memória de meu genitor,541F1 a discrição e varonilidade. 3.  De  minha  mãe,542F2  a  religiosidade,  a  generosidade  e  a  abstenção  não  só  de  praticar o mal mas até de se demorar em semelhante pensamento; ainda, a singeleza do passadio e a distância do teor de vida dos ricos. 4.  De  meu  bisavô,  o  ter  em  casa  mestres  excelentes,  em  vez  de  freqüentar  escolas públicas, e compreender que a instrução requer se despenda largamente. 5. De meu aio, o não me haver tornado partidário dos Verdes ou dos Azuis,543F3nem  dos  Palmulários  ou  dos  Escutários;544F4  o  aturar  fadigas  e  precisar  de  pouco;  o  executar eu próprio minhas tarefas, o não ser intrometido e a repulsa a intrigas. 6.  De  Diogneto,545F5  o  descaso  das  futilidades;  o  não  crer  no  que  dizem  os  milagreiros  e  charlatães  sobre  encantamentos,  expulsão  de  demônios  e  quejandas  imposturas;  o  não  criar  codornizes  nem  me  entregar  a  paixões  dessa  espécie;  o  suportar   franquezas;   o   familiarizar-me   com   a   Filosofia   e   ouvir   as   lições,   primeiramente, de Báquio, depois, de Tândasis e Marciano; o ter escrito diálogos na infância;  o  ter  desejado  o  catre,  o  pelego  e  todas  as  outras  simplicidades  da  educação helênica. 7. De Rústico,546F6 a compreensão de que devia corrigir e cultivar o meu caráter; o  não  me  entregar  à  paixão  da  sofistica,  nem  compor  tratados  teóricos,  redigir  arengas de exortação ou exibir-me, para suscitar admirações, como pessoa operosa e benfazeja; a abstenção da retórica, da poesia, do preciosismo; o não andar de toga em casa, nem alimentar vaidades que tais; o usar de simplicidade nas minhas cartas, como  ele  na  que  mandou  de  Sinoessa  a  minha  mãe;  a  presteza  em  responder  ao  apelo de reconciliação dos que se irritaram comigo e me ofenderam, tão logo de si mesmos queiram voltar às boas; o ler acuradamente, não me satisfazendo com uma vista d\'olhos superficial; o não assentir precipitadamente às indiscrições; o conhecer os comentários de Epicteto,547F7 que me emprestou de sua biblioteca. 8.  De  Apolônio,548F8  a  independência,  a  decisão  sem  longos  debates  nem  recurso à sorte dos lados; o não me orientar, sequer por instantes, senão pela razão; o  não  me  alterar  nos  sofrimentos  agudos,  na  perda  dum  filho,  nas  doenças  prolongadas; o ter visto com meus olhos, num exemplo vivo, que o rigor extremo se  compadece  com  a  benignidade;  o  não  ser  irritadiço  nas  explicações;  o  ter  visto  um homem que manifestamente reputava como o menor de seus dotes o tirocínio e facilidade em transmitir os princípios doutrinários; o ter aprendido como receber as assim consideradas gentilezas dos amigos, sem render-me a elas nem desdenhá-las indelicadamente. 9.  De  Sexto,549F9  a  benevolência;  o  exemplo  de  casa  regida  pela  tradição;  a  concepção de como viver segundo a natureza; a gravidade não afetada; a solicitude atenta para com os amigos; a tolerância para com os ignorantes e para com os que opinam  sem  maduro  exame;  a  boa  harmonia  com  todos,  tanto  que  seu  convívio  agradava  mais  que  qualquer  blandícia,  apesar  de  infundir,  ao  mesmo  tempo,  o  máximo  respeito  para  com  sua  pessoa;  o  atinar  arguta  e  metodicamente  com  as ',
+    content: '',
     disclaimer: '',
     paragraphs: [
+      {
+        text: '1. De Vero, meu avô, a honradez e serenidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '2. Da reputação e memória de meu genitor <sup><a href="#footnotes">1</a></sup> a discrição e varonilidade.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ânio Vero.'
+          }
+        ]
+      },
+      {
+        text: '3. De minha mãe<sup><a href="#footnotes">2</a></sup>' +
+          ' a religiosidade, a generosidade e a abstenção não só de\n' +
+          'praticar o mal mas até de se demorar em semelhante pensamento; ainda, a singeleza\n' +
+          'do passadio e a distância do teor de vida dos ricos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
       {
         text: '',
         footnote: [
@@ -7659,7 +7689,228 @@ export default [
       },
       {
         text: '',
-        footnote: []
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   },
