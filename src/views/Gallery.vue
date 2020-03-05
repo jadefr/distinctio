@@ -71,7 +71,7 @@ export default {
       for (let j = 0; j < this.imgs.length; j++) {
         img = this.imgs[j]
         if (img.toString().includes(obj.img)) {
-          // console.log('img.toString: ' + img.toString() + ' || obj.img: ' + obj.img)
+          console.log('img.toString: ' + img.toString() + ' || obj.img: ' + obj.img)
           return img
         }
       }

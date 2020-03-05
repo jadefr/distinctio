@@ -2,7 +2,7 @@
   <div class="card-component-container">
 
     <!-- Card -->
-    <b-card no-body class="overflow-hidden" style="max-width: 540px;">
+    <b-card no-body class="overflow-hidden" style="max-width: 400px;">
       <b-row no-gutters>
         <b-col md="6">
           <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
