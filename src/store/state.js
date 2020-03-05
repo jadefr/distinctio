@@ -6,9 +6,10 @@ import marcoAurelio from '@/assets/img/marcoAurelio.jpg'
 import mirceaEliade from '@/assets/img/mirceaEliade.jpg'
 import plato from '@/assets/img/plato.jpg'
 import seneca from '@/assets/img/seneca.jpg'
+import machado from '@/assets/img/machado.jpg'
 
 export default {
   documents,
   cards,
-  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca]
+  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca, machado]
 }

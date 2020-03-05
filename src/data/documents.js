@@ -1,5 +1,256 @@
 export default [
   {
+    title: 'A Desejada das Gentes',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado',
+    imgIndex: '6',
+    titleURL: 'a-desejada-das-gentes',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '— Ah! Conselheiro, aí começa a falar em verso.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '—  Todos  os  homens  devem  ter  uma  lira  no  coração,  —  ou  não  sejam homens. Que a lira ressoe a toda a hora, nem por qualquer motivo, não o digo eu,mas de longe em longe, e por algumas reminiscências particulares... Sabe por que éque lhe pareço poeta, apesar das Ordenações do Reino e dos cabelos grisalhos? éporque   vamos   por   esta   Glória   adiante,   costeando   aqui   a   Secretaria   deEstrangeiros... Lá está o outeiro célebre... Adiante há uma casa..',
+        footnote: []
+      },
+      {
+        text: '— Vamos andando.',
+        footnote: []
+      },
+      {
+        text: '—  Vamos...  Divina  Quintília!  Todas  essas  caras  que  aí  passam  são  outras,mas falam-me daquele tempo, como se fossem as mesmas de outrora; é a lira queressoa, e a imaginação faz o resto. Divina Quintília!',
+        footnote: []
+      },
+      {
+        text: '—  Chamava-se  Quintília?  Conheci  de  vista,  quando  andava  na  Escola  de Medicina, uma linda moça com esse nome. Diziam que era a mais bela da cidade.',
+        footnote: []
+      },
+      {
+        text: '— Há de ser a mesma, porque tinha essa fama. Magra e alta?',
+        footnote: []
+      },
+      {
+        text: '— Isso. Que fim levou?',
+        footnote: []
+      },
+      {
+        text: '— Morreu em 1859. Vinte de abril. Nunca me há de esquecer esse dia. Vou contar-lhe um caso interessante para mim, e creio que também para o senhor. Olhe, a casa era aquela... Morava com um tio, chefe de esquadra reformado, tinha outra casa  no  Cosme  Velho. Quando  conheci  Quintília...  Que  idade  pensa  que  teria,quando a conheci?',
+        footnote: []
+      },
+      {
+        text: '— Se foi em 1855...',
+        footnote: []
+      },
+      {
+        text: '— Em 1855.',
+        footnote: []
+      },
+      {
+        text: '— Devia ter vinte anos.',
+        footnote: []
+      },
+      {
+        text: '— Tinha trinta.',
+        footnote: []
+      },
+      {
+        text: '— Trinta?',
+        footnote: []
+      },
+      {
+        text: '— Trinta anos. Não os parecia, nem era nenhuma inimiga que lhe dava essa idade.  Ela  própria  a  confessava  e  até  com  afetação.  Ao  contrário,  uma  de  suas amigas  afirmava  que  Quintília  não  passava  dos  vinte  e  sete;  mas  como  ambas tinham nascido no mesmo dia, dizia isso para diminuir-se a si própria.',
+        footnote: []
+      },
+      {
+        text: '— Mau, nada de ironias; olhe que a ironia não faz boa cama com a saudade.',
+        footnote: []
+      },
+      {
+        text: '—  Que é a saudade senão uma ironia do tempo e da fortuna? Veja  lá; começo a ficar sentencioso. Trinta anos; mas em verdade, não os parecia. Lembra-se  bem  que  era  magra  e  alta;  tinha  os  olhos  como  eu  então  dizia,  que  pareciam cortados  da  capa  da  última  noite,  mas  apesar  de  noturnos,  sem  mistérios  nemabismos.  A  voz  era  brandíssima,  um  tanto  apaulistada,  a  boca  larga,  e  os  dentes, quando  ela  simplesmente  falava,  davam-lhe  à  boca  um  ar  de  riso.  Ria  também,  e foram os risos dela, de parceria com os olhos, que me doeram muito durante certo tempo.\n',
+        footnote: []
+      },
+      {
+        text: '— Mas se os olhos não tinham mistérios...',
+        footnote: []
+      },
+      {
+        text: '— Tanto  não  os  tinham  que  cheguei  ao  ponto  de  supor  que  eram  as  portas abertas do castelo, e o riso o clarim que chamava os cavaleiros. Já a conhecíamos, eu  e  o  meu  companheiro  de  escritório,  o  João  Nóbrega,  ambos  principiantes  na advocacia,  e  íntimos  como  ninguém  mais;  mas  nunca  nos  lembrou  namorá-la.  Elaandava então no galarim; era bela, rica, elegante, e da primeira roda. Mas um dia, noantigo  Teatro  Provisório  entre  dois  atos  dos  Puritanos,  estando  eu  num  corredor, um  grupo  de  moços  que  falavam  dela,  como  de  uma  fortaleza  inexpugnável. Dous confessaram haver tentado alguma cousa, mas sem fruto; e todos pasmavamdo celibato da moça que lhes parecia sem explicação. E chalaceavam: um dizia queera promessa até ver se engordava primeiro; outro que estava esperando a segunda mocidade do tio para casar com ele; outro que provavelmente encomendara algum anjo ao porteiro do céu; trivialidades que me aborreceram muito, e da parte dos que confessavam tê-la cortejado ou amado, achei que era uma grosseria sem nome. No que eles estavam todos de acordo é que ela era extraordinariamente bela; aí foram entusiastas e sinceros.',
+        footnote: []
+      },
+      {
+        text: '— Oh! ainda me lembro!... era muito bonita.',
+        footnote: []
+      },
+      {
+        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  nãovinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso,refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-meuma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ouela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhorpara o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note queele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, euma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. Edizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
+        footnote: []
+      },
+      {
+        text: '— Conselheiro, a confissão é grave, foi assim brincando...?',
+        footnote: []
+      },
+      {
+        text: '— Foi  assim  brincando,  cheirando  ainda  aos  bancos  da  academia,  que  nos metemos  em  negócio  de  tanta  ponderação,  que  podia  acabar  em  nada,  mas  deu muito de si. Era um começo estouvado, quase um passatempo de crianças, sem anota  da  sinceridade;  mas  o  homem  põe  e  a  espécie  dispõe.  Conhecíamo-la,  postonão  tivéssemos  encontros  freqüentes;  uma  vez  que  nos  dispusemos  a  uma  ação comum,  entrou  um  elemento  novo  na  nossa  vida,  e  dentro  de  um  mês  estávamos brigados.',
+        footnote: []
+      },
+      {
+        text: '— Brigados?',
+        footnote: []
+      },
+      {
+        text: '— Ou  quase.  Não  tínhamos  contado  com  ela,  que  nos  enfeitiçou  a  ambos, violentamente.  Em  algumas  semanas  já  pouco  falávamos  de  Quintília,  e  com indiferença;  tratávamos  de  enganar  um  ao  outro  e  dissimular  o  que  sentíamos.  Foi assim que as nossas relações se dissolveram, no fim de seis meses, sem ódio, nem luta,  nem  demonstração  externa,  porque  ainda  nos  falávamos,  onde  o  acaso  nos reunia; mas já então tínhamos banca separada.',
+        footnote: []
+      },
+      {
+        text: '— Começo a ver uma pontinha do drama...',
+        footnote: []
+      },
+      {
+        text: '— Tragédia,  diga  tragédia;  porque  daí  a  pouco  tempo,  ou  por  desengano verbal  que  ela  lhe  desse,  ou  por  desespero  de  vencer,  Nóbrega  deixou-me  só  emcampo. Arranjou uma nomeação de juiz municipal lá para os sertões da Bahia, ondedefinhou  e  morreu  antes  de  acabar  o  quatriênio.  E  juro-lhe  que  não  foi  o  inculcado espírito  prático  de  Nóbrega  que  o  separou  de  mim;  ele,  que  tanto  falara  dasvantagens do dinheiro, morreu apaixonado como um simples Werther.',
+        footnote: []
+      },
+      {
+        text: '— Menos a pistola.',
+        footnote: []
+      },
+      {
+        text: '— Também o veneno mata; e o amor de Quintília podia dizer-se alguma cousa parecido  com  isso,  foi  o  que  o  matou,  e  o  que  ainda  hoje  me  dói...  Mas,  vejo  peloseu dito que o estou aborrecendo...',
+        footnote: []
+      },
+      {
+        text: '— Pelo  amor  de  Deus.  Juro-lhe  que  não;  foi  uma  graçola  que  me  escapou.Vamos adiante, conselheiro; ficou só em campo.',
+        footnote: []
+      },
+      {
+        text: '— Quintília  não  deixava  ninguém  estar  só  em  campo,  —  não  digo  por  ela, mas  pelos  outros.  Muitos  vinham  ali  tomar  um  cálix  de  esperanças,  e  iam  cear  aoutra  parte.  Ela  não  favorecia  a  um  mais  que  a  outro,  mas  era  lhana,  graciosa  etinha  essa  espécie  de  olhos  derramados  que  não  foram  feitos  para  homens ciumentos. Tive ciúmes amargos e, às vezes, terríveis. Todo argueiro me parecia umcavaleiro,   e   todo   cavaleiro   um   diabo.   Afinal   acostumei-me   a   ver   que   erampassageiros de um dia. Outros me metiam mais medo, eram os que vinham dentroda  luva  das  amigas.  Creio  que  houve  duas  ou  três  negociações  dessas,  mas  sem resultado. Quintília declarou que nada faria sem consultar o tio, e o tio aconselhou a recusa,  —  cousa  que  ela  sabia  de  antemão.  O  bom  velho  não  gostava  nunca  davisita  de  homens,  com  receio  de  que  a  sobrinha  escolhesse  algum  e  casasse. Estava  tão  acostumado  a  trazê-la  ao  pé  de  si,  como  uma  muleta  da  velha  alma aleijada, que temia perdê-la inteiramente.',
+        footnote: []
+      },
+      {
+        text: '— Não seria essa a causa da isenção sistemática da moça?',
+        footnote: []
+      },
+      {
+        text: '— Vai ver que não.',
+        footnote: []
+      },
+      {
+        text: '— O que noto é que o senhor era mais teimoso que os outros...',
+        footnote: []
+      },
+      {
+        text: '— ... Iludido, a princípio, porque no meio de tantas candidaturas malogradas, Quintília   preferia-me   a   todos   os   outros   homens,   e   conversava   comigo   mais largamente   e   mais   intimamente,   a   tal   ponto   que   chegou   a   correr   que   nos casávamos.',
+        footnote: []
+      },
+      {
+        text: '— Mas conversavam de quê?',
+        footnote: []
+      },
+      {
+        text: '— De tudo o que ela não conversava com os outros; e era de fazer pasmar que  uma  pessoa  tão  amiga  de  bailes  e  passeios,  de  valsar  e  rir,  fosse  comigo  tãosevera e grave, tão diferente do que costumava ou parecia ser.',
+        footnote: []
+      },
+      {
+        text: '—  A  razão  é  clara:  achava  a  sua  conversação  menos  insossa  que  a  dos outros homens.',
+        footnote: []
+      },
+      {
+        text: '— Obrigado;  era  mais  profunda  a  causa  da  diferença,  e  a  diferença  ia-se acentuando com os tempos. Quando a vida cá embaixo a aborrecia muito, ia para o Cosme Velho, e ali as nossas conversações eram mais freqüentes e compridas. Não lhe  posso  dizer,  nem  o  senhor  compreenderia  nada,  o  que  foram  as  horas  que  alipassei, incorporando na minha vida toda a vida que jorrava dela. Muitas vezes quis dizer-lhe o que sentia, mas as palavras tinham medo e ficavam no coração. Escrevi cartas sobre cartas; todas me pareciam frias, difusas, ou inchadas de estilo. Demais, ela  não  dava  ensejo  a  nada,  tinha  um  ar  de  velha  amiga.  No  princípio  de  1857adoeceu meu pai em Itaboraí; corri a vê-lo, achei-o moribundo. Este fato reteve-me fora da Corte uns quatro meses. Voltei pelos fins de maio. Quintília recebeu-me triste da minha tristeza, e vi claramente que o meu luto passara aos olhos dela...',
+        footnote: []
+      },
+      {
+        text: '— Mas que era isso senão amor?',
+        footnote: []
+      },
+      {
+        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete,uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessatransição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  Amoléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  medisse depois, estimou a coincidência do golpe, uma vez que tínhamos de o recebersem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  mesesdepois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavamno Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha.Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados,deixou-nos o campo livre.',
+        footnote: []
+      },
+      {
+        text: '— Enfim!',
+        footnote: []
+      },
+      {
+        text: '— No terraço, lugar solitário, e posso dizer agreste, proferi a primeira palavra. O  meu  plano  era  justamente  precipitar  tudo,  com  medo  de  que,  cinco  minutos  de conversa  me  tirassem  as  forças.  Ainda  assim,  não  sabe  o  que  me  custou;  custaria menos  uma  batalha,  e  juro-lhe  que  não  nasci  para  guerras.  Mas  aquela  mulher magrinha e delicada impunha-se-me, como nenhuma outra, antes e depois...',
+        footnote: []
+      },
+      {
+        text: '— E então?',
+        footnote: []
+      },
+      {
+        text: '—  Quintília  adivinhara,  pelo  transtorno  do  meu  rosto,  o  que  lhe  ia  pedir,  e deixou-me  falar  para  preparar  a  resposta.  A  resposta  foi  interrogativa  e  negativa. Casar para quê? Era melhor que ficássemos amigos como dantes. Respondi-lhe que a  amizade  era,  em  mim,  desde  muito,  a  simples  sentinela  do  amor;  não  podendo mais contê-lo, deixou que ele saísse. Quintília sorriu da metáfora, o que me doeu, e sem  razão;  ela,  vendo  o  efeito,  fez-se  outra  vez  séria  e  tratou  de  persuadir-me  deque  era  melhor  não  casar.  —  Estou  velha,  disse  ela;  vou  em  trinta  e  três  anos.  — Mas se eu a amo assim mesmo, repliquei, e disse-lhe uma porção de cousas, que não poderia repetir agora. Quintília refletiu um instante; depois insistiu nas relações de  amizade;  disse  que,  posto  que  mais  moço  que  ela,  tinha  a  gravidade  de  um homem mais velho e inspirava-lhe confiança como nenhum outro. Desesperançado, dei  algumas  passadas,  depois  sentei-me  outra  vez  e  narrei-lhe  tudo.  Ao  saber  da minha  briga  com  o  amigo  e  companheiro  da  academia,  e  a  separação  em  que ficamos,  sentiu-se,  não  sei  se  diga,  magoada  ou  irritada.  Censurou-nos  a  ambos, não  valia  a  pena  que  chegássemos  a  tal  ponto.  —  A  senhora  diz  isso  porque  nãosente  a  mesma  cousa.  —  Mas  então  é  um  delírio?  —  Creio  que  sim;  o  que  lhe afianço  é  que  ainda  agora,  se  fosse  necessário,  separar-me-ia  dele  uma  e  cem vezes;  e  creio  poder  afirmar-lhe  que  ele  faria  a  mesma  cousa.  Aqui  olhou  ela espantada  para  mim,  como  se  olha  para  uma  pessoa  cujas  faculdades  parecem transtornadas;  depois  abanou  a  cabeça,  e  repetiu  que  fora  um  erro;  não  valia  apena. — Fiquemos amigos, disse-me, estendendo a mão. — É impossível; pede-me cousa superior às minhas forças, nunca poderei ver na senhora uma simples amiga; não desejo impor-lhe nada; dir-lhe-ei até que nem mais insisto, porque não aceitaria outra resposta agora. Trocamos ainda algumas palavras, e retirei-me... Veja a minha mão.',
+        footnote: []
+      },
+      {
+        text: '— Treme-lhe ainda...',
+        footnote: []
+      },
+      {
+        text: '— E não lhe contei tudo. Não lhe digo aqui os aborrecimentos que tive, nem ador e o despeito que me ficaram. Estava arrependido, zangado, devia ter provocado aquele desengano desde as primeiras semanas, mas a culpa foi da esperança, queé uma planta daninha, que me comeu o lugar de outras plantas melhores. No fim de cinco dias saí para Itaboraí, onde me chamaram alguns interesses do inventário de meu pai. Quando voltei, três semanas depois, achei em casa uma carta de Quintília.',
+        footnote: []
+      },
+      {
+        text: '— Oh!',
+        footnote: []
+      },
+      {
+        text: '— Abri-a alvoroçadamente:  datava  de  quatro  dias.  Era  longa;  aludia  aosúltimos  sucessos,  e  dizia  cousas  meigas  e  graves.  Quintília  afirmava  ter  esperadopor  mim  todos  os  dias,  não  cuidando  que  eu  levasse  o  egoísmo  até  não  voltar  lá, por isso escrevia-me, pedindo que fizesse dos meus sentimentos pessoais esem eco uma página de história acabada; que ficasse só o amigo, e lá fosse ver asua amiga. E concluía com estas singulares palavras: "Quer uma garantia? Juro-lheque  não  casarei  nunca."  Compreendi  que  um  vínculo  de  simpatia  moral  nos  ligavaum ao outro; com a diferença que o que era em mim paixão específica, era nela uma simples eleição de caráter. Éramos dois sócios, que entravam no comércio da vida com diferente capital: eu, tudo o que possuía; ela, quase um óbolo. Respondi à cartadela  nesse  sentido;  e  declarei  que  era  tal  a  minha  obediência  e  o  meu  amor,  quecedia, mas de má vontade, porque, depois do que se passara entre nós, ia sentir-me humilhado.  Risquei  a  palavra  ridículo,  já  escrita,  para  poder  ir  vê-la  sem  este vexame; bastava o outro.',
+        footnote: []
+      },
+      {
+        text: '— Aposto que seguiu atrás da carta? É o que eu faria, porque essa moça, ou eu me engano ou estava morta por casar com o senhor.',
+        footnote: []
+      },
+      {
+        text: '— Deixe a sua fisiologia usual; este caso é particularíssimo.',
+        footnote: []
+      },
+      {
+        text: '— Deixe-me  adivinhar  o  resto;  o  juramento  era  um  anzol  místico;  depois,  o senhor,  que  o  recebera,  podia  desobrigá-la  dele,  uma  vez  que  aproveitasse  com  aabsolvição. Mas, enfim, correr à casa dele.',
+        footnote: []
+      },
+      {
+        text: '— Não corri; fui dous dias depois. No intervalo, respondeu ela à minha cartacom  um  bilhete  carinhoso,  que  rematava  com  esta  idéia:  "não  fale  de  humilhação, onde  não  houve  público."  Fui,  voltei  uma  e  mais  vezes  e  restabeleceram-se  as nossas relações. Não se falou em nada; ao princípio, custou-me muito parecer o queera dantes; depois, o demônio da esperança veio pousar outra vez no meu coração; e, sem nada exprimir, cuidei que um dia, um dia tarde, ela viesse a casar comigo. E foi  essa  esperança  que  me  retificou  aos  meus  próprios  olhos,  na  situação  em  que me achava. Os boatos de nosso casamento correram mundo. Chegaram aos nossos ouvidos; eu negava formalmente e sério; ela dava de ombros e ria. Foi essa fase danossa  vida  a  mais  serena  para  mim,  salvo  um  incidente  curto,  um  diplomata austríaco  ou  não  sei  que,  rapagão,  elegante,  ruivo,  olhos  grandes  e  atrativos,  efidalgo  ainda  por  cima.  Quintília  mostrou-se-lhe  tão  graciosa,  que  ele  cuidou  estaraceito, e tratou de ir adiante. Creio que algum gesto meu, inconsciente, ou então um pouco da percepção fina que o céu lhe dera, levou depressa o desengano à legaçã austríaca. Pouco depois ela adoeceu; e foi então que a nossa intimidade cresceu de vulto.  Ela,  enquanto  se  tratava,  resolveu  não  sair,  e  isso  mesmo  lhe  disseram  os médicos. Lá passava eu muitas horas diariamente. Ou elas tocavam, ou jogávamos os  três,  ou  então  lia-se  alguma  cousa;  a  maior  parte  das  vezes conversávamos somente. Foi então que a estudei muito; escutando as suas leituras vi que os livros puramente  amorosos  achava-os  incompreensíveis,  e,  se  as  paixões  aí  eram violentas,  largava-os  com  tédio.  Não  falava  assim  por  ignorante;  tinha  notícia  vagadas paixões, e assistira a algumas alheias.',
+        footnote: []
+      },
+      {
+        text: '— De que moléstia padecia?',
+        footnote: []
+      },
+      {
+        text: '— Da espinha. Os médicos diziam que a moléstia não era talvez recente, e ia tocando  o  ponto  melindroso.  Chegamos  assim  a  1859.  Desde  março  desse  ano  a moléstia  agravou-se  muito;  teve  uma  pequena  parada,  mas  para  os  fins  do  mêschegou  ao  estado  desesperador.  Nunca  vi  depois  criatura  mais  enérgica  diante  daiminente catástrofe; estava então de uma magreza transparente, quase fluida; ria, ouantes, sorria apenas, e vendo que eu escondia as minhas lágrimas, apertava-me as mãos agradecida. Um dia, estando só com o médico, perguntou-lhe a verdade; ele ia mentir, ela disse-lhe que era inútil, que estava perdida. — Perdida, não, murmurou o médico. — Jura que não estou perdida? — Ele hesitou, ela agradeceu-lho. Uma vez certa que morria, ordenou o que prometera a si mesma.',
+        footnote: []
+      },
+      {
+        text: '— Casou com o senhor, aposto?',
+        footnote: []
+      },
+      {
+        text: '—  Não  me  relembre  essa  triste  cerimônia;  ou  antes,  deixe-me  relembrá-la, porque me traz algum alento do passado. Não aceitou recusas nem pedidos meus; casou  comigo  à  beira  da  morte.  Foi  no  dia  18  de  abril  de  1859. Passei  os  últimos dois dias, até 20 de abril ao pé da minha noiva moribunda, e abracei-a pela primeira vez feita cadáver.',
+        footnote: []
+      },
+      {
+        text: '— Tudo isso é bem esquisito.',
+        footnote: []
+      },
+      {
+        text: '— Não  sei  o  que  dirá  a  sua  fisiologia.  A  minha,  que  é  de  profano,  crê  que aquela  moça  tinha  ao  casamento  uma  aversão  puramente  física.  Casou meio defunta, às portas do nada. Chame-lhe monstro, se quer, mas acrescente divino.',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Fedon',
     author: 'Platão',
     section: 'Conto I',
@@ -157,7 +408,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Sem dúvida.',
+        text: '<b>Equécrates –</b> Sem dúvida.',
         footnote: [],
         bold: [
           {
@@ -177,7 +428,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – E quem se achava lá, Fedão?',
+        text: '<b>Equécrates –</b> E quem se achava lá, Fedão?',
         footnote: [],
         bold: [
           {
@@ -197,7 +448,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – E havia também estrangeiros?',
+        text: '<b>Equécrates –</b> E havia também estrangeiros?',
         footnote: [],
         bold: [
           {
@@ -217,7 +468,7 @@ export default [
         ]
       },
       {
-        text: '<b>Equécrates –</b>Nesse caso, Aristipo e Cleômbroto também estiveram com ele?',
+        text: '<b>Equécrates –</b> Nesse caso, Aristipo e Cleômbroto também estiveram com ele?',
         footnote: [],
         bold: [
           {
@@ -6315,23 +6566,47 @@ export default [
   {
     title: 'Da República',
     author: 'Marco Túlio Cícero',
-    section: 'Livro I',
+    section: 'Livro Primeiro',
     img: 'cicero',
     imgIndex: '1',
     titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-I',
+    sectionURL: 'livro-primeiro',
     content: 'Sem  o  amor  pátrio,  não  teriam  Duílio111F1,  Atílio112F2  e  Metelo113F3  libertado  Roma  do  terror  de  Cartago;  sem  ele,  não  teriam  os  dois  Cipiões  apagado  o  incêndio  da  segunda  guerra  púnica,  e,  quando  seu  incremento  foi  ainda  maior,  não  o  teria  debilitado   Quinto   Máximo,114F4   nem   extinguido   M.   Marcelo,115F5   nem   impelido   P.   Africano116F6  às  próprias  muralhas  inimigas.  Certamente  Catão,117F7  homem  cuja  família  era  desconhecida  e  de  quem,  não  obstante,  todos  os  que  estudam  as  mesmas  verdades invejam a glória que alcançou com sua virtude e trabalho, podia ser lícito deleitar-se  ociosamente  no  saudável  e  próximo  sítio  de  Túsculo118F8.  Mas  o  homem  veemente  prefere,  embora  seja  chamado  de  louco  e  a  necessidade  não  o  obrigue,  arrostar  as  tempestades  públicas  entre  suas  ondas,  até  sucumbir  decrépito,  a  viver  no  ócio  prazenteiro  e  na  tranqüilidade.  Deixo  de  nomear  os  inúmeros  varões  que  salvaram  a  República,  e  passo  em  silêncio  aqueles  de  quem  se  conserva  recente memória,  temeroso  de  suscitar  queixas  com  a  omissão  de  algum.  Afirmarei,  sim,  que  tamanha  é  a  necessidade  de  virtude  que  o  gênero  humano  experimenta  por  natureza,  tão  grande  o  amor  à  defesa  da  saúde  comum,  que  essa  força  triunfa  sempre sobre o ócio e a voluptuosidade. II.  Mas  não  é  bastante  ter  uma  arte  qualquer  sem  praticá-la.  Uma  arte  qualquer, pelo menos, mesmo quando não se pratique, pode ser considerada como ciência; mas a virtude afirma-se por completo na prática, e seu melhor uso consiste em  governar  a  República  e  converter  em  obras  as  palavras  que  se  ouvem  nas  escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que não  o  tenham  confirmado  e  exposto  aqueles  pelos  quais  se  prescreve  o  direito  da  República. De onde procede a piedade? De quem a religião? De onde o direito das gentes?  E  o  que  se  chama  civil,  de  onde?  De  onde  a  justiça,  a  fé,  a  eqüidade,  o  pudor,  a  continência,  o  horror  ao  que  é  infame  e  o  amor  ao  que  é  louvável  e  honesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses princípios pela educação, os confirmaram pelos costumes e os sancionaram com as leis.   Perguntando-se   a   Xenócrates,119F9   filósofo   insigne,   que   conseguiam   seus   discípulos, respondeu: "Fazer espontaneamente o que se lhes obrigaria a fazer pelas leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei, às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível aos  próprios  doutores.  Onde  se  poderá  encontrar  discurso  de  tanto  valor  que  se  possa  antepor  a  uma  boa  organização  do  Estado,  do  direito  público  e  dos  costumes?  Assim,  julgo  preferíveis  as  cidades  magnas  e  dominadoras,  como  as  denomina  Ênio,120F10  aos  castelos  e  praças  fortes;  creio,  igualmente,  que  aos  que  governam a República com sua autoridade se deve antepor a sabedoria dos peritos em negócios públicos. Já que nos inclinamos a aumentar a herança da humanidade; já  que  para  isso  se  encaminham  nossos  estudos  e  trabalhos,  estimulados  pela  própria  natureza,  e  mais,  para  tornar  mais  poderosa  e  opulenta  a  vida  do  homem,  sigamos  o  caminho  que  os  melhores  empreenderam,  e  não  escutemos  as  vozes  e  sinais  que  nos  chamam  por  detrás  e  a  que  os  nossos  predecessores  fecharam  os  ouvidos. III. A essas razões tão certas e evidentes se opõem, entre os que argumentam em  contrário,  em  primeiro  lugar,  os  trabalhos  que  acarreta  a  defesa  da  República,  impedimento insignificante para o homem ativo e vigilante, e desprezível não só em coisa de tanta importância como também nas de menos interesse, nos estudos, nos assuntos  comuns  e  nos  negócios  ordinários.  Acrescenta-se  o  perigo  de  perder  a  vida; opõe-se o temor à morte, torpe e vergonhoso para o varão íntegro, habituado a considerar mais miserável consumir-se pela natureza e pela senectude do que dar valorosamente  à  pátria,  num  momento  determinado,  o  que  cedo  ou  tarde  terá  de  devolver à natureza. É nesse lugar que s',
     disclaimer: '',
     paragraphs: [
       {
-        text: '',
+        text: 'Afirmarei, sim, que tamanha é a necessidade de virtude que o gênero humano experimenta pornatureza, tão grande o amor à defesa da saúde comum, que essa força triunfa sempre sobre o ócio e avoluptuosidade.     II. Mas, não é. bastante ter uma arte qualquer sem praticá-la. Uma arte qualquer, pelo menos, mesmoquando não se pratique, pode ser considerada como ciência; mas, a virtude afirma-se por completo naprática, e seu melhor uso consiste em governar a República e converter em obras as palavras que seouvem nas escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que não otenham confirmado e exposto aqueles pelos quais se prescreve o direito da República. De onde procede apiedade? De quem a religião? De onde o direito das gentes? E o que se chama civil, de onde? De onde ajustiça, a fé, a equidade, o pudor, a continência, o horror ao que é infame e o amor ao que é louvável ehonesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses princípios pelaeducação, os confirmaram pelos costumes e os sancionaram com as leis. Perguntando-se a Xenócrates(9), filósofo insigne, que conseguiam seus discípulos, respondeu: "Fazer espontaneamente o que se lhesobrigaria a fazer pelas leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei,às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível aos própriosdoutores. Onde se poderá encontrar discurso de tanto valor que se possa antepor a uma boa organizaçãodo Estado, do direito público e dos costumes? Assim, julgo preferíveis as cidades magnas e dominadoras,como as denomina Ênio (10), aos castelos e praças fortes; creio, igualmente, que, aos que governam a',
         footnote: [
           {
             index: '',
             content: ''
           }
         ]
+      },
+      {
+        text: 'República com sua autoridade, se deve antepor a sabedoria dos peritos em negócios públicos. Já que nosinclinamos a aumentar a herança da humanidade; já que para isso se encaminham nossos estudos etrabalhos, estimulados pela própria natureza, e mais, para tornar mais poderosa e opulenta a vida dohomem, sigamos o caminho que os melhores empreenderam, e não escutemos as vozes e sinais que noschamam por detrás e a que os nossos predecessores fecharão os ouvidos.',
+        footnote: []
+      },
+      {
+        text: 'III. A essas razões tão certas e evidentes se opõem, entre os que argumentam em contrário, emprimeiro lugar, os trabalhos que acarreta a defesa da República, impedimento nímio para o homemdesperto e vigilante, e desprezível não só em coisas de tanta importância, como também nas de menosinteresse, nos estudos, nos assuntos comuns e nos negócios ordinários.',
+        footnote: []
+      },
+      {
+        text: 'ável consumir-se pela natureza e pela senitude do que dar valorosamente à pátria, num momentodeterminado, o que cedo ou tarde terá de devolver à natureza.     É nesse lugar que se julgam fortes e vitoriosos os adversários, ao alegarem as ingratidões e injustiçassofridas pelos mais preclaros varões. ',
+        footnote: []
+      },
+      {
+        text: 'E creio mesmo que, imaginando dever a meus riscose conselhos a conservação de sua vida e do seu repouso, amantes e ternos de meus males se queixam. Éestranho que se admirem nos sacrifícios pela pátria aqueles que a ambição ou a curiosidade leva aosmares.   IV. Quando jurei, ao deixar o Consulado, na assembléia do povo romano, que repetiu meu juramento,que eu salvara a pátria, senti a recompensa das inquietações e cuidados que me produziram as injúrias.Por mais que minhas desditas tivessem mais de honras do que de trabalhos, e não tanto de inquietaçãocomo de glória, maior alegria recebi pelos votos dos bons do que dor pela alegria dos maus. Mas, setivesse acontecido outra coisa, de que me poderia queixar? ',
+        footnote: []
+      },
+      {
+        text: '',
+        footnote: []
+      },
+      {
+        text: '',
+        footnote: []
       },
       {
         text: '',
@@ -6342,12 +6617,12 @@ export default [
   {
     title: 'Da República',
     author: 'Marco Túlio Cícero',
-    section: 'Simbolismo da Ascenção',
+    section: 'Livro Segundo',
     img: 'cicero',
     imgIndex: '1',
     titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-II',
+    sectionURL: 'livro-segundo',
     content: 'Como  Cipião  visse  todos  ansiosos  por  ouvi-lo,  tornou  a  tomar  a  palavra  desta  forma:  —  Começarei  por  um  pensamento  do  velho  Catão,  a  quem  muito  amei  e  admiro  singularmente,  e  ao  qual,  quer  pela  opinião  de  meus  parentes,  quer  por  minha  própria  espontaneidade,  me  consagrei  desde  minha  adolescência,  sem  que  seus  discursos  tenham  chegado  a  enfastiar-me,  tanta  era  a  experiência  dos  negócios  públicos  que  encontrava  nele,  negócios  que  dirigiu  por  longo  tempo  maravilhosamente,   tanto   na   paz   como   na   guerra;   tanta   sua   modéstia   e   comedimento de linguagem, digna ao mesmo tempo que agradável; tanto o desejo que tinha de se instruir e de tornar aos outros partícipes de sua ciência; tal, enfim, sua  existência,  toda  conforme  às  máximas  e  discursos  que  saíam  de  seus  lábios.  Costumava  dizer  que  nossa  superioridade  política  tinha  como  causa  o  fato  de  que  os outros Estados nunca tiveram, senão isolados, seus grandes homens, que davam leis  à  sua  pátria  de  acordo  com  seus  princípios  particulares;  Minos180F70  em  Creta,  Licurgo181F71  na  Lacedemônia,  e,  em  Atenas,  teatro  de  tantas  revoluções,  Teseu182F72, Drácon183F73, Sólon184F74,Clístenes185F75 e tantos outros, até que para reanimar seu desalento e debilidade  achou  Demétrio186F76,  o  douto  varão  de  Falero187F77;  nossa  República,  pelo  contrário, gloriosa de uma longa sucessão de cidadãos ilustres, teve para assegurar e afiançar seu poderio, não a vida de um só legislador, mas muitas gerações e séculos de  sucessão  constante.  Nunca,  acrescentava,  se  encontrou  espírito  tão  vasto  que  tenha abarcado tudo, e a reunião dos mais brilhantes gênios seria insuficiente para ',
     disclaimer: '',
     paragraphs: [
@@ -6401,7 +6676,7 @@ export default [
     imgIndex: '2',
     titleURL: 'meditacoes',
     authorURL: 'marco-aurelio',
-    sectionURL: 'livro-I',
+    sectionURL: 'livro-II',
     content: 'Previne  a  ti  mesmo  ao  amanhecer:  "Vou  encontrar  um  intrometido,  um  mal-agradecido, um insolente, um astucioso, um invejoso, um avaro". Eles devem todos esses vícios à ignorância do bem e do mal. Eu, porém, que observei ser o belo a natureza do bem e a vergonha a do mal, bem como consistir a natureza do próprio pecador em seu parentesco comigo, não em razão do mesmo sangue ou da mesma semente, mas por ter parte na inteligência e numa parcela da divindade,   nenhum   dano   posso   receber   deles,   pois   nenhum   me   cobrirá   de   vergonha. Tampouco  me  posso  exacerbar  com  um  parente,  nem  odiá-lo  porque  nascemos  para  a  ação  conjunta,  como  os  pés,  como  as  mãos,  como  as  pálpebras,  como as filas de dentes superiores e inferiores. Por isso, é contra a natureza agir em sentido contrário; agastar-se é agir em sentido contrário. 2. O que sou é carne, alento e o meu guia.557F17Larga  os  livros  e  não  te  deixes  mais  atrair;  não  te  é  lícito;  ao  invés,  como  quem  está  para  morrer,  despreza  a  carne  —  lama  de  sangue,  ossos,  renda  de  nervos, de veias, trança de artérias. Observa,  também,  o  que  é  o  alento:  vento,  e  nem  sempre  o  mesmo,  mas  a  todo momento expelido e de novo aspirado. Em  terceiro  lugar,  enfim,  o  guia.  Pensa  nisto:  estás  velho;  não  o  deixes  continuar escravo, titereado pelos impulsos egoístas, enfadado com o destino atual ou apreensivo quanto ao futuro. 3.  As  obras  dos  deuses  são  plenas  de  providência;  as  da  Fortuna  dependem  da  natureza,  ou  da  urdidura  e  entretecimento  do  que  a  Providência  dispôs.  Tudo  dela dimana. Acresce, ainda, o inevitável e o conveniente ao universo, de que és parcela. É um  bem  para  toda  parcela  da  natureza  o  que  a  natureza  do  universo  acarreta  e  o  que importa à preservação desta. Preservam o mundo as transformações, tanto dos elementos como dos compostos. Que  te  bastem  essas  idéias,  adotadas  como  dogma.  Lança  de  ti  a  sede  de  leituras, para não morreres rezingando e sim com real contentamento, agradecendo de coração aos deuses. 4.  Lembra-te  quanto  tempo  vens  protelando  e  quantas  prorrogações  de  prazo concedidas pelos deuses deixaste de aproveitar. Precisas compreender duma vez para sempre de que universo és parte, de que regedor do mundo emanaste e, bem  assim,  que  foi  circunscrito  um  limite  à  tua  duração  e,  se  a  não  usares  para  asserenar-te, ela passará, passarás tu e não haverá outra ocasião. 5.  Pensa  firmemente,  a  todo  momento,  como  romano  e  como  varão,  em  executar o mister que tens nas mãos com gravidade exata e desafetada, com afeto,',
     disclaimer: '',
     paragraphs: [
