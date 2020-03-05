@@ -6176,7 +6176,7 @@ export default [
           'larvas, aos demónios ou às forças do caos. Assim, os adversários do Faraó\n' +
           'eram considerados como «filhos da ruína, dos lobos, dos cães», etc. O\n' +
           'Faraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto os\n' +
-          'seus inimigos eram identificados com este dragão mítico <sup><a href="#">1</a></sup>. Pelo fato de\n' +
+          'seus inimigos eram identificados com este dragão mítico <sup><a href="#footnotes">1</a></sup>. Pelo fato de\n' +
           'atacarem e porem em perigo o equilíbrio e a própria vida da cidade (ou\n' +
           'ide qualquer outro território habitado e organizado), os inimigos são\n' +
           'assimilados às forças demoníacas, pois eles esforçam-se por reintegrar\n' +
@@ -6210,7 +6210,7 @@ export default [
           'porque encarnavam as forças hostis e destruidoras. É muito provável que\n' +
           'as defesas dos lugares habitados e das cidades tenham começado por ser\n' +
           'defesas mágicas; pois estas defesas — fossos, labirintos, muralhas, etc. — eram dispostas mais para impedir a invasão dos espíritos maus do que o\n' +
-          'ataque dos humanos<sup><a href="#">2</a></sup>. Mesmo muito mais tarde na história, na Idade\n' +
+          'ataque dos humanos<sup><a href="#footnotes">2</a></sup>. Mesmo muito mais tarde na história, na Idade\n' +
           'Média, por exemplo, os muros das cidades eram consagrados ritualmente\n' +
           'como uma defesa contra o Demónio, a doença e a morte. Além do mais, o\n' +
           'simbolismo arcaico não encontra qualquer dificuldade em assimilar o\n' +
@@ -6241,7 +6241,7 @@ export default [
           'Como se trata de um <i>espaço sagrado</i>, que é dado por uma hierofania ou\n' +
           'construído ritualmente, e não de um espaço profano, homogéneo,\n' +
           'geométrico, a pluralidade dos «Centros da Terra» no interior de uma só\n' +
-          'região habitada não oferece qualquer dificuldade<sup><a href="#">3</a></sup>. Estamos em presença\n' +
+          'região habitada não oferece qualquer dificuldade<sup><a href="#footnotes">3</a></sup>. Estamos em presença\n' +
           'de uma geografia sagrada e mítica, a única efetivamente <i>real</i> e não de\n' +
           'uma geografia profana, «objetiva», de certo modo abstrata e não\n' +
           'essencial, construção teórica de um espaço e de um mundo que não se\n' +
@@ -6254,7 +6254,7 @@ export default [
         ]
       },
       {
-        text: 'Na geografia mítica, o espaço sagrado é o espaço <i>real</i> por excelência, pois, tal como se provou recentemente<sup><a href="#">4</a></sup>, para o mundo arcaico o mito é\n' +
+        text: 'Na geografia mítica, o espaço sagrado é o espaço <i>real</i> por excelência, pois, tal como se provou recentemente<sup><a href="#footnotes">4</a></sup>, para o mundo arcaico o mito é\n' +
           'real porque ele relata as manifestações da verdadeira realidade: o\n' +
           '<i>sagrado</i>. É em tal espaço que se está diretamente em contato com o\n' +
           'sagrado — seja este materializado em certos objetos (<i>tchuringas</i>,\n' +
@@ -6268,11 +6268,11 @@ export default [
           'exemplo, nos pigmeus Semang da península de Malaca: no centro do\n' +
           'Mundo ergue-se um enorme rochedo, Batu-Ribn; debaixo dele encontrase\n' +
           'o Inferno. Outrora de Batu-Ribn elevava-se um trono em direcção ao Céu\n' +
-          '<sup><a href="#">5</a></sup>. O inferno, no centro da terra e a «porta» do Céu encontram-se pois\n' +
+          '<sup><a href="#footnotes">5</a></sup>. O inferno, no centro da terra e a «porta» do Céu encontram-se pois\n' +
           'no mesmo eixo, e por este eixo se efetuava a passagem de uma região\n' +
           'cósmica para outra. Hesitar-se-ia em crer na autenticidade desta teoria\n' +
           'cosmológica entre os pigmeus Semang se não tivessemos bases para\n' +
-          'admitir que a mesma teoria tinha sido já esboçada na época pré-histórica<sup><a href="#">6</a></sup>.\n' +
+          'admitir que a mesma teoria tinha sido já esboçada na época pré-histórica<sup><a href="#footnotes">6</a></sup>.\n' +
           'Os Semang dizem que <i>antigamente</i> um tronco de árvore ligava\n' +
           'o cume da Montanha Cósmica, o Centro do Mundo, com o Céu. É uma\n' +
           'alusão a um tema mítico extremamente difundido: outrora, as\n' +
@@ -6280,7 +6280,7 @@ export default [
           '«naturais»; em consequência de uma falta ritual, estas comunicações\n' +
           'foram interrompidas e os deuses retiraram-se mais para o alto nos céus. Só os curandeiros, os Xamãs, os padres e os heróis ou os soberanos\n' +
           'conseguem restabelecer, de modo passageiro e unicamente para seu\n' +
-          'próprio uso, as comunicações com o Céu<sup><a href="#">7</a></sup>. O mito de um paraíso\n' +
+          'próprio uso, as comunicações com o Céu<sup><a href="#footnotes">7</a></sup>. O mito de um paraíso\n' +
           'primordial perdido por causa de uma determinada falta é extremamente\n' +
           'importante — mas, se bem que de certo modo se relacione com o nosso\n' +
           'assunto, não o podemos discutir agora.',
@@ -6865,7 +6865,7 @@ export default [
           'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
           'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
           'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
-          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
+          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#footnotes">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
           'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
           'rituais que encontramos na história das religiões não passa de réplica, de\n' +
           'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
@@ -6944,7 +6944,7 @@ export default [
           'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
           'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
           'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
-          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#">2</a></sup>.',
+          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#footnotes">2</a></sup>.',
         footnote: [
           {
             index: 2,
@@ -6960,19 +6960,19 @@ export default [
           'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
           'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
           'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
-          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#">3</a></sup>. É\n' +
+          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#footnotes">3</a></sup>. É\n' +
           'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
           'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
           'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
           'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
-          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#">4</a></sup>. Estamos\n' +
+          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#footnotes">4</a></sup>. Estamos\n' +
           'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
           'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
           'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
           'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
           'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
           'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
-          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#">5</a></sup>.',
+          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#footnotes">5</a></sup>.',
         footnote: [
           {
             index: 3,
@@ -7026,7 +7026,7 @@ export default [
           'populações árticas e norte-americanas: a trave central da habitação\n' +
           'destes povos é assimilada ao Eixo Cósmico. E é na base deste poste que se\n' +
           'colocam as oferendas destinadas às divindades celestiais, pois é só ao\n' +
-          'longo deste eixo que as oferendas podem subir ao céu<sup><a href="#">1</a></sup>. Quando a forma\n' +
+          'longo deste eixo que as oferendas podem subir ao céu<sup><a href="#footnotes">1</a></sup>. Quando a forma\n' +
           'da habitação se altera a cabana é substituída pela yurta (como, por\n' +
           'exemplo, entre os pastores-criadores da Ásia central), a função míticoritual\n' +
           'do pilar central é assegurada pela abertura superior destinada esta\n' +
@@ -7069,7 +7069,7 @@ export default [
           '(Vénus), o terceiro de bronze (Júpiter), o quarto de ferro (Mercúrio), o\n' +
           'quinto de «liga de moeda» (Marte), o sexto de prata (Lua), o sétimo de\n' +
           'ouro (Sol). O oitavo degrau, diz-nos Celso, representa a esfera das estrelas\n' +
-          'fixas<sup><a href="#">3</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
+          'fixas<sup><a href="#footnotes">3</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
           'os 7 céus elevando-se assim até ao Empíreo — tal como se subia ao\n' +
           'último céu escalando os 7 andares da <i>ziqqurat</i> babilónica ou se\n' +
           'atravessavam as diferentes regiões cósmicas pelos terraços do templo\n' +
@@ -7114,7 +7114,7 @@ export default [
           'uma escalda. O uso da escada funerária sobreviveu algures até aos nossos\n' +
           'dias: diversas populações asiáticas primitivas — como, por exemplo, os\n' +
           'Lolos, os Karens, etc. — erguem sobre os túmulos escadas rituais que\n' +
-          'servem para os defuntos subirem aos Céus<sup><a href="#">4</a></sup>.',
+          'servem para os defuntos subirem aos Céus<sup><a href="#footnotes">4</a></sup>.',
         footnote: [
           {
             index: 4,
@@ -7137,7 +7137,7 @@ export default [
           'que estamos perante um comportamento arcaico da psiqué humana e\n' +
           'não perante uma criação «histórica», uma inovação devida a um certo\n' +
           'momento histórico (digamos: o Egipto arcaico ou a índia védica, etc.).\n' +
-          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#">5</a></sup>.',
+          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#footnotes">5</a></sup>.',
         footnote: [
           {
             index: 5,

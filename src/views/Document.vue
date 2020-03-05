@@ -41,11 +41,11 @@
     </article>
 
     <!-- Footnotes -->
-    <div id="footnote-container"
+    <div id="footnotes"
       v-if="footnotes.length" >
-      <p id="footnote"
-      v-for="(obj, index) in footnotes" :key="index"
-      v-html="(index + 1) + '.  ' + obj">
+      <p
+         v-for="(obj, index) in footnotes" :key="index"
+         v-html="(index + 1) + '.  ' + obj">
       </p>
     </div>
 
@@ -176,13 +176,14 @@ export default {
           paragraph = this.documents[i].paragraphs[j].text
           this.paragraphs.push(paragraph)
           //
-          if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
-            console.log('entrou')
-          }
           console.log(this.documents[i].paragraphs[j].footnote.length)
           if (this.documents[i].paragraphs[j].footnote.length) {
             for (let k = 0; k < this.documents[i].paragraphs[j].footnote.length; k++) {
               console.log(this.documents[i].paragraphs[j].footnote[k].content)
+              if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
+                console.log('entrou')
+                this.documents[i].paragraphs[j].text.replace('<a href="#">', '<a href="#footnote">')
+              }
               this.footnotes.push(this.documents[i].paragraphs[j].footnote[k].content)
             }
           }
@@ -195,9 +196,10 @@ export default {
 <style lang="scss" scoped>
   @import '../assets/sass/views/document';
 
-  #footnote-container {
+  #footnotes {
     margin: 0 10%;
     padding-bottom: 10px;
+    font-size: 1.2rem;
 
     @include mobile {
       margin: 0 7%
