@@ -52,12 +52,11 @@ body {
         }
 
         h1 {
-          font-family: "Roboto Light";
+          font-family: 'Source Serif Pro', serif;
           letter-spacing: 0.5rem;
-          margin-top: 0px;
           text-transform: uppercase;
           color: white;
-          font-size: 3.2em;
+          font-size: 4.2em;
           line-height: .9em;
 
           @include mobile {
@@ -99,9 +98,14 @@ body {
             margin: 0;
             padding: 0;
 
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-areas: "left-list right-list";
+
             li {
               margin-bottom: 10px;
-              font-size: 0.8em;
+              font-size: 1.3em;
+              font-family: 'Source Serif Pro', serif;
 
               .circle-icon {
                 color: color(blue-light);
@@ -113,6 +117,10 @@ body {
 
               strong {
                 display: inline-block;
+                a {
+                  text-decoration: none;
+                  color: color(brown-dark);
+                }
                 //margin-left: max(30px);
               }
             }
@@ -125,6 +133,8 @@ body {
           padding: 2em;
           text-align: left;
           margin: 10% 0 0 4em;
+          font-size: 1.3em;
+          font-family: 'Source Serif Pro', serif;
 
           @include mobile {
             text-align: center;

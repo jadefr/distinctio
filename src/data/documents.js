@@ -5679,33 +5679,6 @@ export default [
     ]
   },
   {
-    title: 'Sobre a Alma',
-    author: 'Aristóteles',
-    section: 'Livro I',
-    img: 'aristotle',
-    imgIndex: '0',
-    titleURL: 'sobre-a-alma',
-    authorURL: 'aristoteles',
-    sectionURL: 'livro-1',
-    content: 'A  alma  como  objecto  de  investigação Partindo do princípio de que o saber1 é uma das coisasbelas e estimáveis, e que alguns saberes são superiores a ou-tros  quer  pelo  seu  rigor,  quer  por  tratarem  de  objectos  maisnobres  e  admiráveis,  por  estes  dois  motivos  poderemos  comboa razão colocar a investigação sobre a alma2 entre os maisimportantes. Ora o conhecimento3 sobre a alma parece contri-buir também largamente para o da verdade no seu todo, e emespecial para o da natureza, pois a alma é, por assim dizer, oprincípio  dos  animais.  Procuraremos,  pois,  ter  em  vista  e  co-nhecer a sua natureza e a sua essência4, e ainda aquilo que aacompanha5. Destas coisas, umas parecem ser afecções exclu-sivas da alma, e outras pertencer, por meio dela, também aosanimais6. De todo o modo, e sob todas as perspectivas, é bemdifícil  alcançar  um  conhecimento  sobre  a  alma  digno  de  cré-dito.lMETODOLOGIAlSendo esta, com efeito, uma investiga',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Imagens e Símbolos I',
     author: 'Mircea Eliade',
     section: 'Psicologia e História das Religiões',
