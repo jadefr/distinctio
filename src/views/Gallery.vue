@@ -15,24 +15,6 @@
       </b-nav>
     </div>
 
-<!--    <div>-->
-<!--      <br>-->
-<!--      <h1>Testing Method</h1>-->
-<!--      <br>-->
-<!--      <div v-for="(card, key) in cards" :key="key">-->
-<!--        <br>-->
-<!--        <br>-->
-<!--        <h2>Item Novo</h2>-->
-<!--        <h3>card.author: {{ card.author }}; card.img: {{ card.img }}</h3>-->
-<!--        <div v-for="(img, index) in imgs" :key="index">-->
-<!--          <h2>card.img: {{ card.img }} | img.toString()): {{ img.toString() }} | {{img.toString().includes(card.img) }}</h2>-->
-<!--          <div v-if="img.toString().includes(card.img)">-->
-<!--            <img :src="img" style="max-width: 540px; max-height: 360px;"/>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
-
     <!-- Cards -->
     <div class="gallery-card">
       <b-card-group columns>

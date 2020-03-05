@@ -40,6 +40,15 @@
           </p>
     </article>
 
+    <!-- Footnotes -->
+    <div id="footnote-container"
+      v-if="footnotes.length" >
+      <p id="footnote"
+      v-for="(obj, index) in footnotes" :key="index"
+      v-html="(index + 1) + '.  ' + obj">
+      </p>
+    </div>
+
   </div>
 </template>
 
@@ -62,7 +71,8 @@ export default {
       boldFirstIndexArray: [],
       boldLastIndexArray: [],
       paragraphWithBolds: '',
-      boldIndexArray: []
+      boldIndexArray: [],
+      footnotes: []
     }
   },
   computed: {
@@ -139,12 +149,6 @@ export default {
       }
       return color
     },
-    // setBold (index) {
-    //   let str = ''
-    //   str = this.totalArrayToBeBold[index].join('')
-    //   console.log(str)
-    //   return str
-    // }
     turnBold () {
       // let paragraph = ''
       for (let i = 0; i < this.paragraphs.length; i++) {
@@ -165,24 +169,23 @@ export default {
   },
   created () {
     for (let i = 0; i < this.documents.length; i++) {
-      if (this.$route.params.sectionURL.includes(this.documents[i].sectionURL)) {
+      if ((this.$route.params.sectionURL === this.documents[i].sectionURL) && (this.$route.params.titleURL === this.documents[i].titleURL)) {
         this.paragraphsLength = this.documents[i].paragraphs.length
         let paragraph = ''
         for (let j = 0; j < this.paragraphsLength; j++) {
           paragraph = this.documents[i].paragraphs[j].text
-          // this.paragraphString = this.documents[i].paragraphs[j].text
-          // this.paragraphs.push(this.paragraphString)
-          // this.boldLength = this.documents[i].paragraphs[j].bold.length
-          // if (this.boldLength) {
-          //   for (let k = 0; k < this.boldLength; k++) {
-          //     this.boldFirstIndex = this.documents[i].paragraphs[j].bold[k].firstIndex
-          //     this.boldLastIndex = this.documents[i].paragraphs[j].bold[k].lastIndex
-          //     this.boldFirstIndexArray.push(this.boldFirstIndex)
-          //     this.boldLastIndexArray.push(this.boldLastIndex)
-          //     this.boldIndexArray = this.getBoldIndexArray(this.boldFirstIndex, this.boldLastIndex)
-          //   }
-          // }
           this.paragraphs.push(paragraph)
+          //
+          if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
+            console.log('entrou')
+          }
+          console.log(this.documents[i].paragraphs[j].footnote.length)
+          if (this.documents[i].paragraphs[j].footnote.length) {
+            for (let k = 0; k < this.documents[i].paragraphs[j].footnote.length; k++) {
+              console.log(this.documents[i].paragraphs[j].footnote[k].content)
+              this.footnotes.push(this.documents[i].paragraphs[j].footnote[k].content)
+            }
+          }
         }
       }
     }
@@ -191,6 +194,15 @@ export default {
 </script>
 <style lang="scss" scoped>
   @import '../assets/sass/views/document';
+
+  #footnote-container {
+    margin: 0 10%;
+    padding-bottom: 10px;
+
+    @include mobile {
+      margin: 0 7%
+    }
+  }
 
   .red {
     font-weight: bold;
