@@ -103,14 +103,14 @@ export default {
     // },
     title () {
       for (let i = 0; i < this.documents.length; i++) {
-        if (this.$route.params.titleURL.includes(this.documents[i].titleURL)) {
+        if (this.$route.params.sectionURL === this.documents[i].sectionURL) {
           return this.documents[i].title
         }
       }
     },
     section () {
       for (let i = 0; i < this.documents.length; i++) {
-        if (this.$route.params.sectionURL.includes(this.documents[i].sectionURL)) {
+        if (this.$route.params.sectionURL === this.documents[i].sectionURL) {
           return this.documents[i].section
         }
       }

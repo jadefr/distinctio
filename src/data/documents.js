@@ -258,7 +258,7 @@ export default [
         footnote: []
       },
       {
-        text: '— Morreu em 1859. Vinte de abril. Nunca me há de esquecer esse dia. Vou contar-lhe um caso interessante para mim, e creio que também para o senhor. Olhe, a casa era aquela... Morava com um tio, chefe de esquadra reformado, tinha outra casa  no  Cosme  Velho. Quando  conheci  Quintília...  Que  idade  pensa  que  teria,quando a conheci?',
+        text: '— Morreu em 1859. Vinte de abril. Nunca me há de esquecer esse dia. Vou contar-lhe um caso interessante para mim, e creio que também para o senhor. Olhe, a casa era aquela... Morava com um tio, chefe de esquadra reformado, tinha outra casa  no  Cosme  Velho. Quando  conheci  Quintília...  Que  idade  pensa  que  teria, quando a conheci?',
         footnote: []
       },
       {
@@ -306,7 +306,7 @@ export default [
         footnote: []
       },
       {
-        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  não vinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso, refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-meuma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ou ela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhor para o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note que ele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, e uma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. E dizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
+        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  não vinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso, refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-me uma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ou ela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhor para o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note que ele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, e uma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. E dizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
         footnote: []
       },
       {
@@ -386,7 +386,7 @@ export default [
         footnote: []
       },
       {
-        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete, uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessa transição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  Amoléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  me disse depois, estimou a coincidência do golpe, uma vez que tínhamos de o receber sem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  meses depois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavam no Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha. Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados, deixou-nos o campo livre.',
+        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete, uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessa transição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  A moléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  me disse depois, estimou a coincidência do golpe, uma vez que tínhamos de o receber sem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  meses depois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavam no Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha. Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados, deixou-nos o campo livre.',
         footnote: []
       },
       {
@@ -7203,18 +7203,138 @@ export default [
   {
     title: 'Da República',
     author: 'Marco Túlio Cícero',
-    section: 'Livro Primeiro',
+    section: 'Excerto',
     img: 'cicero',
     imgIndex: '1',
     titleURL: 'da-republica',
     authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-primeiro',
-    content: 'Sem  o  amor  pátrio,  não  teriam  Duílio111F1,  Atílio112F2  e  Metelo113F3  libertado  Roma  do  terror  de  Cartago;  sem  ele,  não  teriam  os  dois  Cipiões  apagado  o  incêndio  da  segunda  guerra  púnica,  e,  quando  seu  incremento  foi  ainda  maior,  não  o  teria  debilitado   Quinto   Máximo,114F4   nem   extinguido   M.   Marcelo,115F5   nem   impelido   P.   Africano116F6  às  próprias  muralhas  inimigas.  Certamente  Catão,117F7  homem  cuja  família  era  desconhecida  e  de  quem,  não  obstante,  todos  os  que  estudam  as  mesmas  verdades invejam a glória que alcançou com sua virtude e trabalho, podia ser lícito deleitar-se  ociosamente  no  saudável  e  próximo  sítio  de  Túsculo118F8.  Mas  o  homem  veemente  prefere,  embora  seja  chamado  de  louco  e  a  necessidade  não  o  obrigue,  arrostar  as  tempestades  públicas  entre  suas  ondas,  até  sucumbir  decrépito,  a  viver  no  ócio  prazenteiro  e  na  tranqüilidade.  Deixo  de  nomear  os  inúmeros  varões  que  salvaram  a  República,  e  passo  em  silêncio  aqueles  de  quem  se  conserva  recente memória,  temeroso  de  suscitar  queixas  com  a  omissão  de  algum.  Afirmarei,  sim,  que  tamanha  é  a  necessidade  de  virtude  que  o  gênero  humano  experimenta  por  natureza,  tão  grande  o  amor  à  defesa  da  saúde  comum,  que  essa  força  triunfa  sempre sobre o ócio e a voluptuosidade. II.  Mas  não  é  bastante  ter  uma  arte  qualquer  sem  praticá-la.  Uma  arte  qualquer, pelo menos, mesmo quando não se pratique, pode ser considerada como ciência; mas a virtude afirma-se por completo na prática, e seu melhor uso consiste em  governar  a  República  e  converter  em  obras  as  palavras  que  se  ouvem  nas  escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que não  o  tenham  confirmado  e  exposto  aqueles  pelos  quais  se  prescreve  o  direito  da  República. De onde procede a piedade? De quem a religião? De onde o direito das gentes?  E  o  que  se  chama  civil,  de  onde?  De  onde  a  justiça,  a  fé,  a  eqüidade,  o  pudor,  a  continência,  o  horror  ao  que  é  infame  e  o  amor  ao  que  é  louvável  e  honesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses princípios pela educação, os confirmaram pelos costumes e os sancionaram com as leis.   Perguntando-se   a   Xenócrates,119F9   filósofo   insigne,   que   conseguiam   seus   discípulos, respondeu: "Fazer espontaneamente o que se lhes obrigaria a fazer pelas leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei, às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível aos  próprios  doutores.  Onde  se  poderá  encontrar  discurso  de  tanto  valor  que  se  possa  antepor  a  uma  boa  organização  do  Estado,  do  direito  público  e  dos  costumes?  Assim,  julgo  preferíveis  as  cidades  magnas  e  dominadoras,  como  as  denomina  Ênio,120F10  aos  castelos  e  praças  fortes;  creio,  igualmente,  que  aos  que  governam a República com sua autoridade se deve antepor a sabedoria dos peritos em negócios públicos. Já que nos inclinamos a aumentar a herança da humanidade; já  que  para  isso  se  encaminham  nossos  estudos  e  trabalhos,  estimulados  pela  própria  natureza,  e  mais,  para  tornar  mais  poderosa  e  opulenta  a  vida  do  homem,  sigamos  o  caminho  que  os  melhores  empreenderam,  e  não  escutemos  as  vozes  e  sinais  que  nos  chamam  por  detrás  e  a  que  os  nossos  predecessores  fecharam  os  ouvidos. III. A essas razões tão certas e evidentes se opõem, entre os que argumentam em  contrário,  em  primeiro  lugar,  os  trabalhos  que  acarreta  a  defesa  da  República,  impedimento insignificante para o homem ativo e vigilante, e desprezível não só em coisa de tanta importância como também nas de menos interesse, nos estudos, nos assuntos  comuns  e  nos  negócios  ordinários.  Acrescenta-se  o  perigo  de  perder  a  vida; opõe-se o temor à morte, torpe e vergonhoso para o varão íntegro, habituado a considerar mais miserável consumir-se pela natureza e pela senectude do que dar valorosamente  à  pátria,  num  momento  determinado,  o  que  cedo  ou  tarde  terá  de  devolver à natureza. É nesse lugar que s',
+    sectionURL: 'excerto',
+    content: '',
     disclaimer: '',
     paragraphs: [
       {
-        text: 'Afirmarei, sim, que tamanha é a necessidade de virtude que o gênero humano experimenta pornatureza, tão grande o amor à defesa da saúde comum, que essa força triunfa sempre sobre o ócio e avoluptuosidade.     II. Mas, não é. bastante ter uma arte qualquer sem praticá-la. Uma arte qualquer, pelo menos, mesmoquando não se pratique, pode ser considerada como ciência; mas, a virtude afirma-se por completo naprática, e seu melhor uso consiste em governar a República e converter em obras as palavras que seouvem nas escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que não otenham confirmado e exposto aqueles pelos quais se prescreve o direito da República. De onde procede apiedade? De quem a religião? De onde o direito das gentes? E o que se chama civil, de onde? De onde ajustiça, a fé, a equidade, o pudor, a continência, o horror ao que é infame e o amor ao que é louvável ehonesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses princípios pelaeducação, os confirmaram pelos costumes e os sancionaram com as leis. Perguntando-se a Xenócrates(9), filósofo insigne, que conseguiam seus discípulos, respondeu: "Fazer espontaneamente o que se lhesobrigaria a fazer pelas leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei,às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível aos própriosdoutores. Onde se poderá encontrar discurso de tanto valor que se possa antepor a uma boa organizaçãodo Estado, do direito público e dos costumes? Assim, julgo preferíveis as cidades magnas e dominadoras,como as denomina Ênio (10), aos castelos e praças fortes; creio, igualmente, que, aos que governam a',
+        text: '<center>LIVRO PRIMEIRO</center>',
+        footnote: []
+      },
+      {
+        text: 'I. Sem o amor pátrio, não teriam Duílio<sup><a href="#footnotes">1</a></sup>' +
+          ', Atílio<sup><a href="#footnotes">2</a></sup>' +
+          ' e Metelo<sup><a href="#footnotes">3</a></sup>' +
+          ' libertado Roma\n' +
+          'do terror de Cartago; sem ele, não teriam os dois Cipiões apagado o incêndio da\n' +
+          'segunda guerra púnica, e, quando seu incremento foi ainda maior, não o teria\n' +
+          'debilitado Quinto Máximo,<sup><a href="#footnotes">4</a></sup>\n' +
+          ' nem extinguido M. Marcelo,<sup><a href="#footnotes">5</a></sup>\n' +
+          ' nem impelido P.\n' +
+          'Africano<sup><a href="#footnotes">6</a></sup>\n' +
+          ' às próprias muralhas inimigas. Certamente Catão,<sup><a href="#footnotes">7</a></sup>\n' +
+          ' homem cuja família\n' +
+          'era desconhecida e de quem, não obstante, todos os que estudam as mesmas\n' +
+          'verdades invejam a glória que alcançou com sua virtude e trabalho, podia ser lícito\n' +
+          'deleitar-se ociosamente no saudável e próximo sítio de Túsculo<sup><a href="#footnotes">8</a></sup>\n' +
+          '. Mas o homem\n' +
+          'veemente prefere, embora seja chamado de louco e a necessidade não o obrigue,\n' +
+          'arrostar as tempestades públicas entre suas ondas, até sucumbir decrépito, a viver\n' +
+          'no ócio prazenteiro e na tranqüilidade. Deixo de nomear os inúmeros varões que\n' +
+          'salvaram a República, e passo em silêncio aqueles de quem se conserva recente memória, temeroso de suscitar queixas com a omissão de algum. Afirmarei, sim,\n' +
+          'que tamanha é a necessidade de virtude que o gênero humano experimenta por\n' +
+          'natureza, tão grande o amor à defesa da saúde comum, que essa força triunfa\n' +
+          'sempre sobre o ócio e a voluptuosidade.',
         footnote: [
+          {
+            index: 1,
+            content: 'Vitória naval sobre os cartagineses. Com efeito, munidos os navios romanos de pontes guarnecidas de arpões que se prendiam às galeras\n' +
+              'de Cartago, travou-se sobre o mar uma verdadeira batalha campal, saindo Roma vitoriosa. Para celebrar o triunfo de Duílio, ergue-se a\n' +
+              'famosa rostrata columna (coluna rostral)'
+          },
+          {
+            index: 2,
+            content: 'Atílio Regulo, tendo caído em poder dos cartagineses, foi por estes enviado a Roma, a fim de propor ao Senado uma troca de prisioneiros.\n' +
+              'Evitou, porém, que o Senado aceitasse a proposta e, malgrado as súplicas de sua mulher Márcia e dos seus filhos, voltou a Cartago e foi\n' +
+              'supliciado.'
+          },
+          {
+            index: 3,
+            content: 'Cônsul romano no ano 251 a.C, vencedor dos cartagineses na Sicília\'.'
+          },
+          {
+            index: 4,
+            content: 'Quinto Fábio Máximo, cognominado o Cunctator (o Contemporizador), soube, com sua tática prudente, sustar os progressos de Aníbal.'
+          },
+          {
+            index: 5,
+            content: 'Marco Cláudio Marcelo, que, durante a segunda guerra púnica, tomou Siracusa.'
+          },
+          {
+            index: 6,
+            content: 'Públio Cornélio Cipião, o Africano, que se distinguiu na segunda guerra púnica e venceu Aníbal em Zama. Seu neto adotivo Cipião\n' +
+              'Emiliano, filho de Paulo Emílio, que foi o segundo de nome Africano, foi o destruidor de Cartago no ano 146 a.C.'
+          },
+          {
+            index: 7,
+            content: 'Catão, o Antigo ou o Censor, célebre pela austeridade dos seus princípios e ao qual se atribui a frase famosa: Delenda Carthago!\n' +
+              '("Destrua-se Cartago !")'
+          },
+          {
+            index: 8,
+            content: 'Antiga cidade do Lácio.'
+          }
+        ]
+      },
+      {
+        text: 'II. Mas não é bastante ter uma arte qualquer sem praticá-la. Uma arte\n' +
+          'qualquer, pelo menos, mesmo quando não se pratique, pode ser considerada como\n' +
+          'ciência; mas a virtude afirma-se por completo na prática, e seu melhor uso consiste\n' +
+          'em governar a República e converter em obras as palavras que se ouvem nas\n' +
+          'escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que\n' +
+          'não o tenham confirmado e exposto aqueles pelos quais se prescreve o direito da\n' +
+          'República. De onde procede a piedade? De quem a religião? De onde o direito das\n' +
+          'gentes? E o que se chama civil, de onde? De onde a justiça, a fé, a eqüidade, o\n' +
+          'pudor, a continência, o horror ao que é infame e o amor ao que é louvável e\n' +
+          'honesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses\n' +
+          'princípios pela educação, os confirmaram pelos costumes e os sancionaram com as\n' +
+          'leis. Perguntando-se a Xenócrates,<sup><a href="#footnotes">9</a></sup>\n' +
+          ' filósofo insigne, que conseguiam seus\n' +
+          'discípulos, respondeu: "Fazer espontaneamente o que se lhes obrigaria a fazer pelas\n' +
+          'leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei,\n' +
+          'às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível\n' +
+          'aos próprios doutores. Onde se poderá encontrar discurso de tanto valor que se\n' +
+          'possa antepor a uma boa organização do Estado, do direito público e dos\n' +
+          'costumes? Assim, julgo preferíveis as cidades magnas e dominadoras, como as\n' +
+          'denomina Ênio<sup><a href="#footnotes">10</a></sup>\n' +
+          ' aos castelos e praças fortes; creio, igualmente, que aos que\n' +
+          'governam a República com sua autoridade se deve antepor a sabedoria dos peritos\n' +
+          'em negócios públicos. Já que nos inclinamos a aumentar a herança da humanidade;\n' +
+          'já que para isso se encaminham nossos estudos e trabalhos, estimulados pela\n' +
+          'própria natureza, e mais, para tornar mais poderosa e opulenta a vida do homem,\n' +
+          'sigamos o caminho que os melhores empreenderam, e não escutemos as vozes e sinais que nos chamam por detrás e a que os nossos predecessores fecharam os\n' +
+          'ouvidos.',
+        footnote: [
+          {
+            index: 9,
+            content: 'Filósofo grego, discípulo de Platão, cujas doutrinas se esforçou por conciliar com as de Pitágoras.'
+          },
+          {
+            index: 10,
+            content: 'Um dos mais antigos poetas latinos, grego de nascimento (240-169 a.C).'
+          }
+        ]
+      },
+      {
+        text: 'III. A essas razões tão certas e evidentes se opõem, entre os que argumentam\n' +
+          'em contrário, em primeiro lugar, os trabalhos que acarreta a defesa da República,\n' +
+          'impedimento insignificante para o homem ativo e vigilante, e desprezível não só em\n' +
+          'coisa de tanta importância como também nas de menos interesse, nos estudos, nos\n' +
+          'assuntos comuns e nos negócios ordinários. Acrescenta-se o perigo de perder a\n' +
+          'vida; opõe-se o temor à morte, torpe e vergonhoso para o varão íntegro, habituado\n' +
+          'a considerar mais miserável consumir-se pela natureza e pela senectude do que dar\n' +
+          'valorosamente à pátria, num momento determinado, o que cedo ou tarde terá de\n' +
+          'devolver à natureza.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
           {
             index: '',
             content: ''
@@ -7222,32 +7342,208 @@ export default [
         ]
       },
       {
-        text: 'República com sua autoridade, se deve antepor a sabedoria dos peritos em negócios públicos. Já que nosinclinamos a aumentar a herança da humanidade; já que para isso se encaminham nossos estudos etrabalhos, estimulados pela própria natureza, e mais, para tornar mais poderosa e opulenta a vida dohomem, sigamos o caminho que os melhores empreenderam, e não escutemos as vozes e sinais que noschamam por detrás e a que os nossos predecessores fecharão os ouvidos.',
-        footnote: []
+        text: 'É nesse lugar que se julgam fortes e vitoriosos os adversários, ao alegarem as\n' +
+          'ingratidões e injustiças sofridas pelos mais preclaros varões. Aqui apresentam\n' +
+          'exemplos tomados dos gregos: Milcíades,<sup><a href="#footnotes">11</a></sup>\n' +
+          ' dominador e vencedor dos persas, não\n' +
+          'curado ainda dos ferimentos que recebera lutando corpo-a-corpo em preclara\n' +
+          'vitória, perdeu a vida, que salvara das armas inimigas, nas masmorras da cidade; e\n' +
+          'Temístocles<sup><a href="#footnotes">12</a></sup>' +
+          ' proscrito da pátria que lhe devolvia a liberdade, buscou asilo não nos\n' +
+          'portos da Grécia por ele salvos mas entre os bárbaros que em outros tempos\n' +
+          'hostilizara. Não são, certamente, poucos os exemplos da volubilidade e crueldade\n' +
+          'dos atenienses para com seus mais preclaros varões; exemplos que, repetindo-se\n' +
+          'freqüentemente entre eles, não falta quem assegure que tenham passado para a\n' +
+          'nossa cidade. Recordam-se, a esse propósito, ora o desterro de Camilo,<sup><a href="#footnotes">13</a></sup>\n' +
+          ' ora a\n' +
+          'desdita de Aala,<sup><a href="#footnotes">14</a></sup>\n' +
+          ' a inveja de Nasica,<sup><a href="#footnotes">15</a></sup>\n' +
+          ' ora o ostracismo de Lenas,<sup><a href="#footnotes">16</a></sup>\n' +
+          ' ou a\n' +
+          'condenação de Opímio,<sup><a href="#footnotes">17</a></sup>\n' +
+          ' ou a fuga de Metelo, ora o doloroso assassínio de C.\n' +
+          'Mário,<sup><a href="#footnotes">18</a></sup>\n' +
+          ' a morte dos chefes, ora outras muitas desditas que pouco depois se sucederam. Não deixam de citar meu próprio nome. E creio mesmo que,\n' +
+          'imaginando dever a meus riscos e conselhos a conservação de sua vida e do seu\n' +
+          'repouso, amantes e ternos, de meus males se queixam. É estranho que se admirem\n' +
+          'nos sacrifícios pela pátria aqueles que a ambição ou a curiosidade leva aos mares.',
+        footnote: [
+          {
+            index: 11,
+            content: 'General ateniense, vencedor dos persas na batalha de Maratona'
+          },
+          {
+            index: 12,
+            content: 'General ateniense, adversário de Aristides. Acusado de peculato, foi exilado e retirou-se para a Pérsia, onde morreu.'
+          },
+          {
+            index: 13,
+            content: 'Tribuno e ditador romano, que mereceu, pelos seus serviços, o título de segundo fundador de Roma.'
+          },
+
+          {
+            index: 14,
+            content: 'Servílio Aala, que matou Espúrio Mélio.'
+          },
+          {
+            index: 15,
+            content: 'Cipião Nasica, primo do primeiro Africano, inimigo implacável de Tibério Graco.'
+          },
+          {
+            index: 16,
+            content: 'Um dos membros da família Popólia.'
+          },
+          {
+            index: 17,
+            content: 'Opímio Nepote, cônsul que provocou a morte de Caio Graco.'
+          },
+
+          {
+            index: 18,
+            content: 'Caio Mário, cônsul romano, vencedor dos Cimbros, rival de Sila.'
+          }
+        ]
       },
       {
-        text: 'III. A essas razões tão certas e evidentes se opõem, entre os que argumentam em contrário, emprimeiro lugar, os trabalhos que acarreta a defesa da República, impedimento nímio para o homemdesperto e vigilante, e desprezível não só em coisas de tanta importância, como também nas de menosinteresse, nos estudos, nos assuntos comuns e nos negócios ordinários.',
-        footnote: []
+        text: 'IV. Quando jurei, ao deixar o Consulado, na assembléia do povo romano,\n' +
+          'que repetiu meu juramento, que eu salvara a pátria, senti a recompensa das\n' +
+          'inquietações e cuidados que me produziam as injúrias. Por mais que minhas\n' +
+          'desditas tivessem mais de honras do que de trabalhos, e não tanto de inquietação\n' +
+          'como de glória, maior alegria recebi pelos votos dos bons do que dor pela alegria\n' +
+          'dos maus. Mas, se tivesse acontecido outra coisa, do que me poderia queixar? Nada\n' +
+          'para mim seria imprevisto nem grave que não esperasse por meus feitos. Ainda\n' +
+          'mesmo que fosse lícito colher o maior fruto do ócio pelo doce e variado dos\n' +
+          'estudos a que me consagro desde a infância, e ainda mesmo que, sobrevindo algum\n' +
+          'desastre geral, minha condição não devesse ser pior, mas a mesma dos outros, não\n' +
+          'vacilaria em arrostar as maiores tormentas e as próprias inundações fluviais pela\n' +
+          'conservação dos cidadãos, julgando sacrificar meu bem-estar em arras da\n' +
+          'tranqüilidade comum. A pátria não nos gerou nem educou sem esperança de\n' +
+          'recompensa de nossa parte, e só para nossa comodidade e para procurar retiro\n' +
+          'pacífico para a nossa incúria e lugar tranqüilo para o nosso ócio, mas para\n' +
+          'aproveitar, em sua própria utilidade, as mais numerosas e melhores faculdades das\n' +
+          'nossas almas, do nosso engenho, deixando somente o que a ela possa sobrar para\n' +
+          'nosso uso privado.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
       },
       {
-        text: 'ável consumir-se pela natureza e pela senitude do que dar valorosamente à pátria, num momentodeterminado, o que cedo ou tarde terá de devolver à natureza.     É nesse lugar que se julgam fortes e vitoriosos os adversários, ao alegarem as ingratidões e injustiçassofridas pelos mais preclaros varões. ',
-        footnote: []
+        text: 'V. Na verdade, não devemos ouvir os subterfúgios que empregam os que\n' +
+          'pretendem gozar facilmente de uma vida ociosa, embora digam que acarreta miséria\n' +
+          'e perigo auxiliar a República, rodeada de pessoas incapazes de realizar o bem, com\n' +
+          'as quais a comparação é humilhante, em cujo combate há risco, principalmente\n' +
+          'diante da multidão revoltada, pelo que não é prudente tomar as rédeas quando não\n' +
+          'se podem conter os ímpetos desordenados do populacho, nem é generoso exporse,\n' +
+          'na luta com adversários impuros, a injúrias ou ultrajes que a sensatez não tolera;\n' +
+          'como se os homens de grande virtude, animosos e dotados de espírito vigoroso,\n' +
+          'pudessem ambicionar o poder com um objetivo mais legítimo que o de sacudir o\n' +
+          'jugo dos maus, evitando que estes despedacem a República, que um dia os homens\n' +
+          'honestos poderiam desejar, mas então inutilmente, erguer de suas ruínas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
       },
       {
-        text: 'E creio mesmo que, imaginando dever a meus riscose conselhos a conservação de sua vida e do seu repouso, amantes e ternos de meus males se queixam. Éestranho que se admirem nos sacrifícios pela pátria aqueles que a ambição ou a curiosidade leva aosmares.   IV. Quando jurei, ao deixar o Consulado, na assembléia do povo romano, que repetiu meu juramento,que eu salvara a pátria, senti a recompensa das inquietações e cuidados que me produziram as injúrias.Por mais que minhas desditas tivessem mais de honras do que de trabalhos, e não tanto de inquietaçãocomo de glória, maior alegria recebi pelos votos dos bons do que dor pela alegria dos maus. Mas, setivesse acontecido outra coisa, de que me poderia queixar? ',
-        footnote: []
+        text: 'VI. Quem pode demonstrar a isenção que nega ao sábio toda participação\n' +
+          'dos negócios públicos, exceto nos casos em que o tempo ou a necessidade o\n' +
+          'obrigue? A quem pode sobrevir maior necessidade do que a mim, na qual nada teria\n' +
+          'podido fazer, mesmo não sendo cônsul? Como o poderia eu ter sido sem ter feito\n' +
+          'esta carreira desde a minha infância, pela qual teria de chegar, de cavaleiro, a esta\n' +
+          'suprema honra? Não está em nossas mãos servir à República quando a vontade o\n' +
+          'ordena e de improviso, mesmo quando ela corra grave risco, se não nos tivermos\n' +
+          'colocado antes em condições favoráveis. E, em geral, o que mais estranho nos\n' +
+          'discursos dos sábios é que os que negam ser possível governar uma nave num mar\n' +
+          'tranqüilo, porque nunca procuraram saber fazê-lo, se julguem capazes de tomar o\n' +
+          'leme quando sobrevém a borrasca. Assim costumam falar e disso se gabam com\n' +
+          'não pouca freqüência; esquecendo os meios de constituir solidamente um\n' +
+          'Estado, atribuem tal conhecimento não aos homens doutos e eminentes mas\n' +
+          'aos experimentados nessa modalidade de conhecimento. Como poderão cumprir a\n' +
+          'promessa de auxiliar a República em transes difíceis, quando ignoram o que é mais\n' +
+          'fácil: governar o Estado em tempo de bonança? Realmente, os sábios não\n' +
+          'costumam, por vontade própria, descer aos negócios públicos, e nem sempre\n' +
+          'admitem esse encargo; mas também julgo perigoso descuidar arbitrariamente o\n' +
+          'conhecimento dos negócios públicos sem se preparar para qualquer eventualidade e\n' +
+          'desconhecendo o que pode ocorrer.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
       },
       {
-        text: '',
-        footnote: []
+        text: 'VII. Se me estendi tanto em considerações sobre esse ponto, é porque este\n' +
+          'livro é uma discussão empreendida e seguida por mim a respeito do Estado; e, para\n' +
+          'não frustrá-la, tive primeiro de combater as dúvidas e desânimos que nos afastam\n' +
+          'dos negócios públicos. Se houver alguém a quem decida a autoridade dos filósofos,\n' +
+          'escolha com cuidado e escute aqueles cuja autoridade e cuja glória são reconhecidas\n' +
+          'pelos homens mais doutos, aos quais estimo, mesmo quando não tenham dirigido a\n' +
+          'nave do Estado, porque em compensação muito indagaram e escreveram a respeito\n' +
+          'dessas questões, desempenhando uma espécie de magistratura. Os sete varões que\n' +
+          'os gregos chamaram de sábios foram versados na administração pública; e,\n' +
+          'realmente, em nada se aproxima tanto o nume humano do divino como ao fundar\n' +
+          'novas nações ou conservar as já fundadas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
       },
       {
-        text: '',
-        footnote: []
+        text: 'VIII. Pelo que me respeita, a mim que consegui alcançar digna reputação na\n' +
+          'gestão dos negócios e encontrar felicidade para explicar os fundamentos das coisas\n' +
+          'civis, posso, com minha experiência, discernir e mostrar que os meus antecessores\n' +
+          '— alguns versados nas discussões — não desempenharam nenhum cargo prático, e\n' +
+          'outros, práticos nas gestões públicas, eram rudes em oratória. Não é minha\n' +
+          'intenção instituir novas regras, de minha própria invenção, mas repetir as opiniões\n' +
+          'dos preclaros e sábios varões de que se guarda memória em nossa idade e na nossa\n' +
+          'República; ainda adolescente, pudemos apreciá-las dos lábios de P. Rutílio Rufo,<sup><a href="#footnotes">19</a></sup> \n' +
+          '\n' +
+          'em Esmirna, que nos referiu uma controvérsia de muitos dias, e na qual julgo não\n' +
+          'estar omitindo ponto algum de interesse que se possa relacionar com este grande\n' +
+          'assunto.',
+        footnote: [
+          {
+            index: 19,
+            content: 'Cônsul ao tempo de Sila, reputado o mais virtuoso do seu século'
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
       },
       {
-        text: '',
-        footnote: []
+        text: '<i>Tradução e notas de Amador Cisneiros</i>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   },
@@ -7610,33 +7906,6 @@ export default [
     ]
   },
   {
-    title: 'Da República',
-    author: 'Marco Túlio Cícero',
-    section: 'Livro Segundo',
-    img: 'cicero',
-    imgIndex: '1',
-    titleURL: 'da-republica',
-    authorURL: 'marco-tulio-cicero',
-    sectionURL: 'livro-segundo',
-    content: 'Como  Cipião  visse  todos  ansiosos  por  ouvi-lo,  tornou  a  tomar  a  palavra  desta  forma:  —  Começarei  por  um  pensamento  do  velho  Catão,  a  quem  muito  amei  e  admiro  singularmente,  e  ao  qual,  quer  pela  opinião  de  meus  parentes,  quer  por  minha  própria  espontaneidade,  me  consagrei  desde  minha  adolescência,  sem  que  seus  discursos  tenham  chegado  a  enfastiar-me,  tanta  era  a  experiência  dos  negócios  públicos  que  encontrava  nele,  negócios  que  dirigiu  por  longo  tempo  maravilhosamente,   tanto   na   paz   como   na   guerra;   tanta   sua   modéstia   e   comedimento de linguagem, digna ao mesmo tempo que agradável; tanto o desejo que tinha de se instruir e de tornar aos outros partícipes de sua ciência; tal, enfim, sua  existência,  toda  conforme  às  máximas  e  discursos  que  saíam  de  seus  lábios.  Costumava  dizer  que  nossa  superioridade  política  tinha  como  causa  o  fato  de  que  os outros Estados nunca tiveram, senão isolados, seus grandes homens, que davam leis  à  sua  pátria  de  acordo  com  seus  princípios  particulares;  Minos180F70  em  Creta,  Licurgo181F71  na  Lacedemônia,  e,  em  Atenas,  teatro  de  tantas  revoluções,  Teseu182F72, Drácon183F73, Sólon184F74,Clístenes185F75 e tantos outros, até que para reanimar seu desalento e debilidade  achou  Demétrio186F76,  o  douto  varão  de  Falero187F77;  nossa  República,  pelo  contrário, gloriosa de uma longa sucessão de cidadãos ilustres, teve para assegurar e afiançar seu poderio, não a vida de um só legislador, mas muitas gerações e séculos de  sucessão  constante.  Nunca,  acrescentava,  se  encontrou  espírito  tão  vasto  que  tenha abarcado tudo, e a reunião dos mais brilhantes gênios seria insuficiente para ',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Meditações',
     author: 'Marco Aurélio',
     section: 'Livro I',
@@ -7679,7 +7948,8 @@ export default [
         ]
       },
       {
-        text: '',
+        text: '4. De meu bisavô, o ter em casa mestres excelentes, em vez de freqüentar\n' +
+          'escolas públicas, e compreender que a instrução requer se despenda largamente.',
         footnote: [
           {
             index: '',
@@ -7688,7 +7958,106 @@ export default [
         ]
       },
       {
-        text: '',
+        text: '5. De meu aio, o não me haver tornado partidário dos Verdes ou dos Azuis<sup><a href="#footnotes">3</a></sup>,\n' +
+          'nem dos Palmulários ou dos Escutários<sup><a href="#footnotes">4</a></sup>;\n' +
+          'o aturar fadigas e precisar de pouco; o\n' +
+          'executar eu próprio minhas tarefas, o não ser intrometido e a repulsa a intrigas.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Facções de cocheiros no circo.'
+          },
+          {
+            index: 4,
+            content: 'Facções de gladiadores.'
+          }
+        ]
+      },
+      {
+        text: '6. De Diogneto<sup><a href="#footnotes">5</a></sup>,' +
+          'o descaso das futilidades; o não crer no que dizem os\n' +
+          'milagreiros e charlatães sobre encantamentos, expulsão de demônios e quejandas\n' +
+          'imposturas; o não criar codornizes nem me entregar a paixões dessa espécie; o\n' +
+          'suportar franquezas; o familiarizar-me com a Filosofia e ouvir as lições,\n' +
+          'primeiramente, de Báquio, depois, de Tândasis e Marciano; o ter escrito diálogos na\n' +
+          'infância; o ter desejado o catre, o pelego e todas as outras simplicidades da\n' +
+          'educação helênica.',
+        footnote: [
+          {
+            index: 5,
+            content: 'Erudito e pintor.'
+          }
+        ]
+      },
+      {
+        text: '7. De Rústico<sup><a href="#footnotes">6</a></sup>, ' +
+          'a compreensão de que devia corrigir e cultivar o meu caráter;\n' +
+          'o não me entregar à paixão da sofistica, nem compor tratados teóricos, redigir\n' +
+          'arengas de exortação ou exibir-me, para suscitar admirações, como pessoa operosa\n' +
+          'e benfazeja; a abstenção da retórica, da poesia, do preciosismo; o não andar de toga\n' +
+          'em casa, nem alimentar vaidades que tais; o usar de simplicidade nas minhas cartas,\n' +
+          'como ele na que mandou de Sinoessa a minha mãe; a presteza em responder ao\n' +
+          'apelo de reconciliação dos que se irritaram comigo e me ofenderam, tão logo de si\n' +
+          'mesmos queiram voltar às boas; o ler acuradamente, não me satisfazendo com uma\n' +
+          'vista d\'olhos superficial; o não assentir precipitadamente às indiscrições; o conhecer\n' +
+          'os comentários de Epicteto<sup><a href="#footnotes">7</a></sup>,\n' +
+          ' que me emprestou de sua biblioteca.',
+        footnote: [
+          {
+            index: 6,
+            content: 'Filósofo da escola estóica, conselheiro de Marco Aurélio.'
+          },
+          {
+            index: 7,
+            content: 'Uma das maiores figuras da filosofia antiga. Viveu no começo da era cristã, de 40 a 125. Nascido na Frígia, de família servil, foi levado\n' +
+              'para Roma no tempo de Nero; ali recebeu de seu amo a liberdade e estudou com Musônio, adepto do estoicismo. Quando Domiciano\n' +
+              'expulsou da Itália os filósofos, passou-se para Nicópolis, no Epiro, e ali ensinou Filosofia. Conhecemos os seus ensinamentos graças ao\n' +
+              'historiador Arriano, seu discípulo, que registrou o pensamento e as máximas do mestre em duas obras, Entretenimentos e Manual,\n' +
+              'consideradas as obras capitais da escola estóica. Sua influência, profunda no ocaso do paganismo, estendeu-se através da era cristã.'
+          }
+        ]
+      },
+      {
+        text: '8. De Apolônio<sup><a href="#footnotes">8</a></sup>,' +
+          ' a independência, a decisão sem longos debates nem\n' +
+          'recurso à sorte dos lados; o não me orientar, sequer por instantes, senão pela razão;\n' +
+          'o não me alterar nos sofrimentos agudos, na perda dum filho, nas doenças\n' +
+          'prolongadas; o ter visto com meus olhos, num exemplo vivo, que o rigor extremo\n' +
+          'se compadece com a benignidade; o não ser irritadiço nas explicações; o ter visto\n' +
+          'um homem que manifestamente reputava como o menor de seus dotes o tirocínio\n' +
+          'e facilidade em transmitir os princípios doutrinários; o ter aprendido como receber\n' +
+          'as assim consideradas gentilezas dos amigos, sem render-me a elas nem desdenhálas\n' +
+          'indelicadamente.',
+        footnote: [
+          {
+            index: 8,
+            content: 'Obscuro mestre de filosofia estóica.'
+          }
+        ]
+      },
+      {
+        text: '9. De Sexto<sup><a href="#footnotes">9</a></sup>,' +
+          'a benevolência; o exemplo de casa regida pela tradição; a\n' +
+          'concepção de como viver segundo a natureza; a gravidade não afetada; a solicitude\n' +
+          'atenta para com os amigos; a tolerância para com os ignorantes e para com os que\n' +
+          'opinam sem maduro exame; a boa harmonia com todos, tanto que seu convívio\n' +
+          'agradava mais que qualquer blandícia, apesar de infundir, ao mesmo tempo, o\n' +
+          'máximo respeito para com sua pessoa; o atinar arguta e metodicamente com as normas necessárias à vida e ordená-las; o jamais mostrar nem aparência de cólera\n' +
+          'ou qualquer outra emoção, mas ser ao mesmo tempo muito sereno e muito\n' +
+          'afetuoso; o elogiar sem espalha-fato; a erudição vasta <i>sem</i> alarde.',
+        footnote: [
+          {
+            index: 9,
+            content: 'to de Queronéia, filósofo estóico, sobrinho de Plutarco.'
+          }
+        ]
+      },
+      {
+        text: '10. De Alexandre, o gramático, o não criticar,-o não vituperar quem profere\n' +
+          'algum barbarismo, solecismo ou cacofonia, mas aduzir aquela única expressão que\n' +
+          'devia ser dita, jeitosamente, em forma quer de resposta, quer de confirmação ou\n' +
+          'debate do assunto mesmo, e não de seu enunciado, quer ainda dalguma outra\n' +
+          'semelhante sugestão casual adequada.',
         footnote: [
           {
             index: '',
@@ -7697,7 +8066,24 @@ export default [
         ]
       },
       {
-        text: '',
+        text: '11. De Frontão<sup><a href="#footnotes">10</a></sup>,' +
+          'o notar quanta inveja, doblez e hipocrisia há nos tiranos e\n' +
+          'que esses chamados em Roma patrícios quase sempre são de certo modo bem\n' +
+          'falhos de afeição.',
+        footnote: [
+          {
+            index: 10,
+            content: 'Marco Cornélio Frontão, natural da Numídia (100 a 175 A.D.), preceptor de Marco Aurélio, seu conselheiro e amigo, a quem o\n' +
+              'imperador votava respeito e carinho, como se vê na volumosa correspondência que trocaram. Compôs modelos de eloqüência, à maneira\n' +
+              'dos retores gregos. Gozava de grande reputação e sua casa era freqüentada pelos expoentes da cultura contemporânea em Roma. Seu\n' +
+              'mérito real, porém, é diminuto; sobressaía na mediocridade geral.'
+          }
+        ]
+      },
+      {
+        text: '12. De Alexandre, o platônico, o não dizer ou escrever, amiúde e sem\n' +
+          'necessidade, que estou ocupado, nem me subtrair assim constantemente aos\n' +
+          'deveres sociais para com os de minha convivência, a pretexto de fainas prementes.',
         footnote: [
           {
             index: '',
@@ -7706,7 +8092,10 @@ export default [
         ]
       },
       {
-        text: '',
+        text: '13. De Catulo, o não desdenhar as queixas dum amigo, embora porventura\n' +
+          'infundadas, e tratar, ao contrário, de restaurar o bom entendimento habitual; o\n' +
+          'louvar os mestres com ardor, como se recorda de Domício e Atenódoto; e o amor\n' +
+          'verdadeiro para com os filhos.',
         footnote: [
           {
             index: '',
@@ -7715,101 +8104,158 @@ export default [
         ]
       },
       {
-        text: '',
+        text: '14. De meu irmão Severo<sup><a href="#footnotes">11</a></sup>,' +
+          'o amor à família, à verdade e à justiça; o ter\n' +
+          'conhecido por seu intermédio a Tráseas, Helvídio, Catão, Dião, Bruto; a concepção\n' +
+          'dum poder régio que acima de tudo respeite a liberdade dos súditos; dele, ainda, o\n' +
+          'culto da Filosofia, constante e sem desfalecimento; a beneficência e a liberalidade\n' +
+          'copiosa; o bem esperar da afeição dos amigos e confiar nela; a franqueza para com\n' +
+          'aqueles a quem acaso censurava e o não precisarem os seus amigos conjeturar o\n' +
+          'que ele desejava ou não desejava, por ser patente.\'',
         footnote: [
           {
-            index: '',
-            content: ''
+            index: 11,
+            content: 'Cláudio Severo; cultivou a Filosofia peripatética. Não era, realmente, irmão de Marco Aurélio, mas consogro.'
           }
         ]
       },
       {
-        text: '',
+        text: '15. De Máximo<sup><a href="#footnotes">12</a></sup>,' +
+          'o domínio de si mesmo e o não titubear em matéria\n' +
+          'nenhuma; a fortaleza nas vicissitudes, notadamente nas enfermidades; a feliz fusão\n' +
+          'da doçura e da imponência em seu caráter; o cumprimento de suas obrigações sem\n' +
+          'queixas; o crerem todos que ele pensava como dizia e não havia maldade em seus\n' +
+          'atos; a ausência de espantos e de medos; o jamais açodar-se ou demorar,\n' +
+          'embaraçar-se, descoroçoar, ou gargalhar e em seguida entregar-se a cóleras ou\n' +
+          'suspeitas; a beneficência, a indulgência e a lealdade; o dar antes a impressão de não\n' +
+          'entortado que de endireitado; que ninguém jamais se imaginaria menosprezado por\n' +
+          'ele, nem ousaria acreditar-se superior a ele.',
         footnote: [
           {
-            index: '',
-            content: ''
+            index: 12,
+            content: 'Cláudio Máximo, adepto do estoicismo.'
           }
         ]
       },
       {
-        text: '',
+        text: '16. De meu pai<sup><a href="#footnotes">13</a></sup>,' +
+          'a placidez e a firmeza inabalável nas decisões, fundadas em\n' +
+          'exames acurados; a indiferença para com a vaidade de supostas honrarias; o amor\n' +
+          'ao trabalho e a perseverança; o escutar as pessoas capazes de alguma contribuição\n' +
+          'para o bem comum; a inflexibilidade no aquinhoar cada um segundo seu mérito; a\n' +
+          'experiência de quando apertar e quando afrouxar; o ter posto fim à pederastia; a\n' +
+          'afabilidade; o consentir aos amigos nem sempre jantar em sua companhia nem\n' +
+          'acompanhá-lo obrigatoriamente nas viagens; o não o acharem mudado os que se\n' +
+          'houvessem afastado por algum dever; o exame acurado nas deliberações em\n' +
+          'comum e a persistência, sem abandonar as pesquisas e contentar-se com as idéias\n' +
+          'óbvias; a conservação das amizades, sem enfado nem exagerado apego; a autosuficiência\n' +
+          'em tudo e a serenidade; a longa previsão e o arranjo prévio das\n' +
+          'minúcias, sem teatralidade; o ter coibido as aclamações e toda bajulação de sua\n' +
+          'pessoa; a vigilância permanente dos interesses do Império; a administração das\n' +
+          'rendas do erário e a tolerância da crítica em alguns itens administrativos; o não ter\n' +
+          'superstições em relação aos deuses e, quanto aos homens, não ser bajulador das\n' +
+          'massas, blandicioso, populista, mas em tudo sóbrio, firme e nunca de mau gosto\n' +
+          'nem inovador; o uso dos bens que concorrem para a comodidade da vida e a sorte\n' +
+          'lhos proporcionara copiosamente — sem vaidade e ao mesmo tempo sem\n' +
+          'pretextos, de modo que, quando os havia, os fruía sem requintes e, quando carecia, passava sem eles; o não poderem chamá-lo intrujão, nem chocarreiro, nem pedante,\n' +
+          'e sim homem amadurecido, completo, inacessível à bajulação, capaz de gerir os\n' +
+          'seus interesses e os alheios; além disso, as atenções para com os filósofos autênticos\n' +
+          'e, em relação aos outros, sem todavia ofendê-los, o não se deixar conduzir por eles;\n' +
+          'ainda, a afabilidade, a amabilidade não fastidiosa; os cuidados comedidos com o seu\n' +
+          'corpo, que eram os de alguém não apegado à vida, sem tafularia nem desmazelo\n' +
+          'tampouco; contudo, dado o seu zelo de si mesmo, mínima era sua precisão de\n' +
+          'médicos-, poções ou emplastros; principalmente, a deferência votada, sem ciúmes,\n' +
+          'àqueles que tivessem adquirido algum talento, como a oratória, a ciência das leis ou\n' +
+          'costumes, ou outras disciplinas, e o interesse por que cada um deles gozasse de\n' +
+          'reputação na medida de seus méritos; seguindo em tudo o costume dos\n' +
+          'antepassados, o não demonstrar que o seu propósito era esse de preservar a\n' +
+          'tradição; também o não ser instável e irrequieto, mas demorar nos mesmos lugares\n' +
+          'e ocupações; o entregar-se às tarefas habituais logo após os acessos de dor de\n' +
+          'cabeça, refeito e em pleno vigor; o não ter muitos segredos, mas o menos possível e\n' +
+          'o mais raramente, e isso apenas em questões administrativas; a prudência e\n' +
+          'comedimento, tanto na celebração de festividades como na construção de obras, na\n' +
+          'liberalidade oficial e atos desse gênero, como homem que visava àquilo que era\n' +
+          'mister fazer e não à glória advinda das realizações; o não tomar banho em hora\n' +
+          'imprópria, não edificar apenas por gosto, não se preocupar com requintes à mesa,\n' +
+          'nem com o pano e cores da roupa, ou com os dotes físicos dos servos; a ordem\n' +
+          'dada em Lório que recolheu a maior parte das alfaias<sup><a href="#footnotes">14</a></sup>' +
+          ' da residência da beira-mar e\n' +
+          'das de Lanúvio; o modo como despachou o pedido do publicano de Túsculo e seu\n' +
+          'procedimento em casos semelhantes; nenhum ato cruel, nem indecoroso, nem\n' +
+          'violento, nem azo a dizerem alguma vez <i>chegou a suar</i>, mas o cálculo minudencioso\n' +
+          'de tudo, como se o tempo sobrasse, sem confusão, com ordem, solidez e coerência.\n' +
+          'A ele se ajustaria o que de Sócrates se lembra: podia tanto abster-se como gozar\n' +
+          'daqueles bens que a maioria, se lhe faltam, debilita-se, se os tem, a eles se rende. A força e firmeza, bem como a continência num caso e no outro, são próprias de\n' +
+          'homem dotado de alma equilibrada e invencível, como ele o foi na moléstia que o\n' +
+          'levou.',
         footnote: [
           {
-            index: '',
-            content: ''
+            index: 13,
+            content: 'Trata-se do pai adotivo, Antonino Pio, sucessor de Adriano como imperador, de 138 a 161. Outro perfil seu se encontra no Livro VI, n.°\n' +
+              '30.'
+          },
+          {
+            index: 14,
+            content: 'O texto aqui não faz sentido; a tradução é conjetura. O sujeito da oração, stolê, roupa, não poderia acomodar-se com o predicado;\n' +
+              'supus, em seu lugar, entolê, ordem; o objeto, alfaias, também é conjetura. Fique anotado aqui, valendo para outras passagens igualmente\n' +
+              'obscuras, que o texto nos chegou deploravelmente eivado de lacunas e corruptelas por vezes indecifráveis.'
           }
         ]
       },
       {
-        text: '',
+        text: '17. Dos deuses, o ter bons avós, bons pais, uma boa irmã, bons mestres,\n' +
+          'bons familiares, parentes, amigos quase todos bons; o não ter cometido faltas para\n' +
+          'com nenhum deles, apesar de ter um temperamento que poderia eventualmente\n' +
+          'induzir-me a alguma; foi graça dos deuses não ter ocorrido conjuntura que me\n' +
+          'viesse a pôr à prova; o não ter sido educado em casa da amásia de meu avô por\n' +
+          'muito tempo; o ter preservado minha juventude e não ter usado a virilidade antes\n' +
+          'do tempo, tendo-o, ademais, ultrapassado; o ter estado sob as ordens do soberano,\n' +
+          'meu pai, que havia de extirpar em mim toda presunção e fazer-me compreender\n' +
+          'que é possível viver na corte sem necessitar de guarda pessoal, nem de roupagens\n' +
+          'aparatosas, nem lampadários, nem estátuas e objetos desse gênero igualmente\n' +
+          'faustosos, mas limitando-se quase ao teor de um simples particular, sem por isso\n' +
+          'rebaixar-se nem desleixar o cumprimento dos deveres de imperador em relação aos\n' +
+          'interesses do Estado; o deparar um irmão capaz, por seu caráter, de incentivar-me\n' +
+          'no cuidado de mim próprio, encantando-me, ao mesmo tempo, com sua deferência\n' +
+          'e estima; não ter tido filhos estúpidos nem deformes; o não me haver avançado\n' +
+          'excessivamente na oratória, na poética e nas demais disciplinas em que me pudera,\n' +
+          'talvez, deter, caso sentisse que progredia sem esforço; o ter-me antecipado em\n' +
+          'conferir a meus aios dignidades a que pareciam aspirar, sem me fiar da esperança de\n' +
+          'fazê-lo mais tarde, pois ainda eram moços; o ter conhecido a Apolônio, Rústico e\n' +
+          'Máximo; o ter feito, com clareza e amiúde, a idéia do que é a vida segundo a\n' +
+          'natureza, e assim, no que depende dos deuses, de suas comunicações, assistência e\n' +
+          'inspiração, nada daí por diante impede que eu viva segundo a natureza e, das\n' +
+          'minhas deficiências nesse ideal, o culpado sou eu por não atentar nos avisos, para\n' +
+          'não dizer nas lições dos deuses; o ter meu físico resistido tão longamente à vida que\n' +
+          'levo; o não ter tido contato com Benedita nem com Teódoto e o ter-me curado\n' +
+          'também das paixões amorosas concebidas ao depois; nas minhas freqüentes\n' +
+          'irritações contra Rústico, nada mais ter feito que me houvesse de pesar; o haver\n' +
+          'morado comigo, ao menos em seus últimos anos de vida, minha mãe, que havia de\n' +
+          'morrer ainda jovem; nas ocasiões em que desejei acudir alguém em aperturas, ou\n' +
+          'que me pedia por alguma outra razão, o nunca me responderem que não havia\n' +
+          'recursos donde tirar; o não ocorrer a mim próprio igual precisão de pedir\n' +
+          'emprestado a outrem; o ser minha mulher<sup><a href="#footnotes">15</a></sup>' +
+          'o que é, tão obediente, tão afetuosa,\n' +
+          'tão simples; o dispor de aios proficientes para meus filhos; a inspiração, em sonhos,\n' +
+          'de remédios, sobretudo para não escarrar sangue e não ter vertigens, e como que\n' +
+          'um oráculo, em Caieta, a esse respeito; quando aspirei à Filosofia, o não ter\n' +
+          'deparado um sofista, nem me sentar a analisar autores ou silogismos, ou aplicar-me\n' +
+          'ao estudo dos fenômenos celestes. Tudo isso, com efeito, devo aos deuses\n' +
+          'protetores e à Fortuna.',
         footnote: [
           {
-            index: '',
-            content: ''
+            index: 15,
+            content: 'Faustina, filha de Antonino. Essa opinião não foi partilhada por alguns historiadores, quiçá malignos.'
           }
         ]
       },
       {
-        text: '',
+        text: 'No país dos Quados, à margem do Grã<sup><a href="#footnotes">16</a></sup>.',
         footnote: [
           {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
+            index: 16,
+            content: 'Povo germânico, que se havia sublevado, no território atualmente da Tchecoslováquia. Este primeiro livro, aparentemente, foi composto\n' +
+              'depois dos outros, servindo de introdução. As reflexões filosóficas começam realmente no segundo.'
           }
         ]
       },
@@ -7923,9 +8369,548 @@ export default [
     titleURL: 'meditacoes',
     authorURL: 'marco-aurelio',
     sectionURL: 'livro-II',
-    content: 'Previne  a  ti  mesmo  ao  amanhecer:  "Vou  encontrar  um  intrometido,  um  mal-agradecido, um insolente, um astucioso, um invejoso, um avaro". Eles devem todos esses vícios à ignorância do bem e do mal. Eu, porém, que observei ser o belo a natureza do bem e a vergonha a do mal, bem como consistir a natureza do próprio pecador em seu parentesco comigo, não em razão do mesmo sangue ou da mesma semente, mas por ter parte na inteligência e numa parcela da divindade,   nenhum   dano   posso   receber   deles,   pois   nenhum   me   cobrirá   de   vergonha. Tampouco  me  posso  exacerbar  com  um  parente,  nem  odiá-lo  porque  nascemos  para  a  ação  conjunta,  como  os  pés,  como  as  mãos,  como  as  pálpebras,  como as filas de dentes superiores e inferiores. Por isso, é contra a natureza agir em sentido contrário; agastar-se é agir em sentido contrário. 2. O que sou é carne, alento e o meu guia.557F17Larga  os  livros  e  não  te  deixes  mais  atrair;  não  te  é  lícito;  ao  invés,  como  quem  está  para  morrer,  despreza  a  carne  —  lama  de  sangue,  ossos,  renda  de  nervos, de veias, trança de artérias. Observa,  também,  o  que  é  o  alento:  vento,  e  nem  sempre  o  mesmo,  mas  a  todo momento expelido e de novo aspirado. Em  terceiro  lugar,  enfim,  o  guia.  Pensa  nisto:  estás  velho;  não  o  deixes  continuar escravo, titereado pelos impulsos egoístas, enfadado com o destino atual ou apreensivo quanto ao futuro. 3.  As  obras  dos  deuses  são  plenas  de  providência;  as  da  Fortuna  dependem  da  natureza,  ou  da  urdidura  e  entretecimento  do  que  a  Providência  dispôs.  Tudo  dela dimana. Acresce, ainda, o inevitável e o conveniente ao universo, de que és parcela. É um  bem  para  toda  parcela  da  natureza  o  que  a  natureza  do  universo  acarreta  e  o  que importa à preservação desta. Preservam o mundo as transformações, tanto dos elementos como dos compostos. Que  te  bastem  essas  idéias,  adotadas  como  dogma.  Lança  de  ti  a  sede  de  leituras, para não morreres rezingando e sim com real contentamento, agradecendo de coração aos deuses. 4.  Lembra-te  quanto  tempo  vens  protelando  e  quantas  prorrogações  de  prazo concedidas pelos deuses deixaste de aproveitar. Precisas compreender duma vez para sempre de que universo és parte, de que regedor do mundo emanaste e, bem  assim,  que  foi  circunscrito  um  limite  à  tua  duração  e,  se  a  não  usares  para  asserenar-te, ela passará, passarás tu e não haverá outra ocasião. 5.  Pensa  firmemente,  a  todo  momento,  como  romano  e  como  varão,  em  executar o mister que tens nas mãos com gravidade exata e desafetada, com afeto,',
+    content: '',
     disclaimer: '',
     paragraphs: [
+      {
+        text: '1. Previne a ti mesmo ao amanhecer: "Vou encontrar um intrometido, um\n' +
+          'mal-agradecido, um insolente, um astucioso, um invejoso, um avaro".',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Eles devem todos esses vícios à ignorância do bem e do mal. Eu, porém, que\n' +
+          'observei ser o belo a natureza do bem e a vergonha a do mal, bem como consistir a\n' +
+          'natureza do próprio pecador em seu parentesco comigo, não em razão do mesmo\n' +
+          'sangue ou da mesma semente, mas por ter parte na inteligência e numa parcela da\n' +
+          'divindade, nenhum dano posso receber deles, pois nenhum me cobrirá de\n' +
+          'vergonha.',
+        footnote: []
+      },
+      {
+        text: 'Tampouco me posso exacerbar com um parente, nem odiá-lo porque\n' +
+          'nascemos para a ação conjunta, como os pés, como as mãos, como as pálpebras,\n' +
+          'como as filas de dentes superiores e inferiores. Por isso, é contra a natureza agir em\n' +
+          'sentido contrário; agastar-se é agir em sentido contrário.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '2. O que sou é carne, alento e o meu guia<sup><a href="#footnotes">1</a></sup>.',
+        footnote: [
+          {
+            index: 1,
+            content: 'O guia é a voz interior, a razão ou a consciência, que nos orienta para o bem. É um nume, uma divindade, um gênio ou bom demônio,\n' +
+              'instalado em nosso âmago, no pensamento dos estóicos; deriva essa concepção diretamente do pensamento de Sócrates, que dizia ter no seu\n' +
+              'intimo um demônio que o advertia sempre que ia dar um mau passo. A identificação dos demônios e outras divindades do paganismo com o\n' +
+              'diabo é uma concepção ulterior do cristianismo. Para Marco Aurélio, como para os cristãos, a consciência, ou guia, pode ser corrompida\n' +
+              'pelo homem; cumpre que a preservemos pura.'
+          }
+        ]
+      },
+      {
+        text: 'Larga os livros e não te deixes mais atrair; não te é lícito; ao invés, como\n' +
+          'quem está para morrer, despreza a carne — lama de sangue, ossos, renda de\n' +
+          'nervos, de veias, trança de artérias.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Observa, também, o que é o alento: vento, e nem sempre o mesmo, mas a\n' +
+          'todo momento expelido e de novo aspirado.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Em terceiro lugar, enfim, o guia. Pensa nisto: estás velho; não o deixes\n' +
+          'continuar escravo, titereado pelos impulsos egoístas, enfadado com o destino atual\n' +
+          'ou apreensivo quanto ao futuro.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '3. As obras dos deuses são plenas de providência; as da Fortuna dependem\n' +
+          'da natureza, ou da urdidura e entretecimento do que a Providência dispôs. Tudo\n' +
+          'dela dimana.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Acresce, ainda, o inevitável e o conveniente ao universo, de que és parcela. É\n' +
+          'um bem para toda parcela da natureza o que a natureza do universo acarreta e o\n' +
+          'que importa à preservação desta. Preservam o mundo as transformações, tanto dos\n' +
+          'elementos como dos compostos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Que te bastem essas idéias, adotadas como dogma. Lança de ti a sede de\n' +
+          'leituras, para não morreres rezingando e sim com real contentamento, agradecendo\n' +
+          'de coração aos deuses.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. Lembra-te quanto tempo vens protelando e quantas prorrogações de\n' +
+          'prazo concedidas pelos deuses deixaste de aproveitar. Precisas compreender duma\n' +
+          'vez para sempre de que universo és parte, de que regedor do mundo emanaste e,\n' +
+          'bem assim, que foi circunscrito um limite à tua duração e, se a não usares para\n' +
+          'asserenar-te, ela passará, passarás tu e não haverá outra ocasião.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. Pensa firmemente, a todo momento, como romano e como varão, em\n' +
+          'executar o mister que tens nas mãos com gravidade exata e desafetada, com afeto, independência e justiça, e proporcionar a ti mesmo uma folga de todas as demais\n' +
+          'cogitações.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Consegui-lo-ás se desempenhares cada ação de tua vida como se fosse a\n' +
+          'última, isenta de toda leviandade, de aversão sentida ao arbítrio da razão, de\n' +
+          'fingimento, de egoísmo e inconformação com o destino.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Já vês quão pouco domínio temos de exercer para que nossa vida flua fácil,\n' +
+          'no temor dos deuses; porque os deuses não exigirão mais de quem observa esses\n' +
+          'preceitos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '6. Rebaixa-te, minha alma, rebaixa-te! Não terás mais ocasião de honrar a ti\n' +
+          'mesma, que breve é a vida de cada um, a tua está prestes a terminar e tu, em vez de\n' +
+          'respeitares a ti mesma, colocas nas almas dos outros a tua felicidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '7. Não te distraiam os eventos surgidos de fora; arranja vagares para\n' +
+          'aprenderes mais algo de bom e pára de voltear.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Guarda-te também, doravante, de outro desvario; desvairam, com efeito,\n' +
+          'aqueles que, ao cabo de tantas ações, se enfastiam da vida e carecem dum alvo para\n' +
+          'onde orientar todos os seus impulsos e, numa palavra, as suas cogitações.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '8. Dificilmente vemos alguém sofrendo por não ter observado o que se passa\n' +
+          'na alma de outrem, mas por força há de sofrer quem não anda atento às comoções\n' +
+          'de sua própria alma.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '9. Deves sempre lembrar qual a natureza do universo, qual a minha, qual a\n' +
+          'relação entre esta e aquela, qual parte sou de qual universo e que ninguém te\n' +
+          'impede de fazer e dizer o que é conseqüência da natureza de que és parte.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '10. Falando como filósofo, Teofrasto<sup><a href="#footnotes">2</a></sup>,' +
+          'na comparação dos pecados, disse' +
+          'como se expressaria quem os comparasse pelo senso comum, que são mais graves\n' +
+          'as faltas causadas pela concupiscência que as causadas pela cólera.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Teofrasto (372 a 287 a.C), natural de Lesbos, foi o sucessor de Aristóteles na direção de sua escola filosófica. Das duzentas e quarenta\n' +
+              'obras que Diógenes Laércio lhe atribui, que versavam sobre Física, Metafísica, Ciências Naturais, Política, Retórica, Moral, o que nos\n' +
+              'restam são dois tratados de Botânica e um opúsculo, Caracteres, onde são estudados trinta e um tipos morais; parece tratar-se de excertos\n' +
+              'de seus tratados de moral ou de um ensaio sobre a comédia.'
+          }
+        ]
+      },
+      {
+        text: 'Evidentemente, o encolerizado não se afasta da razão sem algum sofrimento,\n' +
+          'sem um latente aperto no coração, enquanto quem peca por concupiscência,\n' +
+          'dominado por um prazer, se revela um, tanto incontinente e feminino nos pecados.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Tinha, pois, razão ao dizer, em palavras dignas de filósofo, que o pecado\n' +
+          'cometido com prazer merece mais severa censura do que o cometido com\n' +
+          'sofrimento. Em suma, num caso, antes parece tratar-se de vítima de injustiça,\n' +
+          'coagida pelo sofrimento a encolerizar-se. enquanto, no outro, de alguém de si\n' +
+          'mesmo impelido a praticar injustiça, induzido a agir pela conscupiscência.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '11. Em todos os teus atos, ditos e pensamentos, procede como se houvesses\n' +
+          'de deixar a vida dentro de pouco.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Se os deuses existem, nada há de temeroso em partir dentre os homens; eles\n' +
+          'não te haveriam de precipitar numa desgraça; mas se eles não existem ou não se\n' +
+          'importam com os assuntos humanos, que me interessa viver num mundo vazio de\n' +
+          'deuses ou vazio de providência?',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Existem, porém, importam-se com os assuntos humanos e deixaram na\n' +
+          'inteira dependência do homem evitar cair nos verdadeiros males; e se houver algum\n' +
+          'outro além desses, teriam também providenciado para que dependesse de cada qual\n' +
+          'não lhe acontecer.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Aquilo que não piora o homem, como poderia piorar a vida do homem? A\n' +
+          'natureza do universo não haveria de tolerar tal situação, quer por ignorância, quer\n' +
+          'sabendo mas sem poder prevenir ou corrigir, nem cometeria, por impotência ou\n' +
+          'incapacidade, o grave erro de atribuir aos bons e aos maus, indistintamente,\n' +
+          'quinhões iguais de bens e de males.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A morte e a vida, a fama e o olvido, a dor e o prazer, a riqueza e a pobreza,\n' +
+          'tudo isso acontece igualmente na Humanidade a bons e maus, sem constituir honra\n' +
+          'nem labéu; portanto, não são bens nem males.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '12. Como tudo desaparece depressa! No espaço, os corpos mesmos; no\n' +
+          'tempo, sua memória! Assim é com todas as sensações, sobretudo as que atraem\n' +
+          'porque deleitam ou afugentam porque doem, ou se apregoam a todos os ventos\n' +
+          'porque envaidecem.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Quão insignificantes são, quão desprezíveis, vulgares, perecíveis e mortas,\n' +
+          'pode compreendê-lo o entendimento.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O que são aquelas pessoas cujas opiniões e pronunciamentos propiciam a\n' +
+          'glória? Que é a morte? E, mais, se a gente a considera em si mesma e, com definirlhe\n' +
+          'o conceito, dissipa as fantasias que a envolvem, já não a concebe senão como\n' +
+          'operação da natureza; quem teme uma operação da natureza é uma criança; aliás,\n' +
+          'ela não é apenas uma operação; é até uma conveniência da natureza.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Como entra o homem em contato com a divindade? Por qual de suas partes\n' +
+          'e, sobretudo, como está disposta essa parte do homem?',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '13. Nada mais digno de pena do que aquele que a tudo faz a volta completa,\n' +
+          '<i>investigando</i>, como diz Píndaro<sup><a href="#footnotes">3</a></sup>,' +
+          ' <i>o âmago da terra</i> e perquirindo, através de ilações, a\n' +
+          'alma do próximo, sem embargo de sentir que basta dar atenção exclusiva ao nume\n' +
+          'que traz no seu íntimo e prestar-lhe um culto sincero. Cultuá-lo é preservá-lo de\n' +
+          'paixões, de leviandades e de inconformação com o que advém dos deuses e dos\n' +
+          'homens.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Píndaro (518 a 446 a.C), nascido na Beócia, compôs hinos e cânticos de vária espécie, principalmente religiosos, de exortação moral e\n' +
+              'odes triunfais celebrando os vencedores nos jogos da Hélade. Dotado de um estilo grandioso, nobre e ousado, ainda que espontâneo e\n' +
+              'original, por vezes obscuro, pelo abuso de metáforas.'
+          }
+        ]
+      },
+      {
+        text: 'Afinal, o que advém dos deuses merece respeito por sua virtude; o que\n' +
+          'advém dos homens, afeto, mercê do parentesco, e às vezes piedade, devido à\n' +
+          'insciência do bem e do mal — deficiência essa tão grave quanto aquela que impede\n' +
+          'a distinção entre o branco e o preto.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '14. Mesmo se houveres de viver três mil anos ou dez mil vezes esse tempo,\n' +
+          'lembra-te de que ninguém perde outra vida senão aquela que está vivendo, nem\n' +
+          'vive outra senão a que perde. Assim, a mais longa e a mais curta vêm a dar no\n' +
+          'mesmo.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O presente, por sinal, é o mesmo para todos; o perdido, portanto, é igual e\n' +
+          'assim o que se está perdendo se revela infinitamente pequeno. De fato, não podemos perder o passado nem o futuro; como nos poderiam tirar o que não\n' +
+          'temos?',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Lembra-te, pois, sempre destas duas máximas: primeira, que tudo, desde\n' +
+          'todo o sempre, tem o mesmo aspecto e se renova em ciclos; nenhuma diferença faz\n' +
+          'verem-se os mesmos fatos por cem anos ou por duzentos, ou eternamente;\n' +
+          'segunda, que a perda é igual tanto para o de vida mais longa como para quem\n' +
+          'morre cedo, porquanto o presente é a única coisa de que será desapossado, pois só\n' +
+          'tem este e não perde o que não tem.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '15. Que tudo é opinião. São evidentes as palavras ditas a Mônimo, o Cínico;\n' +
+          'evidente também o proveito do asserto para quem o degusta dentro dos limites da\n' +
+          'verdade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '16. A alma do homem a si mesma desonra sobretudo quando se torna, tanto\n' +
+          'quanto dela depende, um apostema e um como tumor do mundo. Com efeito,\n' +
+          'agastar-se com um dos acontecimentos é desertar da natureza, que abrange como\n' +
+          'partes suas as naturezas individuais dos demais seres.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Desonra-se, em segundo lugar, quando repele algum ser humano ou avança\n' +
+          'contra ele para causar-lhe dano, como as almas dos coléricos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Terceiro, desonra a si mesma quando se deixa subjugar pelo prazer ou pela\n' +
+          'dor.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Quarto, quando dissimula, com fingimentos e mentiras, o que faz ou diz.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Quinto, quando larga seus atos e impulsos sem nenhum propósito,\n' +
+          'executando à toa e inconseqüentemente seja o que for, quando os mínimos atos\n' +
+          'cumpre se realizem de acordo com a finalidade. E a finalidade dos viventes\n' +
+          'racionais é obedecer à razão e às leis da mais venerável das cidades e repúblicas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '17. Da vida humana, a duração é um ponto; a substância, fluida; a sensação,\n' +
+          'apagada; a composição de todo o corpo, putrescível; a alma, inquieta; a sorte,\n' +
+          'imprevisível; a fama, incerta.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Em suma, tudo que é do corpo é um rio; o que é da alma, sonho e névoa; a\n' +
+          'vida, uma guerra, um desterro; a fama póstuma, olvido.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O que, pois, pode servir-nos de guia? Só e única a Filosofia. Consiste ela em\n' +
+          'guardar o nume interior livre de insolências e danos, mais forte que os prazeres e\n' +
+          'mágoas, nada fazendo com leviandade, engano e dissimulação, nem precisando que\n' +
+          'outrem faça ou deixe de fazer nada, acatando, ainda, os eventos e quinhões que lhe\n' +
+          'tocam, como vindos da mesma origem qualquer donde vem ele próprio; sobretudo,\n' +
+          'aguardando de boa mente a morte, qual mera dissolução dos elementos de que se\n' +
+          'compõe cada um dos viventes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Se os elementos mesmos nada têm a recear da contínua transformação de\n' +
+          'cada um em outro, por que havemos de temer a transformação e dissolução do\n' +
+          'todo? Ela é conforme com a natureza e não existe nenhum mal conforme com a\n' +
+          'natureza.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Em Carnunto<sup><a href="#footnotes">4</a></sup>',
+        footnote: [
+          {
+            index: 4,
+            content: 'Aquartelamento à margem do Danúbio, na Panônia, hoje Hungria.'
+          }
+        ]
+      },
       {
         text: '',
         footnote: [
@@ -7937,7 +8922,21 @@ export default [
       },
       {
         text: '',
-        footnote: []
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   },
@@ -8687,6 +9686,268 @@ export default [
   {
     title: 'Da Tranquilidade da Alma',
     author: 'Sêneca',
+    section: 'Sêneca a Sereno',
+    img: 'seneca',
+    imgIndex: '5',
+    titleURL: 'da-tranquilidade-da-alma',
+    authorURL: 'seneca',
+    sectionURL: 'seneca-a-sereno',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'SÊNECA A SERENO',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'II — 1. Eis que faz muito tempo, por Hércules, que eu me pergunto a mim\n' +
+          'mesmo sem nada dizer, ó Sereno, com o que poderia comparar uma semelhante\n' +
+          'disposição de espírito; e o que me parecia assemelhar-lhe mais é o estado daquelas\n' +
+          'pessoas que convalescem de uma longa e grave enfermidade, e sentem ainda de\n' +
+          'tempos em tempos alguns calafrios e leves indisposições; e que, uma vez livres dos\n' +
+          'últimos traços de seu mal, continuam a se inquietar com perturbações imaginárias, a\n' +
+          'se fazer, ainda que restabelecidas, tomar o pulso pelo médico e consideram como\n' +
+          'febre a menor impressão de calor. Sua saúde, ó Sereno, não deixa nada mais a\n' +
+          'desejar, mas aquelas pessoas não estão habituadas novamente à saúde: assim, ainda se vê estremecer e agitar-se a superfície de um mar calmo, quando a tempestade\n' +
+          'acabou de se aplacar.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '2. Assim também os procedimentos enérgicos nos quais encontramos auxílio\n' +
+          'anteriormente não são mais próprios: tu não precisas mais nem lutar contra ti nem\n' +
+          'te censurar nem te atormentar. Estamos na etapa final: tem fé em ti mesmo e\n' +
+          'convence-te de que segues o bom caminho, sem te deixares desviar pelas inúmeras\n' +
+          'pegadas dos viajantes extraviados à direita ou à esquerda e dos quais alguns se\n' +
+          'desgarram nas proximidades da estrada.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '3. O objeto de tuas aspirações é, aliás, uma grande e nobre coisa, e bem\n' +
+          'próxima de ser divina, pois que é a ausência da inquietação. Os gregos chamam este\n' +
+          'equilíbrio da alma de "euthymia" e existe sobre este assunto uma muito bela obra\n' +
+          'de Demócrito. Eu o chamo "tranqüilidade", pois é inútil pedir palavras emprestadas\n' +
+          'para nosso vocabulário e imitar a forma destas mesmas: é a idéia que se deve\n' +
+          'exprimir, por meio de um termo que tenha a significação da palavra grega, sem no\n' +
+          'entanto reproduzir a forma.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. Vamos, pois, procurar como é possível à alma caminhar numa conduta\n' +
+          'sempre igual e firme, sorrindo para si mesma e comprazendo-se com seu próprio\n' +
+          'espetáculo e prolongando indefinidamente esta agradável sensação, sem se afastar\n' +
+          'jamais de sua calma, sem se exaltar, nem se deprimir. Isto será tranqüilidade.\n' +
+          'Procuremos, de um modo geral, como se pode alcançá-la: tu tomarás, como\n' +
+          'entenderes, tua parte do remédio universal.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. Mas ponhamos desde logo o mal em evidência, em toda a sua diversidade:\n' +
+          'cada qual nele reconhecerá o que lhe diz respeito pessoalmente. Ao mesmo tempo,\n' +
+          'dar-te-ás conta de tudo quanto tens menos a sofrer deste descontentamento de ti,\n' +
+          'do que aqueles que, estando ligados por uma profissão de fé faustosa e ornando\n' +
+          'com um nome pomposo a miséria que os consome, teimam no papel que\n' +
+          'escolheram, menos por convicção que por questão de honra.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '6. Para todos os doentes o caso é o mesmo: tanto tratando-se daqueles que\n' +
+          'se atormentam por uma inconstância de humor, seus desgostos, sua perpétua\n' +
+          'versatilidade e sempre amam somente aquilo que abandonaram, como aqueles que\n' +
+          'só sabem suspirar e bocejar. Acrescenta-lhes aqueles que se viram e reviram como\n' +
+          'as pessoas que não conseguem dormir, e experimentam sucessivamente todas as\n' +
+          'posições até que a fadiga as faça encontrar o repouso: depois de ter modificado\n' +
+          'cem vezes o plano de sua existência, eles acabam por ficar na posição onde os\n' +
+          'surpreende não a impaciência da variação mas a velhice, cuja indolência rejeita as\n' +
+          'inovações. Ajunta, ainda, aqueles que não mudam nunca, não por obstinação, mas\n' +
+          'por preguiça, e que vivem não como desejam, mas como sempre viveram.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '7. Há, enfim, inúmeras variedades do mal, mas todas conduzem ao mesmo\n' +
+          'resultado: o descontentamento de si mesmo. Mal-estar que tem por origem uma\n' +
+          'falta de equilíbrio da alma e das aspirações tímidas ou infelizes, que não se atrevem\n' +
+          'a tanto quanto desejam, ou que se tenta em vão realizar e pelas quais nos cansamos\n' +
+          'de esperar. É uma inconstância, uma agitação perpétua, inevitável, que nasce dos\n' +
+          'caracteres irresolutos. Eles procuram por todos os meios atingir o objeto de seus\n' +
+          'votos: preparam-se e constrangem-se a práticas indignas e penosas. E, quando seu\n' +
+          'esforço não é recompensado, sofrem não de ter querido o mal, mas de o ter\n' +
+          'querido sem sucesso.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '8. Desde então, ei-los presos, ao mesmo tempo, do arrependimento de sua\n' +
+          'conduta passada e do temor de nela recair, e pouco a pouco se entregam à agitação\n' +
+          'estéril de uma alma que não encontra para suas dificuldades nenhuma saída, porque\n' +
+          'ela não é capaz nem de mandar nem de obedecer às suas paixões: entregam-se à\n' +
+          'aflição de uma vida que não chega a ter expansão, e, enfim, a esta indiferença de\n' +
+          'uma alma paralisada no meio da ruína de seus desejos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '9. Tudo isto se agrava quando, superada uma tão odiosa angústia, nos\n' +
+          'refugiamos no ócio e nos estudos solitários, nos quais não se saberá resignar uma\n' +
+          'alma apaixonada da vida pública, e paciente de atividade, dotada de uma\n' +
+          'necessidade natural de movimento e que não encontra em si mesma quase nenhum\n' +
+          'consolo. De sorte que, uma vez atraídos pelas distrações que as pessoas atarefadas\n' +
+          'devem mesmo às suas ocupações, não mais suportamos nossa casa, nosso\n' +
+          'isolamento e as paredes de nosso quarto; e nos vemos com amargura abandonados\n' +
+          'a nós mesmos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '10. Daí este aborrecimento, este desgosto de si, este redemoinho de uma\n' +
+          'alma que não se fixa em nada, esta sombria impaciência que nos causa nossa\n' +
+          'própria inércia, principalmente quando coramos ao confessar as razões, e o respeito\n' +
+          'humano recalca em nós nossa angústia: estreitamente encerradas numa prisão sem\n' +
+          'saída, nossas paixões aí se asfixiam. Daí a melancolia, a languidez e as mil\n' +
+          'hesitações de uma alma indecisa, que a semi-realização de suas esperanças prolonga\n' +
+          'na ansiedade e seu malogro na desolação; daí esta disposição para amaldiçoar seu\n' +
+          'próprio repouso, para lamentar-se por não ter nada a fazer e para invejar\n' +
+          'furiosamente todos os sucessos do próximo (pois nada alimenta a inveja como a\n' +
+          'preguiça desgraçada, e se desejaria ver todo o mundo malograr, porque não se\n' +
+          'soube obter êxito).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '11. Depois deste despeito pelos sucessos dos outros e deste desespero de\n' +
+          'não ser bem sucedido, começa o homem a se irritar contra a sorte, a se queixar do\n' +
+          'século, a se recolher cada vez mais em seu canto e aí se abriga sua dor no desânimo\n' +
+          'e no aborrecimento. A alma humana é, com efeito, por instinto ativa e inclinada ao\n' +
+          'movimento. Toda ocasião para se despertar e para se afastar de si lhe é agradável,\n' +
+          'mais particularmente entre as naturezas deterioradas, que pretendem a colisão das\n' +
+          'ocupações. Certas úlceras provocam a mão que as irritará e se fazem raspar com\n' +
+          'prazer: o sarnento deseja o que irrita sua sarna. Pode-se dizer o mesmo destas\n' +
+          'almas, em que as paixões brotam como as úlceras malignas e que consideram um\n' +
+          'prazer atormentar-se e sofrer.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '12. Não existem igualmente prazeres corporais que se reforçam com uma\n' +
+          'sensação dolorosa, como quando uma pessoa se vira sobre o lado que ainda não\n' +
+          'está fatigado e se agita sem cessar procurando uma posição melhor? Semelhante a\n' +
+          'Aquiles, de Homero<sup><a href="#footnotes">1</a></sup>,' +
+          '7 deitando-se ora de bruços ora de costas e experimentando sucessivamente todas as posições possíveis. E não é isso o natural da doença, nada\n' +
+          'suportar por muito tempo e tomar a mudança por um remédio?',
+        footnote: [
+          {
+            index: 1,
+            content: 'Homero, Ilíada (XXIV): Aquiles ficou inconsolável pela morte do amigo Pátroclo.'
+          }
+        ]
+      },
+      {
+        text: '13. Daí aquelas viagens que se empreendem sem nenhum intuito, aquelas\n' +
+          'voltas a esmo ao longo das costas, e esta inconstância sempre inimiga da situação\n' +
+          'presente, que alternativamente experimenta o mar e a terra: "Depressa, vamos a\n' +
+          'Calábria". Logo se está cansado das doçuras da civilização. "Visitemos as regiões\n' +
+          'selvagens, exploremos o Brútio (Calábria) e as florestas da Lucânia." Todavia,\n' +
+          'nestas solidões, suspira-se por qualquer coisa que dê descanso aos olhos fatigados\n' +
+          'pelo rude aspecto de tantos lugares áridos. "A caminho de Tarento, com seu porto\n' +
+          'e seu inverno tão doce. e para esta opulenta região que seria capaz de sustentar sua\n' +
+          'população de outrora!<sup><a href="#footnotes">2</a></sup>\n' +
+          ' Mas não, retornemos a Roma: faz muito tempo que meus\n' +
+          'ouvidos estão privados dos aplausos e do barulho do circo e tenho desejo de agora\n' +
+          'ver correr sangue humano."',
+        footnote: [
+          {
+            index: 2,
+            content: 'Famosa cidade da Lucânia, Tarento foi florescentíssima colônia grega; mas no tempo de Sêneca estava meio deserta.'
+          }
+        ]
+      },
+      {
+        text: '14. Assim como as viagens se sucedem, um espetáculo substitui o outro, e\n' +
+          'como diz Lucrécio: "Assim cada um foge sempre de si mesmo".<sup><a href="#footnotes">3</a></sup>' +
+          ' Mas para que\n' +
+          'fugir se não nos podemos evitar? Seguimo-nos sempre, sem nos desembaraçarmos\n' +
+          'desta intolerável companhia.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Lucrécio, Da Natureza (III, 1066); na verdade, Sêneca acrescentou no verso de Lucrécio o advérbio "semper" (= sempre).'
+          }
+        ]
+      },
+      {
+        text: '15. Assim, convençamo-nos bem de que o mal do qual sofremos não vem\n' +
+          'dos lugares, mas de nós mesmos, que não temos força para nada suportar: trabalho,\n' +
+          'prazer, nós mesmos; qualquer coisa do mundo nos parece uma carga. Isto conduziu\n' +
+          'muitas pessoas ao suicídio: porque suas perpétuas variações as faziam dar voltas,\n' +
+          'indefinidamente, no mesmo círculo, e elas consideravam impossível toda novidade.\n' +
+          'Assim tomaram desgosto pela vida e pelo mundo e sentiram aumentar em si o\n' +
+          'clamor furioso dos corações: "Mas como, sempre a mesma coisa?"',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Da Tranquilidade da Alma',
+    author: 'Sêneca',
     section: 'Sereno a Sêneca',
     img: 'seneca',
     imgIndex: '5',
@@ -8698,7 +9959,34 @@ export default [
     disclaimer: '',
     paragraphs: [
       {
-        text: '',
+        text: 'SERENO A SÊNECA<sup><a href="#footnotes">1</a></sup>',
+        footnote: [
+          {
+            index: 1,
+            content: 'Sêneca imagina que o amigo Aneu Sereno (do qual bem pouco conhecemos: a ele o filósofo dedicou três obras — A Perseverança do\n' +
+              'Sábio, Da Tranqüilidade da Alma, 0 Lazer — para convertê-lo do epicurismo ao estoicismo) lhe apresente algumas perguntas. Na verdade,\n' +
+              'Sêneca não responde exatamente às perguntas e dúvidas do amigo, mas de modo geral estas páginas se colocam entre as mais brilhantes e\n' +
+              'vivazes do escritor romano."'
+          }
+        ]
+      },
+      {
+        text: 'I — 1. Observando-me atentamente, descobri em mim, ó Sêneca, certos\n' +
+          'defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam\n' +
+          'nas regiões mais profundas; outros, enfim, que não são contínuos, mas que\n' +
+          'reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os\n' +
+          'mais desagradáveis de todos. Eles lembram aqueles inimigos que nos rodeiam para\n' +
+          'nos assaltar no momento propício e com os quais não se sabe nunca se se deve\n' +
+          'estar em pé de guerra, ou se se pode contar em um período de paz.',
+        footnote: []
+      },
+      {
+        text: '2. No entanto, a disposição na qual eu me surpreendo o mais\n' +
+          'freqüentemente (pois, por que não me confessarei a ti, como a um médico?) é de\n' +
+          'não estar nem francamente liberto de minhas crenças e repugnâncias de outrora,\n' +
+          'nem novamente sob seu domínio. Se o estado no qual estou não é o pior que possa\n' +
+          'existir, é, em todo caso, o mais lamentável e o mais bizarro: não estou nem doente\n' +
+          'nem são.',
         footnote: [
           {
             index: '',
@@ -8707,8 +9995,238 @@ export default [
         ]
       },
       {
-        text: '',
-        footnote: []
+        text: '3. Não me digas que todas as virtudes são fracas nos seus inícios e que com\n' +
+          'o tempo elas tomam consistência e força. Também não ignoro que todos os\n' +
+          'benefícios que visam ao exterior, como o brilho de uma dignidade, a glória da eloqüência e todos aqueles que dependem do favor público, têm necessidade de\n' +
+          'duração para crescerem: as virtudes precisam de tempo para amadurecer, e as\n' +
+          'qualidades que nos permitem seduzir graças a um simples verniz esperam que o\n' +
+          'correr dos anos lhes acentue gradualmente as cores. Mas temo que o hábito que\n' +
+          'fortalece todas as coisas possa consolidar em mim esta fraqueza: tanto no mal\n' +
+          'como no bem, um contato prolongado nos faz tomar o gosto.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. Em que consiste esta enfermidade de uma alma irresoluta, que não se\n' +
+          'inclina deliberadamente nem à virtude nem ao vício? Eu não saberei dizê-lo numa\n' +
+          'palavra, mas posso explicá-lo pormenorizadamente. Indicar-te-ei o que sinto: tu\n' +
+          'acharás o nome da doença.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. Tenho um profundo amor à simplicidade, e o confesso: o que amo não é\n' +
+          'nenhum leito faustosamente preparado, não são de modo algum roupas que se\n' +
+          'tiram do fundo de um baú, que se torturam debaixo de pesos e de inúmeros\n' +
+          'parafusos, para obrigá-las a ficarem com lustro<sup><a href="#footnotes">2</a></sup>' +
+          ' mas um costume simples e\n' +
+          'grosseiro que se conserva sem cuidado e que se usa sem escrúpulo.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Prensas com manivelas ("prela") para conservar as pregas.'
+          }
+        ]
+      },
+      {
+        text: '6. O que eu amo não é uma alimentação que muitos escravos preparam e\n' +
+          'olham comer, que se encomenda não sei quantos dias antes e que é apresentada por\n' +
+          'não sei quantos braços: são pratos fáceis de achar e de preparar, que não têm nada\n' +
+          'de requintado, nem de raro; relativamente aos quais se tem certeza de que não\n' +
+          'faltarão em nenhuma parte, que não pesam nem à bolsa nem ao estômago e que\n' +
+          'não tornam a sair de nenhum modo por onde eles entrarem<sup><a href="#footnotes">3</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Conforme o bem conhecido costume romano: vomitar para comer ainda...'
+          }
+        ]
+      },
+      {
+        text: '7. O que eu amo é um servo simplesmente vestido, um pequeno escravo\n' +
+          'desajeitado, é a maciça baixela de meu pai, homem rústico, cuja argentaria não\n' +
+          'trazia nem gravações, nem mesmo o nome do artífice; é uma mesa que não\n' +
+          'deslumbra pelas suas cores marmóreas e que não seja conhecida de toda cidade por\n' +
+          'ter pertencido sucessivamente a toda uma série de amadores, mas que seja de uso\n' +
+          'cômodo e diante da qual não se vejam os olhos dos convivas nem arregalarem de\n' +
+          'prazer nem de ciúmes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '8. E, quando estou bem acostumado a essa maneira de viver, eis que me\n' +
+          'deixo fascinar pela pompa de algum <i>paedagogium</i><sup><a href="#footnotes">4</a></sup>,' +
+          ' pelo espetáculo de escravos mais\n' +
+          'cuidadosamente vestidos e guarnecidos de ouro que para um desfile público, e de\n' +
+          'um batalhão de criados resplandecentes. Igualmente me fascina uma casa onde\n' +
+          'tudo, até o solo que se pisa, é precioso, onde a riqueza é tão pródiga nos menores\n' +
+          'recantos, que mesmo os tetos reluzem, e onde uma multidão de cortesãos se\n' +
+          'oprime ao redor das fortunas que se desperdiçam. E que dizer daquelas águas\n' +
+          'límpidas e transparentes, que correm ao redor das salas de festa; e das próprias\n' +
+          'festas dignas de sua decoração?',
+        footnote: [
+          {
+            index: 4,
+            content: 'Escola para as pajens, nas casas dos ricos romanos.'
+          }
+        ]
+      },
+      {
+        text: '9. Posso dizer que o luxo, ao sair de uma longa e ingrata temperança, me\n' +
+          'envolve de repente com seu brilho e me rodeia com seu tumulto, e sinto meus\n' +
+          'olhares vacilarem: eu o suporto menos facilmente à vista do que no pensamento; e\n' +
+          'retorno de lá não corrompido mas desencorajado: não mais sustento a cabeça alta\n' +
+          'no meio de meus pobres móveis, sinto pungir-me uma dor secreta e me ponho a\n' +
+          'duvidar sobre se todas aquelas suntuosidades não valem que as prefiramos. Nada\n' +
+          'há em tudo isto que mude meus sentimentos, mas não deixa de haver algo\n' +
+          'suscetível de abalá-los.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '10. Resolvi seguir a varonil energia de nossos preceitos e introduzir-me na\n' +
+          'vida pública. Agradam-me as dignidades e os fasces: não certamente que a púrpura\n' +
+          'ou as varas do litor me seduzam, mas para estar na possibilidade de melhor servir\n' +
+          'meus amigos e meus próximos e todos os meus concidadãos e finalmente a\n' +
+          'humanidade inteira: com um ardor de noviço, inclino-me a seguir Zenão, Crisipo e\n' +
+          'Cleanto<sup><a href="#footnotes">5</a></sup>,' +
+          ' nenhum dos quais, para falar a verdade, tomou parte nos negócios\n' +
+          'públicos, mas dos quais muitos se tornaram discípulos.',
+        footnote: [
+          {
+            index: 5,
+            content: 'Filósofos gregos: Zenão (325-246 a.C.) fundou a doutrina do estoicismo, que foi continuada por seu discípulo Cleanto (331-233 a.C.) e\n' +
+              'sistematizada por Crisipo (278-204 a.C).'
+          }
+        ]
+      },
+      {
+        text: '11. Minha alma, que não está habituada a choques, padece com a menor\n' +
+          'humilhação; ao sofrer alguma injúria (como é comum encontrar em toda a\n' +
+          'existência humana) ou alguma contrariedade, bagatelas, que me têm tomado mais tempo do que elas valem a pena, volto-me à ociosidade e, como os animais, por\n' +
+          'mais cansados que estejam, acelero o passo ao retornar ao lar.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '12. Decido, então, encerrar-me em casa: que ninguém me roube um dia, pois\n' +
+          'jamais ele me indenizaria de uma tal perda; que minha alma não se incline a não ser\n' +
+          'para si mesma, que não sonhe a não ser consigo; que não se ocupe de nada que a\n' +
+          'distraia, de nada que a submeta ao julgamento de outrem. Apreciemos uma\n' +
+          'tranqüilidade que seja estranha a todas as preocupações públicas ou particulares.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '13. Mas, desde que uma nobre leitura me exaltou o espírito e que grandes\n' +
+          'exemplos me estimularam, não peço mais nada que saltar no fórum para emprestar\n' +
+          'a um o apoio de minha palavra, a outro o de uma atividade que poderá não servir\n' +
+          'de nada, mas que se esforçará, ao menos, por ser útil para abater em pleno fórum o\n' +
+          'orgulho de alguns audaciosos, que o sucesso torna insolentes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '14. Em literatura, por Hércules, estou bem advertido de que não se deve ter\n' +
+          'em vista senão as idéias e não se deve falar a não ser para exprimi-las: é preciso\n' +
+          'subordinar a forma ao pensamento, de maneira que este, qualquer caminho que ele\n' +
+          'tome, veja as palavras seguirem sem esforço. Para que serve compor obras eternas?\n' +
+          'Por que querer que a posteridade pronuncie teu nome? Tu nasceste para morrer:\n' +
+          'existe menos pretensão em se fazer ocultar em silêncio<sup><a href="#footnotes">6</a></sup>.' +
+          ' Escreve, pois, para ocupar\n' +
+          'teu tempo, escreve para ter proveito e não para tua glorificação, num estilo\n' +
+          'desprovido de brilho: inútil esforçar-se mais que de ordinário, quando se trabalha\n' +
+          'para viver.',
+        footnote: [
+          {
+            index: 6,
+            content: 'Ao pé da letra: "Em se fazer sepultar com funerais sem fausto".'
+          }
+        ]
+      },
+      {
+        text: '15. Sim, mas desde que meu espírito se eleva para concepções um pouco\n' +
+          'generosas, eis que ele apura seu estilo e aspira dar à forma a mesma elevação que ao\n' +
+          'sentimento, e minha linguagem tenta igualar a nobreza de meu pensamento.\n' +
+          'Esquecendo, então, meus princípios e os conselhos de um gosto mais sóbrio,\n' +
+          'lanço-me numa sublimidade de estilo e não sou mais eu que falo pela minha boca.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '16. Para abreviar esta enumeração, eu torno a encontrar sempre em mim esta\n' +
+          'fraqueza de uma alma cheia de boas intenções, e temo cair nela ou, o que seria mais angustioso, ficar perpetuamente suspenso à beira deste abismo; e me pergunto se\n' +
+          'meu caso não seria por acaso mais grave do que ele me parece: pois temos os olhos\n' +
+          'indulgentes quando se trata de nossa pessoa e o amor-próprio obscurece sempre\n' +
+          'nossos julgamentos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '17. Creio que há muitos homens que poderiam ter-se elevado à sabedoria se\n' +
+          'não se tivessem julgado filhos da fortuna, se não tivessem fingido ignorar algumas\n' +
+          'de suas imperfeições e não tivessem tido os olhos fechados diante dos outros; pois\n' +
+          'não se deve imaginar que nossa própria adulação nos seja menos funesta que a de\n' +
+          'outrem. Quem ousa dizer a si mesmo a verdade? Qual é o homem que, no meio de\n' +
+          'uma multidão de cortesãos que o adulam, não exagera ainda mais as lisonjas que lhe\n' +
+          'dirigem?',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '18. Assim, pois, eu te suplico, se conheces um remédio capaz de deter as\n' +
+          'indecisões que me agitam, não me julgues indigno de te dever a tranqüilidade. Sei\n' +
+          'que esta inconstância da alma não tem nada de muito perigoso e que ela não\n' +
+          'acarreta nenhuma perturbação profunda; e para empregar uma comparação que te\n' +
+          'faça compreender do que me queixo: a tempestade não mais me agita, mas não\n' +
+          'sinto menos enjôo. Liberta-me, pois, deste mal e vem em auxílio de um\n' +
+          'desventurado que ainda sofre à vista da terra.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   }
