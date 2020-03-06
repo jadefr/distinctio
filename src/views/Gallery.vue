@@ -1,19 +1,8 @@
 <template>
   <div class="gallery-view-container">
 
-    <!-- NavBar -->
-    <div id="gallery-navbar">
-      <!-- Icon -->
-      <div id="icon">
-        <a href="/">
-          <b-icon icon="book" id="book-icon"></b-icon>
-        </a>
-      </div>
-      <b-nav class="nav justify-content-end" id="nav">
-        <b-nav-item>Autor</b-nav-item>
-        <b-nav-item>Título</b-nav-item>
-      </b-nav>
-    </div>
+    <!-- NavBar Component -->
+    <NavBar />
 
     <!-- Cards -->
     <div class="gallery-card">
@@ -36,10 +25,12 @@
 <script>
 import { mapState } from 'vuex'
 import Card from '@/components/Card'
+import NavBar from '@/components/NavBar'
 
 export default {
   components: {
-    Card
+    Card,
+    NavBar
   },
   computed: {
     ...mapState([

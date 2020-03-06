@@ -53,7 +53,6 @@ export default {
     ])
   },
   created() {
-    console.log(this.input)
     for (let i = 0; i < this.documents.length; i++) {
       if (this.$route.params.authorURL === this.documents[i].authorURL) {
         this.author.push(this.documents[i].author)
@@ -66,7 +65,6 @@ export default {
       }
     }
     if (this.input === 'titleURL') {
-      console.log('entrou')
       this.author.length = 0
       this.title.length = 0
       this.section.length = 0
@@ -77,11 +75,22 @@ export default {
           this.title.push(this.documents[j].title)
           this.section.push(this.documents[j].section)
         }
-        // if ((this.$route.params.authorURL === this.documents[j].authorURL) && (this.$route.params.titleURL === this.documents[j].titleURL)) {
-        //   console.log(this.documents[j].titleURL)
-        //   console.log(j)
-        //   this.author.push(this.documents[j].author)
-        // }
+      }
+    }
+    if (this.input === 'allAuthors') {
+      console.log(this.input)
+      this.author.length = 0
+      this.title.length = 0
+      this.section.length = 0
+      this.titleURL.length = 0
+      this.sectionURL.length = 0
+      let authorName = ''
+      for (let m = 0; m < this.documents.length; m++) {
+        authorName = this.documents[m].author
+        if (!this.author.includes(authorName)) {
+          this.author.push(authorName)
+        }
+        console.log(this.images.toString())
       }
     }
   },

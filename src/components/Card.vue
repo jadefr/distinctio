@@ -2,7 +2,7 @@
   <div class="card-component-container">
 
     <!-- Card -->
-    <b-card no-body class="overflow-hidden" style="max-width: 400px;">
+      <b-card no-body class="overflow-hidden" style="max-width: 400px;">
       <b-row no-gutters>
         <b-col md="6">
           <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
@@ -19,7 +19,8 @@
         </b-col>
       </b-row>
     </b-card>
-  </div>
+    </div>
+
 </template>
 
 <script>
@@ -39,13 +40,12 @@ export default {
 
 <style lang="scss">
   .card-component-container {
+     #card-title {
+        text-align: center;
+      }
 
-    #card-title {
-      text-align: center;
-    }
-
-    #card-text {
-      text-align: center;
-    }
+      #card-text {
+        text-align: center;
+      }
   }
 </style>
