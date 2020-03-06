@@ -1,5 +1,8 @@
 export default {
-  getAllActor: (state) => {
+  getAllTitlesFromActor: (state) => {
     return state.documents.author()
+  },
+  getAllSectionsFromTitle: (state) => {
+    return state.documents.title
   }
 }

@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Gallery from '../views/Gallery.vue'
 import Document from '../views/Document.vue'
+import Author from '../views/Author.vue'
 
 Vue.use(VueRouter)
 
@@ -21,6 +22,11 @@ const routes = [
     path: '/galeria/:authorURL/:titleURL/:sectionURL',
     name: 'Document',
     component: Document
+  },
+  {
+    path: '/galeria/:authorURL',
+    name: 'Author',
+    component: Author
   }
 ]
 

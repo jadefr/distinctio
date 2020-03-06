@@ -6,7 +6,7 @@ export default [
     img: 'machado',
     imgIndex: '6',
     titleURL: 'reliquias-da-casa-velha',
-    authorURL: 'machado',
+    authorURL: 'machado-de-assis',
     sectionURL: 'suje-se-gordo',
     content: '',
     disclaimer: '',
