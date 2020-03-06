@@ -12,6 +12,9 @@
               :title="getTitle(key)"
               :section="getSection(key)"
               :author="getAuthor(key)"
+              :title-u-r-l="getTitleURL(key)"
+              :section-u-r-l="getSectionURL(key)"
+              :author-u-r-l="getAuthorURL(key)"
         />
       </b-card-group>
     </div>
@@ -29,7 +32,10 @@ export default {
       author: [],
       title: [],
       section: [],
-      images: []
+      images: [],
+      authorURL: [],
+      titleURL: [],
+      sectionURL: []
     }
   },
   components: {
@@ -49,6 +55,9 @@ export default {
         this.title.push(this.documents[i].title)
         this.section.push(this.documents[i].section)
         this.images.push(this.documents[i].img)
+        this.authorURL.push(this.documents[i].authorURL)
+        this.titleURL.push(this.documents[i].titleURL)
+        this.sectionURL.push(this.documents[i].sectionURL)
       }
     }
   },
@@ -61,6 +70,15 @@ export default {
     },
     getSection (key) {
       return this.section[key]
+    },
+    getAuthorURL (key) {
+      return this.authorURL[key]
+    },
+    getTitleURL (key) {
+      return this.titleURL[key]
+    },
+    getSectionURL (key) {
+      return this.sectionURL[key]
     },
     img() {
       let img = ''
