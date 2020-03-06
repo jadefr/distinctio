@@ -4,9 +4,3 @@
     <router-view />
   </div>
 </template>
-
-<style lang="scss">
-  /*html, body {*/
-  /*  font-family: 'Source Serif Pro', serif;*/
-  /*}*/
-</style>
