@@ -7,7 +7,7 @@
         <b-col md="6">
           <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
         </b-col>
-        <b-col md="6">
+        <b-col md="6" id="card-col">
           <b-card-body>
             <b-card-title id="card-title">{{ title }}</b-card-title>
             <hr>
@@ -40,12 +40,24 @@ export default {
 
 <style lang="scss">
   .card-component-container {
-     #card-title {
+
+      @media (min-width: 768px){
+        #card-col {
+          -ms-flex: 0 0 50%;
+          -webkit-box-flex: 0;
+          /*flex: 0 0 50%;*/
+          /*max-width: 50%;*/
+          flex: 0 0 0;
+          max-width: 100%;
+      }
+
+      #card-title {
         text-align: center;
       }
 
       #card-text {
         text-align: center;
       }
+    }
   }
 </style>
