@@ -466,17 +466,21 @@ export default [
   {
     title: 'Fedon',
     author: 'Platão',
-    section: 'Conto I',
+    section: 'Livro',
     img: 'plato',
     imgIndex: '4',
     titleURL: 'fedon',
     authorURL: 'platao',
-    sectionURL: 'conto-I',
+    sectionURL: 'livro',
     content: '',
     disclaimer: 'Versão eletrônica do diálogo platônico “Fedão”   Tradução: Carlos Alberto NunesCréditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)Homepage do grupo: http://br.egroups.com/group/acropolis/',
     paragraphs: [
       {
-        text: 'I - Estiveste tu mesmo, Fedão, junto de Sócrates no dia em que ele tomou veneno na prisão, ou ouviste de alguém?',
+        text: '<center><b>I</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Estiveste tu mesmo, Fedão, junto de Sócrates no dia em que ele tomou veneno na prisão, ou ouviste de alguém?',
         footnote: [
           {
             index: '',
@@ -561,7 +565,11 @@ export default [
         ]
       },
       {
-        text: 'II – <b>Equécrates –</b> E as condições em que morreu, Fedão? Quais foram suas palavras? Como se houve em tudo? Quais dos seus familiares se encontravam ao seu lado? Ou as autoridades não permitiram que entrassem, vindo ele a morrer privado de assistência dos amigos?',
+        text: '<center><b>II</b></center>',
+        footnote: []
+      },
+      {
+        text: '<b>Equécrates –</b> E as condições em que morreu, Fedão? Quais foram suas palavras? Como se houve em tudo? Quais dos seus familiares se encontravam ao seu lado? Ou as autoridades não permitiram que entrassem, vindo ele a morrer privado de assistência dos amigos?',
         footnote: [],
         bold: [
           {
@@ -731,7 +739,11 @@ export default [
         ]
       },
       {
-        text: 'III – <b>Fedão –</b>Vou esforçar-me para contar tudo do começo. Tal como na véspera, todos os dias visitávamos Sócrates, e desde a manhãzinha íamos encontrar-nos no tribunal em que se deu o julgamento. Fica perto da cadeia. Ali esperávamos conversando até que a cadeia abrisse, pois não costumam abri-la muito cedo. Porém logo que isso se dava, corríamos para junto de Sócrates e quase sempre passávamos com ele o dia todo. Nessa manhã reunimo-nos mais cedo, porque na tarde anterior, ao nos retirarmos da prisão, soubemos que o navio chegara de Delo. Por isso, combinamos encontrar-nos o mais cedo possível no lugar habitual. Ao chegarmos, o porteiro que costumava receber-nos veio ao nosso encontro para dizer que esperássemos fora e não entrássemos sem que ele nos avisasse. Neste momento, nos disse, os Onze estão tirando os ferros de Sócrates e lhe comunicam que hoje ele terá de morrer. Depois de algum tempo, voltou para dizer que entrássemos. Ao penetrarmos no recinto, encontramos Sócrates, que acabava de ser aliviado dos ferros, e Xantipa – conhece-la  decerto – com o filho pequeno, sentada junto do marido. Ao ver-nos, começou Xantipa a lastimar-se e clamar como de hábito nas mulheres, dizendo: Pela última vez, Sócrates, teus amigos conversarão contigo, e tu com eles. Virando-se para Critão, Sócrates lhe disse: Critão, leva-a para casa. A isso, alguns dos homens de Critão a retiraram, não cessando ela de gritar e debater-se. Sócrates, de seu lado, sentado no catre, dobrou a perna sobre a coxa e começou a friccioná-la duro com a mão, ao mesmo tempo que dizia: Como é extraordinário, senhores, o que os homens denominam prazer, e como se associa admiravelmente com o sofrimento, que passa, aliás, por ser o seu contrário. Não gostam de ficar juntos no homem; mal alguém persegue e alcança um deles, de regra é obrigado a apanhar o outro, como se ambos, com serem dois, estivessem ligados pela cabeça. Quer parecer-me, continuou, que se Esopo houvesse feito essa observação, não deixaria de compor uma fábula: Resolvendo Zeus pôr termo as suas dissensões contínuas, e não o conseguindo, uniu-os pela extremidade. Por isso, sempre que alguém alcança um deles, o outro lhe vem no rastro. Meu caso é parecido: após o incômodo da perna causada pelos ferros, segue-se-lhe o prazer.',
+        text: '<center><b>III</b></center>',
+        footnote: []
+      },
+      {
+        text: '<b>Fedão –</b>Vou esforçar-me para contar tudo do começo. Tal como na véspera, todos os dias visitávamos Sócrates, e desde a manhãzinha íamos encontrar-nos no tribunal em que se deu o julgamento. Fica perto da cadeia. Ali esperávamos conversando até que a cadeia abrisse, pois não costumam abri-la muito cedo. Porém logo que isso se dava, corríamos para junto de Sócrates e quase sempre passávamos com ele o dia todo. Nessa manhã reunimo-nos mais cedo, porque na tarde anterior, ao nos retirarmos da prisão, soubemos que o navio chegara de Delo. Por isso, combinamos encontrar-nos o mais cedo possível no lugar habitual. Ao chegarmos, o porteiro que costumava receber-nos veio ao nosso encontro para dizer que esperássemos fora e não entrássemos sem que ele nos avisasse. Neste momento, nos disse, os Onze estão tirando os ferros de Sócrates e lhe comunicam que hoje ele terá de morrer. Depois de algum tempo, voltou para dizer que entrássemos. Ao penetrarmos no recinto, encontramos Sócrates, que acabava de ser aliviado dos ferros, e Xantipa – conhece-la  decerto – com o filho pequeno, sentada junto do marido. Ao ver-nos, começou Xantipa a lastimar-se e clamar como de hábito nas mulheres, dizendo: Pela última vez, Sócrates, teus amigos conversarão contigo, e tu com eles. Virando-se para Critão, Sócrates lhe disse: Critão, leva-a para casa. A isso, alguns dos homens de Critão a retiraram, não cessando ela de gritar e debater-se. Sócrates, de seu lado, sentado no catre, dobrou a perna sobre a coxa e começou a friccioná-la duro com a mão, ao mesmo tempo que dizia: Como é extraordinário, senhores, o que os homens denominam prazer, e como se associa admiravelmente com o sofrimento, que passa, aliás, por ser o seu contrário. Não gostam de ficar juntos no homem; mal alguém persegue e alcança um deles, de regra é obrigado a apanhar o outro, como se ambos, com serem dois, estivessem ligados pela cabeça. Quer parecer-me, continuou, que se Esopo houvesse feito essa observação, não deixaria de compor uma fábula: Resolvendo Zeus pôr termo as suas dissensões contínuas, e não o conseguindo, uniu-os pela extremidade. Por isso, sempre que alguém alcança um deles, o outro lhe vem no rastro. Meu caso é parecido: após o incômodo da perna causada pelos ferros, segue-se-lhe o prazer.',
         footnote: [],
         bold: [
           {
@@ -741,7 +753,11 @@ export default [
         ]
       },
       {
-        text: 'IV – Nesta altura, falou Cebete: Por Zeus, Sócrates, disse, foi bom que mo lembrasses. Diversas pessoas já me têm falado a respeito dos poemas que escreveste, aproveitando as fábulas de Esopo, e do hino em louvor de Apolo. Anteontem mesmo, o poeta Eveno me interpelou sobre a razão de compores verso desde que te encontras aqui, o que antes nunca fizeras. Se te importa deixar-me em condições de responder a Eveno quando ele voltar a falar-me a esse respeito – e tenho certeza de que o fará – instrui-me sobre o que deverei dizer-lhe.',
+        text: '<center><b>IV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Nesta altura, falou Cebete: Por Zeus, Sócrates, disse, foi bom que mo lembrasses. Diversas pessoas já me têm falado a respeito dos poemas que escreveste, aproveitando as fábulas de Esopo, e do hino em louvor de Apolo. Anteontem mesmo, o poeta Eveno me interpelou sobre a razão de compores verso desde que te encontras aqui, o que antes nunca fizeras. Se te importa deixar-me em condições de responder a Eveno quando ele voltar a falar-me a esse respeito – e tenho certeza de que o fará – instrui-me sobre o que deverei dizer-lhe.',
         footnote: [],
         bold: [
           {
@@ -761,7 +777,11 @@ export default [
         ]
       },
       {
-        text: 'V – Isso, Cebete, é o que deverás dizer a Eveno. Apresenta-lhe, também, saudações de minha parte, acrescentando que, se ele for sábio, deverá seguir-me quanto antes. Parto, ao que parece, hoje mesmo; assim os determinam os Atenienses.',
+        text: '<center><b>V</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Isso, Cebete, é o que deverás dizer a Eveno. Apresenta-lhe, também, saudações de minha parte, acrescentando que, se ele for sábio, deverá seguir-me quanto antes. Parto, ao que parece, hoje mesmo; assim os determinam os Atenienses.',
         footnote: [],
         bold: [
           {
@@ -851,7 +871,11 @@ export default [
         ]
       },
       {
-        text: 'VI – Qual o motivo, então, Sócrates, de dizerem que a ninguém é permitido suicidar-se? De fato, sobre o que me perguntaste, ouvi Filolau afirmar, quando esteve entre nós, e também outras pessoas, que não devemos fazer isso. Porém nunca ouvi de ninguém maiores particularidades.',
+        text: '<center><b>VI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Qual o motivo, então, Sócrates, de dizerem que a ninguém é permitido suicidar-se? De fato, sobre o que me perguntaste, ouvi Filolau afirmar, quando esteve entre nós, e também outras pessoas, que não devemos fazer isso. Porém nunca ouvi de ninguém maiores particularidades.',
         footnote: [],
         bold: [
           {
@@ -931,7 +955,11 @@ export default [
         ]
       },
       {
-        text: 'VII – Essa parte, observou Cebete, também me parece razoável. Porém o que afirmaste antes, sobre a disposição do filósofo para morrer, é um verdadeiro contra-senso, Sócrates, se estiver certo o que dissemos há pouco, que Deus cuida de nós e que somos propriedades dele. Que os indivíduos mais sábios se insurjam contra semelhante tutela e procurem evitá-la, quando a exercem, precisamente, os deuses, os melhores dirigentes, é o que não chego a compreender. Pois ninguém ousará dizer que saberá cuidar melhor de si mesmo, uma vez em liberdade. Um indivíduo insensato poderia raciocinar dessa maneira, por achar bom fugir do amo, sem considerar que não se deve fugir do bem, mas ficar junto dele o maior tempo possível. Foge por carecer de senso. O indivíduo inteligente, pelo contrário, só deseja continuar junto de quem lhe seja superior. Por isso, Sócrates, o certo é, precisamente, o oposto do que foi dito há pouco: aos sábios é que fica bem insurgir-se contra a idéia da morte, e aos insensatos, exultar ante essa perspectiva.',
+        text: '<center><b>VII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Essa parte, observou Cebete, também me parece razoável. Porém o que afirmaste antes, sobre a disposição do filósofo para morrer, é um verdadeiro contra-senso, Sócrates, se estiver certo o que dissemos há pouco, que Deus cuida de nós e que somos propriedades dele. Que os indivíduos mais sábios se insurjam contra semelhante tutela e procurem evitá-la, quando a exercem, precisamente, os deuses, os melhores dirigentes, é o que não chego a compreender. Pois ninguém ousará dizer que saberá cuidar melhor de si mesmo, uma vez em liberdade. Um indivíduo insensato poderia raciocinar dessa maneira, por achar bom fugir do amo, sem considerar que não se deve fugir do bem, mas ficar junto dele o maior tempo possível. Foge por carecer de senso. O indivíduo inteligente, pelo contrário, só deseja continuar junto de quem lhe seja superior. Por isso, Sócrates, o certo é, precisamente, o oposto do que foi dito há pouco: aos sábios é que fica bem insurgir-se contra a idéia da morte, e aos insensatos, exultar ante essa perspectiva.',
         footnote: [],
         bold: [
           {
@@ -981,7 +1009,11 @@ export default [
         ]
       },
       {
-        text: 'VIII – Pois que seja, disse. Vejamos se diante de vós outros minha defesa saíra mais convincente do que a feita na frente dos juízes. O fato, Símias e Cebete, prosseguiu, é que se eu não acreditasse, primeiro, que vou para junto de outros deuses, sábios e bons, e, depois, para o lugar de homens falecidos muito melhores do que os daqui, cometeria uma grande erro por não me insurgir contra a morte. Porém podes fiar que espero juntar-me a homens de bem. Sobre esse ponto não me manifesto com muita segurança; mas no que entende com minha transferência para junto de deuses que são excelentes amos: se há o que eu defenda com convicção é precisamente isso. Esse motivo de não me revoltar a idéia da morte. Pelo contrário, tenho esperança de que alguma coisa há para os mortos, e, de acordo com antiga tradição, muito melhor para os bons do que para os maus.',
+        text: '<center><b>VIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Pois que seja, disse. Vejamos se diante de vós outros minha defesa saíra mais convincente do que a feita na frente dos juízes. O fato, Símias e Cebete, prosseguiu, é que se eu não acreditasse, primeiro, que vou para junto de outros deuses, sábios e bons, e, depois, para o lugar de homens falecidos muito melhores do que os daqui, cometeria uma grande erro por não me insurgir contra a morte. Porém podes fiar que espero juntar-me a homens de bem. Sobre esse ponto não me manifesto com muita segurança; mas no que entende com minha transferência para junto de deuses que são excelentes amos: se há o que eu defenda com convicção é precisamente isso. Esse motivo de não me revoltar a idéia da morte. Pelo contrário, tenho esperança de que alguma coisa há para os mortos, e, de acordo com antiga tradição, muito melhor para os bons do que para os maus.',
         footnote: [],
         bold: [
           {
@@ -1041,7 +1073,11 @@ export default [
         ]
       },
       {
-        text: 'IX – Embora os homens não o percebam, é possível que todos os que se dedicam verdadeiramente à Filosofia, a nada mais aspirem do que a morrer e estarem mortos. Sendo isso um fato, seria absurdo, não fazendo outra coisa o filósofo toda a vida, ao chegar esse momento, insurgir-se contra o que ele mesmo pedira com tal empenho e em pós do que sempre se afanara.',
+        text: '<center><b>IX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Embora os homens não o percebam, é possível que todos os que se dedicam verdadeiramente à Filosofia, a nada mais aspirem do que a morrer e estarem mortos. Sendo isso um fato, seria absurdo, não fazendo outra coisa o filósofo toda a vida, ao chegar esse momento, insurgir-se contra o que ele mesmo pedira com tal empenho e em pós do que sempre se afanara.',
         footnote: [],
         bold: [
           {
@@ -1211,7 +1247,11 @@ export default [
         }]
       },
       {
-        text: 'X – E como referência à aquisição do conhecimento? O corpo constitui ou não constitui obstáculo, quando chamado para participar da pesquisa? O que digo é o seguinte: a vista e o ouvido asseguram aos homens alguma verdade? Ou será certo o que os poetas não se cansam de afirmar, que nada vemos nem ouvimos com exatidão? Ora, se esses dois sentidos corpóreos não são nem exatos nem de confiança, que diremos dos demais, em tudo inferiores aos primeiros? Não pensas desse modo?',
+        text: '<center><b>X</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E como referência à aquisição do conhecimento? O corpo constitui ou não constitui obstáculo, quando chamado para participar da pesquisa? O que digo é o seguinte: a vista e o ouvido asseguram aos homens alguma verdade? Ou será certo o que os poetas não se cansam de afirmar, que nada vemos nem ouvimos com exatidão? Ora, se esses dois sentidos corpóreos não são nem exatos nem de confiança, que diremos dos demais, em tudo inferiores aos primeiros? Não pensas desse modo?',
         footnote: [],
         bold: [
           {
@@ -1373,7 +1413,11 @@ export default [
         }]
       },
       {
-        text: 'XI – Por tudo isso, continuou, é natural nascer no espírito dos filósofos autênticos certa convicção que os leva a discorrer entre eles mais ou menos nos seguintes termos: Há de haver para nós outros algum atalho direto, quando o raciocínio nos acompanha na pesquisa; porque enquanto tivermos corpo e nossa alma se encontrar atolada em sua corrupção, jamais poderemos alcançar o que almejamos. E o que queremos, declaremo-lo de uma vez por todas, é a verdade. Não têm conta os embaraços que o corpo nos apresta, pela necessidade de alimentar-se, sem falarmos nas doenças intercorrentes, que são outros empecilhos na caça da verdade. Com amores, receios, cupidez, imaginações de toda a espécie e um sem número de banalidades, a tal ponto ele nos satura, que, de fato, como se diz, por sua causa jamais conseguiremos alcançar o conhecimento do quer que seja. Mais, ainda: guerras, batalhas, dissensões, suscita-as exclusivamente o corpo com seus apetites. Outra causa não têm as guerras senão o amor do dinheiro e dos bens que nos vemos forçados a adquirir por causa do corpo, visto sermos obrigados a servi-lo. Se carecermos de vagar para nos dedicarmos à Filosofia, a causa é tudo isso que enumeramos. O pior é que, mal conseguimos alguma trégua e nos dispomos a refletir sobre determinado ponto, na mesma hora o corpo intervém para perturbar-nos de mil modos, causando tumulto e inquietude em nossa investigação, até deixar-nos inteiramente incapazes de perceber a verdade. Por outro lado, ensina-nos a experiência que, se quisermos alcançar o conhecimento puro de alguma coisa, teremos de separar-nos do corpo e considerar apenas com a alma como as coisas são em si mesmas. Só nessas condições, ao que parece, é que alcançaremos o que desejamos e do que nos declaramos amorosos, a sabedoria, isto é, depois de mortos, conforme nosso argumento o indica, nunca enquanto vivermos. Ora, se realmente, na companhia do corpo não é possível obter o conhecimento puro do que quer que seja, de duas uma terá de ser: ou jamais conseguiremos adquirir esse conhecimento, ou só o faremos depois de mortos, pois só então a alma se recolherá em si mesma, separada do corpo, nunca antes disso. Ao que parece, enquanto vivermos, a única maneira de ficarmos mais perto do pensamento, é abstermo-nos o mais possível da companhia do corpo e de qualquer comunicação com ele, salvo e estritamente necessário, sem nos deixarmos saturar de sua natureza sem permitir que nos macule, até que a divindade nos venha libertar. Puros, assim, e livres da insanidade do corpo, com toda a probalidade nos uniremos a seres iguais a nós e reconheceremos por nós mesmos o que for estreme de impurezas. É nisso, provavelmente, que consiste a verdade. Não é permitido ao impuro entrar em contato com o puro. – Eis aí, meu caro Símias, quero crer, o que necessariamente pensam entre si e conversam uns com os outros os verdadeiros amantes da sabedoria. Não é esse, também, o teu modo de pensar?',
+        text: '<center><b>XI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Por tudo isso, continuou, é natural nascer no espírito dos filósofos autênticos certa convicção que os leva a discorrer entre eles mais ou menos nos seguintes termos: Há de haver para nós outros algum atalho direto, quando o raciocínio nos acompanha na pesquisa; porque enquanto tivermos corpo e nossa alma se encontrar atolada em sua corrupção, jamais poderemos alcançar o que almejamos. E o que queremos, declaremo-lo de uma vez por todas, é a verdade. Não têm conta os embaraços que o corpo nos apresta, pela necessidade de alimentar-se, sem falarmos nas doenças intercorrentes, que são outros empecilhos na caça da verdade. Com amores, receios, cupidez, imaginações de toda a espécie e um sem número de banalidades, a tal ponto ele nos satura, que, de fato, como se diz, por sua causa jamais conseguiremos alcançar o conhecimento do quer que seja. Mais, ainda: guerras, batalhas, dissensões, suscita-as exclusivamente o corpo com seus apetites. Outra causa não têm as guerras senão o amor do dinheiro e dos bens que nos vemos forçados a adquirir por causa do corpo, visto sermos obrigados a servi-lo. Se carecermos de vagar para nos dedicarmos à Filosofia, a causa é tudo isso que enumeramos. O pior é que, mal conseguimos alguma trégua e nos dispomos a refletir sobre determinado ponto, na mesma hora o corpo intervém para perturbar-nos de mil modos, causando tumulto e inquietude em nossa investigação, até deixar-nos inteiramente incapazes de perceber a verdade. Por outro lado, ensina-nos a experiência que, se quisermos alcançar o conhecimento puro de alguma coisa, teremos de separar-nos do corpo e considerar apenas com a alma como as coisas são em si mesmas. Só nessas condições, ao que parece, é que alcançaremos o que desejamos e do que nos declaramos amorosos, a sabedoria, isto é, depois de mortos, conforme nosso argumento o indica, nunca enquanto vivermos. Ora, se realmente, na companhia do corpo não é possível obter o conhecimento puro do que quer que seja, de duas uma terá de ser: ou jamais conseguiremos adquirir esse conhecimento, ou só o faremos depois de mortos, pois só então a alma se recolherá em si mesma, separada do corpo, nunca antes disso. Ao que parece, enquanto vivermos, a única maneira de ficarmos mais perto do pensamento, é abstermo-nos o mais possível da companhia do corpo e de qualquer comunicação com ele, salvo e estritamente necessário, sem nos deixarmos saturar de sua natureza sem permitir que nos macule, até que a divindade nos venha libertar. Puros, assim, e livres da insanidade do corpo, com toda a probalidade nos uniremos a seres iguais a nós e reconheceremos por nós mesmos o que for estreme de impurezas. É nisso, provavelmente, que consiste a verdade. Não é permitido ao impuro entrar em contato com o puro. – Eis aí, meu caro Símias, quero crer, o que necessariamente pensam entre si e conversam uns com os outros os verdadeiros amantes da sabedoria. Não é esse, também, o teu modo de pensar?',
         footnote: [],
         bold: [
           {
@@ -1391,7 +1435,11 @@ export default [
         }]
       },
       {
-        text: 'XII – Por conseguinte, companheiro, continuou Sócrates, se tudo isso estiver certo, há muita esperança de que somente no ponto em que me encontro, e mais em tempo algum, é que alguém poderá alcançar o que durante a vida constitui nosso único objetivo. Por isso, a viagem que me foi agora imposta deve ser iniciada com uma boa esperança, o que se dará também com quantos tiverem certeza de achar-se com a mente preparada e, de algum modo, pura.',
+        text: '<center><b>XII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Por conseguinte, companheiro, continuou Sócrates, se tudo isso estiver certo, há muita esperança de que somente no ponto em que me encontro, e mais em tempo algum, é que alguém poderá alcançar o que durante a vida constitui nosso único objetivo. Por isso, a viagem que me foi agora imposta deve ser iniciada com uma boa esperança, o que se dará também com quantos tiverem certeza de achar-se com a mente preparada e, de algum modo, pura.',
         footnote: [],
         bold: [
           {
@@ -1489,7 +1537,11 @@ export default [
         }]
       },
       {
-        text: 'XIII – Por consequência, continuou, ao vires um homem revoltar-se no instante de morrer, não será isso prova suficiente de que não trata de um amante da sabedoria, porém amante do corpo? Um indivíduo nessas condições, também será, possivelmente, amante do dinheiro ou da fama, se não o for de ambos ao mesmo tempo.',
+        text: '<center><b>XIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Por consequência, continuou, ao vires um homem revoltar-se no instante de morrer, não será isso prova suficiente de que não trata de um amante da sabedoria, porém amante do corpo? Um indivíduo nessas condições, também será, possivelmente, amante do dinheiro ou da fama, se não o for de ambos ao mesmo tempo.',
         footnote: [],
         bold: [
           {
@@ -1609,7 +1661,11 @@ export default [
         bold: []
       },
       {
-        text: 'XIV – Depois de haver Sócrates assim falado Cebete tomou a palavra e disse: Sócrates, tudo o que à alma, dificilmente os homens poderão acreditar que, uma vez separada do corpo, venha ela a subsistir em  alguma parte, por destruir-se e desaparecer no mesmo dia em que o homem fenece. No próprio instante em que ele sai do corpo e dele sai, dispersa-se como sopro ou fumaça, evola-se, deixando, em conseqüência de existir em qualquer parte. Porque, se ela se recolhesse algures a si mesma, livre dos males que há pouco enumeraste, haveria grande e doce esperança de ser verdade, Sócrates, tudo o que disseste. Mas o fato é que se faz mister de não pequeno poder de persuasão e de muitos argumentos para demonstrar que a alma subsista depois da morte do homem e que conserva alguma atividade e pensamento.',
+        text: '<center><b>XIV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Depois de haver Sócrates assim falado Cebete tomou a palavra e disse: Sócrates, tudo o que à alma, dificilmente os homens poderão acreditar que, uma vez separada do corpo, venha ela a subsistir em  alguma parte, por destruir-se e desaparecer no mesmo dia em que o homem fenece. No próprio instante em que ele sai do corpo e dele sai, dispersa-se como sopro ou fumaça, evola-se, deixando, em conseqüência de existir em qualquer parte. Porque, se ela se recolhesse algures a si mesma, livre dos males que há pouco enumeraste, haveria grande e doce esperança de ser verdade, Sócrates, tudo o que disseste. Mas o fato é que se faz mister de não pequeno poder de persuasão e de muitos argumentos para demonstrar que a alma subsista depois da morte do homem e que conserva alguma atividade e pensamento.',
         footnote: [],
         bold: [
           {
@@ -1647,7 +1703,11 @@ export default [
         ]
       },
       {
-        text: 'XV- Estudemo-lo, pois, sob o seguinte aspecto: se as almas dos mortos se encontram ou não se encontram no Hades? Conforme antiga tradição, que ora me ocorre, as almas lá existentes foram daqui mesmo e para cá deverão voltar, renascendo os mortos. A ser assim, e  se os vivos nascem dos mortos, não terão de estar lá mesmo nossas almas? Pois não poderiam renascer se não existissem, vindo a ser essa, justamente a prova decisiva, no caso de ser possível deixar manifesto que os vivos de outra parte não procedem senão dos mortos. Se isso não for verdade, teremos de procurar outro argumento.',
+        text: '<center><b>XV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Estudemo-lo, pois, sob o seguinte aspecto: se as almas dos mortos se encontram ou não se encontram no Hades? Conforme antiga tradição, que ora me ocorre, as almas lá existentes foram daqui mesmo e para cá deverão voltar, renascendo os mortos. A ser assim, e  se os vivos nascem dos mortos, não terão de estar lá mesmo nossas almas? Pois não poderiam renascer se não existissem, vindo a ser essa, justamente a prova decisiva, no caso de ser possível deixar manifesto que os vivos de outra parte não procedem senão dos mortos. Se isso não for verdade, teremos de procurar outro argumento.',
         footnote: [],
         bold: [{
           firstIndex: '',
@@ -1759,7 +1819,11 @@ export default [
         }]
       },
       {
-        text: 'XVI – E então? Prosseguiu: viver não comporta um contrário, tal como se dá com a vigília e o sono?',
+        text: '<center><b>XVI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E então? Prosseguiu: viver não comporta um contrário, tal como se dá com a vigília e o sono?',
         footnote: [],
         bold: [{
           firstIndex: '',
@@ -1956,7 +2020,11 @@ export default [
         bold: []
       },
       {
-        text: 'XVII – Observa também, Cebete, continuou, que não chegamos a esse acordo\n' +
+        text: '<center><b>XVII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Observa também, Cebete, continuou, que não chegamos a esse acordo\n' +
           'aereamente, segundo me parece. Porque se um desses processos não fosse compensado pelo\n' +
           'seu contrário, girando, por assim dizer, em círculo, mas sempre se fizesse a geração em\n' +
           'linha reta, de um dos contrários para o seu oposto, sem nunca voltar desta para aquele, nem andar em sentido inverso: fica sabendo que tudo acabaria numa forma única e ficaria num\n' +
@@ -2003,7 +2071,11 @@ export default [
         bold: []
       },
       {
-        text: 'XVIII – É também, Sócrates, voltou Cebete a falar, o que se conclui daquele outro\n' +
+        text: '<center><b>XVIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'É também, Sócrates, voltou Cebete a falar, o que se conclui daquele outro\n' +
           'argumento – se for verdadeiro – que costumas apresentar, sobre ser reminiscência o\n' +
           'conhecimento, conforme o qual nós devemos forçosamente ter aprendido num tempo\n' +
           'anterior o de que nos recordamos agora, o que seria impossível, se nossa alma não\n' +
@@ -2937,7 +3009,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXIX – E então? Se for assim, não ficará o corpo sujeito a dissolver-se depressa,\n' +
+        text: '<center><b>XXIX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E então? Se for assim, não ficará o corpo sujeito a dissolver-se depressa,\n' +
           'conservando-se a alma indissolúvel ou num estado que muito disso se aproxima?',
         footnote: [],
         bold: [
@@ -3000,7 +3076,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXX – Assim mesmo, por Zeus, respondeu Cebete.',
+        text: '<center><b>XXX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Assim mesmo, por Zeus, respondeu Cebete.',
         footnote: [],
         bold: [{
           firstIndex: 0,
@@ -3058,7 +3138,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXI – Como é natural, voltam a ser aprisionadas em naturezas de costumes iguais\n' +
+        text: '<center><b>XXXI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Como é natural, voltam a ser aprisionadas em naturezas de costumes iguais\n' +
           'aos que elas praticaram em vida.',
         footnote: [],
         bold: [
@@ -3130,7 +3214,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXII – Para a raça dos deuses não é permitido passar os que não praticaram a\n' +
+        text: '<center><b>XXXII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Para a raça dos deuses não é permitido passar os que não praticaram a\n' +
           'Filosofia nem partiram inteiramente puros, mas apenas os amigos da Sabedoria. É por isso,\n' +
           'meus caros Símias e Cebete, que os verdadeiros filósofos se acautelam contra os apetites do\n' +
           'corpo, resistem-lhes e não se deixam dominar por eles; não têm medo da pobreza nem da\n' +
@@ -3159,7 +3247,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXIII – De que modo, Sócrates?',
+        text: '<center><b>XXXIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'De que modo, Sócrates?',
         footnote: [],
         bold: [
           {
@@ -3239,7 +3331,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXIV – Essa é a razão, Cebete, de serem temperantes e corajosos os verdadeiros\n' +
+        text: '<center><b>XXXIV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Essa é a razão, Cebete, de serem temperantes e corajosos os verdadeiros\n' +
           'amigos do saber, não pelo que imagina o povo. Ou achas que sim?',
         footnote: [],
         bold: [
@@ -3269,7 +3365,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXV – A essas palavras de Sócrates, seguiu-se prolongado silêncio. Como se\n' +
+        text: '<center><b>XXXV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'A essas palavras de Sócrates, seguiu-se prolongado silêncio. Como se\n' +
           'poderia observar, o próprio Sócrates meditava no tema desenvolvido na conversação, o que,\n' +
           'aliás, acontecia com quase todos os presentes. Cebete e Símias falaram de socapa alguma\n' +
           'coisa, o que foi percebido por Sócrates, que lhes disse:',
@@ -3339,7 +3439,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXVI – Sócrates respondeu: Talvez, companheiro, lhe falou, estejas com a razão;\n' +
+        text: '<center><b>XXXVI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Sócrates respondeu: Talvez, companheiro, lhe falou, estejas com a razão;\n' +
           'porém explica o que não te parece bem fundamentado.',
         footnote: [],
         bold: [
@@ -3377,7 +3481,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXVII – Sócrates se conservou durante algum tempo com o olhar parado, como era\n' +
+        text: '<center><b>XXXVII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Sócrates se conservou durante algum tempo com o olhar parado, como era\n' +
           'seu costume; depois falou, sorrindo: A objeção de Símias, declarou, é procedente. Se algum\n' +
           'de vós estiver em melhores condições do que eu, por que não responde a ele? O argumento\n' +
           'dele é muito feliz. Porém antes de formular qualquer resposta, sou de parecer que devemos\n' +
@@ -3442,7 +3550,12 @@ export default [
         bold: []
       },
       {
-        text: 'XXXVIII – Ao ouvi-los falar dessa maneira, todos nós nos sentimos\n' +
+        text: '<center><b>XXXVIII</b></center>',
+        footnote: []
+      },
+
+      {
+        text: 'Ao ouvi-los falar dessa maneira, todos nós nos sentimos\n' +
           'desagradavelmente impressionados, conforme depois confessamos a nós mesmos;\n' +
           'firmemente convencidos como ficáramos, ante os argumentos anteriores, as palavras de\n' +
           'agora como que nos deixavam inquietos e nos levavam outra vez a duvidar, tanto com\n' +
@@ -3557,7 +3670,11 @@ export default [
         bold: []
       },
       {
-        text: 'XXXIX – Inicialmente, precatemo-nos contra certo perigo.',
+        text: '<center><b>XXXIX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Inicialmente, precatemo-nos contra certo perigo.',
         footnote: [],
         bold: [
           {
@@ -3664,7 +3781,11 @@ export default [
         bold: []
       },
       {
-        text: 'XL – Assim, continuou, de início precisamos acautelar-nos contra semelhante perigo;\n' +
+        text: '<center><b>XL</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Assim, continuou, de início precisamos acautelar-nos contra semelhante perigo;\n' +
           'não permitamos o ingresso em nossa alma da idéia de que não há nada são em nosso\n' +
           'raciocínio; digamos, isso sim, que nós é que ainda não estamos suficientemente sãos, mas\n' +
           'que devemos esforçar-nos para alcançar esse desiderato, tu e os demais, por causa da vida\n' +
@@ -3695,7 +3816,11 @@ export default [
         ]
       },
       {
-        text: 'XLI – Porém prossigamos, continuou. Inicialmente, lembrai-me do que dissestes, se\n' +
+        text: '<center><b>XLI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Porém prossigamos, continuou. Inicialmente, lembrai-me do que dissestes, se\n' +
           'vos parecer que não me recordo muito bem de tudo, Ou muito me engano, Símias, ou tens\n' +
           'dúvidas de receio de que a alma, apesar de mais bela e divina do que o corpo, pereça antes\n' +
           'deste, por ser uma espécie de harmonia. Cebete terá admitido que a alma é mais durável do\n' +
@@ -3807,7 +3932,11 @@ export default [
         bold: []
       },
       {
-        text: 'XLII – E o seguinte, Símias, perguntou, como te parece: és de opinião que a\n' +
+        text: '<center><b>XLII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E o seguinte, Símias, perguntou, como te parece: és de opinião que a\n' +
           'harmonia, ou qualquer outro composto, poderá proceder de maneira diferente da dos\n' +
           'elementos se que é feito?',
         footnote: [],
@@ -4094,7 +4223,11 @@ export default [
         bold: []
       },
       {
-        text: 'XLIV – Muito bem, falou Sócrates; tudo indica que Harmonia, a divindade tebana, já\n' +
+        text: '<center><b>XLIV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Muito bem, falou Sócrates; tudo indica que Harmonia, a divindade tebana, já\n' +
           'se nos tornou propícia. E agora, Cebete, continuou, de que jeito aplacaremos Cadmo, e com\n' +
           'que argumentos?',
         footnote: [],
@@ -4145,7 +4278,11 @@ export default [
         bold: []
       },
       {
-        text: 'XLV – Durante algum tempo Sócrates se conservou calado, como se refletisse a sós\n' +
+        text: '<center><b>XLV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Durante algum tempo Sócrates se conservou calado, como se refletisse a sós\n' +
           'consigo. Depois continuou: O problema com que te ocupas, Cebete, é de suma importância;\n' +
           'precisaremos investigar a fundo a natureza do nascimento e da morte. Se ter parecer, vou\n' +
           'contar-te o que se passou comigo nesse particular. Depois, se achares o que eu disser de\n' +
@@ -4225,7 +4362,11 @@ export default [
         bold: []
       },
       {
-        text: 'XLVI – Ao ouvir, porém, certa vez alguém ler num livro de Anaxágora – segundo\n' +
+        text: '<center><b>XLVI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Ao ouvir, porém, certa vez alguém ler num livro de Anaxágora – segundo\n' +
           'dizia – que a mente é organizadora e causa de tudo, fiquei satisfeitíssimo com semelhante\n' +
           'causa, por parecer-me de algum modo, muito certo que a mente fosse a causa de tudo,\n' +
           'tendo imaginado que, a ser assim mesmo, como coordenadora do Universo, a mente\n' +
@@ -4260,7 +4401,11 @@ export default [
         ]
       },
       {
-        text: 'XLVII – Porém, não demorei, companheiro, a cair do alto dessa maravilhosa\n' +
+        text: '<center><b>XLVII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Porém, não demorei, companheiro, a cair do alto dessa maravilhosa\n' +
           'expectativa, ao prosseguir na leitura e verificar que o nosso homem não recorria à mente\n' +
           'para nada, nem a qualquer outra causa para a explicação da ordem natural das coisas, senão\n' +
           'só o ar, ao éter, à água, e uma infinidade mais de causas extravagantes. Quis parecer-me\n' +
@@ -4313,7 +4458,11 @@ export default [
         bold: []
       },
       {
-        text: 'XLVIII – De seguida, continuou, já cansado de considerar as coisas, houve que era\n' +
+        text: '<center><b>XLVIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'De seguida, continuou, já cansado de considerar as coisas, houve que era\n' +
           'preciso precatar-me para não acontecer comigo o que se dá com as pessoas que observam e\n' +
           'contemplam o Sol quando há eclipse: por vezes perdem a vista, se não olham apenas para a\n' +
           'imagem dele na água ou nalgum meio semelhante. Pensei nessa possibilidade e receei ficar\n' +
@@ -4336,7 +4485,11 @@ export default [
         ]
       },
       {
-        text: 'XLIX – No entanto, prosseguiu, o que eu digo não é novo, mas o que sempre afirmei,\n' +
+        text: '<center><b>XLIX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'No entanto, prosseguiu, o que eu digo não é novo, mas o que sempre afirmei,\n' +
           'tanto noutras ocasiões como em nossa argumentação recente. Vou tentar mostrar-te a\n' +
           'natureza da causa por mim estudada, voltando a tratar daquilo mesmo de que tenho falado\n' +
           'toda a vida, para, de saída, admitir que existe o belo em si, e o bem, e o grande, e tudo o\n' +
@@ -4752,7 +4905,11 @@ export default [
         bold: []
       },
       {
-        text: 'LIII – E não acharias bom, continuou, determinarmos, na medida do possível, quais\n' +
+        text: '<center><b>LIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E não acharias bom, continuou, determinarmos, na medida do possível, quais\n' +
           'essas idéias?',
         footnote: [],
         bold: [
@@ -4872,7 +5029,11 @@ export default [
         bold: []
       },
       {
-        text: 'LIV – Então, repete tudo isso do começo, continuou, porém não me responda com\n' +
+        text: '<center><b>LIV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Então, repete tudo isso do começo, continuou, porém não me responda com\n' +
           'minhas próprias palavras, mas de outra forma, tomando-me como modelo. O que digo é\n' +
           'que, além da resposta certa que eu apresentei no começo, encontrou outra de não menor\n' +
           'confiança no que ficou dito depois. De fato, se me perguntasses: Que precisas haver no\n' +
@@ -4957,7 +5118,11 @@ export default [
         bold: []
       },
       {
-        text: 'LV – E então? O que não admite a idéia do par, que nome lhe demos agora mesmo?',
+        text: '<center><b>LV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'E então? O que não admite a idéia do par, que nome lhe demos agora mesmo?',
         footnote: [],
         bold: [
           {
@@ -5089,7 +5254,11 @@ export default [
         bold: []
       },
       {
-        text: 'LVI – Quanto a Deus, falou Sócrates, ao que suponho, e à idéia da vida e a tudo o\n' +
+        text: '<center><b>LVI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Quanto a Deus, falou Sócrates, ao que suponho, e à idéia da vida e a tudo o\n' +
           'mais que possa haver de imortal, todos estão de acordo em que nunca podem parecer.',
         footnote: [],
         bold: [
@@ -5165,7 +5334,11 @@ export default [
         bold: []
       },
       {
-        text: 'LVII – Porém devemos senhores, considerar também o seguinte: se a alma for\n' +
+        text: '<center><b>LVII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Porém devemos senhores, considerar também o seguinte: se a alma for\n' +
           'imortal, exigirá cuidados de nossa parte não apenas nesta porção do tempo que\n' +
           'denominamos vida, senão o tempo todo em universal, parecendo que se expõe a um grande\n' +
           'perigo quem não atender esse aspecto da questão. Pois se a morte fosse o fim de tudo, que\n' +
@@ -5204,7 +5377,11 @@ export default [
         ]
       },
       {
-        text: 'LVIII – A Terra apresenta um sem-número de lugares maravilhosos, não sendo nem\n' +
+        text: '<center><b>LVIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'A Terra apresenta um sem-número de lugares maravilhosos, não sendo nem\n' +
           'de tão extensa nem da forma como a imaginam as que se comprazem em discorrer a seu\n' +
           'respeito, conforme alguém mo demonstrou.',
         footnote: [],
@@ -5287,7 +5464,11 @@ export default [
         bold: []
       },
       {
-        text: 'LIX – O que dizem, companheiro, para começar, é que essa terra fosse vista de cima\n' +
+        text: '<center><b>LIX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'O que dizem, companheiro, para começar, é que essa terra fosse vista de cima\n' +
           'por alguém, pareceria um desses balões de couro de doze peças de cores diferentes, de que\n' +
           'são simples amostras as cores conhecidas entre nós que os pintores empregam. Toda aquela\n' +
           'terra é assim, porém de cores muito mais pura e brilhantes; uma parte é de cor é púrpura e\n' +
@@ -5326,7 +5507,11 @@ export default [
         ]
       },
       {
-        text: 'LX – Assim é a natureza da terra em seu conjunto e das coisas que a circundam. Nas\n' +
+        text: '<center><b>LX</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Assim é a natureza da terra em seu conjunto e das coisas que a circundam. Nas\n' +
           'entranhas da terra, por todo o seu contorno notam-se numerosas concavidades, algumas\n' +
           'mais profundas e patentes do que esta em que moramos, outras também profundas, porém\n' +
           'com entrada mais angusta do que a nossa, havendo, ainda, umas tantas de menor fundura,\n' +
@@ -5378,7 +5563,11 @@ export default [
         bold: []
       },
       {
-        text: 'LXI – Há muitas outras caudais do mais variado aspecto, porém nessa multidão de\n' +
+        text: '<center><b>LXI</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Há muitas outras caudais do mais variado aspecto, porém nessa multidão de\n' +
           'rios há quatro, particularmente, dos quais o maior e mais afastado do centro, denominado\n' +
           'Oceano, circunda a Terra inteira. De fronte deste e em sentido contrário deflui o Aqueronte,\n' +
           'que além de atravessar muitas regiões desertas, corre por baixo da terra, até alcançar a\n' +
@@ -5407,7 +5596,11 @@ export default [
         ]
       },
       {
-        text: 'LXII – Sendo essa a disposição natural dos rios, quando os mortos chegam ao local\n' +
+        text: '<center><b>LXII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Sendo essa a disposição natural dos rios, quando os mortos chegam ao local\n' +
           'determinado para cada um o seu demônio particular, antes de mais nada são julgados, tanto\n' +
           'os que levaram vida bela e santa como os que viveram mal. Os classificados como de\n' +
           'procedimento mediano, dirigem-se para o Aqueronte e sobem para as barcas que lhes são\n' +
@@ -5445,7 +5638,11 @@ export default [
         ]
       },
       {
-        text: 'LXIII – Afirmar, de modo positivo, que tudo seja como acabei de expor, não é\n' +
+        text: '<center><b>LXIII</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Afirmar, de modo positivo, que tudo seja como acabei de expor, não é\n' +
           'próprio de homem sensato; mas que deve ser assim mesmo ou quase assim no que diz\n' +
           'respeito a nossas almas e suas moradas, sendo a alma imortal como se nos revelou, é\n' +
           'proposição que me parece digna de fé e muito própria para recompensar-nos do risco em\n' +
@@ -5471,7 +5668,11 @@ export default [
         ]
       },
       {
-        text: 'LXIV – Depois de dizer essas palavras, falou Critão: Está bem, Sócrates; porém que\n' +
+        text: '<center><b>LXIV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Depois de dizer essas palavras, falou Critão: Está bem, Sócrates; porém que\n' +
           'determinações me deixas ou a estes aqui, a respeito de teus filhos, ou o que mais poderemos\n' +
           'fazer por amor de ti, que nos fora grato executar?',
         footnote: [],
@@ -5523,7 +5724,11 @@ export default [
         bold: []
       },
       {
-        text: 'LXV – Tendo acabado de falar, levantou-se e foi para outro compartimento, a fim de\n' +
+        text: '<center><b>LXV</b></center>',
+        footnote: []
+      },
+      {
+        text: 'Tendo acabado de falar, levantou-se e foi para outro compartimento, a fim de\n' +
           'banhar-se. Critão o acompanhou; a nós mandou que esperássemos. Ali ficamos, então, a\n' +
           'conversar e comentar tudo o que ele dissera e a discorrer sobre o nosso grande infortúnio.\n' +
           'Sentíamos, em verdade, como quem houvesse perdido o pai e tivesse de ficar órfão para o\n' +
@@ -5586,7 +5791,11 @@ export default [
         bold: []
       },
       {
-        text: 'LXVI – Ouvindo-o, Critão fez sinal ao menino que se encontrava mais perto. Este\n' +
+        text: '<center><b>LXVI</b></center>',
+        footnote: []
+      },
+      {
+        text: ' Ouvindo-o, Critão fez sinal ao menino que se encontrava mais perto. Este\n' +
           'saiu e voltou pouco depois em companhia do encarregado de lhe dar o veneno, que já o\n' +
           'trazia espremido na taça. Ao ver o homem, Sócrates perguntou-lhe. E agora, meu caro: já\n' +
           'que entendes destas coisas, que precisarei fazer?',
