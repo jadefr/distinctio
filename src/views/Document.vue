@@ -54,15 +54,10 @@
 
 <script>
 import { mapState } from 'vuex'
-// import Paragraph from '@/components/Paragraph'
 
 export default {
-  // components: {
-  //   Paragraph
-  // },
   data () {
     return {
-      test: 'socrates <br> platao',
       paragraphs: [],
       // paragraphString: '',
       paragraphsLength: '',
