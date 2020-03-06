@@ -103,7 +103,7 @@ export default {
     // },
     title () {
       for (let i = 0; i < this.documents.length; i++) {
-        if (this.$route.params.sectionURL === this.documents[i].sectionURL) {
+        if ((this.$route.params.sectionURL === this.documents[i].sectionURL) && (this.$route.params.titleURL === this.documents[i].titleURL)) {
           return this.documents[i].title
         }
       }

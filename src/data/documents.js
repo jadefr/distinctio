@@ -6163,7 +6163,7 @@ export default [
     disclaimer: '',
     paragraphs: [
       {
-        text: '<center>I</center>',
+        text: '<center><b>I</b></center>',
         footnote: [
           {
             index: '',
@@ -6224,7 +6224,7 @@ export default [
         footnote: []
       },
       {
-        text: '<center>II</center>',
+        text: '<br><center><b>II</b></center>',
         footnote: []
       },
       {
@@ -6332,7 +6332,7 @@ export default [
         footnote: []
       },
       {
-        text: '<center>III</center>',
+        text: '<br><center><b>III</b></center>',
         footnote: []
       },
       {
@@ -10183,268 +10183,6 @@ export default [
   {
     title: 'Da Tranquilidade da Alma',
     author: 'Sêneca',
-    section: 'Sêneca a Sereno',
-    img: 'seneca',
-    imgIndex: '5',
-    titleURL: 'da-tranquilidade-da-alma',
-    authorURL: 'seneca',
-    sectionURL: 'seneca-a-sereno',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: 'SÊNECA A SERENO',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'II — 1. Eis que faz muito tempo, por Hércules, que eu me pergunto a mim\n' +
-          'mesmo sem nada dizer, ó Sereno, com o que poderia comparar uma semelhante\n' +
-          'disposição de espírito; e o que me parecia assemelhar-lhe mais é o estado daquelas\n' +
-          'pessoas que convalescem de uma longa e grave enfermidade, e sentem ainda de\n' +
-          'tempos em tempos alguns calafrios e leves indisposições; e que, uma vez livres dos\n' +
-          'últimos traços de seu mal, continuam a se inquietar com perturbações imaginárias, a\n' +
-          'se fazer, ainda que restabelecidas, tomar o pulso pelo médico e consideram como\n' +
-          'febre a menor impressão de calor. Sua saúde, ó Sereno, não deixa nada mais a\n' +
-          'desejar, mas aquelas pessoas não estão habituadas novamente à saúde: assim, ainda se vê estremecer e agitar-se a superfície de um mar calmo, quando a tempestade\n' +
-          'acabou de se aplacar.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '2. Assim também os procedimentos enérgicos nos quais encontramos auxílio\n' +
-          'anteriormente não são mais próprios: tu não precisas mais nem lutar contra ti nem\n' +
-          'te censurar nem te atormentar. Estamos na etapa final: tem fé em ti mesmo e\n' +
-          'convence-te de que segues o bom caminho, sem te deixares desviar pelas inúmeras\n' +
-          'pegadas dos viajantes extraviados à direita ou à esquerda e dos quais alguns se\n' +
-          'desgarram nas proximidades da estrada.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '3. O objeto de tuas aspirações é, aliás, uma grande e nobre coisa, e bem\n' +
-          'próxima de ser divina, pois que é a ausência da inquietação. Os gregos chamam este\n' +
-          'equilíbrio da alma de "euthymia" e existe sobre este assunto uma muito bela obra\n' +
-          'de Demócrito. Eu o chamo "tranqüilidade", pois é inútil pedir palavras emprestadas\n' +
-          'para nosso vocabulário e imitar a forma destas mesmas: é a idéia que se deve\n' +
-          'exprimir, por meio de um termo que tenha a significação da palavra grega, sem no\n' +
-          'entanto reproduzir a forma.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '4. Vamos, pois, procurar como é possível à alma caminhar numa conduta\n' +
-          'sempre igual e firme, sorrindo para si mesma e comprazendo-se com seu próprio\n' +
-          'espetáculo e prolongando indefinidamente esta agradável sensação, sem se afastar\n' +
-          'jamais de sua calma, sem se exaltar, nem se deprimir. Isto será tranqüilidade.\n' +
-          'Procuremos, de um modo geral, como se pode alcançá-la: tu tomarás, como\n' +
-          'entenderes, tua parte do remédio universal.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '5. Mas ponhamos desde logo o mal em evidência, em toda a sua diversidade:\n' +
-          'cada qual nele reconhecerá o que lhe diz respeito pessoalmente. Ao mesmo tempo,\n' +
-          'dar-te-ás conta de tudo quanto tens menos a sofrer deste descontentamento de ti,\n' +
-          'do que aqueles que, estando ligados por uma profissão de fé faustosa e ornando\n' +
-          'com um nome pomposo a miséria que os consome, teimam no papel que\n' +
-          'escolheram, menos por convicção que por questão de honra.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '6. Para todos os doentes o caso é o mesmo: tanto tratando-se daqueles que\n' +
-          'se atormentam por uma inconstância de humor, seus desgostos, sua perpétua\n' +
-          'versatilidade e sempre amam somente aquilo que abandonaram, como aqueles que\n' +
-          'só sabem suspirar e bocejar. Acrescenta-lhes aqueles que se viram e reviram como\n' +
-          'as pessoas que não conseguem dormir, e experimentam sucessivamente todas as\n' +
-          'posições até que a fadiga as faça encontrar o repouso: depois de ter modificado\n' +
-          'cem vezes o plano de sua existência, eles acabam por ficar na posição onde os\n' +
-          'surpreende não a impaciência da variação mas a velhice, cuja indolência rejeita as\n' +
-          'inovações. Ajunta, ainda, aqueles que não mudam nunca, não por obstinação, mas\n' +
-          'por preguiça, e que vivem não como desejam, mas como sempre viveram.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '7. Há, enfim, inúmeras variedades do mal, mas todas conduzem ao mesmo\n' +
-          'resultado: o descontentamento de si mesmo. Mal-estar que tem por origem uma\n' +
-          'falta de equilíbrio da alma e das aspirações tímidas ou infelizes, que não se atrevem\n' +
-          'a tanto quanto desejam, ou que se tenta em vão realizar e pelas quais nos cansamos\n' +
-          'de esperar. É uma inconstância, uma agitação perpétua, inevitável, que nasce dos\n' +
-          'caracteres irresolutos. Eles procuram por todos os meios atingir o objeto de seus\n' +
-          'votos: preparam-se e constrangem-se a práticas indignas e penosas. E, quando seu\n' +
-          'esforço não é recompensado, sofrem não de ter querido o mal, mas de o ter\n' +
-          'querido sem sucesso.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '8. Desde então, ei-los presos, ao mesmo tempo, do arrependimento de sua\n' +
-          'conduta passada e do temor de nela recair, e pouco a pouco se entregam à agitação\n' +
-          'estéril de uma alma que não encontra para suas dificuldades nenhuma saída, porque\n' +
-          'ela não é capaz nem de mandar nem de obedecer às suas paixões: entregam-se à\n' +
-          'aflição de uma vida que não chega a ter expansão, e, enfim, a esta indiferença de\n' +
-          'uma alma paralisada no meio da ruína de seus desejos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '9. Tudo isto se agrava quando, superada uma tão odiosa angústia, nos\n' +
-          'refugiamos no ócio e nos estudos solitários, nos quais não se saberá resignar uma\n' +
-          'alma apaixonada da vida pública, e paciente de atividade, dotada de uma\n' +
-          'necessidade natural de movimento e que não encontra em si mesma quase nenhum\n' +
-          'consolo. De sorte que, uma vez atraídos pelas distrações que as pessoas atarefadas\n' +
-          'devem mesmo às suas ocupações, não mais suportamos nossa casa, nosso\n' +
-          'isolamento e as paredes de nosso quarto; e nos vemos com amargura abandonados\n' +
-          'a nós mesmos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '10. Daí este aborrecimento, este desgosto de si, este redemoinho de uma\n' +
-          'alma que não se fixa em nada, esta sombria impaciência que nos causa nossa\n' +
-          'própria inércia, principalmente quando coramos ao confessar as razões, e o respeito\n' +
-          'humano recalca em nós nossa angústia: estreitamente encerradas numa prisão sem\n' +
-          'saída, nossas paixões aí se asfixiam. Daí a melancolia, a languidez e as mil\n' +
-          'hesitações de uma alma indecisa, que a semi-realização de suas esperanças prolonga\n' +
-          'na ansiedade e seu malogro na desolação; daí esta disposição para amaldiçoar seu\n' +
-          'próprio repouso, para lamentar-se por não ter nada a fazer e para invejar\n' +
-          'furiosamente todos os sucessos do próximo (pois nada alimenta a inveja como a\n' +
-          'preguiça desgraçada, e se desejaria ver todo o mundo malograr, porque não se\n' +
-          'soube obter êxito).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '11. Depois deste despeito pelos sucessos dos outros e deste desespero de\n' +
-          'não ser bem sucedido, começa o homem a se irritar contra a sorte, a se queixar do\n' +
-          'século, a se recolher cada vez mais em seu canto e aí se abriga sua dor no desânimo\n' +
-          'e no aborrecimento. A alma humana é, com efeito, por instinto ativa e inclinada ao\n' +
-          'movimento. Toda ocasião para se despertar e para se afastar de si lhe é agradável,\n' +
-          'mais particularmente entre as naturezas deterioradas, que pretendem a colisão das\n' +
-          'ocupações. Certas úlceras provocam a mão que as irritará e se fazem raspar com\n' +
-          'prazer: o sarnento deseja o que irrita sua sarna. Pode-se dizer o mesmo destas\n' +
-          'almas, em que as paixões brotam como as úlceras malignas e que consideram um\n' +
-          'prazer atormentar-se e sofrer.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '12. Não existem igualmente prazeres corporais que se reforçam com uma\n' +
-          'sensação dolorosa, como quando uma pessoa se vira sobre o lado que ainda não\n' +
-          'está fatigado e se agita sem cessar procurando uma posição melhor? Semelhante a\n' +
-          'Aquiles, de Homero<sup><a href="#footnotes">1</a></sup>,' +
-          '7 deitando-se ora de bruços ora de costas e experimentando sucessivamente todas as posições possíveis. E não é isso o natural da doença, nada\n' +
-          'suportar por muito tempo e tomar a mudança por um remédio?',
-        footnote: [
-          {
-            index: 1,
-            content: 'Homero, Ilíada (XXIV): Aquiles ficou inconsolável pela morte do amigo Pátroclo.'
-          }
-        ]
-      },
-      {
-        text: '13. Daí aquelas viagens que se empreendem sem nenhum intuito, aquelas\n' +
-          'voltas a esmo ao longo das costas, e esta inconstância sempre inimiga da situação\n' +
-          'presente, que alternativamente experimenta o mar e a terra: "Depressa, vamos a\n' +
-          'Calábria". Logo se está cansado das doçuras da civilização. "Visitemos as regiões\n' +
-          'selvagens, exploremos o Brútio (Calábria) e as florestas da Lucânia." Todavia,\n' +
-          'nestas solidões, suspira-se por qualquer coisa que dê descanso aos olhos fatigados\n' +
-          'pelo rude aspecto de tantos lugares áridos. "A caminho de Tarento, com seu porto\n' +
-          'e seu inverno tão doce. e para esta opulenta região que seria capaz de sustentar sua\n' +
-          'população de outrora!<sup><a href="#footnotes">2</a></sup>\n' +
-          ' Mas não, retornemos a Roma: faz muito tempo que meus\n' +
-          'ouvidos estão privados dos aplausos e do barulho do circo e tenho desejo de agora\n' +
-          'ver correr sangue humano."',
-        footnote: [
-          {
-            index: 2,
-            content: 'Famosa cidade da Lucânia, Tarento foi florescentíssima colônia grega; mas no tempo de Sêneca estava meio deserta.'
-          }
-        ]
-      },
-      {
-        text: '14. Assim como as viagens se sucedem, um espetáculo substitui o outro, e\n' +
-          'como diz Lucrécio: "Assim cada um foge sempre de si mesmo".<sup><a href="#footnotes">3</a></sup>' +
-          ' Mas para que\n' +
-          'fugir se não nos podemos evitar? Seguimo-nos sempre, sem nos desembaraçarmos\n' +
-          'desta intolerável companhia.',
-        footnote: [
-          {
-            index: 3,
-            content: 'Lucrécio, Da Natureza (III, 1066); na verdade, Sêneca acrescentou no verso de Lucrécio o advérbio "semper" (= sempre).'
-          }
-        ]
-      },
-      {
-        text: '15. Assim, convençamo-nos bem de que o mal do qual sofremos não vem\n' +
-          'dos lugares, mas de nós mesmos, que não temos força para nada suportar: trabalho,\n' +
-          'prazer, nós mesmos; qualquer coisa do mundo nos parece uma carga. Isto conduziu\n' +
-          'muitas pessoas ao suicídio: porque suas perpétuas variações as faziam dar voltas,\n' +
-          'indefinidamente, no mesmo círculo, e elas consideravam impossível toda novidade.\n' +
-          'Assim tomaram desgosto pela vida e pelo mundo e sentiram aumentar em si o\n' +
-          'clamor furioso dos corações: "Mas como, sempre a mesma coisa?"',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Da Tranquilidade da Alma',
-    author: 'Sêneca',
     section: 'Sereno a Sêneca',
     img: 'seneca',
     imgIndex: '5',
@@ -10456,7 +10194,7 @@ export default [
     disclaimer: '',
     paragraphs: [
       {
-        text: 'SERENO A SÊNECA<sup><a href="#footnotes">1</a></sup>',
+        text: '<center>SERENO A SÊNECA<sup><a href="#footnotes">1</a></sup></center><br>',
         footnote: [
           {
             index: 1,
@@ -10468,7 +10206,11 @@ export default [
         ]
       },
       {
-        text: 'I — 1. Observando-me atentamente, descobri em mim, ó Sêneca, certos\n' +
+        text: '<center><b>I</b></center>',
+        footnote: []
+      },
+      {
+        text: '1. Observando-me atentamente, descobri em mim, ó Sêneca, certos\n' +
           'defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam\n' +
           'nas regiões mais profundas; outros, enfim, que não são contínuos, mas que\n' +
           'reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os\n' +
@@ -10718,6 +10460,263 @@ export default [
           'faça compreender do que me queixo: a tempestade não mais me agita, mas não\n' +
           'sinto menos enjôo. Liberta-me, pois, deste mal e vem em auxílio de um\n' +
           'desventurado que ainda sofre à vista da terra.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Da Tranquilidade da Alma',
+    author: 'Sêneca',
+    section: 'Sêneca a Sereno',
+    img: 'seneca',
+    imgIndex: '5',
+    titleURL: 'da-tranquilidade-da-alma',
+    authorURL: 'seneca',
+    sectionURL: 'seneca-a-sereno',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<center><b>II</b></center>',
+        footnote: []
+      },
+      {
+        text: '1. Eis que faz muito tempo, por Hércules, que eu me pergunto a mim\n' +
+          'mesmo sem nada dizer, ó Sereno, com o que poderia comparar uma semelhante\n' +
+          'disposição de espírito; e o que me parecia assemelhar-lhe mais é o estado daquelas\n' +
+          'pessoas que convalescem de uma longa e grave enfermidade, e sentem ainda de\n' +
+          'tempos em tempos alguns calafrios e leves indisposições; e que, uma vez livres dos\n' +
+          'últimos traços de seu mal, continuam a se inquietar com perturbações imaginárias, a\n' +
+          'se fazer, ainda que restabelecidas, tomar o pulso pelo médico e consideram como\n' +
+          'febre a menor impressão de calor. Sua saúde, ó Sereno, não deixa nada mais a\n' +
+          'desejar, mas aquelas pessoas não estão habituadas novamente à saúde: assim, ainda se vê estremecer e agitar-se a superfície de um mar calmo, quando a tempestade\n' +
+          'acabou de se aplacar.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '2. Assim também os procedimentos enérgicos nos quais encontramos auxílio\n' +
+          'anteriormente não são mais próprios: tu não precisas mais nem lutar contra ti nem\n' +
+          'te censurar nem te atormentar. Estamos na etapa final: tem fé em ti mesmo e\n' +
+          'convence-te de que segues o bom caminho, sem te deixares desviar pelas inúmeras\n' +
+          'pegadas dos viajantes extraviados à direita ou à esquerda e dos quais alguns se\n' +
+          'desgarram nas proximidades da estrada.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '3. O objeto de tuas aspirações é, aliás, uma grande e nobre coisa, e bem\n' +
+          'próxima de ser divina, pois que é a ausência da inquietação. Os gregos chamam este\n' +
+          'equilíbrio da alma de "euthymia" e existe sobre este assunto uma muito bela obra\n' +
+          'de Demócrito. Eu o chamo "tranqüilidade", pois é inútil pedir palavras emprestadas\n' +
+          'para nosso vocabulário e imitar a forma destas mesmas: é a idéia que se deve\n' +
+          'exprimir, por meio de um termo que tenha a significação da palavra grega, sem no\n' +
+          'entanto reproduzir a forma.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. Vamos, pois, procurar como é possível à alma caminhar numa conduta\n' +
+          'sempre igual e firme, sorrindo para si mesma e comprazendo-se com seu próprio\n' +
+          'espetáculo e prolongando indefinidamente esta agradável sensação, sem se afastar\n' +
+          'jamais de sua calma, sem se exaltar, nem se deprimir. Isto será tranqüilidade.\n' +
+          'Procuremos, de um modo geral, como se pode alcançá-la: tu tomarás, como\n' +
+          'entenderes, tua parte do remédio universal.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. Mas ponhamos desde logo o mal em evidência, em toda a sua diversidade:\n' +
+          'cada qual nele reconhecerá o que lhe diz respeito pessoalmente. Ao mesmo tempo,\n' +
+          'dar-te-ás conta de tudo quanto tens menos a sofrer deste descontentamento de ti,\n' +
+          'do que aqueles que, estando ligados por uma profissão de fé faustosa e ornando\n' +
+          'com um nome pomposo a miséria que os consome, teimam no papel que\n' +
+          'escolheram, menos por convicção que por questão de honra.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '6. Para todos os doentes o caso é o mesmo: tanto tratando-se daqueles que\n' +
+          'se atormentam por uma inconstância de humor, seus desgostos, sua perpétua\n' +
+          'versatilidade e sempre amam somente aquilo que abandonaram, como aqueles que\n' +
+          'só sabem suspirar e bocejar. Acrescenta-lhes aqueles que se viram e reviram como\n' +
+          'as pessoas que não conseguem dormir, e experimentam sucessivamente todas as\n' +
+          'posições até que a fadiga as faça encontrar o repouso: depois de ter modificado\n' +
+          'cem vezes o plano de sua existência, eles acabam por ficar na posição onde os\n' +
+          'surpreende não a impaciência da variação mas a velhice, cuja indolência rejeita as\n' +
+          'inovações. Ajunta, ainda, aqueles que não mudam nunca, não por obstinação, mas\n' +
+          'por preguiça, e que vivem não como desejam, mas como sempre viveram.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '7. Há, enfim, inúmeras variedades do mal, mas todas conduzem ao mesmo\n' +
+          'resultado: o descontentamento de si mesmo. Mal-estar que tem por origem uma\n' +
+          'falta de equilíbrio da alma e das aspirações tímidas ou infelizes, que não se atrevem\n' +
+          'a tanto quanto desejam, ou que se tenta em vão realizar e pelas quais nos cansamos\n' +
+          'de esperar. É uma inconstância, uma agitação perpétua, inevitável, que nasce dos\n' +
+          'caracteres irresolutos. Eles procuram por todos os meios atingir o objeto de seus\n' +
+          'votos: preparam-se e constrangem-se a práticas indignas e penosas. E, quando seu\n' +
+          'esforço não é recompensado, sofrem não de ter querido o mal, mas de o ter\n' +
+          'querido sem sucesso.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '8. Desde então, ei-los presos, ao mesmo tempo, do arrependimento de sua\n' +
+          'conduta passada e do temor de nela recair, e pouco a pouco se entregam à agitação\n' +
+          'estéril de uma alma que não encontra para suas dificuldades nenhuma saída, porque\n' +
+          'ela não é capaz nem de mandar nem de obedecer às suas paixões: entregam-se à\n' +
+          'aflição de uma vida que não chega a ter expansão, e, enfim, a esta indiferença de\n' +
+          'uma alma paralisada no meio da ruína de seus desejos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '9. Tudo isto se agrava quando, superada uma tão odiosa angústia, nos\n' +
+          'refugiamos no ócio e nos estudos solitários, nos quais não se saberá resignar uma\n' +
+          'alma apaixonada da vida pública, e paciente de atividade, dotada de uma\n' +
+          'necessidade natural de movimento e que não encontra em si mesma quase nenhum\n' +
+          'consolo. De sorte que, uma vez atraídos pelas distrações que as pessoas atarefadas\n' +
+          'devem mesmo às suas ocupações, não mais suportamos nossa casa, nosso\n' +
+          'isolamento e as paredes de nosso quarto; e nos vemos com amargura abandonados\n' +
+          'a nós mesmos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '10. Daí este aborrecimento, este desgosto de si, este redemoinho de uma\n' +
+          'alma que não se fixa em nada, esta sombria impaciência que nos causa nossa\n' +
+          'própria inércia, principalmente quando coramos ao confessar as razões, e o respeito\n' +
+          'humano recalca em nós nossa angústia: estreitamente encerradas numa prisão sem\n' +
+          'saída, nossas paixões aí se asfixiam. Daí a melancolia, a languidez e as mil\n' +
+          'hesitações de uma alma indecisa, que a semi-realização de suas esperanças prolonga\n' +
+          'na ansiedade e seu malogro na desolação; daí esta disposição para amaldiçoar seu\n' +
+          'próprio repouso, para lamentar-se por não ter nada a fazer e para invejar\n' +
+          'furiosamente todos os sucessos do próximo (pois nada alimenta a inveja como a\n' +
+          'preguiça desgraçada, e se desejaria ver todo o mundo malograr, porque não se\n' +
+          'soube obter êxito).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '11. Depois deste despeito pelos sucessos dos outros e deste desespero de\n' +
+          'não ser bem sucedido, começa o homem a se irritar contra a sorte, a se queixar do\n' +
+          'século, a se recolher cada vez mais em seu canto e aí se abriga sua dor no desânimo\n' +
+          'e no aborrecimento. A alma humana é, com efeito, por instinto ativa e inclinada ao\n' +
+          'movimento. Toda ocasião para se despertar e para se afastar de si lhe é agradável,\n' +
+          'mais particularmente entre as naturezas deterioradas, que pretendem a colisão das\n' +
+          'ocupações. Certas úlceras provocam a mão que as irritará e se fazem raspar com\n' +
+          'prazer: o sarnento deseja o que irrita sua sarna. Pode-se dizer o mesmo destas\n' +
+          'almas, em que as paixões brotam como as úlceras malignas e que consideram um\n' +
+          'prazer atormentar-se e sofrer.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '12. Não existem igualmente prazeres corporais que se reforçam com uma\n' +
+          'sensação dolorosa, como quando uma pessoa se vira sobre o lado que ainda não\n' +
+          'está fatigado e se agita sem cessar procurando uma posição melhor? Semelhante a\n' +
+          'Aquiles, de Homero<sup><a href="#footnotes">1</a></sup>,' +
+          '7 deitando-se ora de bruços ora de costas e experimentando sucessivamente todas as posições possíveis. E não é isso o natural da doença, nada\n' +
+          'suportar por muito tempo e tomar a mudança por um remédio?',
+        footnote: [
+          {
+            index: 1,
+            content: 'Homero, Ilíada (XXIV): Aquiles ficou inconsolável pela morte do amigo Pátroclo.'
+          }
+        ]
+      },
+      {
+        text: '13. Daí aquelas viagens que se empreendem sem nenhum intuito, aquelas\n' +
+          'voltas a esmo ao longo das costas, e esta inconstância sempre inimiga da situação\n' +
+          'presente, que alternativamente experimenta o mar e a terra: "Depressa, vamos a\n' +
+          'Calábria". Logo se está cansado das doçuras da civilização. "Visitemos as regiões\n' +
+          'selvagens, exploremos o Brútio (Calábria) e as florestas da Lucânia." Todavia,\n' +
+          'nestas solidões, suspira-se por qualquer coisa que dê descanso aos olhos fatigados\n' +
+          'pelo rude aspecto de tantos lugares áridos. "A caminho de Tarento, com seu porto\n' +
+          'e seu inverno tão doce. e para esta opulenta região que seria capaz de sustentar sua\n' +
+          'população de outrora!<sup><a href="#footnotes">2</a></sup>\n' +
+          ' Mas não, retornemos a Roma: faz muito tempo que meus\n' +
+          'ouvidos estão privados dos aplausos e do barulho do circo e tenho desejo de agora\n' +
+          'ver correr sangue humano."',
+        footnote: [
+          {
+            index: 2,
+            content: 'Famosa cidade da Lucânia, Tarento foi florescentíssima colônia grega; mas no tempo de Sêneca estava meio deserta.'
+          }
+        ]
+      },
+      {
+        text: '14. Assim como as viagens se sucedem, um espetáculo substitui o outro, e\n' +
+          'como diz Lucrécio: "Assim cada um foge sempre de si mesmo".<sup><a href="#footnotes">3</a></sup>' +
+          ' Mas para que\n' +
+          'fugir se não nos podemos evitar? Seguimo-nos sempre, sem nos desembaraçarmos\n' +
+          'desta intolerável companhia.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Lucrécio, Da Natureza (III, 1066); na verdade, Sêneca acrescentou no verso de Lucrécio o advérbio "semper" (= sempre).'
+          }
+        ]
+      },
+      {
+        text: '15. Assim, convençamo-nos bem de que o mal do qual sofremos não vem\n' +
+          'dos lugares, mas de nós mesmos, que não temos força para nada suportar: trabalho,\n' +
+          'prazer, nós mesmos; qualquer coisa do mundo nos parece uma carga. Isto conduziu\n' +
+          'muitas pessoas ao suicídio: porque suas perpétuas variações as faziam dar voltas,\n' +
+          'indefinidamente, no mesmo círculo, e elas consideravam impossível toda novidade.\n' +
+          'Assim tomaram desgosto pela vida e pelo mundo e sentiram aumentar em si o\n' +
+          'clamor furioso dos corações: "Mas como, sempre a mesma coisa?"',
         footnote: [
           {
             index: '',
