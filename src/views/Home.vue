@@ -23,33 +23,33 @@
             <div id="right-list">
               <li>
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Sêneca</a></strong>
+                <strong><a href="/galeria/seneca/">Sêneca</a></strong>
               </li>
               <li>
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Cícero</a></strong>
+                <strong><a href="/galeria/marco-tulio-cicero/">Cícero</a></strong>
               </li>
               <li>
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Marco Aurélio</a></strong>
+                <strong><a href="/galeria/marco-aurelio/">Marco Aurélio</a></strong>
               </li>
               <li>
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="/galeria">Eça de Queiroz</a></strong>
+                <strong><a href="/galeria/eca-de-queiroz">Eça de Queiroz</a></strong>
               </li>
             </div>
             <div id="left-list">
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong><a href="">Platão</a></strong>
+              <strong><a href="/galeria/platao/">Platão</a></strong>
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong><a href="">Thomas Mann</a></strong>
+              <strong><a href="/galeria/thomas-mann/">Thomas Mann</a></strong>
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong><a href="">Machado de Assis</a></strong>
+              <strong><a href="/galeria/machado-de-assis/">Machado de Assis</a></strong>
             </li>
               <li id="e-mais">
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
