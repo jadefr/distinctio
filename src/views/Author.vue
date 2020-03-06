@@ -1,21 +1,10 @@
 <template>
-  <div class="author-view-container">
+  <div class="gallery-view-container">
 
-    <!-- NavBar -->
-    <div id="gallery-navbar">
-      <!-- Icon -->
-      <div id="icon">
-        <a href="/">
-          <b-icon icon="book" id="book-icon"></b-icon>
-        </a>
-      </div>
-      <b-nav class="nav justify-content-end" id="nav">
-        <b-nav-item>Autor</b-nav-item>
-        <b-nav-item>Título</b-nav-item>
-      </b-nav>
-    </div>
+    <!-- NavBar Component -->
+    <NavBar />
 
-    <!-- Cards -->
+    <!-- Card Component -->
     <div class="gallery-card">
       <b-card-group columns>
         <Card v-for="(obj, key) in author" :key="key"
@@ -32,6 +21,7 @@
 <script>
 import { mapState } from 'vuex'
 import Card from '@/components/Card'
+import NavBar from '@/components/NavBar'
 
 export default {
   data () {
@@ -43,7 +33,8 @@ export default {
     }
   },
   components: {
-    Card
+    Card,
+    NavBar
   },
   computed: {
     ...mapState([
@@ -84,3 +75,7 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+  @import '../assets/sass/views/gallery';
+</style>
