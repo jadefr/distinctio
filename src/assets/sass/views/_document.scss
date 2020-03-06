@@ -74,30 +74,52 @@
       font-weight: 300;
 
       @include mobile {
-        font-size: 2.7rem;
+        font-size: 2.8rem;
         letter-spacing: 1.6px;
         line-height: 1em;
-        padding-bottom: 1rem;
+        padding-bottom: 1.5rem;
       }
-    }
 
-    h2 {
-      display: inline-block;
-      font-size: 2.6em;
-      font-weight: lighter;
-
-      @include mobile {
-        font-size: 2.1rem;
+      @include mini-mobile {
+        padding: 0 10px 1rem;
+        font-size: 2.5rem;
       }
-    }
-
-    #diamond-header-icon {
-      font-size: 25px;
-      margin: 0 20px;
     }
 
     .subtitle {
       padding: 0 40px;
+
+      @include mini-mobile {
+        padding: 0 10px;
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+
+      h2 {
+        display: inline-block;
+        font-size: 2.6em;
+        font-weight: lighter;
+
+        @include tablet {
+          font-size: 2.6em;
+        }
+
+        @include mini-mobile {
+          font-size: 2.1rem;
+          display: block;
+        }
+      }
+
+      #diamond-header-icon {
+        font-size: 25px;
+        margin: 0 20px;
+
+        @include mini-mobile {
+          text-align: center;
+          display: block;
+          padding: 0 100px;
+        }
+      }
     }
 
   }
