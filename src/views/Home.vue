@@ -20,6 +20,24 @@
         <!-- List card -->
         <section id="card">
           <ul>
+            <div id="right-list">
+              <li>
+                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <strong><a href="">Sêneca</a></strong>
+              </li>
+              <li>
+                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <strong><a href="">Cícero</a></strong>
+              </li>
+              <li>
+                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <strong><a href="">Marco Aurélio</a></strong>
+              </li>
+              <li>
+                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <strong><a href="/galeria">Eça de Queiroz</a></strong>
+              </li>
+            </div>
             <div id="left-list">
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
@@ -33,23 +51,9 @@
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
               <strong><a href="">Machado de Assis</a></strong>
             </li>
-            <li id="e-mais">
-              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong><a href="/galeria">e mais</a></strong>
-            </li>
-            </div>
-            <div id="right-list">
-              <li>
+              <li id="e-mais">
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Sêneca</a></strong>
-              </li>
-              <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Cícero</a></strong>
-              </li>
-              <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="">Marco Aurélio</a></strong>
+                <strong><a href="/galeria">e mais</a></strong>
               </li>
             </div>
           </ul>

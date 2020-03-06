@@ -5942,6 +5942,247 @@ export default [
     ]
   },
   {
+    title: 'O Tesouro',
+    author: 'Eça de Queiroz',
+    section: 'Conto',
+    img: 'ecaQueiroz',
+    imgIndex: '8',
+    titleURL: 'o-tesouro',
+    authorURL: 'eca-de-queiroz',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<center>I</center>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Os três irmãos de Medranhos, Rui, Guanes e Rostabal, eram então, em todo o Reino das Astúrias, os fidalgos mais famintos e os mais remendados.',
+        footnote: []
+      },
+      {
+        text: 'Nos Paços de Medranhos, a que o vento da serra levara vidraça e telha, passavam eles as tardes desse Inverno, engelhados nos seus pelotes de camelão, batendo as solas rotas sobre as lajes da cozinha, diante da vasta lareira negra, onde desde muito não estalava lume, nem fervia a panela de ferro. Ao escurecer devoravam uma côdea de pão negro, esfregada com alho.',
+        footnote: []
+      },
+      {
+        text: 'Depois, sem candeia, através do pátio, fendendo a neve, iam dormir á estrebaria, para aproveitar o calor das três éguas lazarentas que, esfaimadas como eles, roíam as traves da manjedoura. E a miséria tornara estes senhores mais bravios que lobos.',
+        footnote: []
+      },
+      {
+        text: 'Ora, na Primavera, por uma silenciosa manhã de domingo, andando todos três na mata de Roquelanes a espiar pegadas de caça e a apanhar tortulhos entre os robles, enquanto as três éguas pastavam a relva nova de Abril — os irmãos de Medranhos encontraram, por trás de uma moita de espinheiros, numa cova de rocha, um velho cofre de ferio. Como se o resguardasse uma torre segura, conservava as suas três chaves nas suas três fechaduras. Sobre a tampa, mal decifrável através da ferrugem, corria um dístico em letras árabes. E dentro, até às bordas, estava cheio de dobrões de ouro!',
+        footnote: []
+      },
+      {
+        text: 'No terror e esplendor da emoção, os três senhores ficaram mais lívidos do que círios. Depois, mergulhando furiosamente as mãos no ouro, estalaram a rir, num riso de tão larga rajada que as folhas tenras dos olmos, em roda, tremiam... E de novo recuaram, bruscamente se encararam, com os olhos a flamejar, numa desconfiança tão desabrida que Guanes e Rostabal apalpavam nos cintos as cabos das grandes facas. Então Rui, que era gordo e ruivo, e o mais avisado, ergueu os braços, como um árbitro, e começou por decidir que o tesouro, ou viesse de Deus ou do Demônio, pertencia aos três, e entre eles se repartiria, rigidamente, pesando-se o ouro em balanças. Mas como poderiam carregar para Medranhos, para os cimos da serra, aquele cofre tão cheio? Nem convinha que saíssem da mata com o seu bem, antes de cerrar a escuridão. Por isso ele entendia que o mano Guanes, como mais leve, devia trotar para a vila vizinha de Retortilho, levando já ouro na bolsilha, a comprar três alforjes de couro, três maquias de cevada, três empadões de carne e três botelhas de vinho. Vinho e carne eram para eles, que não comiam desde a véspera: a cevada era para as éguas. E assim refeitos, senhores e cavalgaduras, ensacariam o ouro nos alforjes e subiriam para Medranhos, sob a segurança da noite sem lua.',
+        footnote: []
+      },
+      {
+        text: '— Bem tramado! — gritou Rostabal, homem mais alto que um pinheiro, de longa guedelha, e com uma barba que lhe caía desde os olhos raiados de sangue até á fivela do cinturão.',
+        footnote: []
+      },
+      {
+        text: 'Mas Guanes não se arredava do cofre, enrugado, desconfiado, puxando entre os dedos a pele negra do seu pescoço de grou. Por fim, brutalmente:',
+        footnote: []
+      },
+      {
+        text: '— Manos! O cofre tem três chaves... Eu quero fechar a minha fechadura e levar a minha chave!',
+        footnote: []
+      },
+      {
+        text: '— Também eu quero a minha, mil raios! — rugiu logo Rostabal.',
+        footnote: []
+      },
+      {
+        text: 'Rui sorriu. Decerto, decerto! A cada dono do ouro cabia uma das chaves que o guardavam. E cada um em silêncio, agachado ante o cofre, cerrou a sua fechadura com força. Imediatamente Guanes, desanuviado, saltou na égua, meteu pela vereda de olmos, a caminho de Retortilho, atirando aos ramos a sua cantiga costumada e dolente:',
+        footnote: []
+      },
+      {
+        text: 'Olé! Olé!',
+        footnote: []
+      },
+      {
+        text: 'Sale la cruz de la iglesia,',
+        footnote: []
+      },
+      {
+        text: 'Vestida de negro luto...',
+        footnote: []
+      },
+      {
+        text: '<center>II</center>',
+        footnote: []
+      },
+      {
+        text: 'Na clareira, em frente à moita que encobria o tesouro (e que os três tinham desbastado a cutiladas) um fio de água. brotando entre rochas: caía sobre uma vasta laje escavada, onde fazia como um tanque, claro e quieto, antes de se escoar para as relvas altas. E ao lado, na sombra de uma faia, jazia um velho pilar de granito, tombado e musgoso. Ali vieram sentar-se Rui e Rostabal, com os seus tremendos espadões entre os joelhos. As duas éguas retouçavam a boa erva pintalgada de papoulas e botões-de-ouro. Pela ramaria andava um melro a assobiar. Um cheiro errante de violetas adoçava o ar luminoso. E Rostabal, olhando o Sol, bocejava com fome.',
+        footnote: []
+      },
+      {
+        text: 'Então Rui, que tirara o sombreiro e lhe cofiava as velhas plumas roxas, começou a considerar, na sua fala avisada e mansa, que Guanes, nessa manhã, não quisera descer com eles à mata de Roquelanes. E assim era a sorte ruim! Pois que se Guanes tivesse quedado em Medranhos, só eles dois teriam descoberto o cofre, e só entre eles dois se dividiria o ouro! Grande pena! Tanto mais que a parte de Guanes seria em breve dissipada, com rufiões, aos dados, pelas tavernas.',
+        footnote: []
+      },
+      {
+        text: '— Ah! Rostabal, Rostabal! Se Guanes, passando aqui sozinho, tivesse achado este ouro, não dividia conosco, Rostabal!',
+        footnote: []
+      },
+      {
+        text: 'O outro rosnou surdamente e com furor, dando um puxão às barbas negras:',
+        footnote: []
+      },
+      {
+        text: '— Não, mil raios! Guanes é sôfrego... Quando o ano passado. se te lembras, ganhou os cem ducados ao espadeiro de Fresno, nem me quis emprestar três para eu comprar um gibão novo!',
+        footnote: []
+      },
+      {
+        text: '— Vês tu? — gritou Rui, resplandecendo.',
+        footnote: []
+      },
+      {
+        text: 'Ambos se tinham erguido do pilar de granito, como levados pela mesma idéia, que os deslumbrava. E, através das suas largas passadas, as ervas altas silvavam.',
+        footnote: []
+      },
+      {
+        text: '— E para quê — prosseguia Rui. — Para que lhe serve todo o ouro que nos leva? Tu não o ouves, de noite, como tosse? Ao redor da palha em que dorme, todo o chão está negro do sangue que escarra! Não dura até ás outras neves, Rostabal! Mas até lá terá dissipado os bons dobrões que deviam ser nossos, para levantarmos a nossa casa, e para tu teres ginetes, e armas, e trajes nobres, e o teu terço de solarengos, como compete a quem é, como tu, o mais velho dos de Medranhos...',
+        footnote: []
+      },
+      {
+        text: '— Pois que morra, e morra hoje! — bradou Rostabal.',
+        footnote: []
+      },
+      {
+        text: '— Queres?',
+        footnote: []
+      },
+      {
+        text: 'Vivamente, Rui agarrara o braço do irmão e apontava para a vereda de olmos, por onde Guanes partira cantando:',
+        footnote: []
+      },
+      {
+        text: '— Logo adiante, ao fim do trilho, há um sítio bom, nos silvados. E hás-de ser tu, Rostabal, que és o mais forte e o mais destro. Um golpe de ponta pelas costas. E é justiça de Deus que sejas tu, que muitas vezes, nas tavernas, sem pudor, Guanes te tratava de «cerdo» e de «torpe», por não saberes a letra nem os números.',
+        footnote: []
+      },
+      {
+        text: '— Malvado!',
+        footnote: []
+      },
+      {
+        text: '— Vem!',
+        footnote: []
+      },
+      {
+        text: 'Foram. Ambos se emboscaram por trás de um silvado que dominava o atalho, estreito e pedregoso como um leito de torrente. Rostabal, assolapado na vala, tinha já a espada nua. Um vento leve arrepiou na encosta as folhas dos álamos — e sentiram o repique leve dos sinos de Retortilho. Rui, coçando a barba, calculava as horas pelo Sol, que já se inclinava para as serras. Um bando de corvos passou sobre eles, grasnando E Rostabal, que lhes seguira o roo, recomeçou a bocejar, com tome, pensando nos empadões e no vinho que o outro trazia nos alforjes.',
+        footnote: []
+      },
+      {
+        text: 'Enfim! Alerta! Era, na vereda, a cantiga dolente e rouca, atirada aos ramos:',
+        footnote: []
+      },
+      {
+        text: 'Olé! Olé!',
+        footnote: []
+      },
+      {
+        text: 'Sale la cruz de la iglesia,',
+        footnote: []
+      },
+      {
+        text: 'Vestida de negro luto...',
+        footnote: []
+      },
+      {
+        text: 'Rui murmurou: — Na ilharga! Mal que passe! — O chouto da égua bateu o cascalho. uma pluma num sombrero vermelhejou por sobre a ponta das silvas.',
+        footnote: []
+      },
+      {
+        text: 'Rostabal rompeu de entre a sarça por uma brecha, atirou o braço, a longa espada — e toda a lâmina se embebeu molemente na ilharga de Guanes, quando ao rumor, bruscamente ele se virara na sela. Com um surdo arranco, tombou de lado, sobre as pedras. Já Rui se arremessava aos freios da égua — Rostabal. caindo sobre Guanes, que arquejava, de novo lhe mergulhou a espada, agarrada pela folha como um punhal, no peito e na garganta.',
+        footnote: []
+      },
+      {
+        text: '— A chave! — gritou Rui.',
+        footnote: []
+      },
+      {
+        text: 'E arrancada a chave do cofre ao seio do morto, ambos largaram pela vereda — Rostabal adiante, fugindo, com a pluma do sombrero quebrada e torta, a espada ainda nua entalada sob o braço, todo encolhido, arrepiado com o sabor do sangue que lhe espirrara para a boca: Rui, atrás, puxava desesperadamente os freios da égua, que, de patas fincadas no chão pedregoso, arreganhando a longa dentuça amarela. não queria deixar o seu amo assim estirado, abandonado, ao comprido das sebes.',
+        footnote: []
+      },
+      {
+        text: 'Teve de lhe espicaçar as ancas lazarentas com a ponta da espada — e foi correndo sobre ela, de lâmina alta, como se perseguisse um mouro, que desembocou na clareira onde o sol já não dourava as folhas. Rostabal arremessara para a relva o sombrero e a espada; e debruçado sobre a laje escavada em tanque, de mangas arregaçadas, lavava, ruidosamente, a face e as barbas.',
+        footnote: []
+      },
+      {
+        text: 'A égua, quieta, recomeçou a pastar, carregada com os alforjes novos que Guanes comprara em Retortilho. Do mais largo, abarrotado, surdiam dois gargalos de garrafas. Então Rui tirou, lentamente, do cinto, a sua larga navalha. Sem um rumor na relva espessa, deslizou até Rostabal, que resfolegava, com as longas barbas pingando. E serenamente, como se pregasse urna estaca num canteiro, enterrou a folha toda na largo dorso dobrado, certeira sobre o coração.',
+        footnote: []
+      },
+      {
+        text: 'Rostabal caiu sobre o tanque, sem um gemido, com a face na água, os longos cabelos flutuando na água. A sua velha escarcela de couro ficara entalada sob a coxa. Para tirar de dentro a terceira chave do cofre, Rui solevou o corpo — e um sangue mais grosso forrou, escorreu pela borda do tanque, fumegando.',
+        footnote: []
+      },
+      {
+        text: '<center>III</center>',
+        footnote: []
+      },
+      {
+        text: 'Agora eram dele. só dele, as três chaves do cofre! E Rui, alargando os braços, respirou deliciosamente. Mal a noite descesse, com o ouro metido nos alforjes, guiando a fila das éguas pelos trilhos da serra, subiria a Medranhos e enterraria na adega o seu tesouro! E quando ali na fonte, e além rente aos silvados, só restassem, sob as neves de Dezembro. alguns ossos sem nome. ele seria u magnífico senhor de Medranhos, e na capela nova do solar renascido mandaria dizer missas ricas pelos seus dois irmãos mortos... Mortos como? Como devem morrer os de Medranhos — a pelejar contra o Turco!',
+        footnote: []
+      },
+      {
+        text: 'Abriu as três fechaduras, apanhou um punhado de dobrões, que fez retinir sobre as pedras. Que puro ouro, de fino quilate! E era o seu ouro! Depois foi examinar a capacidade dos\n' +
+          ' alforjes — e encontrando as duas garrafas de vinho, e um gordo capão assado, sentiu uma imensa fome. Desde a véspera só comera uma lasca de peixe seco. E há quanto tempo não provava capão!',
+        footnote: []
+      },
+      {
+        text: 'Com que delícia se sentou na relva, com as pernas abertas, e entre elas a ave loura, que recendia, e o vinho cor de âmbar! Ah! Guanes fora bom mordomo — nem esquecera azeitonas. Mas porque trouxera ele, para três convivas, só duas garrafas? Rasgou uma asa do capão: devorava a grandes dentadas. A tarde descia, pensativa e doce, com nuvenzinhas cor-de-rosa.',
+        footnote: []
+      },
+      {
+        text: 'Para além, na vereda, um bando de corvos grasnava. As éguas fartas dormitavam, com o focinho pendido. E a fonte cantava, lavando o morto.',
+        footnote: []
+      },
+      {
+        text: 'Rui ergueu à luz a garrafa de vinho. Com aquela cor velha e quente, não teria custado menos de três maravedis. E pondo o gargalo à boca, bebeu em sorvos lentos, que lhe faziam ondular o pescoço peludo. Oh vinho bendito, que tão prontamente aquecia o sangue! Atirou a garrafa vazia — destapou outra. Mas, como era avisado, não bebeu, porque a jornada para a serra, com o tesouro, requeria firmeza e acerto. Estendido sobre o cotovelo, descansando, pensava em Medranhos coberto de telha nova, nas altas chamas da lareira por noites de neve, e o seu leito com brocados, onde teria sempre mulheres.',
+        footnote: []
+      },
+      {
+        text: 'De repente, tomado de urna ansiedade, teve pressa de carregar os alforjes. Já entre os troncos a sombra se adensava. Puxou uma das éguas para junto do cofre, ergueu a tampa. tomou um punhado de ouro... Mas oscilou, largando os dobrões, que retilintaram no chão, e levou as duas mãos aflitas ao peito. Que é, D. Rui? Raios de Deus! Era um lume, um lume vivo, que se lhe acendera dentro, lhe subia até às goelas. Já rasgara o gibão, atirava os passos incertos, e, a arquejar, com a língua pendente. limpava as grossas bagas de um suor horrendo que o regelava como neve. Oh Virgem Mãe! Outra vez o lume, mais forte, que alastrava, o roía! Gritou:',
+        footnote: []
+      },
+      {
+        text: '— Socorro! Alguém! Guanes! Rostabal!',
+        footnote: []
+      },
+      {
+        text: 'Os seus braços torcidos batiam o ar desesperadamente. E a chama dentro galgava — sentia os ossos a estalarem como as traves de uma casa em fogo.',
+        footnote: []
+      },
+      {
+        text: 'Cambaleou até à fonte para apagar aquela labareda, tropeçou sobre Rostabal; e foi com o joelho fincado no morto, arranhando a rocha, que ele, entre uivos, procurava o fio de água. que recebia sobre os olhos, pelos cabelos. Mas a água mais o queimava, como se fosse um metal derretido. Recuou. caiu para cima da relva. que arrancava aos punhados, e que mordia, mordendo os dedos, para lhe sugar a frescura. Ainda se ergueu. com uma baba densa a escorrer-lhe nas barbas: e de repente; esbugalhando pavorosamente os olhos, berrou, como se compreendesse enfim a traição, todo o horror:',
+        footnote: []
+      },
+      {
+        text: '— É veneno!',
+        footnote: []
+      },
+      {
+        text: 'Oh! D. Rui, o avisado, era veneno! Porque Guanes, apenas chegara a Retortilho, mesmo antes de comprar os alforjes, correra cantando a uma viela, por detrás da catedral, a comprar\n' +
+          ' ao velho droguista judeu o veneno que, misturado ao vinho, o tornaria a ele, a ele somente, dono de todo o tesouro.',
+        footnote: []
+      },
+      {
+        text: 'Anoiteceu. Dois corvos, de entre o bando que grasnava além nos silvados, já tinham pousado sobre o corpo de Guanes. A fonte, cantando. lavava o outro morto. Meio enterrado na erva negra, toda a face de Rui se tornara negra. Uma estrelinha tremeluzia no céu.',
+        footnote: []
+      },
+      {
+        text: 'O tesouro ainda lá está, na mata de Roquelanes.',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Imagens e Símbolos II',
     author: 'Mircea Eliade',
     section: 'História e Arquétipos',
@@ -8330,6 +8571,80 @@ export default [
             content: ''
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'Não sei quantas almas tenho',
+    author: 'Fernando Pessoa',
+    section: 'Poema',
+    img: 'fernandoPessoa',
+    imgIndex: '9',
+    titleURL: 'nao-sei-quantas-almas-tenho',
+    authorURL: 'fernando-pessoa',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br> Não sei quantas almas tenho.' +
+          '<br>' +
+          'Cada momento mudei.' +
+          '<br>' +
+          'Continuamente me estranho.\n' +
+          '<br>' +
+          'Nunca me vi nem achei.\n' +
+          '<br>' +
+          'De tanto ser, só tenho alma.\n' +
+          '<br>' +
+          'Quem tem alma não tem calma.\n' +
+          '<br>' +
+          'Quem vê é só o que vê,\n' +
+          '<br>' +
+          'Quem sente não é quem é,\n' +
+          '<p>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br> Atento ao que sou e vejo,\n' +
+          '<br>' +
+          'Torno-me eles e não eu.\n' +
+          '<br>' +
+          'Cada meu sonho ou desejo\n' +
+          '<br>' +
+          'É do que nasce e não meu.\n' +
+          '<br>' +
+          'Sou minha própria paisagem,\n' +
+          '<br>' +
+          'Assisto à minha passagem,\n' +
+          '<br>' +
+          'Diverso, móbil e só,\n' +
+          '<br>' +
+          'Não sei sentir-me onde estou.',
+        footnote: []
+      },
+      {
+        text: '<br> Por isso, alheio, vou lendo\n' +
+          '<br>' +
+          'Como páginas, meu ser\n' +
+          '<br>' +
+          'O que segue não prevendo,\n' +
+          '<br>' +
+          'O que passou a esquecer.\n' +
+          '<br>' +
+          'Noto à margem do que li\n' +
+          '<br>' +
+          'O que julguei que senti.\n' +
+          '<br>' +
+          'Releio e digo: «Fui eu?»\n' +
+          '<br>' +
+          'Deus sabe, porque o escreveu.',
+        footnote: []
       }
     ]
   },

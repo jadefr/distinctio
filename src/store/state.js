@@ -8,9 +8,11 @@ import plato from '@/assets/img/plato.jpg'
 import seneca from '@/assets/img/seneca.jpg'
 import machado from '@/assets/img/machado.jpg'
 import thomasMann from '@/assets/img/thomasMann.jpg'
+import ecaQueiroz from '@/assets/img/ecaQueiroz.jpg'
+import fernandoPessoa from '@/assets/img/fernandoPessoa.jpg'
 
 export default {
   documents,
   cards,
-  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca, machado, thomasMann]
+  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa]
 }
