@@ -14,15 +14,18 @@
         <b-navbar-nav>
           <!-- Navbar dropdowns -->
           <b-nav-item-dropdown text="Autores" right>
-            <b-dropdown-item href="/galeria/machado-de-assis/">Machado de Assis</b-dropdown-item>
-            <b-dropdown-item href="/galeria/platao/">Platão</b-dropdown-item>
-            <b-dropdown-item href="/galeria/marco-tulio-cicero">Marco Túlio Cícero</b-dropdown-item>
-            <b-dropdown-item href="/galeria/thomas-mann">Thomas Mann</b-dropdown-item>
-            <b-dropdown-item href="/galeria/seneca">Sêneca</b-dropdown-item>
-            <b-dropdown-item href="/galeria/fernando-pessoa">Fernando Pessoa</b-dropdown-item>
+            <b-dropdown-item href="/galeria/bruno-tolentino">Bruno Tolentino</b-dropdown-item>
             <b-dropdown-item href="/galeria/eca-de-queiroz">Eça de Queiroz</b-dropdown-item>
+            <b-dropdown-item href="/galeria/fernando-pessoa">Fernando Pessoa</b-dropdown-item>
+            <b-dropdown-item href="/galeria/franz-kafka">Franz Kafka</b-dropdown-item>
+            <b-dropdown-item href="/galeria/machado-de-assis/">Machado de Assis</b-dropdown-item>
             <b-dropdown-item href="/galeria/marco-aurelio">Marco Aurélio</b-dropdown-item>
+            <b-dropdown-item href="/galeria/marco-tulio-cicero">Marco Túlio Cícero</b-dropdown-item>
             <b-dropdown-item href="/galeria/mircea-eliade">Mircea Eliade</b-dropdown-item>
+            <b-dropdown-item href="/galeria/monteiro-lobato">Monteiro Lobato</b-dropdown-item>
+            <b-dropdown-item href="/galeria/platao/">Platão</b-dropdown-item>
+            <b-dropdown-item href="/galeria/seneca">Sêneca</b-dropdown-item>
+            <b-dropdown-item href="/galeria/thomas-mann">Thomas Mann</b-dropdown-item>
           </b-nav-item-dropdown>
 
 <!--          <b-nav-item href="#">Títulos</b-nav-item>-->

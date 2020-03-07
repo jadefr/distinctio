@@ -35,7 +35,7 @@
               </li>
               <li>
                 <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-                <strong><a href="/galeria/eca-de-queiroz">Eça de Queiroz</a></strong>
+                <strong><a href="/galeria/franz-kafka">Franz Kafka</a></strong>
               </li>
             </div>
             <div id="left-list">

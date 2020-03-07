@@ -91,8 +91,8 @@
 
       @include mini-mobile {
         padding: 0 10px;
-        display: grid;
-        grid-template-columns: 1fr;
+        //display: grid;
+        //grid-template-columns: 1fr;
       }
 
       h2 {
@@ -106,7 +106,7 @@
 
         @include mini-mobile {
           font-size: 2.1rem;
-          display: block;
+          //display: block;
         }
       }
 
@@ -116,8 +116,8 @@
 
         @include mini-mobile {
           text-align: center;
-          display: block;
-          padding: 0 100px;
+          //display: block;
+          //padding: 0 100px;
         }
       }
     }

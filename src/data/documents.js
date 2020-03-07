@@ -6392,6 +6392,70 @@ export default [
     ]
   },
   {
+    title: 'Noturno',
+    author: 'Bruno Tolentino',
+    section: 'Poema',
+    img: 'brunoTolentino',
+    imgIndex: '12',
+    titleURL: 'noturno',
+    authorURL: 'bruno-tolentino',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>' +
+          'Não sou o que te quer. Sou o que desce\n' +
+          '<br>' +
+          'a ti, veia por veia, e se derrama\n' +
+          '<br>' +
+          'à cata de si mesmo e do que é chama\n' +
+          '<br>' +
+          'e em cinza se reúne e se arrefece.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>' +
+          'Anoitece contigo. E me anoitece\n' +
+          '<br>' +
+          'o lume do que é findo e me reclama.\n' +
+          '<br>' +
+          'Abro as mãos no obscuro, toco a trama\n' +
+          '<br>' +
+          'que lacuna a lacuna amor se tece.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Repousa em ti o espanto que em mim dói,\n' +
+          '<br>' +
+          'noturno. E te revolvo. E estás pousada,\n' +
+          '<br>' +
+          'pomba de pura sombra que me rói.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'E mordo o teu silêncio corrosivo,\n' +
+          '<br>' +
+          'chupo o que flui, amor, sei que estou vivo\n' +
+          '<br>' +
+          'e sou teu salto em mim suspenso em nada.',
+        footnote: []
+      },
+      {
+        text: '<br><br>' +
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Imagens e Símbolos II',
     author: 'Mircea Eliade',
     section: 'História e Arquétipos',
@@ -6731,6 +6795,208 @@ export default [
             content: 'Cf. nosso Chamanisme et les techniques archaïques de l\'extase (Payot, 1951).'
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'O Anjo Anunciador',
+    author: 'Bruno Tolentino',
+    section: 'Poema',
+    img: 'brunoTolentino',
+    imgIndex: '12',
+    titleURL: 'o-anjo-anunciador',
+    authorURL: 'bruno-tolentino',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>' +
+          '— Ouve, Maria, a nossa\n' +
+          '<br>' +
+          '(não, não te assustes!) é uma luminosa\n' +
+          '<br>' +
+          'tarefa: retecer\n' +
+          '<br>' +
+          'o pequeno clarão que abandonaram,\n' +
+          '<br>' +
+          'o lume que anda oculto pela treva!\n' +
+          '<br>' +
+          'Porque irás conceber!\n' +
+          '<br>' +
+          'Porque a mão, desejosa\n' +
+          '<br>' +
+          'e tosca, que O tentara\n' +
+          '<br>' +
+          'reter, ainda que leve,\n' +
+          '<br>' +
+          'desfez-se ao toque, assim como uma vez\n' +
+          '<br>' +
+          'tocado o sopro se desfaz a avara,\n' +
+          '<br>' +
+          'a dura contração do peito ansiado…\n' +
+          '<br>' +
+          'Mas a haste, o jasmim despetalado,\n' +
+          '<br>' +
+          'é tudo o que ainda resta\n' +
+          '<br>' +
+          'dos canteiros do céu aqui na terra,\n' +
+          '<br>' +
+          'que um seco vento cresta\n' +
+          '<br>' +
+          'e uma longa agonia dilacera.\n' +
+          '<br>' +
+          'No entanto a morte há de morrer se tu quiseres,\n' +
+          '<br>' +
+          'ó gota concebida\n' +
+          '<br>' +
+          'bendita entre as mulheres\n' +
+          '<br>' +
+          'para que houvesse vida\n' +
+          '<br>' +
+          'outra vez, e nascesse desse fundo\n' +
+          '<br>' +
+          'obscuro do mundo,\n' +
+          '<br>' +
+          'o ninho incompreensível do teu ventre.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>' +
+          'Não, não toques ainda\n' +
+          '<br>' +
+          'nem a fímbria do manto nem o centro\n' +
+          '<br>' +
+          'do mistério que anima a tua túnica:\n' +
+          '<br>' +
+          'aguarda, ó muito séria, a ave mansa\n' +
+          '<br>' +
+          'e recebe em teu corpo de criança\n' +
+          '<br>' +
+          'a Verônica única,\n' +
+          '<br>' +
+          'a enxurrada de pétalas te abrindo.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Em tumulto reunidas,\n' +
+          'as cores da perdida Primavera\n' +
+          'vão retornar, virão\n' +
+          'numa enchente de asas, aluvião,\n' +
+          'púrpura, sempre-viva, nascitura\n' +
+          'estranheza do amor da criatura,\n' +
+          'constelação descendo ao rosto teu:\n' +
+          'é Ele, é O que reúne o coração\n' +
+          'e o grande anel da esfera,\n' +
+          'o fogo, a língua ardendo, o incêndio vivo,\n' +
+          'a coluna de luz, o capitel que se perdeu…\n' +
+          'Que eu',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'venho anunciar apenas a um esquivo,\n' +
+          '<br>' +
+          'humílimo veludo, a frágil chama\n' +
+          '<br>' +
+          'que há de crescer em ti, que hás de ser cama\n' +
+          '<br>' +
+          'ao parto do Perfeito, e hás de ser cântaro\n' +
+          '<br>' +
+          'e fonte e ânfora e água,\n' +
+          '<br>' +
+          'hás de ser lago\n' +
+          '<br>' +
+          'em que as sombras se afogam, que naufragam\n' +
+          '<br>' +
+          'no imenso, ó jovem branca como um lenço;\n' +
+          '<br>' +
+          'hás de conter a lágrima\n' +
+          '<br>' +
+          'do Infinito, o Seu vulto\n' +
+          '<br>' +
+          'e os tumultos da luz na travessia\n' +
+          '<br>' +
+          'entre a dádiva, a perda e a renúncia:\n' +
+          '<br>' +
+          'quando de um certo dia\n' +
+          '<br>' +
+          'cheio de luz amarga',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'em que serás enfim a sombra esguia\n' +
+          'que O deu à luz e que O assistiu morrer…\n' +
+          'Atravessa, ó Maria,\n' +
+          'os abismos do ser,\n' +
+          'ouve este estranho anúncio\n' +
+          'e deixa-te invadir para colher,\n' +
+          'mais fundo que a razão\n' +
+          'e o corpo, o sopro cálido, o prenúncio\n' +
+          'da mais viva alegria:\n' +
+          'entreabre-te ao clarão\n' +
+          'da visita suave,\n' +
+          'mas terrível, terrível, deixa a ave\n' +
+          'do imenso sacrifício te ofender.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Ó pétala intocada,\n' +
+          'hás de sofrer\n' +
+          'intensa madrugada\n' +
+          'e num lago de luz como afogada\n' +
+          'hás de durar suspensa\n' +
+          'entre a graça imortal e a dor imensa.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Mas canta, canta agora\n' +
+          'como a fonte borbulha, como a agulha\n' +
+          'atravessa o bordado,\n' +
+          'canta como essa luz pousa ao teu lado\n' +
+          'e te penetra e tece a nova aurora,\n' +
+          'a nova Primavera e a tessitura\n' +
+          'do ramo que obedece e se oferece\n' +
+          'para o mistério e pela criatura.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Canta a alucinação,\n' +
+          'o toque enfim possível dessa mão\n' +
+          'que há de colher para perder e ter\n' +
+          'o infinito que nasce do deserto\n' +
+          'e a semente que morre se socorre\n' +
+          'tudo o que no estertor tentava ser.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Canta a canção do lírio e do alecrim,\n' +
+          'essa canção que és e que na treva,\n' +
+          'na escuridão da carne, andava perto\n' +
+          'da imensidade que te invade. E assim\n' +
+          'como o imenso te ampara,\n' +
+          'ó voz tão clara\n' +
+          'que consolas e elevas,\n' +
+          'vem, desperta,\n' +
+          'matriz da eternidade e d’O sem-fim,\n' +
+          'ó mãe de Deus, canta e roga por mim.',
+        footnote: []
+      },
+      {
+        text: '<br><br>' +
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+        footnote: []
       }
     ]
   },
@@ -7186,75 +7452,670 @@ export default [
         ]
       },
       {
-        text: '',
+        text: 'Que me aconteceu ? — pensou. Não era nenhum sonho. O quarto, um vulgar\n' +
+          'quarto humano, apenas bastante acanhado, ali estava, como de costume, entre as\n' +
+          'quatro paredes que lhe eram familiares. Por cima da mesa, onde estava deitado,\n' +
+          'desembrulhada e em completa desordem, uma série de amostras de roupas: Samsa\n' +
+          'era caixeiro-viajante, estava pendurada a fotografia que recentemente recortara de\n' +
+          'uma revista ilustrada e colocara numa bonita moldura dourada. Mostrava uma\n' +
+          'senhora, de chapéu e estola de peles, rigidamente sentada, a estender ao\n' +
+          'espectador um enorme regalo de peles, onde o antebraço sumia! Gregório desviou\n' +
+          'então a vista para a janela e deu com o céu nublado — ouviam-se os pingos de\n' +
+          'chuva a baterem na calha da janela e isso o fez sentir-se bastante melancólico. Não\n' +
+          'seria melhor dormir um pouco e esquecer todo este delírio? — cogitou. Mas era\n' +
+          'impossível, estava habituado a dormir para o lado direito e, na presente situação,\n' +
+          'não podia virar-se. Por mais que se esforçasse por inclinar o corpo para a direita,\n' +
+          'tornava sempre a rebolar, ficando de costas. Tentou, pelo menos, cem vezes,\n' +
+          'fechando os olhos, para evitar ver as pernas a debaterem-se, e só desistiu quando\n' +
+          'começou a sentir no flanco uma ligeira dor entorpecida que nunca antes\n' +
+          'experimentara. Oh, meu Deus, pensou, que trabalho tão cansativo escolhi! Viajar,\n' +
+          'dia sim, dia não. É um trabalho muito mais irritante do que o trabalho do escritório\n' +
+          'propriamente dito, e ainda por cima há ainda o desconforto de andar sempre a\n' +
+          'viajar, preocupado com as ligações dos trens, com a cama e com as refeições\n' +
+          'irregulares, com conhecimentos casuais, que são sempre novos e nunca se tornam\n' +
+          'amigos íntimos. Diabos levem tudo isto! Sentiu uma leve comichão na barriga;\n' +
+          'arrastou-se lentamente sobre as costas, — mais para cima na cama, de modo a\n' +
+          'conseguir mexer mais facilmente a cabeça, identificou o local da comichão, que\n' +
+          'estava rodeado de uma série de pequenas manchas brancas cuja natureza não\n' +
+          'compreendeu no momento, e fez menção de tocar lá com uma perna, mas\n' +
+          'imediatamente a retirou, pois, ao seu contato, sentiu-se percorrido por um arrepio\n' +
+          'gela- do. Voltou a deixar-se escorregar para a posição inicial. Isto de levantar cedo,\n' +
+          'pensou, deixa a pessoa estúpida. Um homem necessita de sono. Há outros\n' +
+          'comerciantes que vivem como mulheres de harém. Por exemplo, quando volto para\n' +
+          'o hotel, de manhã, para tomar nota das encomendas que tenho, esses se limitam a\n' +
+          'sentar-se à mesa para o pequeno almoço. Eu que tentasse sequer fazer isso com o\n' +
+          'meu patrão: era logo despedido. De qualquer maneira, era, capaz de ser bom para\n' +
+          'mim — quem sabe? Se não tivesse de me agüentar, por causa dos meus pais, há\n' +
+          'muito tempo que me teria despedido; iria ter com o patrão e lhe falar exatamente o\n' +
+          'que penso dele. Havia de cair ao comprido em cima da secretária! Também é um hábito esquisito, esse de se sentar a uma secretária em plano elevado e falar para\n' +
+          'baixo para os empregados, tanto mais que eles têm de aproximar-se bastante,\n' +
+          'porque o patrão é ruim de ouvido. Bem, ainda há uma esperança; depois de ter\n' +
+          'economizado o suficiente para pagar o que os meus pais lhe devem — o que deve\n' +
+          'levar outros cinco ou seis anos —, faço-o, com certeza. Nessa altura, vou me libertar\n' +
+          'completamente. Mas, para agora, o melhor é me levantar, porque o meu trem parte\n' +
+          'às cinco.',
         footnote: []
       },
       {
-        text: '',
+        text: 'Olhou para o despertador, que fazia tique-taque na cômoda. Pai do Céu! —\n' +
+          'pensou. Eram seis e meia e os ponteiros moviam-se em silêncio, até passava da\n' +
+          'meia hora, era quase um quarto para as sete. O despertador não teria tocado? Da\n' +
+          'cama, via-se que estava corretamente regulado para as quatro; claro que devia ter\n' +
+          'tocado. Sim, mas seria possível dormir sossegadamente no meio daquele barulho\n' +
+          'que trespassava os ouvidos? Bem, ele não tinha dormido sossegadamente; no\n' +
+          'entanto, aparentemente, se assim era, ainda devia ter sentido mais o barulho. Mas\n' +
+          'que faria agora? o próximo trem saía às sete; para o apanhar tinha de correr como\n' +
+          'um doido, as amostras ainda não estavam embrulhadas e ele próprio não se sentia\n' +
+          'particularmente fresco e ativo. E, mesmo que apanhasse o trem, não conseguiria\n' +
+          'evitar uma reprimenda do chefe, visto que o porteiro da firma havia de ter esperado\n' +
+          'o trem das cinco e há muito teria comunicado a sua ausência. O porteiro era um\n' +
+          'instrumento do patrão, invertebrado e idiota. Bem, suponhamos que dizia que estava\n' +
+          'doente? Mas isso seria muito desagradável e pareceria suspeito, porque, durante\n' +
+          'cinco anos de emprego, nunca tinha estado doente. O próprio patrão certamente iria\n' +
+          'lá a casa com o médico da Previdência, repreenderia os pais pela preguiça do filho e\n' +
+          'poria de parte todas as desculpas, recorrendo ao médico da Previdência, que,\n' +
+          'evidentemente, considerava toda a humanidade um bando de falsos doentes\n' +
+          'perfeitamente saudáveis. E enganaria assim tanto desta vez? Efetivamente,\n' +
+          'Gregório sentia-se bastante bem, à parte uma sonolência que era perfeitamente\n' +
+          'supérflua depois de um tão longo sono, e sentia-se mesmo esfomeado.',
         footnote: []
       },
       {
-        text: '',
+        text: 'À medida que tudo isto lhe passava pela mente a toda a velocidade, sem ser\n' +
+          'capaz de resolver a deixar a cama — o despertador acabava de indicar um quarto\n' +
+          'para as sete, ouviram-se pancadas cautelosas na porta que ficava por detrás da\n' +
+          'cabeceira da cama.',
         footnote: []
       },
       {
-        text: '',
+        text: '— Gregório — disse uma voz, que era a da mãe, é um quarto para as sete.\n' +
+          'Não tem de apanhar o trem?',
         footnote: []
       },
       {
-        text: '',
+        text: 'Aquela voz suave! Gregório teve um choque ao ouvir a sua própria voz\n' +
+          'responder-lhe, inequivocamente a sua voz, é certo, mas com um horrível e\n' +
+          'persistente guincho chilreante como fundo sonoro, que apenas conservava a forma\n' +
+          'distinta das palavras no primeiro momento, após o que subia de tom, ecoando em\n' +
+          'torno delas, até destruir-lhes o sentido, de tal modo que não podia ter-se a certeza\n' +
+          'de tê-las ouvido corretamente. Gregório queria dar uma resposta longa, explicando\n' +
+          'tudo, mas, em tais circunstâncias, limitou-se a dizer:',
         footnote: []
       },
       {
-        text: '',
+        text: '— Sim, sim, obrigado, mãe, já vou levantar.',
         footnote: []
       },
       {
-        text: '',
+        text: 'A porta de madeira que os separava devia ter evitado que a sua mudança de\n' +
+          'voz fosse perceptível do lado de fora, pois a mãe contentou-se com esta afirmação,\n' +
+          'afastandose rapidamente. Esta breve troca de palavras tinha feito os outros\n' +
+          'membros da família notarem que Gregório estava ainda em casa, ao contrário do que esperavam, e agora o pai batia a uma das portas laterais, suavemente, embora\n' +
+          'com o punho.',
         footnote: []
       },
       {
-        text: '',
+        text: '— Gregório, Gregório — chamou — , o que você tem?',
         footnote: []
       },
       {
-        text: '',
+        text: 'E, passando pouco tempo depois, tornou a chamar, com voz mais firme:',
         footnote: []
       },
       {
-        text: '',
+        text: '— Gregório! Gregório!',
         footnote: []
       },
       {
-        text: '',
+        text: 'Junto da outra porta lateral, a irmã chamava, em tom baixo e quase\n' +
+          'lamentoso:',
         footnote: []
       },
       {
-        text: '',
+        text: '— Gregório? Não se sente bem? Precisa de alguma coisa?',
         footnote: []
       },
       {
-        text: '',
+        text: 'Respondeu a ambos ao mesmo tempo:',
         footnote: []
       },
       {
-        text: '',
+        text: '— Estou quase pronto — e esforçou-se o máximo por que a voz soasse tão\n' +
+          'normal quanto possível, pronunciando as palavras muito claramente e deixando\n' +
+          'grandes pausas entre elas. Assim, o pai voltou ao breve almoço, mas a irmã\n' +
+          'segredou:',
         footnote: []
       },
       {
-        text: '',
+        text: '— Gregório, abre esta porta, anda.',
         footnote: []
       },
       {
-        text: '',
+        text: 'Ele não tencionava abrir a porta e sentia-se grato ao prudente hábito que\n' +
+          'adquirira em viagem de fechar todas as portas à chave durante a noite, mesmo em\n' +
+          'casa.',
         footnote: []
       },
       {
-        text: '',
+        text: 'A sua intenção imediata era levantar-se silenciosamente sem ser\n' +
+          'incomodado, vestir-se e, sobretudo, tomar o breve almoço, e só depois estudar que\n' +
+          'mais havia a fazer, dado que na cama, bem o sabia, as suas meditações não\n' +
+          'levariam a qualquer conclusão sensata. Lembrava-se de muitas vezes ter sentido\n' +
+          'pequenas dores enquanto deitado, provavelmente causadas por posições\n' +
+          'incômodas, que se tinham revelado puramente imaginárias ao levantar-se, e ansiava\n' +
+          'fortemente por ver as ilusões desta manhã desfazerem-se gradualmente. Não tinha\n' +
+          'a menor dúvida de que a alteração da sua voz outra coisa não era que o prenúncio\n' +
+          'de um forte resfriado, doença permanente dos caixeiros-viajantes.',
         footnote: []
       },
       {
-        text: '',
+        text: 'Libertar-se da colcha era tarefa bastante fácil: bastava-lhe inchar um pouco o\n' +
+          'corpo e deixá-la cair por si. Mas o movimento seguinte era complicado,\n' +
+          'especialmente devido à sua invulgar largura. Precisaria de braços e mãos para\n' +
+          'erguer-se; em seu lugar, tinha apenas as inúmeras perninhas, que não cessavam de\n' +
+          'agitar-se em todas as direções e que de modo nenhum conseguia controlar. Quando\n' +
+          'tentou dobrar uma delas, foi a primeira a esticar-se, e, ao conseguir finalmente que\n' +
+          'fizesse o que ele queria, todas as outras pernas abanavam selvaticamente, numa\n' +
+          'incômoda e intensa agitação. Mas de que serve ficar na cama assim sem fazer\n' +
+          'nada, perguntou Gregório a si próprio.',
+        footnote: []
+      },
+      {
+        text: 'Pensou que talvez conseguisse sair da cama deslocando em primeiro lugar a\n' +
+          'parte inferior do corpo, mas esta, que não tinha visto ainda e da qual não podia ter\n' +
+          'uma idéia nítida, revelou-se difícil de mover, tão lentamente se deslocava; quando,\n' +
+          'finalmente, quase enfurecido de contrariedade, reuniu todas as forças e deu um\n' +
+          'temerário impulso, tinha calculado mal a direção e embateu pesadamente na\n' +
+          'extremidade inferior da cama, revelando-lhe a dor aguda que sentiu ser\n' +
+          'provavelmente aquela, de momento, a parte mais sensível do corpo.',
+        footnote: []
+      },
+      {
+        text: 'Visto isso, tentou extrair primeiro a parte superior, deslizando cuidadosamente\n' +
+          'a cabeça para a borda da cama. Descobriu ser fácil e, apesar da sua largura e\n' +
+          'volume, o corpo acabou por acompanhar lentamente o movimento da cabeça. Ao\n' +
+          'conseguir, por fim, mover a cabeça até à borda da cama, sentiu-se demasiado\n' +
+          'assustado para prosseguir o avanço, dado que, no fim de contas caso se deixasse\n' +
+          'cair naquela posição, só um milagre o salvaria de magoar a cabeça. E, custasse o\n' +
+          'que custasse, não podia perder os sentidos nesta altura, precisamente nesta altura;\n' +
+          'era preferível ficar na cama.',
+        footnote: []
+      },
+      {
+        text: 'Quando, após repetir os mesmos esforços, ficou novamente deitado na\n' +
+          'posição primitiva, suspirando, e viu as pequenas pernas a entrechocarem-se mais\n' +
+          'violentamente que nunca, se possível, não divisando processo de introduzir qualquer\n' +
+          'ordem naquela arbitrária confusão, repetiu a si próprio que era impossível ficar na\n' +
+          'cama e que o mais sensato era arriscar tudo pela menor esperança de libertar-se\n' +
+          'dela. Ao mesmo tempo, não se esquecia de ir recordando a si mesmo que era muito\n' +
+          'melhor a reflexão fria, o mais fria possível, do que qualquer resolução desesperada.\n' +
+          'Nessas alturas, tentava focar a vista tão distintamente quanto podia na janela, mas,\n' +
+          'infelizmente, a perspectiva da neblina matinal, que ocultava mesmo o outro lado da\n' +
+          'rua estreita, pouco alívio e coragem lhe trazia. Sete horas, disse, de si para si,\n' +
+          'quando o despertador voltou a bater, sete horas, e um nevoeiro tão denso, por\n' +
+          'momentos, deixou-se ficar quieto, respirando suavemente, como se porventura\n' +
+          'esperasse que um repouso tão completo devolvesse todas as coisas à sua situação\n' +
+          'real e vulgar.',
+        footnote: []
+      },
+      {
+        text: 'A seguir, disse a si mesmo: Antes de baterem as sete e um quarto, tenho que\n' +
+          'estar fora desta cama. De qualquer maneira, a essa hora já terá vindo alguém do\n' +
+          'escritório perguntar por mim, visto que abre antes das sete horas. E pôs-se a\n' +
+          'balouçar todo o corpo ao mesmo tempo, num ritmo regular, no intuito de rebocá-lo\n' +
+          'para fora da cama. Caso se desequilibrasse naquela posição, podia proteger a\n' +
+          'cabeça de qualquer pancada erguendo-a num ângulo agudo ao cair. O dorso\n' +
+          'parecia ser duro e não era provável que se ressentisse de uma queda no tapete. A\n' +
+          'sua preocupação era o barulho da queda, que não poderia evitar, o qual,\n' +
+          'provavelmente, causaria ansiedade, ou mesmo terror, do outro lado e em todas as\n' +
+          'portas. Mesmo assim, devia correr o risco.',
+        footnote: []
+      },
+      {
+        text: 'Quando estava quase fora da cama — o novo processo era mais um jogo que\n' +
+          'um esforço, dado que apenas precisava rebolar, balouçando-se para um lado e\n' +
+          'para outro — , veio-lhe à idéia como seria fácil se conseguisse ajuda. Duas pessoas\n' +
+          'fortes — pensou no pai e na criada — seriam largamente suficientes; não teriam\n' +
+          'mais que meter-lhe os braços por baixo do dorso convexo, levantá-lo para fora da\n' +
+          'cama, curvarem-se com o fardo e em seguida ter a paciência de o colocar direito no\n' +
+          'chão, onde era de esperar que as pernas encontrassem então a função própria.\n' +
+          'Bem, à parte o fato de todas as portas estarem fechadas à chave, deveria mesmo\n' +
+          'pedir auxílio? A despeito da sua infelicidade não podia deixar de sorrir ante a\n' +
+          'simples idéia de tentar.',
+        footnote: []
+      },
+      {
+        text: 'Tinha chegado tão longe que mal podia manter o equilíbrio quando se\n' +
+          'balouçava com força e em breve teria de encher-se de coragem para a decisão final,\n' +
+          'visto que daí a cinco minutos seriam sete e um quarto... quando soou a campainha\n' +
+          'da porta. É alguém do escritório, disse, com os seus botões, e ficou quase rígido, ao\n' +
+          'mesmo tempo que as pequenas pernas sé limitavam a agitar-se ainda mais\n' +
+          'depressa. Por instantes, tudo ficou silencioso. Não vão abrir a porta, disse Gregório,\n' +
+          'de si para si, agarrando-se a qualquer esperança irracional. A seguir, a criada foi à\n' +
+          'porta, como de costume, com o seu andar pesado e abriu-a. Gregório apenas precisou ouvir o primeiro bom dia do visitante para imediatamente saber quem era: o\n' +
+          'chefe de escritório em pessoa. Que sina, estar condenado a trabalhar numa firma\n' +
+          'em que a menor omissão dava imediatamente asa à maior das suspeitas! Seria que\n' +
+          'todos os empregados em bloco não passavam de malandros, que não havia entre\n' +
+          'eles um único homem devotado e leal que, tendo uma manhã perdido uma hora de\n' +
+          'trabalho na firma ou coisa parecida, fosse tão atormentado pela consciência que\n' +
+          'perdesse a cabeça e ficasse realmente incapaz de levantar-se da cama? Não teria\n' +
+          'bastado mandar um aprendiz perguntar-se era realmente necessária qualquer\n' +
+          'pergunta — , teria que vir o próprio chefe de escritório, dando assim a conhecer a\n' +
+          'toda a família, uma família inocente, que esta circunstância suspeita não podia ser\n' +
+          'investigada por ninguém menos versado nos negócios que ele próprio? E, mais pela\n' +
+          'agitação provocada por tais reflexões do que por qualquer desejo, Gregório rebolou\n' +
+          'com toda a força para fora da cama. Houve um baque sonoro, mas não\n' +
+          'propriamente um estrondo. A queda foi, até certo ponto, amortecida pelo tapete;\n' +
+          'também o dorso era menos duro do que ele pensava, de modo que foi apenas um\n' +
+          'baque surdo, nem por isso muito alarmante. Simplesmente, não tinha erguido a\n' +
+          'cabeça com cuidado suficiente e batera com ela; virou-a e esfregou-a no tapete, de\n' +
+          'dor e irritação.',
+        footnote: []
+      },
+      {
+        text: '— Alguma coisa caiu ali dentro — disse o chefe de escritório na sala contígua\n' +
+          'do lado esquerdo. Gregório tentou supor no seu íntimo que um dia poderia\n' +
+          'acontecer ao chefe de escritório qualquer coisa como a que hoje lhe acontecera a\n' +
+          'ele; ninguém podia negar que era possível. Como em brusca resposta a esta\n' +
+          'suposição, o chefe de escritório deu alguns passos firmes na sala ao lado, fazendo\n' +
+          'ranger as botas de couro envernizado. Do quarto da direita, a irmã segredava para\n' +
+          'informá-lo da situação:',
+        footnote: []
+      },
+      {
+        text: '— Gregório, está aqui o chefe de escritório.',
+        footnote: []
+      },
+      {
+        text: 'Eu sei, murmurou Gregório, de si para si; mas não ousou erguer a voz o\n' +
+          'suficiente para a irmã o ouvir.',
+        footnote: []
+      },
+      {
+        text: '— Gregório — disse então o pai, do quarto à esquerda —, está aqui o chefe\n' +
+          'de escritório e quer saber porque é que não apanhou o primeiro trem. Não sabemos\n' +
+          'o que dizer pra ele. Além disso, ele quer falar contigo pessoalmente. Abre essa\n' +
+          'porta, faz-me o favor. Com certeza não vai reparar na desarrumação do quarto.',
+        footnote: []
+      },
+      {
+        text: '— Bom dia, Senhor Samsa, saudava agora amistosamente o chefe de\n' +
+          'escritório.',
+        footnote: []
+      },
+      {
+        text: '— Ele não está bem — disse a mãe ao visitante, ao mesmo tempo que o pai\n' +
+          'falava ainda através da porta, ele não está bem, senhor, pode acreditar. Se assim\n' +
+          'não fosse, ele alguma vez ia perder um trem! O rapaz não pensa senão no emprego.\n' +
+          'Quase me zango com a mania que ele tem de nunca sair à noite; há oito dias que\n' +
+          'está em casa e não houve uma única noite que não ficasse em casa. Senta-se ali à\n' +
+          'mesa, muito sossegado, a ler o jornal ou a consultar horários de trens. O único\n' +
+          'divertimento dele é talhar madeira. Passou duas ou três noites a cortar uma\n' +
+          'moldurazinha de madeira; o senhor ficaria admirado se visse como ela é bonita. Está\n' +
+          'pendurada no quarto dele. Num instante vai vê-la, assim que o Gregório abrir a\n' +
+          'porta. Devo dizer que estou muito satisfeita por o senhor ter vindo. Sozinhos, nunca\n' +
+          'conseguiríamos que ele abrisse a porta; é tão teimoso... E tenho a certeza de que\n' +
+          'ele não está bem, embora ele não o reconhecesse esta manhã.',
+        footnote: []
+      },
+      {
+        text: '— Já vou — disse Gregório, lenta e cuidadosamente, não se mexendo um\n' +
+          'centímetro, com receio de perder uma só palavra da conversa.',
+        footnote: []
+      },
+      {
+        text: '— Não imagino qualquer outra explicação, minha senhora — disse o chefe de\n' +
+          'escritório. — Espero que não seja nada de grave. Embora, por outro lado, deva dizer\n' +
+          'que nós, homens de negócios, feliz ou infelizmente, temos muitas vezes de ignorar,\n' +
+          'pura e simplesmente, qualquer ligeira indisposição, visto que é preciso olhar pelo\n' +
+          'negócio.',
+        footnote: []
+      },
+      {
+        text: '— Bem, o chefe de escritório pode entrar? — perguntou impacientemente o\n' +
+          'pai de Gregório, tornando a bater à porta.',
+        footnote: []
+      },
+      {
+        text: '— Não — disse Gregório. Na sala da esquerda seguiu-se um doloroso\n' +
+          'silêncio a esta recusa, enquanto no compartimento da direita a irmã começava a\n' +
+          'soluçar.Porque não se juntava a irmã aos outros? Provavelmente tinha-se levantado\n' +
+          'da cama há pouco tempo e ainda nem começara a vestir-se. Bem, porque chorava\n' +
+          'ela? Por ele não se levantar e não abrir a porta ao chefe de escritório, por ele estar\n' +
+          'em perigo de perder o emprego e porque o patrão havia de começar outra vez atrás\n' +
+          'dos pais para eles pagarem as velhas dívidas? Eram, evidentemente, coisas com as\n' +
+          'quais, nesse instante, ninguém tinha de preocupar-se. Gregório estava ainda em\n' +
+          'casa e nem por sombras pensava abandonar a família. É certo que, de momento,\n' +
+          'estava deitado no tapete e ninguém conhecedor da sua situação poderia seriamente\n' +
+          'esperar que abrisse a porta ao chefe de escritório. Mas, por tão pequena falta de\n' +
+          'cortesia, que poderia ser plausivelmente explicada mais tarde, Gregório não iria por\n' +
+          'certo ser despedido sem mais nem quê. E parecia-lhe que seria muito mais sensato\n' +
+          'deixarem-no em paz por agora do que atormentá-lo com lágrimas e súplicas. É claro\n' +
+          'que a incerteza e a desorientação deles desculpava aquele comportamento.',
+        footnote: []
+      },
+      {
+        text: '— Senhor Samsa — clamou então o chefe de escritório, em voz mais alta -,\n' +
+          'que se passa consigo? Para aí barricado no quarto, a responder só por sins) e nãos,\n' +
+          'a dar uma série de preocupações desnecessárias aos seus pais e — diga-se de\n' +
+          'passagem- a negligenciar as suas obrigações profissionais de uma maneira incrível!\n' +
+          'Estou a falar em nome dos seus pais e do seu patrão e peco-lhe muito a sério uma\n' +
+          'explicação precisa e imediata. O senhor espanta-me, espanta-me. Julgava que o\n' +
+          'senhor era uma pessoa sossegada, em quem se podia ter confiança, e de repente\n' +
+          'parece apostado em fazer uma cena vergonhosa. Realmente, o patrão sugeriu-me\n' +
+          'esta manhã uma explicação possível para o seu desaparecimento — relacionada\n' +
+          'com o dinheiro dos pagamentos que recentemente lhe foi confiado — mas eu quase\n' +
+          'dei a minha solene palavra de honra de que não podia ser isso.',
+        footnote: []
+      },
+      {
+        text: 'Agora, que vejo como o senhor é terrivelmente obstinado, não tenho o menor\n' +
+          'desejo de tomar a sua defesa. E a sua posição na firma não é assim tão\n' +
+          'inexpugnável. Vim com a intenção de dizer-lhe isto em particular, mas, visto que o\n' +
+          'senhor está a tomar tão desnecessariamente o meu tempo, não vejo razão para que\n' +
+          'os seus pais não ouçam igualmente. Desde há algum tempo que o seu trabalho\n' +
+          'deixa muito a desejar; esta época do ano não é ideal para uma subida do negócio,\n' +
+          'claro, admitamos isso, mas, uma época do ano para não fazer negócio\n' +
+          'absolutamente nenhum, essa não existe, Senhor Samsa, não pode existir.',
+        footnote: []
+      },
+      {
+        text: '— Mas, senhor — gritou Gregório, fora de si e, na sua agitação, esquecendo\n' +
+          'todo o resto, vou abrir a porta agora mesmo. Tive uma ligeira indisposição, um\n' +
+          'ataque de tonturas, que não me permitiu levantar-me. Ainda estou na cama. Mas me\n' +
+          'sinto bem outra vez. Estou a levantar-me agora. Dê-me só mais um minuto ou dois!\n' +
+          'Não estou, realmente, tão bem como pensava. Mas estou bem, palavra. Como uma coisa destas pode repentinamente deitar uma pessoa abaixo. Ainda ontem à noite\n' +
+          'estava perfeitamente, os meus pais que o digam; ou, antes, de fato, tive um leve\n' +
+          'pressentimento. Deve ter mostrado indícios disso. Porque não o comuniquei eu ao\n' +
+          'escritório! Mas uma pessoa pensa sempre que uma indisposição há de passar sem\n' +
+          'ficar em casa. Olha, senhor, poupe os meus pais! Tudo aquilo por que me repreende\n' +
+          'não tem qualquer fundamento; nunca ninguém me disse uma palavra sobre isso.\n' +
+          'Talvez o senhor não tenha visto as últimas encomendas que mandei. De qualquer\n' +
+          'maneira, ainda posso apanhar o trem das oito; estou muito melhor depois deste\n' +
+          'descanso de algumas horas. Não se prenda por mim, senhor; daqui a pouco vou\n' +
+          'para o escritório e hei de estar suficientemente bom para o dizer ao patrão e\n' +
+          'apresentar-lhe desculpas!',
+        footnote: []
+      },
+      {
+        text: 'Ao mesmo tempo que tudo isto lhe saía tão desordenadamente de jacto que\n' +
+          'Gregório mal sabia o que estava a dizer, havia chegado facilmente à cômoda, talvez\n' +
+          'devido à prática que tinha tido na cama, e tentava agora erguer-se em pé,\n' +
+          'socorrendo-se dela. Tencionava, efetivamente, abrir a porta, mostrar-se realmente e\n' +
+          'falar com o chefe de escritório; estava ansioso por saber, depois de todas as\n' +
+          'insistências, o que diriam os outros ao vê-lo à sua frente. Se ficassem horrorizados,\n' +
+          'a responsabilidade já não era dele e podia ficar quieto. Mas, se o aceitassem\n' +
+          'calmamente, também não teria razão para preocupar-se, e podia realmente chegar à\n' +
+          'estação a tempo de apanhar o trem das oito, se andasse depressa. A princípio\n' +
+          'escorregou algumas vezes pela superfície envernizada da cômoda, mas, aos\n' +
+          'poucos, com uma última elevação, pôs-se de pé; embora o atormentassem, deixou\n' +
+          'de ligar importância às dores na parte inferior do corpo. Depois deixou-se cair contra\n' +
+          'as costas de uma cadeira próxima e agarrou-se às suas bordas com as pequenas\n' +
+          'pernas. Isto devolveu-lhe o controlo sobre si mesmo e parou de falar, porque agora\n' +
+          'podia prestar atenção ao que o chefe de escritório estava a dizer.',
+        footnote: []
+      },
+      {
+        text: '— Perceberam uma única palavra? — perguntava o chefe de escritório. —\n' +
+          'Com certeza não está a tentar fazer de nós parvos?',
+        footnote: []
+      },
+      {
+        text: '— Oh, meu Deus — exclamou a mãe, lavada em lágrimas —, talvez ele\n' +
+          'esteja terrivelmente doente e estejamos a atormentá-lo. Grete! Grete! — chamou a\n' +
+          'seguir.',
+        footnote: []
+      },
+      {
+        text: '— Sim, mãe? — respondeu a irmã do outro lado. Chamavam uma pela outra\n' +
+          'através do quarto de Gregório.',
+        footnote: []
+      },
+      {
+        text: '— Tens de ir imediatamente chamar o médico. o Gregório está doente. Vai\n' +
+          'chamar o médico, depressa. Ouviste como ele estava a falar?',
+        footnote: []
+      },
+      {
+        text: '— Aquilo não era voz humana — disse o chefe de escritório, numa voz\n' +
+          'perceptivelmente baixa ao lado da estridência da mãe.',
+        footnote: []
+      },
+      {
+        text: '— Ana! Ana! — chamava o pai, através da parede para a cozinha, batendo as\n' +
+          'palmas, chama imediatamente um serralheiro!',
+        footnote: []
+      },
+      {
+        text: 'E as meninas corriam pelo corredor, com um silvo de saias — como podia a\n' +
+          'irmã ter-se vestido tão depressa?-, e abriam a porta da rua de par em par. Não se\n' +
+          'ouviu o som da porta a ser fechada a seguir; tinham-na deixado, evidentemente,\n' +
+          'aberta, como se faz em casas onde aconteceu uma grande desgraça.',
+        footnote: []
+      },
+      {
+        text: 'Mas Gregório estava agora muito mais calmo. As palavras que pronunciava já\n' +
+          'não eram inteligíveis, aparentemente, embora a ele lhe parecessem distintas, mais\n' +
+          'distintas mesmo que antes, talvez porque o ouvido se tivesse acostumado ao som\n' +
+          'delas. Fosse como fosse, as pessoas julgavam agora que ele estava mal e estavam\n' +
+          'prontas a ajudá-lo. A positiva certeza com que estas primeiras medidas tinham sido tomadas confortou-o. Sentia-se uma vez mais impelido para o círculo humano e\n' +
+          'confiava em grandes e notáveis resultados, quer do médico, quer do serralheiro,\n' +
+          'sem, na verdade, conseguir fazer uma distinção clara entre eles. No intuito de tornar\n' +
+          'a voz tão clara quanto possível para a conversa que estava agora iminente, tossiu\n' +
+          'um pouco, o mais silenciosamente que pôde, claro, uma vez que também o ruído\n' +
+          'podia não soar como o da tosse humana, tanto quanto podia imaginar. Entrementes,\n' +
+          'na sala contígua havia completo silêncio. Talvez os pais estivessem sentados à\n' +
+          'mesa com o chefe de escritório, a segredar, ou talvez se encontrassem todos\n' +
+          'encostados à porta, à escuta.',
+        footnote: []
+      },
+      {
+        text: 'encostados à porta, à escuta.\n' +
+          'Lentamente, Gregório empurrou a cadeira em direção à porta, após o que a\n' +
+          'largou, agarrou-se à porta para se amparar as plantas das extremidades das\n' +
+          'pequenas pernas eram levemente pegajosas- e descansou, apoiado contra ela por\n' +
+          'um momento, depois destes esforços. A seguir empenhou-se em rodar a chave na\n' +
+          'fechadura, utilizando a boca. Infelizmente, parecia que não possuía quaisquer\n' +
+          'dentes — com que havia de segurar a chave?-, mas, por outro lado, as mandíbulas\n' +
+          'eram indubitavelmente fortes; com a sua ajuda, conseguiu pôr a chave em\n' +
+          'movimento, sem prestar atenção ao fato de estar certamente a danificá-las em\n' +
+          'qualquer zona, visto que lhe saía da boca um fluído castanho, que escorria pela\n' +
+          'chave e pingava para o chão.',
+        footnote: []
+      },
+      {
+        text: '— Ouçam só — disse o chefe de escritório na sala contígua — esta dando\n' +
+          'volta na chave .',
+        footnote: []
+      },
+      {
+        text: 'Isto foi um grande encorajamento para Gregório; mas todos deviam tê-lo\n' +
+          'animado com gritos de encorajamento, o pai e a mãe também: Não, Gregório,\n' +
+          'deviam todos ter gritado, - Continua, agarra-te bem a essa chave! E, na crença de\n' +
+          'que estavam todos a seguir atentamente os seus esforços, cerrou imprudentemente\n' +
+          'as mandíbulas na chave com todas as forças de que dispunha. À medida que a\n' +
+          'rotação da chave progredia, ele torneava a fechadura, segurando-se agora só com a\n' +
+          'boca, empurrando a chave, ou puxando-a para baixo com todo o peso do corpo,\n' +
+          'consoante era necessário. o estalido mais sonoro da fechadura, finalmente a ceder,\n' +
+          'apressou literalmente Gregório. Com um fundo suspiro de alívio, disse, de si para si:\n' +
+          'Afinal, não precisei do serralheiro, e encostou a cabeça ao puxador, para abrir\n' +
+          'completamente a porta.',
+        footnote: []
+      },
+      {
+        text:
+          'Como tinha de puxar a porta para si, manteve-se oculto, mesmo quando a\n' +
+          'porta ficou escancarada. Teve de deslizar lentamente para contornar a portada mais\n' +
+          'próxima da porta dupla, manobra que lhe exigiu grande cuidado, não fosse cair em\n' +
+          'cheio de costas, mesmo ali no limiar. Estava ainda empenhado nesta operação, sem\n' +
+          'ter tempo para observar qualquer outra coisa, quando ouviu o chefe de escritório\n' +
+          'soltar um agudo Oh!, que mais parecia um rugido do vento; foi então que o viu, de\n' +
+          'pé junto da porta, com uma mão a tremer tapando a boca aberta e recuando, como\n' +
+          'se impelido por qualquer súbita força invisível. A mãe, que apesar da presença do\n' +
+          'chefe de escritório tinha o cabelo ainda em desalinho, espetado em todas as\n' +
+          'direções, começou por retorcer as mãos e olhar para o pai, após o que deu dois\n' +
+          'passos em direção a Gregório e tombou no chão, num torvelinho de saias, o rosto\n' +
+          'escondido no peito. O pai cerrou os punhos com um ar cruel, como se quisesse\n' +
+          'obrigar Gregório a voltar para o quarto com um murro; depois, olhou perplexo em\n' +
+          'tomo da sala de estar, cobriu os olhos com as mãos e desatou a chorar, o peito\n' +
+          'vigoroso sacudido por soluços.',
+        footnote: []
+      },
+      {
+        text: 'Gregório não entrou na sala, mantendo-se encostado à parte interior da\n' +
+          'portada fechada, deixando apenas metade do corpo à vista, a cabeça a tombar para\n' +
+          'um e outro lado, por forma a ver os demais. Entretanto, a manhã tornara-se mais\n' +
+          'límpida. Do outro lado da rua, divisava-se nitidamente uma parte do edifício\n' +
+          'cinzento-escuro, interminavelmente comprido, que era o hospital, abruptamente\n' +
+          'interrompido por uma fila de janelas iguais. Chovia ainda, mas eram apenas grandes\n' +
+          'pingos bem visíveis que caíam literalmente um a um. Sobre a mesa espalhava-se a\n' +
+          'louça do breve almoço, visto que esta era para o pai de Gregório a refeição mais\n' +
+          'importante, que prolongava durante horas percorrendo diversos jornais. Mesmo em\n' +
+          'frente de Gregório, havia uma fotografia pendurada na parede que o mostrava\n' +
+          'fardado de tenente, no tempo em que fizera o serviço militar, a mão na espada e um\n' +
+          'sorriso despreocupado na face, que impunha respeito pelo uniforme e pelo seu porte\n' +
+          'militar. A porta que dava para o vestíbulo estava aberta, vendo-se também aberta a\n' +
+          'porta de entrada, para além da qual se avistava o terraço de entrada e os primeiros\n' +
+          'degraus da escada.',
+        footnote: []
+      },
+      {
+        text: '— Bem — disse Gregório, perfeitamente consciente de ser o único que\n' +
+          'mantinha uma certa compostura —, vou me vestir, embalar as amostras e sair.\n' +
+          'Desde que o senhor me dê licença que saia. Como vê, não sou obstinado e tenho\n' +
+          'vontade de trabalhar. A profissão de caixeiro- viajante é dura, mas não posso viver\n' +
+          'sem ela. Para onde vai o senhor? Para o escritório? Sim? Não se importa de contar\n' +
+          'lá exatamente o que aconteceu? Uma pessoa pode estar temporariamente\n' +
+          'incapacitada, mas essa é a altura indicada para recordar os seus serviços anteriores\n' +
+          'e ter em mente que mais tarde, vencida a incapacidade, a pessoa certamente\n' +
+          'trabalhará com mais diligência e concentração. Tenho uma dívida de lealdade para\n' +
+          'com o patrão, como o senhor bem sabe. Além disso, tenho de olhar pelos meus pais\n' +
+          'e pela minha irmã. Estou a passar por uma situação difícil, mas acabarei vencendo.\n' +
+          'Não me torne as coisas mais complicadas do que elas já são. Eu bem sei que os\n' +
+          'caixeiros-viajantes não são muito bem vistos no escritório. As pessoas pensam que\n' +
+          'eles levam uma vida estupenda e ganham rios de dinheiro. Trata-se de um\n' +
+          'preconceito que nenhuma razão especial leva a reconsiderar. Mas o senhor vê as\n' +
+          'coisas profissionais de uma maneira mais compreensiva do que o resto do pessoal,\n' +
+          'isso vê, aqui para nós, deixe que lhe diga, mais compreensiva do que o próprio\n' +
+          'patrão, que, sendo o proprietário, facilmente se deixa influenciar contra qualquer dos\n' +
+          'empregados. E o senhor bem sabe que o caixeiro-viajante, que durante todo o ano\n' +
+          'raramente está no escritório, é muitas vezes vítima de injustiças, do azar e de\n' +
+          'queixas injustificadas, das quais normalmente nada sabe, a não ser quando\n' +
+          'regressa, exausto das suas deslocações, e só nessa altura sofre pessoalmente as\n' +
+          'suas funestas conseqüências; para elas, não consegue descobrir as causas\n' +
+          'originais. Peço-lhe, por favor, que não se vá embora sem uma palavra sequer que\n' +
+          'mostre que me dá razão, pelo menos em parte!',
+        footnote: []
+      },
+      {
+        text: 'Logo às primeiras palavras de Gregório, o chefe de escritório recuara e\n' +
+          'limitava-se a fitá-lo embasbacado, retorcendo os lábios, por cima do ombro crispado.\n' +
+          'Enquanto Gregório falava, não estivera um momento quieto, procurando, sem tirar\n' +
+          'os olhos de Gregório, esgueirar-se para a porta, centímetro a centímetro, como se\n' +
+          'obedecesse a qualquer ordem secreta para abandonar a sala. Estava junto ao\n' +
+          'vestíbulo, e a maneira súbita como deu um último passo para sair da sala de estar\n' +
+          'levaria a crer que tinha posto o pé em cima duma brasa. Chegado ao vestíbulo, estendeu o braço direito para as escadas, como se qualquer poder sobrenatural ali oaguardasse para libertá-lo.',
+        footnote: []
+      },
+      {
+        text: 'Gregório apercebeu-se de que, se quisesse que a sua posição na firma não\n' +
+          'corresse sérios risco não podia de modo algum permitir que o chefe de escritório\n' +
+          'saísse naquele estado de espírito. Os pais não ligavam tão bem deste\n' +
+          'acontecimento; tinham-se convencido, ao longo dos anos, de que Gregório estava\n' +
+          'instalado na firma para toda a vida e, além disso, estavam tão consternados com as\n' +
+          'suas preocupações imediatas que nem lhes corria pensar no futuro. Gregório,\n' +
+          'porém, pensava. Era preciso deter, acalmar, persuadir e, por fim, conquistar o chefe\n' +
+          'de escritório. Quer o seu futuro, quer o da família, dependiam disso! Se, ao menos, a\n' +
+          'irmã ali estivesse! Era inteligente; começara a chorar quando Gregório estava ainda\n' +
+          'deitado de costas na cama. E por certo o chefe de escritório, parcial como era em\n' +
+          'relação às mulheres, acabaria se deixando levar por ela. Ela teria fechado a porta de\n' +
+          'entrada e, no vestíbulo, dissiparia o horror. Mas ela não estava e Gregório teria de\n' +
+          'enfrentar sozinho a situação. E, sem refletir que não sabia ainda de que capacidade\n' +
+          'de movimentos dispunha, sem se lembrar sequer de que havia todas as\n' +
+          'possibilidades, e até todas as probabilidades, de as suas palavras serem mais uma\n' +
+          'vez ininteligíveis, afastou-se do umbral da porta, deslizou pela abertura e começou a\n' +
+          'encaminhar-se para o chefe de escritório, que estava agarrado com ambas as mãos\n' +
+          'ao corrimão da escada para o terraço; subitamente, ao procurar apoio, Gregório\n' +
+          'tombou, com um grito débil, por sobre as inúmeras pernas. Mas, chegado a essa\n' +
+          'posição, experimentou pela primeira vez nessa manhã uma sensação de conforto\n' +
+          'físico. Tinha as pernas em terra firme; obedeciam-lhe completamente, conforme\n' +
+          'observou com alegria, e esforçavam-se até por impeli-lo em qualquer direção que\n' +
+          'pretendesse. Sentia-se tentado a pensar que estava ao seu alcance um alívio final\n' +
+          'para todo o sofrimento. No preciso momento em que se encontrou no chão,\n' +
+          'balançando-se com sofrida ânsia para mover-se, não longe da mãe, na realidade\n' +
+          'mesmo defronte dela, esta, que parecia até aí completamente aniquilada, pôs-se de\n' +
+          'pé de um salto, de braços e dedos estendidos, aos gritos: Socorro, por amor de\n' +
+          'Deus, socorro! Baixou a cabeça, como se quisesse observar melhor Gregório, mas,\n' +
+          'pelo contrário, continuou a recuar disparadamente e, esquecendo-se de que tinha\n' +
+          'atrás de, si a mesa ainda posta, sentou-se precipitadamente nela, como se tivesse\n' +
+          'perdido momentaneamente a razão, ao esbarrar contra o obstáculo imprevisto.\n' +
+          'Parecia igualmente indiferente ao acontecimento de a cafeteira que tinha ter\n' +
+          'tombado e estava derramando um fio sinuoso de café no tapete.',
+        footnote: []
+      },
+      {
+        text: '— Mãe, mãe — murmurou Gregório, erguendo a vista para ela.',
+        footnote: []
+      },
+      {
+        text: 'Nessa altura, o chefe de escritório estava já completamente tresloucado;\n' +
+          'Gregório, não resistiu ao ver o café a correr, cerrou as mandíbulas com um estalo.\n' +
+          'Isto fez com que a mãe gritasse outra vez, afastando-se precipitadamente da mesa e\n' +
+          'atirando-se para os braços do pai, que se apressou a acolhê-la. Mas agora Gregório\n' +
+          'não tinha tempo a perder com os pais. O chefe de escritório nas escadas; com o\n' +
+          'queixo apoiado no corrimão, dava uma última olhadela para trás de si. Gregório deu\n' +
+          'um salto, para ter melhor a certeza de ultrapassá-lo; o chefe de escritório devia terlhe\n' +
+          'adivinhado as intenções, pois, de um salto, venceu vários degraus e\n' +
+          'desapareceu, sempre aos gritos, que ressoavam pelas escadas.',
+        footnote: []
+      },
+      {
+        text: 'Infelizmente a fuga do chefe de escritório pareceu pôr o pai de Gregório\n' +
+          'completamente fora de si, embora até então se tivesse mantido relativamente calmo.\n' +
+          'Assim, em lugar de correr atrás do homem ou de, pelo menos, não interferir na perseguição de Gregório, agarrou com a mão direita na bengala que o chefe de\n' +
+          'escritório tinha deixado numa cadeira, juntamente com um chapéu e um sobretudo,\n' +
+          'e, com a esquerda, num jornal que estava em cima da mesa e, batendo com os pés\n' +
+          'e brandindo a bengala e o jornal, tentou forçar Gregório a regressar ao quarto. De\n' +
+          'nada valeram os rogos de Gregório, que, aliás, nem sequer eram compreendidos;\n' +
+          'por mais que baixasse humildemente a cabeça, o pai limitava-se a bater mais\n' +
+          'fortemente com os pés no chão. Por trás do pai, a mãe tinha escancarado uma\n' +
+          'janela, apesar do frio, e debruçava-se a ela segurando a cabeça com as mãos. Uma\n' +
+          'rajada de vento penetrou pelas escadas, agitando as cortinas da janela e agitando\n' +
+          'os jornais que estavam sobre a mesa, o que fez que se espalhassem algumas\n' +
+          'páginas pelo chão. Impiedosamente, o pai de Gregório obrigava-o a recuar,\n' +
+          'assobiando e gritando como um selvagem. Mas Gregório estava pouco habituado a\n' +
+          'andar para trás, o que se revelou um processo lento. Se tivesse uma oportunidade\n' +
+          'de virar sobre si mesmo, poderia alcançar imediatamente o quarto, mas receava\n' +
+          'exasperar o pai com a lentidão de tal manobra e temia que a bengala que o pai\n' +
+          'brandia na mão pudesse desferir-lhe uma pancada fatal no dorso ou na cabeça.\n' +
+          'Finalmente, reconheceu que não lhe restava alternativa, pois verificou, aterrorizado,\n' +
+          'que, ao recuar, nem sequer conseguia controlar a direção em que se deslocava-se,\n' +
+          'assim, sempre observando ansiosamente o pai, de soslaio, começou a virar o mais\n' +
+          'rapidamente que pôde, o que, na realidade, era muito moroso. Talvez o pai tivesse\n' +
+          'registrado as suas boas intenções, visto que não interferiu, a não ser para, de\n' +
+          'quando em quando e à distância, lhe auxiliar a manobra com a ponta da bengala. Se\n' +
+          'ao menos ele parasse com aquele insuportável assobio! Era uma coisa que estava a\n' +
+          'pontos de fazê-lo perder a cabeça. Quase havia completado a rotação quando o\n' +
+          'assobio o desorientou de tal modo que tornou a virar ligeiramente na direção errada.\n' +
+          'Quando, finalmente, viu a porta em frente da cabeça, pareceu-lhe que o corpo era\n' +
+          'demasiadamente largo para poder passar pela abertura. É claro que o pai, no estado\n' +
+          'de espírito atual, estava bem longe de pensar em qualquer coisa que se parecesse\n' +
+          'com abrir a outra portada, para dar espaço à passagem de Gregório. Dominava-o a\n' +
+          'idéia fixa de fazer Gregório regressar para o quarto o mais depressa possível. Não\n' +
+          'agüentaria de modo algum que Gregório se entregasse aos preparativos de erguer o\n' +
+          'corpo e talvez deslizar através da porta. Nesta altura, o pai estava porventura a fazer\n' +
+          'mais barulho que nunca para obrigá-lo a avançar, como se não houvesse obstáculo\n' +
+          'nenhum que o impedisse; fosse como fosse, o barulho que Gregório ouvia atrás de\n' +
+          'si não lhe soava aos ouvidos como a voz de pai nenhum. Não sendo caso para\n' +
+          'brincadeiras, Gregório lançou-se, sem se preocupar com as conseqüências, pela\n' +
+          'abertura da porta. Um dos lados do corpo ergueu-se e Gregório ficou entalado no\n' +
+          'umbral da porta ferindo-se no flanco, que cobria porta branca de horrorosas\n' +
+          'manchas. Não tardou em ficar completamente preso, de tal modo que, por si só, não\n' +
+          'poderia mover-se, com as pernas de um dos lados a agitarem-se tremulamente no\n' +
+          'ar e as do outro penosamente esmagadas de encontro ao soalho. Foi então que o\n' +
+          'pai lhe deu um violento empurrão, que constituiu literalmente um alívio, e Gregório\n' +
+          'voou até ao meio do quarto, sangrando abundantemente. Empurrada pela bengala,\n' +
+          'a porta fechou-se violentamente atrás de si e, por fim, fez-se o silêncio.',
         footnote: []
       }
     ]
@@ -7603,6 +8464,76 @@ export default [
             content: ''
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'Em Frontispício',
+    author: 'Bruno Tolentino',
+    section: 'Poema',
+    img: 'brunoTolentino',
+    imgIndex: '12',
+    titleURL: 'em-frontispicio',
+    authorURL: 'bruno-tolentino',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br> “Eu vos compensarei pelos anos que o gafanhoto comeu…”\n' +
+          '<br>' +
+          '(Joel, 2: 25)',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>' +
+          'O Senhor prometera nos compensar os anos\n' +
+          '<br>' +
+          'que a legião dos gafanhotos devorara,\n' +
+          '<br>' +
+          'meu coração, mas a promessa era tão rara\n' +
+          '<br>' +
+          'que achei mais natural vê-Lo mudar de planos',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'que afinal ocupar-Se de assuntos tão mundanos.\n' +
+          '<br>' +
+          'Assombra-me, portanto, ver uma luz tão clara\n' +
+          '<br>' +
+          'fecundar-me as cantigas, coração meu — repara\n' +
+          '<br>' +
+          'como crescem espigas entre escombros humanos…',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Naturalmente, quem sou eu para que Deus\n' +
+          '<br>' +
+          'cumprisse em minha vida promessa tão perfeita,\n' +
+          '<br>' +
+          'e no entanto hei-Lo arando, limpando os olhos meus,',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'fazendo-os ver que, no trigal em que se deita\n' +
+          '<br>' +
+          'a luz dourada e musical, se algo perdeu-se\n' +
+          '<br>' +
+          'foi como o grão — entre a seara e a colheita.',
+        footnote: []
+      },
+      {
+        text: '<br><br>' +
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+        footnote: []
       }
     ]
   },
@@ -11789,7 +12720,7 @@ export default [
         footnote: []
       },
       {
-        text: '<i>Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto</i>',
+        text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto</a></i>',
         footnote: []
       }
     ]
