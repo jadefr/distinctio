@@ -215,12 +215,12 @@ export default [
   {
     title: 'Fedon',
     author: 'Platão',
-    section: 'Livro',
+    section: 'A Imortalidade da Alma',
     img: 'plato',
     imgIndex: '4',
     titleURL: 'fedon',
     authorURL: 'platao',
-    sectionURL: 'livro',
+    sectionURL: 'a-imortalidade-da-alma',
     content: '',
     disclaimer: 'Versão eletrônica do diálogo platônico “Fedão”   Tradução: Carlos Alberto NunesCréditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)Homepage do grupo: http://br.egroups.com/group/acropolis/',
     paragraphs: [
@@ -5633,6 +5633,11 @@ export default [
           'todos os que nos foi dado conhecer, era o melhor e também o mais sábio e mais justo.',
         footnote: [],
         bold: []
+      },
+      {
+        text: '<br> Versão eletrônica do diálogo platônico "Fedão"<br>Tradução: Carlos Alberto Nunes<br>Créditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)<br>Homepage do grupo: http://br.egroups.com/group/acropolis/',
+        footnote: [],
+        bold: []
       }
     ]
   },
@@ -7013,7 +7018,7 @@ export default [
     disclaimer: '',
     paragraphs: [
       {
-        text: '*Texto escrito em português clássico',
+        text: '<center><i>Texto escrito em português clássico</i></center>',
         footnote: [
           {
             index: '',
@@ -7022,7 +7027,7 @@ export default [
         ]
       },
       {
-        text: 'NOSSA alegria diante dum sistema metafisico, nossa satisfação em\n' +
+        text: 'NOSSA alegria diante dum sistema metafísico, nossa satisfação em\n' +
           'presença duma construção do pensamento, em que a organização espiritual do\n' +
           'mundo se mostra num conjunto lógico, coerente a harmônico, sempre\n' +
           'dependem eminentemente da estética; têm a mesma origem que o prazer, que\n' +
