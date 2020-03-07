@@ -10,9 +10,11 @@ import machado from '@/assets/img/machado.jpg'
 import thomasMann from '@/assets/img/thomasMann.jpg'
 import ecaQueiroz from '@/assets/img/ecaQueiroz.jpg'
 import fernandoPessoa from '@/assets/img/fernandoPessoa.jpg'
+import monteiroLobato from '@/assets/img/monteiroLobato.jpg'
+import kafka from '@/assets/img/kafka.jpg'
 
 export default {
   documents,
   cards,
-  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa]
+  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, monteiroLobato, kafka]
 }

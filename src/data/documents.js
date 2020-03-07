@@ -213,257 +213,6 @@ export default [
     ]
   },
   {
-    title: 'A Desejada das Gentes',
-    author: 'Machado de Assis',
-    section: 'Conto',
-    img: 'machado',
-    imgIndex: '6',
-    titleURL: 'a-desejada-das-gentes',
-    authorURL: 'machado-de-assis',
-    sectionURL: 'conto',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '— Ah! Conselheiro, aí começa a falar em verso.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '—  Todos  os  homens  devem  ter  uma  lira  no  coração,  —  ou  não  sejam homens. Que a lira ressoe a toda a hora, nem por qualquer motivo, não o digo eu, mas de longe em longe, e por algumas reminiscências particulares... Sabe por que é que lhe pareço poeta, apesar das Ordenações do Reino e dos cabelos grisalhos? É porque   vamos   por   esta   Glória   adiante,   costeando   aqui   a   Secretaria   de Estrangeiros... Lá está o outeiro célebre... Adiante há uma casa..',
-        footnote: []
-      },
-      {
-        text: '— Vamos andando.',
-        footnote: []
-      },
-      {
-        text: '—  Vamos...  Divina  Quintília!  Todas  essas  caras  que  aí  passam  são  outras, mas falam-me daquele tempo, como se fossem as mesmas de outrora; é a lira que ressoa, e a imaginação faz o resto. Divina Quintília!',
-        footnote: []
-      },
-      {
-        text: '—  Chamava-se  Quintília?  Conheci  de  vista,  quando  andava  na  Escola  de Medicina, uma linda moça com esse nome. Diziam que era a mais bela da cidade.',
-        footnote: []
-      },
-      {
-        text: '— Há de ser a mesma, porque tinha essa fama. Magra e alta?',
-        footnote: []
-      },
-      {
-        text: '— Isso. Que fim levou?',
-        footnote: []
-      },
-      {
-        text: '— Morreu em 1859. Vinte de abril. Nunca me há de esquecer esse dia. Vou contar-lhe um caso interessante para mim, e creio que também para o senhor. Olhe, a casa era aquela... Morava com um tio, chefe de esquadra reformado, tinha outra casa  no  Cosme  Velho. Quando  conheci  Quintília...  Que  idade  pensa  que  teria, quando a conheci?',
-        footnote: []
-      },
-      {
-        text: '— Se foi em 1855...',
-        footnote: []
-      },
-      {
-        text: '— Em 1855.',
-        footnote: []
-      },
-      {
-        text: '— Devia ter vinte anos.',
-        footnote: []
-      },
-      {
-        text: '— Tinha trinta.',
-        footnote: []
-      },
-      {
-        text: '— Trinta?',
-        footnote: []
-      },
-      {
-        text: '— Trinta anos. Não os parecia, nem era nenhuma inimiga que lhe dava essa idade.  Ela  própria  a  confessava  e  até  com  afetação.  Ao  contrário,  uma  de  suas amigas  afirmava  que  Quintília  não  passava  dos  vinte  e  sete;  mas  como  ambas tinham nascido no mesmo dia, dizia isso para diminuir-se a si própria.',
-        footnote: []
-      },
-      {
-        text: '— Mau, nada de ironias; olhe que a ironia não faz boa cama com a saudade.',
-        footnote: []
-      },
-      {
-        text: '—  Que é a saudade senão uma ironia do tempo e da fortuna? Veja  lá; começo a ficar sentencioso. Trinta anos; mas em verdade, não os parecia. Lembra-se  bem  que  era  magra  e  alta;  tinha  os  olhos  como  eu  então  dizia,  que  pareciam cortados  da  capa  da  última  noite,  mas  apesar  de  noturnos,  sem  mistérios  nem abismos.  A  voz  era  brandíssima,  um  tanto  apaulistada,  a  boca  larga,  e  os  dentes, quando  ela  simplesmente  falava,  davam-lhe  à  boca  um  ar  de  riso.  Ria  também,  e foram os risos dela, de parceria com os olhos, que me doeram muito durante certo tempo.\n',
-        footnote: []
-      },
-      {
-        text: '— Mas se os olhos não tinham mistérios...',
-        footnote: []
-      },
-      {
-        text: '— Tanto  não  os  tinham  que  cheguei  ao  ponto  de  supor  que  eram  as  portas abertas do castelo, e o riso o clarim que chamava os cavaleiros. Já a conhecíamos, eu  e  o  meu  companheiro  de  escritório,  o  João  Nóbrega,  ambos  principiantes  na advocacia,  e  íntimos  como  ninguém  mais;  mas  nunca  nos  lembrou  namorá-la.  Ela andava então no galarim; era bela, rica, elegante, e da primeira roda. Mas um dia, no antigo  Teatro  Provisório  entre  dois  atos  dos  Puritanos,  estando  eu  num  corredor, um  grupo  de  moços  que  falavam  dela,  como  de  uma  fortaleza  inexpugnável. Dous confessaram haver tentado alguma cousa, mas sem fruto; e todos pasmavam do celibato da moça que lhes parecia sem explicação. E chalaceavam: um dizia que era promessa até ver se engordava primeiro; outro que estava esperando a segunda mocidade do tio para casar com ele; outro que provavelmente encomendara algum anjo ao porteiro do céu; trivialidades que me aborreceram muito, e da parte dos que confessavam tê-la cortejado ou amado, achei que era uma grosseria sem nome. No que eles estavam todos de acordo é que ela era extraordinariamente bela; aí foram entusiastas e sinceros.',
-        footnote: []
-      },
-      {
-        text: '— Oh! ainda me lembro!... era muito bonita.',
-        footnote: []
-      },
-      {
-        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  não vinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso, refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-me uma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ou ela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhor para o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note que ele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, e uma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. E dizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
-        footnote: []
-      },
-      {
-        text: '— Conselheiro, a confissão é grave, foi assim brincando...?',
-        footnote: []
-      },
-      {
-        text: '— Foi  assim  brincando,  cheirando  ainda  aos  bancos  da  academia,  que  nos metemos  em  negócio  de  tanta  ponderação,  que  podia  acabar  em  nada,  mas  deu muito de si. Era um começo estouvado, quase um passatempo de crianças, sem anota  da  sinceridade;  mas  o  homem  põe  e  a  espécie  dispõe.  Conhecíamo-la,  posto não  tivéssemos  encontros  freqüentes;  uma  vez  que  nos  dispusemos  a  uma  ação comum,  entrou  um  elemento  novo  na  nossa  vida,  e  dentro  de  um  mês  estávamos brigados.',
-        footnote: []
-      },
-      {
-        text: '— Brigados?',
-        footnote: []
-      },
-      {
-        text: '— Ou  quase.  Não  tínhamos  contado  com  ela,  que  nos  enfeitiçou  a  ambos, violentamente.  Em  algumas  semanas  já  pouco  falávamos  de  Quintília,  e  com indiferença;  tratávamos  de  enganar  um  ao  outro  e  dissimular  o  que  sentíamos.  Foi assim que as nossas relações se dissolveram, no fim de seis meses, sem ódio, nem luta,  nem  demonstração  externa,  porque  ainda  nos  falávamos,  onde  o  acaso  nos reunia; mas já então tínhamos banca separada.',
-        footnote: []
-      },
-      {
-        text: '— Começo a ver uma pontinha do drama...',
-        footnote: []
-      },
-      {
-        text: '— Tragédia,  diga  tragédia;  porque  daí  a  pouco  tempo,  ou  por  desengano verbal  que  ela  lhe  desse,  ou  por  desespero  de  vencer,  Nóbrega  deixou-me  só  em campo. Arranjou uma nomeação de juiz municipal lá para os sertões da Bahia, onde definhou  e  morreu  antes  de  acabar  o  quatriênio.  E  juro-lhe  que  não  foi  o  inculcado espírito  prático  de  Nóbrega  que  o  separou  de  mim;  ele,  que  tanto  falara  dasvantagens do dinheiro, morreu apaixonado como um simples Werther.',
-        footnote: []
-      },
-      {
-        text: '— Menos a pistola.',
-        footnote: []
-      },
-      {
-        text: '— Também o veneno mata; e o amor de Quintília podia dizer-se alguma cousa parecido  com  isso,  foi  o  que  o  matou,  e  o  que  ainda  hoje  me  dói...  Mas,  vejo  pelo seu dito que o estou aborrecendo...',
-        footnote: []
-      },
-      {
-        text: '— Pelo  amor  de  Deus.  Juro-lhe  que  não;  foi  uma  graçola  que  me  escapou. Vamos adiante, conselheiro; ficou só em campo.',
-        footnote: []
-      },
-      {
-        text: '— Quintília  não  deixava  ninguém  estar  só  em  campo,  —  não  digo  por  ela, mas  pelos  outros.  Muitos  vinham  ali  tomar  um  cálix  de  esperanças,  e  iam  cear  a outra  parte.  Ela  não  favorecia  a  um  mais  que  a  outro,  mas  era  lhana,  graciosa  e tinha  essa  espécie  de  olhos  derramados  que  não  foram  feitos  para  homens ciumentos. Tive ciúmes amargos e, às vezes, terríveis. Todo argueiro me parecia um cavaleiro,   e   todo   cavaleiro   um   diabo.   Afinal   acostumei-me   a   ver   que   eram passageiros de um dia. Outros me metiam mais medo, eram os que vinham dentro da  luva  das  amigas.  Creio  que  houve  duas  ou  três  negociações  dessas,  mas  sem resultado. Quintília declarou que nada faria sem consultar o tio, e o tio aconselhou a recusa,  —  cousa  que  ela  sabia  de  antemão.  O  bom  velho  não  gostava  nunca  da visita  de  homens,  com  receio  de  que  a  sobrinha  escolhesse  algum  e  casasse. Estava  tão  acostumado  a  trazê-la  ao  pé  de  si,  como  uma  muleta  da  velha  alma aleijada, que temia perdê-la inteiramente.',
-        footnote: []
-      },
-      {
-        text: '— Não seria essa a causa da isenção sistemática da moça?',
-        footnote: []
-      },
-      {
-        text: '— Vai ver que não.',
-        footnote: []
-      },
-      {
-        text: '— O que noto é que o senhor era mais teimoso que os outros...',
-        footnote: []
-      },
-      {
-        text: '— ... Iludido, a princípio, porque no meio de tantas candidaturas malogradas, Quintília   preferia-me   a   todos   os   outros   homens,   e   conversava   comigo   mais largamente   e   mais   intimamente,   a   tal   ponto   que   chegou   a   correr   que   nos casávamos.',
-        footnote: []
-      },
-      {
-        text: '— Mas conversavam de quê?',
-        footnote: []
-      },
-      {
-        text: '— De tudo o que ela não conversava com os outros; e era de fazer pasmar que  uma  pessoa  tão  amiga  de  bailes  e  passeios,  de  valsar  e  rir,  fosse  comigo  tão severa e grave, tão diferente do que costumava ou parecia ser.',
-        footnote: []
-      },
-      {
-        text: '—  A  razão  é  clara:  achava  a  sua  conversação  menos  insossa  que  a  dos outros homens.',
-        footnote: []
-      },
-      {
-        text: '— Obrigado;  era  mais  profunda  a  causa  da  diferença,  e  a  diferença  ia-se acentuando com os tempos. Quando a vida cá embaixo a aborrecia muito, ia para o Cosme Velho, e ali as nossas conversações eram mais freqüentes e compridas. Não lhe  posso  dizer,  nem  o  senhor  compreenderia  nada,  o  que  foram  as  horas  que  ali passei, incorporando na minha vida toda a vida que jorrava dela. Muitas vezes quis dizer-lhe o que sentia, mas as palavras tinham medo e ficavam no coração. Escrevi cartas sobre cartas; todas me pareciam frias, difusas, ou inchadas de estilo. Demais, ela  não  dava  ensejo  a  nada,  tinha  um  ar  de  velha  amiga.  No  princípio  de  1857 adoeceu meu pai em Itaboraí; corri a vê-lo, achei-o moribundo. Este fato reteve-me fora da Corte uns quatro meses. Voltei pelos fins de maio. Quintília recebeu-me triste da minha tristeza, e vi claramente que o meu luto passara aos olhos dela...',
-        footnote: []
-      },
-      {
-        text: '— Mas que era isso senão amor?',
-        footnote: []
-      },
-      {
-        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete, uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessa transição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  A moléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  me disse depois, estimou a coincidência do golpe, uma vez que tínhamos de o receber sem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  meses depois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavam no Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha. Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados, deixou-nos o campo livre.',
-        footnote: []
-      },
-      {
-        text: '— Enfim!',
-        footnote: []
-      },
-      {
-        text: '— No terraço, lugar solitário, e posso dizer agreste, proferi a primeira palavra. O  meu  plano  era  justamente  precipitar  tudo,  com  medo  de  que,  cinco  minutos  de conversa  me  tirassem  as  forças.  Ainda  assim,  não  sabe  o  que  me  custou;  custaria menos  uma  batalha,  e  juro-lhe  que  não  nasci  para  guerras.  Mas  aquela  mulher magrinha e delicada impunha-se-me, como nenhuma outra, antes e depois...',
-        footnote: []
-      },
-      {
-        text: '— E então?',
-        footnote: []
-      },
-      {
-        text: '—  Quintília  adivinhara,  pelo  transtorno  do  meu  rosto,  o  que  lhe  ia  pedir,  e deixou-me  falar  para  preparar  a  resposta.  A  resposta  foi  interrogativa  e  negativa. Casar para quê? Era melhor que ficássemos amigos como dantes. Respondi-lhe que a  amizade  era,  em  mim,  desde  muito,  a  simples  sentinela  do  amor;  não  podendo mais contê-lo, deixou que ele saísse. Quintília sorriu da metáfora, o que me doeu, e sem  razão;  ela,  vendo  o  efeito,  fez-se  outra  vez  séria  e  tratou  de  persuadir-me  de que  era  melhor  não  casar.  —  Estou  velha,  disse  ela;  vou  em  trinta  e  três  anos.  — Mas se eu a amo assim mesmo, repliquei, e disse-lhe uma porção de cousas, que não poderia repetir agora. Quintília refletiu um instante; depois insistiu nas relações de  amizade;  disse  que,  posto  que  mais  moço  que  ela,  tinha  a  gravidade  de  um homem mais velho e inspirava-lhe confiança como nenhum outro. Desesperançado, dei  algumas  passadas,  depois  sentei-me  outra  vez  e  narrei-lhe  tudo.  Ao  saber  da minha  briga  com  o  amigo  e  companheiro  da  academia,  e  a  separação  em  que ficamos,  sentiu-se,  não  sei  se  diga,  magoada  ou  irritada.  Censurou-nos  a  ambos, não  valia  a  pena  que  chegássemos  a  tal  ponto.  —  A  senhora  diz  isso  porque  não sente  a  mesma  cousa.  —  Mas  então  é  um  delírio?  —  Creio  que  sim;  o  que  lhe afianço  é  que  ainda  agora,  se  fosse  necessário,  separar-me-ia  dele  uma  e  cem vezes;  e  creio  poder  afirmar-lhe  que  ele  faria  a  mesma  cousa.  Aqui  olhou  ela espantada  para  mim,  como  se  olha  para  uma  pessoa  cujas  faculdades  parecem transtornadas;  depois  abanou  a  cabeça,  e  repetiu  que  fora  um  erro;  não  valia  apena. — Fiquemos amigos, disse-me, estendendo a mão. — É impossível; pede-me cousa superior às minhas forças, nunca poderei ver na senhora uma simples amiga; não desejo impor-lhe nada; dir-lhe-ei até que nem mais insisto, porque não aceitaria outra resposta agora. Trocamos ainda algumas palavras, e retirei-me... Veja a minha mão.',
-        footnote: []
-      },
-      {
-        text: '— Treme-lhe ainda...',
-        footnote: []
-      },
-      {
-        text: '— E não lhe contei tudo. Não lhe digo aqui os aborrecimentos que tive, nem a dor e o despeito que me ficaram. Estava arrependido, zangado, devia ter provocado aquele desengano desde as primeiras semanas, mas a culpa foi da esperança, que é uma planta daninha, que me comeu o lugar de outras plantas melhores. No fim de cinco dias saí para Itaboraí, onde me chamaram alguns interesses do inventário de meu pai. Quando voltei, três semanas depois, achei em casa uma carta de Quintília.',
-        footnote: []
-      },
-      {
-        text: '— Oh!',
-        footnote: []
-      },
-      {
-        text: '— Abri-a alvoroçadamente:  datava  de  quatro  dias.  Era  longa;  aludia  aos últimos  sucessos,  e  dizia  cousas  meigas  e  graves.  Quintília  afirmava  ter  esperado por  mim  todos  os  dias,  não  cuidando  que  eu  levasse  o  egoísmo  até  não  voltar  lá, por isso escrevia-me, pedindo que fizesse dos meus sentimentos pessoais e sem eco uma página de história acabada; que ficasse só o amigo, e lá fosse ver a sua amiga. E concluía com estas singulares palavras: "Quer uma garantia? Juro-lhe que  não  casarei  nunca."  Compreendi  que  um  vínculo  de  simpatia  moral  nos  ligava um ao outro; com a diferença que o que era em mim paixão específica, era nela uma simples eleição de caráter. Éramos dois sócios, que entravam no comércio da vida com diferente capital: eu, tudo o que possuía; ela, quase um óbolo. Respondi à carta dela  nesse  sentido;  e  declarei  que  era  tal  a  minha  obediência  e  o  meu  amor,  que cedia, mas de má vontade, porque, depois do que se passara entre nós, ia sentir-me humilhado.  Risquei  a  palavra  ridículo,  já  escrita,  para  poder  ir  vê-la  sem  este vexame; bastava o outro.',
-        footnote: []
-      },
-      {
-        text: '— Aposto que seguiu atrás da carta? É o que eu faria, porque essa moça, ou eu me engano ou estava morta por casar com o senhor.',
-        footnote: []
-      },
-      {
-        text: '— Deixe a sua fisiologia usual; este caso é particularíssimo.',
-        footnote: []
-      },
-      {
-        text: '— Deixe-me  adivinhar  o  resto;  o  juramento  era  um  anzol  místico;  depois,  o senhor,  que  o  recebera,  podia  desobrigá-la  dele,  uma  vez  que  aproveitasse  com  a absolvição. Mas, enfim, correr à casa dele.',
-        footnote: []
-      },
-      {
-        text: '— Não corri; fui dous dias depois. No intervalo, respondeu ela à minha carta com  um  bilhete  carinhoso,  que  rematava  com  esta  idéia:  "não  fale  de  humilhação, onde  não  houve  público."  Fui,  voltei  uma  e  mais  vezes  e  restabeleceram-se  as nossas relações. Não se falou em nada; ao princípio, custou-me muito parecer o que era dantes; depois, o demônio da esperança veio pousar outra vez no meu coração; e, sem nada exprimir, cuidei que um dia, um dia tarde, ela viesse a casar comigo. E foi  essa  esperança  que  me  retificou  aos  meus  próprios  olhos,  na  situação  em  que me achava. Os boatos de nosso casamento correram mundo. Chegaram aos nossos ouvidos; eu negava formalmente e sério; ela dava de ombros e ria. Foi essa fase da nossa  vida  a  mais  serena  para  mim,  salvo  um  incidente  curto,  um  diplomata austríaco  ou  não  sei  que,  rapagão,  elegante,  ruivo,  olhos  grandes  e  atrativos,  e fidalgo  ainda  por  cima.  Quintília  mostrou-se-lhe  tão  graciosa,  que  ele  cuidou  estar aceito, e tratou de ir adiante. Creio que algum gesto meu, inconsciente, ou então um pouco da percepção fina que o céu lhe dera, levou depressa o desengano à legaçã austríaca. Pouco depois ela adoeceu; e foi então que a nossa intimidade cresceu de vulto.  Ela,  enquanto  se  tratava,  resolveu  não  sair,  e  isso  mesmo  lhe  disseram  os médicos. Lá passava eu muitas horas diariamente. Ou elas tocavam, ou jogávamos os  três,  ou  então  lia-se  alguma  cousa;  a  maior  parte  das  vezes conversávamos somente. Foi então que a estudei muito; escutando as suas leituras vi que os livros puramente  amorosos  achava-os  incompreensíveis,  e,  se  as  paixões  aí  eram violentas,  largava-os  com  tédio.  Não  falava  assim  por  ignorante;  tinha  notícia  vagadas paixões, e assistira a algumas alheias.',
-        footnote: []
-      },
-      {
-        text: '— De que moléstia padecia?',
-        footnote: []
-      },
-      {
-        text: '— Da espinha. Os médicos diziam que a moléstia não era talvez recente, e ia tocando  o  ponto  melindroso.  Chegamos  assim  a  1859.  Desde  março  desse  ano  a moléstia  agravou-se  muito;  teve  uma  pequena  parada,  mas  para  os  fins  do  mês chegou  ao  estado  desesperador.  Nunca  vi  depois  criatura  mais  enérgica  diante  da iminente catástrofe; estava então de uma magreza transparente, quase fluida; ria, ou antes, sorria apenas, e vendo que eu escondia as minhas lágrimas, apertava-me as mãos agradecida. Um dia, estando só com o médico, perguntou-lhe a verdade; ele ia mentir, ela disse-lhe que era inútil, que estava perdida. — Perdida, não, murmurou o médico. — Jura que não estou perdida? — Ele hesitou, ela agradeceu-lho. Uma vez certa que morria, ordenou o que prometera a si mesma.',
-        footnote: []
-      },
-      {
-        text: '— Casou com o senhor, aposto?',
-        footnote: []
-      },
-      {
-        text: '—  Não  me  relembre  essa  triste  cerimônia;  ou  antes,  deixe-me  relembrá-la, porque me traz algum alento do passado. Não aceitou recusas nem pedidos meus; casou  comigo  à  beira  da  morte.  Foi  no  dia  18  de  abril  de  1859. Passei  os  últimos dois dias, até 20 de abril ao pé da minha noiva moribunda, e abracei-a pela primeira vez feita cadáver.',
-        footnote: []
-      },
-      {
-        text: '— Tudo isso é bem esquisito.',
-        footnote: []
-      },
-      {
-        text: '— Não  sei  o  que  dirá  a  sua  fisiologia.  A  minha,  que  é  de  profano,  crê  que aquela  moça  tinha  ao  casamento  uma  aversão  puramente  física.  Casou meio defunta, às portas do nada. Chame-lhe monstro, se quer, mas acrescente divino.',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Fedon',
     author: 'Platão',
     section: 'Livro',
@@ -5888,6 +5637,257 @@ export default [
     ]
   },
   {
+    title: 'A Desejada das Gentes',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado',
+    imgIndex: '6',
+    titleURL: 'a-desejada-das-gentes',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '— Ah! Conselheiro, aí começa a falar em verso.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '—  Todos  os  homens  devem  ter  uma  lira  no  coração,  —  ou  não  sejam homens. Que a lira ressoe a toda a hora, nem por qualquer motivo, não o digo eu, mas de longe em longe, e por algumas reminiscências particulares... Sabe por que é que lhe pareço poeta, apesar das Ordenações do Reino e dos cabelos grisalhos? É porque   vamos   por   esta   Glória   adiante,   costeando   aqui   a   Secretaria   de Estrangeiros... Lá está o outeiro célebre... Adiante há uma casa..',
+        footnote: []
+      },
+      {
+        text: '— Vamos andando.',
+        footnote: []
+      },
+      {
+        text: '—  Vamos...  Divina  Quintília!  Todas  essas  caras  que  aí  passam  são  outras, mas falam-me daquele tempo, como se fossem as mesmas de outrora; é a lira que ressoa, e a imaginação faz o resto. Divina Quintília!',
+        footnote: []
+      },
+      {
+        text: '—  Chamava-se  Quintília?  Conheci  de  vista,  quando  andava  na  Escola  de Medicina, uma linda moça com esse nome. Diziam que era a mais bela da cidade.',
+        footnote: []
+      },
+      {
+        text: '— Há de ser a mesma, porque tinha essa fama. Magra e alta?',
+        footnote: []
+      },
+      {
+        text: '— Isso. Que fim levou?',
+        footnote: []
+      },
+      {
+        text: '— Morreu em 1859. Vinte de abril. Nunca me há de esquecer esse dia. Vou contar-lhe um caso interessante para mim, e creio que também para o senhor. Olhe, a casa era aquela... Morava com um tio, chefe de esquadra reformado, tinha outra casa  no  Cosme  Velho. Quando  conheci  Quintília...  Que  idade  pensa  que  teria, quando a conheci?',
+        footnote: []
+      },
+      {
+        text: '— Se foi em 1855...',
+        footnote: []
+      },
+      {
+        text: '— Em 1855.',
+        footnote: []
+      },
+      {
+        text: '— Devia ter vinte anos.',
+        footnote: []
+      },
+      {
+        text: '— Tinha trinta.',
+        footnote: []
+      },
+      {
+        text: '— Trinta?',
+        footnote: []
+      },
+      {
+        text: '— Trinta anos. Não os parecia, nem era nenhuma inimiga que lhe dava essa idade.  Ela  própria  a  confessava  e  até  com  afetação.  Ao  contrário,  uma  de  suas amigas  afirmava  que  Quintília  não  passava  dos  vinte  e  sete;  mas  como  ambas tinham nascido no mesmo dia, dizia isso para diminuir-se a si própria.',
+        footnote: []
+      },
+      {
+        text: '— Mau, nada de ironias; olhe que a ironia não faz boa cama com a saudade.',
+        footnote: []
+      },
+      {
+        text: '—  Que é a saudade senão uma ironia do tempo e da fortuna? Veja  lá; começo a ficar sentencioso. Trinta anos; mas em verdade, não os parecia. Lembra-se  bem  que  era  magra  e  alta;  tinha  os  olhos  como  eu  então  dizia,  que  pareciam cortados  da  capa  da  última  noite,  mas  apesar  de  noturnos,  sem  mistérios  nem abismos.  A  voz  era  brandíssima,  um  tanto  apaulistada,  a  boca  larga,  e  os  dentes, quando  ela  simplesmente  falava,  davam-lhe  à  boca  um  ar  de  riso.  Ria  também,  e foram os risos dela, de parceria com os olhos, que me doeram muito durante certo tempo.\n',
+        footnote: []
+      },
+      {
+        text: '— Mas se os olhos não tinham mistérios...',
+        footnote: []
+      },
+      {
+        text: '— Tanto  não  os  tinham  que  cheguei  ao  ponto  de  supor  que  eram  as  portas abertas do castelo, e o riso o clarim que chamava os cavaleiros. Já a conhecíamos, eu  e  o  meu  companheiro  de  escritório,  o  João  Nóbrega,  ambos  principiantes  na advocacia,  e  íntimos  como  ninguém  mais;  mas  nunca  nos  lembrou  namorá-la.  Ela andava então no galarim; era bela, rica, elegante, e da primeira roda. Mas um dia, no antigo  Teatro  Provisório  entre  dois  atos  dos  Puritanos,  estando  eu  num  corredor, um  grupo  de  moços  que  falavam  dela,  como  de  uma  fortaleza  inexpugnável. Dous confessaram haver tentado alguma cousa, mas sem fruto; e todos pasmavam do celibato da moça que lhes parecia sem explicação. E chalaceavam: um dizia que era promessa até ver se engordava primeiro; outro que estava esperando a segunda mocidade do tio para casar com ele; outro que provavelmente encomendara algum anjo ao porteiro do céu; trivialidades que me aborreceram muito, e da parte dos que confessavam tê-la cortejado ou amado, achei que era uma grosseria sem nome. No que eles estavam todos de acordo é que ela era extraordinariamente bela; aí foram entusiastas e sinceros.',
+        footnote: []
+      },
+      {
+        text: '— Oh! ainda me lembro!... era muito bonita.',
+        footnote: []
+      },
+      {
+        text: '— No  dia  seguinte,  ao  chegar  ao  escritório,  entre  duas  causas  que  não vinham,  contei  ao  Nóbrega  a  conversação  da  véspera.  Nóbrega  riu-se  do  caso, refletiu,  e  depois  de  dar  alguns  passos,  parou  diante  de  mim,  olhando,  calado.  —Aposto que a namoras? perguntei-lhe. — Não, disse ele; nem tu? Pois lembrou-me uma cousa: vamos tentar o assalto à fortaleza? Que perdemos com isso? Nada, ou ela  nos  põe  na  rua,  e  já  podemos  esperá-lo,  ou  aceita  um  de  nós,  e  tanto  melhor para o outro que verá o seu amigo feliz. — Estás falando sério? — Muito sério. — Nóbrega acrescentou que não era só a beleza dela que a fazia atraente. Note que ele  tinha  a  presunção  de  ser  espírito  prático,  mas  era  principalmente  um  sonhador que  vivia  lendo  e  construindo  aparelhos  sociais  e  políticos.  Segundo  ele,  os  tais rapazes do teatro evitavam falar dos bens da moça, que eram um dos feitiços dela, e uma das causas prováveis da desconsolação de uns e dos sarcasmos de todos. E dizia-me: — Escuta, nem divinizar o dinheiro, nem também bani-lo; não vamos crer que  ele  dá  tudo,  mas  reconheçamos  que  dá  alguma  cousa  e  até  muita  cousa,  — este  relógio,  por  exemplo.  Combatamos  pela  nossa  Quintília,  minha  ou  tua,  mas provavelmente minha, porque sou mais bonito que tu.',
+        footnote: []
+      },
+      {
+        text: '— Conselheiro, a confissão é grave, foi assim brincando...?',
+        footnote: []
+      },
+      {
+        text: '— Foi  assim  brincando,  cheirando  ainda  aos  bancos  da  academia,  que  nos metemos  em  negócio  de  tanta  ponderação,  que  podia  acabar  em  nada,  mas  deu muito de si. Era um começo estouvado, quase um passatempo de crianças, sem anota  da  sinceridade;  mas  o  homem  põe  e  a  espécie  dispõe.  Conhecíamo-la,  posto não  tivéssemos  encontros  freqüentes;  uma  vez  que  nos  dispusemos  a  uma  ação comum,  entrou  um  elemento  novo  na  nossa  vida,  e  dentro  de  um  mês  estávamos brigados.',
+        footnote: []
+      },
+      {
+        text: '— Brigados?',
+        footnote: []
+      },
+      {
+        text: '— Ou  quase.  Não  tínhamos  contado  com  ela,  que  nos  enfeitiçou  a  ambos, violentamente.  Em  algumas  semanas  já  pouco  falávamos  de  Quintília,  e  com indiferença;  tratávamos  de  enganar  um  ao  outro  e  dissimular  o  que  sentíamos.  Foi assim que as nossas relações se dissolveram, no fim de seis meses, sem ódio, nem luta,  nem  demonstração  externa,  porque  ainda  nos  falávamos,  onde  o  acaso  nos reunia; mas já então tínhamos banca separada.',
+        footnote: []
+      },
+      {
+        text: '— Começo a ver uma pontinha do drama...',
+        footnote: []
+      },
+      {
+        text: '— Tragédia,  diga  tragédia;  porque  daí  a  pouco  tempo,  ou  por  desengano verbal  que  ela  lhe  desse,  ou  por  desespero  de  vencer,  Nóbrega  deixou-me  só  em campo. Arranjou uma nomeação de juiz municipal lá para os sertões da Bahia, onde definhou  e  morreu  antes  de  acabar  o  quatriênio.  E  juro-lhe  que  não  foi  o  inculcado espírito  prático  de  Nóbrega  que  o  separou  de  mim;  ele,  que  tanto  falara  dasvantagens do dinheiro, morreu apaixonado como um simples Werther.',
+        footnote: []
+      },
+      {
+        text: '— Menos a pistola.',
+        footnote: []
+      },
+      {
+        text: '— Também o veneno mata; e o amor de Quintília podia dizer-se alguma cousa parecido  com  isso,  foi  o  que  o  matou,  e  o  que  ainda  hoje  me  dói...  Mas,  vejo  pelo seu dito que o estou aborrecendo...',
+        footnote: []
+      },
+      {
+        text: '— Pelo  amor  de  Deus.  Juro-lhe  que  não;  foi  uma  graçola  que  me  escapou. Vamos adiante, conselheiro; ficou só em campo.',
+        footnote: []
+      },
+      {
+        text: '— Quintília  não  deixava  ninguém  estar  só  em  campo,  —  não  digo  por  ela, mas  pelos  outros.  Muitos  vinham  ali  tomar  um  cálix  de  esperanças,  e  iam  cear  a outra  parte.  Ela  não  favorecia  a  um  mais  que  a  outro,  mas  era  lhana,  graciosa  e tinha  essa  espécie  de  olhos  derramados  que  não  foram  feitos  para  homens ciumentos. Tive ciúmes amargos e, às vezes, terríveis. Todo argueiro me parecia um cavaleiro,   e   todo   cavaleiro   um   diabo.   Afinal   acostumei-me   a   ver   que   eram passageiros de um dia. Outros me metiam mais medo, eram os que vinham dentro da  luva  das  amigas.  Creio  que  houve  duas  ou  três  negociações  dessas,  mas  sem resultado. Quintília declarou que nada faria sem consultar o tio, e o tio aconselhou a recusa,  —  cousa  que  ela  sabia  de  antemão.  O  bom  velho  não  gostava  nunca  da visita  de  homens,  com  receio  de  que  a  sobrinha  escolhesse  algum  e  casasse. Estava  tão  acostumado  a  trazê-la  ao  pé  de  si,  como  uma  muleta  da  velha  alma aleijada, que temia perdê-la inteiramente.',
+        footnote: []
+      },
+      {
+        text: '— Não seria essa a causa da isenção sistemática da moça?',
+        footnote: []
+      },
+      {
+        text: '— Vai ver que não.',
+        footnote: []
+      },
+      {
+        text: '— O que noto é que o senhor era mais teimoso que os outros...',
+        footnote: []
+      },
+      {
+        text: '— ... Iludido, a princípio, porque no meio de tantas candidaturas malogradas, Quintília   preferia-me   a   todos   os   outros   homens,   e   conversava   comigo   mais largamente   e   mais   intimamente,   a   tal   ponto   que   chegou   a   correr   que   nos casávamos.',
+        footnote: []
+      },
+      {
+        text: '— Mas conversavam de quê?',
+        footnote: []
+      },
+      {
+        text: '— De tudo o que ela não conversava com os outros; e era de fazer pasmar que  uma  pessoa  tão  amiga  de  bailes  e  passeios,  de  valsar  e  rir,  fosse  comigo  tão severa e grave, tão diferente do que costumava ou parecia ser.',
+        footnote: []
+      },
+      {
+        text: '—  A  razão  é  clara:  achava  a  sua  conversação  menos  insossa  que  a  dos outros homens.',
+        footnote: []
+      },
+      {
+        text: '— Obrigado;  era  mais  profunda  a  causa  da  diferença,  e  a  diferença  ia-se acentuando com os tempos. Quando a vida cá embaixo a aborrecia muito, ia para o Cosme Velho, e ali as nossas conversações eram mais freqüentes e compridas. Não lhe  posso  dizer,  nem  o  senhor  compreenderia  nada,  o  que  foram  as  horas  que  ali passei, incorporando na minha vida toda a vida que jorrava dela. Muitas vezes quis dizer-lhe o que sentia, mas as palavras tinham medo e ficavam no coração. Escrevi cartas sobre cartas; todas me pareciam frias, difusas, ou inchadas de estilo. Demais, ela  não  dava  ensejo  a  nada,  tinha  um  ar  de  velha  amiga.  No  princípio  de  1857 adoeceu meu pai em Itaboraí; corri a vê-lo, achei-o moribundo. Este fato reteve-me fora da Corte uns quatro meses. Voltei pelos fins de maio. Quintília recebeu-me triste da minha tristeza, e vi claramente que o meu luto passara aos olhos dela...',
+        footnote: []
+      },
+      {
+        text: '— Mas que era isso senão amor?',
+        footnote: []
+      },
+      {
+        text: '—  Assim  o  cri,  e  dispus  a  minha  vida  para  desposá-la.  Nisto,  adoeceu  o  tiogravemente.  Quintília  não  ficava  só,  se  ele  morresse,  porque,  além  dos  muitos parentes espalhados que tinha, morava com ela agora, na casa da Rua do Catete, uma prima, D. Ana, viúva; mas, é certo que a afeição principal ia-se embora e nessa transição  da  vida  presente  à  vida  ulterior  podia  eu  alcançar  o  que  desejava.  A moléstia  do  tio  foi  breve;  ajudada  da  velhice,  levou-o  em  duas  semanas.  Digo-lhe aqui que a morte dele lembrou-me a de meu pai, e a dor que então senti foi quase a Quintília  viu-me  padecer,  compreendeu  o  duplo  motivo,  e,  segundo  me disse depois, estimou a coincidência do golpe, uma vez que tínhamos de o receber sem  falta  e  tão  breve.  A  palavra  pareceu-me  um  convite  matrimonial;  dois  meses depois cuidei de pedi-la em casamento. D. Ana ficara morando com ela e estavam no Cosme Velho. Fui ali, achei-as juntas no terraço, que ficava perto da montanha. Eram quatro horas da tarde de um domingo. D. Ana, que nos presumia namorados, deixou-nos o campo livre.',
+        footnote: []
+      },
+      {
+        text: '— Enfim!',
+        footnote: []
+      },
+      {
+        text: '— No terraço, lugar solitário, e posso dizer agreste, proferi a primeira palavra. O  meu  plano  era  justamente  precipitar  tudo,  com  medo  de  que,  cinco  minutos  de conversa  me  tirassem  as  forças.  Ainda  assim,  não  sabe  o  que  me  custou;  custaria menos  uma  batalha,  e  juro-lhe  que  não  nasci  para  guerras.  Mas  aquela  mulher magrinha e delicada impunha-se-me, como nenhuma outra, antes e depois...',
+        footnote: []
+      },
+      {
+        text: '— E então?',
+        footnote: []
+      },
+      {
+        text: '—  Quintília  adivinhara,  pelo  transtorno  do  meu  rosto,  o  que  lhe  ia  pedir,  e deixou-me  falar  para  preparar  a  resposta.  A  resposta  foi  interrogativa  e  negativa. Casar para quê? Era melhor que ficássemos amigos como dantes. Respondi-lhe que a  amizade  era,  em  mim,  desde  muito,  a  simples  sentinela  do  amor;  não  podendo mais contê-lo, deixou que ele saísse. Quintília sorriu da metáfora, o que me doeu, e sem  razão;  ela,  vendo  o  efeito,  fez-se  outra  vez  séria  e  tratou  de  persuadir-me  de que  era  melhor  não  casar.  —  Estou  velha,  disse  ela;  vou  em  trinta  e  três  anos.  — Mas se eu a amo assim mesmo, repliquei, e disse-lhe uma porção de cousas, que não poderia repetir agora. Quintília refletiu um instante; depois insistiu nas relações de  amizade;  disse  que,  posto  que  mais  moço  que  ela,  tinha  a  gravidade  de  um homem mais velho e inspirava-lhe confiança como nenhum outro. Desesperançado, dei  algumas  passadas,  depois  sentei-me  outra  vez  e  narrei-lhe  tudo.  Ao  saber  da minha  briga  com  o  amigo  e  companheiro  da  academia,  e  a  separação  em  que ficamos,  sentiu-se,  não  sei  se  diga,  magoada  ou  irritada.  Censurou-nos  a  ambos, não  valia  a  pena  que  chegássemos  a  tal  ponto.  —  A  senhora  diz  isso  porque  não sente  a  mesma  cousa.  —  Mas  então  é  um  delírio?  —  Creio  que  sim;  o  que  lhe afianço  é  que  ainda  agora,  se  fosse  necessário,  separar-me-ia  dele  uma  e  cem vezes;  e  creio  poder  afirmar-lhe  que  ele  faria  a  mesma  cousa.  Aqui  olhou  ela espantada  para  mim,  como  se  olha  para  uma  pessoa  cujas  faculdades  parecem transtornadas;  depois  abanou  a  cabeça,  e  repetiu  que  fora  um  erro;  não  valia  apena. — Fiquemos amigos, disse-me, estendendo a mão. — É impossível; pede-me cousa superior às minhas forças, nunca poderei ver na senhora uma simples amiga; não desejo impor-lhe nada; dir-lhe-ei até que nem mais insisto, porque não aceitaria outra resposta agora. Trocamos ainda algumas palavras, e retirei-me... Veja a minha mão.',
+        footnote: []
+      },
+      {
+        text: '— Treme-lhe ainda...',
+        footnote: []
+      },
+      {
+        text: '— E não lhe contei tudo. Não lhe digo aqui os aborrecimentos que tive, nem a dor e o despeito que me ficaram. Estava arrependido, zangado, devia ter provocado aquele desengano desde as primeiras semanas, mas a culpa foi da esperança, que é uma planta daninha, que me comeu o lugar de outras plantas melhores. No fim de cinco dias saí para Itaboraí, onde me chamaram alguns interesses do inventário de meu pai. Quando voltei, três semanas depois, achei em casa uma carta de Quintília.',
+        footnote: []
+      },
+      {
+        text: '— Oh!',
+        footnote: []
+      },
+      {
+        text: '— Abri-a alvoroçadamente:  datava  de  quatro  dias.  Era  longa;  aludia  aos últimos  sucessos,  e  dizia  cousas  meigas  e  graves.  Quintília  afirmava  ter  esperado por  mim  todos  os  dias,  não  cuidando  que  eu  levasse  o  egoísmo  até  não  voltar  lá, por isso escrevia-me, pedindo que fizesse dos meus sentimentos pessoais e sem eco uma página de história acabada; que ficasse só o amigo, e lá fosse ver a sua amiga. E concluía com estas singulares palavras: "Quer uma garantia? Juro-lhe que  não  casarei  nunca."  Compreendi  que  um  vínculo  de  simpatia  moral  nos  ligava um ao outro; com a diferença que o que era em mim paixão específica, era nela uma simples eleição de caráter. Éramos dois sócios, que entravam no comércio da vida com diferente capital: eu, tudo o que possuía; ela, quase um óbolo. Respondi à carta dela  nesse  sentido;  e  declarei  que  era  tal  a  minha  obediência  e  o  meu  amor,  que cedia, mas de má vontade, porque, depois do que se passara entre nós, ia sentir-me humilhado.  Risquei  a  palavra  ridículo,  já  escrita,  para  poder  ir  vê-la  sem  este vexame; bastava o outro.',
+        footnote: []
+      },
+      {
+        text: '— Aposto que seguiu atrás da carta? É o que eu faria, porque essa moça, ou eu me engano ou estava morta por casar com o senhor.',
+        footnote: []
+      },
+      {
+        text: '— Deixe a sua fisiologia usual; este caso é particularíssimo.',
+        footnote: []
+      },
+      {
+        text: '— Deixe-me  adivinhar  o  resto;  o  juramento  era  um  anzol  místico;  depois,  o senhor,  que  o  recebera,  podia  desobrigá-la  dele,  uma  vez  que  aproveitasse  com  a absolvição. Mas, enfim, correr à casa dele.',
+        footnote: []
+      },
+      {
+        text: '— Não corri; fui dous dias depois. No intervalo, respondeu ela à minha carta com  um  bilhete  carinhoso,  que  rematava  com  esta  idéia:  "não  fale  de  humilhação, onde  não  houve  público."  Fui,  voltei  uma  e  mais  vezes  e  restabeleceram-se  as nossas relações. Não se falou em nada; ao princípio, custou-me muito parecer o que era dantes; depois, o demônio da esperança veio pousar outra vez no meu coração; e, sem nada exprimir, cuidei que um dia, um dia tarde, ela viesse a casar comigo. E foi  essa  esperança  que  me  retificou  aos  meus  próprios  olhos,  na  situação  em  que me achava. Os boatos de nosso casamento correram mundo. Chegaram aos nossos ouvidos; eu negava formalmente e sério; ela dava de ombros e ria. Foi essa fase da nossa  vida  a  mais  serena  para  mim,  salvo  um  incidente  curto,  um  diplomata austríaco  ou  não  sei  que,  rapagão,  elegante,  ruivo,  olhos  grandes  e  atrativos,  e fidalgo  ainda  por  cima.  Quintília  mostrou-se-lhe  tão  graciosa,  que  ele  cuidou  estar aceito, e tratou de ir adiante. Creio que algum gesto meu, inconsciente, ou então um pouco da percepção fina que o céu lhe dera, levou depressa o desengano à legaçã austríaca. Pouco depois ela adoeceu; e foi então que a nossa intimidade cresceu de vulto.  Ela,  enquanto  se  tratava,  resolveu  não  sair,  e  isso  mesmo  lhe  disseram  os médicos. Lá passava eu muitas horas diariamente. Ou elas tocavam, ou jogávamos os  três,  ou  então  lia-se  alguma  cousa;  a  maior  parte  das  vezes conversávamos somente. Foi então que a estudei muito; escutando as suas leituras vi que os livros puramente  amorosos  achava-os  incompreensíveis,  e,  se  as  paixões  aí  eram violentas,  largava-os  com  tédio.  Não  falava  assim  por  ignorante;  tinha  notícia  vagadas paixões, e assistira a algumas alheias.',
+        footnote: []
+      },
+      {
+        text: '— De que moléstia padecia?',
+        footnote: []
+      },
+      {
+        text: '— Da espinha. Os médicos diziam que a moléstia não era talvez recente, e ia tocando  o  ponto  melindroso.  Chegamos  assim  a  1859.  Desde  março  desse  ano  a moléstia  agravou-se  muito;  teve  uma  pequena  parada,  mas  para  os  fins  do  mês chegou  ao  estado  desesperador.  Nunca  vi  depois  criatura  mais  enérgica  diante  da iminente catástrofe; estava então de uma magreza transparente, quase fluida; ria, ou antes, sorria apenas, e vendo que eu escondia as minhas lágrimas, apertava-me as mãos agradecida. Um dia, estando só com o médico, perguntou-lhe a verdade; ele ia mentir, ela disse-lhe que era inútil, que estava perdida. — Perdida, não, murmurou o médico. — Jura que não estou perdida? — Ele hesitou, ela agradeceu-lho. Uma vez certa que morria, ordenou o que prometera a si mesma.',
+        footnote: []
+      },
+      {
+        text: '— Casou com o senhor, aposto?',
+        footnote: []
+      },
+      {
+        text: '—  Não  me  relembre  essa  triste  cerimônia;  ou  antes,  deixe-me  relembrá-la, porque me traz algum alento do passado. Não aceitou recusas nem pedidos meus; casou  comigo  à  beira  da  morte.  Foi  no  dia  18  de  abril  de  1859. Passei  os  últimos dois dias, até 20 de abril ao pé da minha noiva moribunda, e abracei-a pela primeira vez feita cadáver.',
+        footnote: []
+      },
+      {
+        text: '— Tudo isso é bem esquisito.',
+        footnote: []
+      },
+      {
+        text: '— Não  sei  o  que  dirá  a  sua  fisiologia.  A  minha,  que  é  de  profano,  crê  que aquela  moça  tinha  ao  casamento  uma  aversão  puramente  física.  Casou meio defunta, às portas do nada. Chame-lhe monstro, se quer, mas acrescente divino.',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Imagens e Símbolos I',
     author: 'Mircea Eliade',
     section: 'Psicologia e História das Religiões',
@@ -7159,37 +7159,25 @@ export default [
     ]
   },
   {
-    title: 'Imagens e Símbolos IV',
-    author: 'Mircea Eliade',
-    section: 'Simbolismo de Centro',
-    img: 'mirceaEliade',
-    imgIndex: '3',
-    titleURL: 'imagens-e-simbolos',
-    authorURL: 'mircea-eliade',
-    sectionURL: 'simbolismo-de-centro',
-    content: 'Voltemos  pois  à  imagem  das  três  regiões  cósmicas  ligadas,  num«Centro»  por  um  eixo.  É  sobretudo  nas  civilizações  palco-orientais  queencontramos esta imagem arquetípica. O nome dos santuários de Nippur,Larsa e Sippar eraDur-an-ki,«ligação entre o céu e a terra». Mas é aindana Babilónia que se faz a ligação entre a Terra e as regiões inferiores, poisa  cidade  fora  edificada  sobrebâb-apsi,a  «Porta  deapsû»,designandoapsû   as   águas   do   caos   antes  da   Criação.   Encontramos   esta   mesmatradição    entra    os    hebreus.    O    rochedo    de    Jerusalém    penetravaprofundamente nas águas subterrâneas(tehôm).Diz-se na Mishna que oTemplo   se   encontra   precisamente   em   cima   detehôm(equivalentehebraico deapsû).E, ainda como na Babilónia, havia a «porta deapsû»:orochedo do Templo de Jerusalém fechava a «boca dotehôm».Encontram-se   tradições   similares   no   mundo   indo-europeu.   Nos   Romanos,   porexemplo, omundusconstitui o ponto de encontro das regiões inferiores edo  mundo  terrestre.  O  templo  itálico  era  a  zonade  intersecção  dosmundos superior (divino), terrestre e subterrâneo (infernal; cf.Le Mythede l\'Eternel Retour,pp. 32sq.).',
-    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
-      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
-      'Portugal',
+    title: 'A Metamorfose',
+    author: 'Franz Kafka',
+    section: 'Capítulo I',
+    img: 'kafka',
+    imgIndex: '11',
+    titleURL: 'a-metamorfose',
+    authorURL: 'franz-kafka',
+    sectionURL: 'capitulo-I',
+    content: '',
+    disclaimer: '',
     paragraphs: [
       {
-        text: 'Voltemos pois à imagem das três regiões cósmicas ligadas, num\n' +
-          '«Centro» por um eixo. É sobretudo nas civilizações palco-orientais que\n' +
-          'encontramos esta imagem arquetípica. O nome dos santuários de Nippur,\n' +
-          'Larsa e Sippar era <i>Dur-an-ki</i>, «ligação entre o céu e a terra». Mas é ainda\n' +
-          'na Babilónia que se faz a ligação entre a Terra e as regiões inferiores, pois\n' +
-          'a cidade fora edificada sobre <i>bâb-apsi</i>, a «Porta de <i>apsû</i>», designando\n' +
-          'apsû as águas do caos antes da Criação. Encontramos esta mesma\n' +
-          'tradição entra os hebreus. O rochedo de Jerusalém penetrava\n' +
-          'profundamente nas águas subterrâneas (<i>tehôm</i>). Diz-se na Mishna que o\n' +
-          'Templo se encontra precisamente em cima de tehôm (equivalente\n' +
-          'hebraico de <i>apsû</i>). E, ainda como na Babilónia, havia a «porta de <i>apsû</i>»: o\n' +
-          'rochedo do Templo de Jerusalém fechava a «boca do <i>tehôm</i>». Encontramse\n' +
-          'tradições similares no mundo indo-europeu. Nos Romanos, por\n' +
-          'exemplo, o mundus constitui o ponto de encontro das regiões inferiores e\n' +
-          'do mundo terrestre. O templo itálico era a zona de intersecção dos\n' +
-          'mundos superior (divino), terrestre e subterrâneo (infernal; cf. <i>Le Mythe\n' +
-          'de l\'Eternel Retour, pp. 32 sq.</i>).',
+        text: 'Numa manhã, ao despertar de sonhos inquietantes, Gregório Samsa deu por\n' +
+          'si na cama transformado num gigantesco inseto. Estava deitado sobre o dorso, tão\n' +
+          'duro que parecia revestido de metal, e, ao levantar um pouco a cabeça, divisou o\n' +
+          'arredondado ventre castanho dividido em duros segmentos arqueados, sobre o qual\n' +
+          'a colcha dificilmente mantinha a posição e estava a ponto de escorregar.\n' +
+          'Comparadas com o resto do corpo, as inúmeras pernas, que eram miseravelmente\n' +
+          'finas, agitavam-se desesperadamente diante de seus olhos.',
         footnote: [
           {
             index: '',
@@ -7198,428 +7186,76 @@ export default [
         ]
       },
       {
-        text: 'De fato, toda a cidade oriental se encontrava no centro do mundo.\n' +
-          'Babilónia era uma <i>Bâbilâni</i>, uma «porta dos deuses», pois era aí que os deuses desciam à terra. A capital do soberano chinês perfeito encontravase\n' +
-          'junto da Árvore miraculosa «<i>Mastro erguido</i>», <i>Kien-mou</i>, no ponto\n' +
-          'onde se entrecruzavam as três zonas cósmicas: Céu, Terra e Inferno. E\n' +
-          'poder-se-ia continuar a acumular exemplos indefinidamente. Todas estas\n' +
-          '\'cidades, templos ou palácios considerados como Centros do Mundo, não\n' +
-          'são mais do que réplicas infinitamente multiplicadas de uma imagem\n' +
-          'arcaica: a Montanha Cósmica, a Arvore do Mundo ou o Pilar central que\n' +
-          'sustém os níveis cósmicos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'O símbolo de uma Montanha, de uma Árvore ou de um Pilar situados\n' +
-          'no Centro do Mundo, está extremamente difundido. Recordemos o\n' +
-          'Monte Meru da tradição índia, Haraberazaiti dos iranianos, Himingbjõr\n' +
-          'dos Germânicos, o «Monte dos Países» da tradição mesopotâmica, o\n' +
-          'Monte Thabor, na Palestina, (que poderia significar <i>tabbur</i> ou seja\n' +
-          '«umbigo da terra», o Gólgota que, para os cristãos, se encontra no centro\n' +
-          'do mundo, etc. (cf. <i>Traité, pp 321 sq.; Le Mythe de l\'Éternel Retour, pp. 30\n' +
-          'sq</i>.) Pelo fato de o território, a cidade, o templo ou o palácio real se\n' +
-          'encontrarem no «Centro do Mundo», isto é no cume da Montanha\n' +
-          'Cósmica, aqueles eram considerados como o lugar mais alto do mundo, o\n' +
-          'único que não fora submergido pelo dilúvio. «A terra de Israel não foi\n' +
-          'submergida pelo dilúvio», diz um texto rabínico. E, segundo a tradição\n' +
-          'islâmica, o lugar mais elevado da terra é a Kâ\'aba, porque «a estrela polar\n' +
-          'prova que ela se encontra na direcção do centro do Céu» (textos do\n' +
-          '<i>Mythe de l\'Éternel Retour, pp. 33</i>). O nome das torres e dos templos\n' +
-          'sagrados da Babilónia testemunha a sua assimilação à Montanha Cósmica,\n' +
-          'quer dizer ao Centro do Mundo: «Monte da Casa», «Casa do Monte de\n' +
-          'todas as terras», «Monte das tempestades», «Ligação entre o Céu e a\n' +
-          'Terra», etc. A <i>ziqqurar</i> era, a bem dizer, uma montanha cósmica, isto é,\n' +
-          'uma imagem simbólica do Cosmos: os sete andares representavam os\n' +
-          'sete céus planetários; subindo-os o padre atingia o topo do Universo. Este\n' +
-          'mesmo simbolismo está na base da construção do templo de Barabudur:\n' +
-          'este é edificado como uma montanha artificial. A sua ascensão equivale a\n' +
-          'uma viagem ao Centro do Mundo; ao atingir o terraço superior o\n' +
-          'peregrino realiza uma ruptura de nível; ele transcende o espaço profano e\n' +
-          'penetra numa «região pura». Estamos em presença de um «rito do centro» (textos em <i>Traité, pp. 323 sq.</i>).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'O topo da Montanha Cósmica não é apenas o ponto mais alto da\n' +
-          'Terra; ele é o umbigo da Terra, o ponto onde começou a criação. «O\n' +
-          'Santíssimo criou o mundo como um embrião», afirma um texto rabínico.\n' +
-          '«Tal como o embrião cresce a partir do umbigo, também Deus começou a\n' +
-          'criar o mundo pelo umbigo e daí ele expandiu-se em todas as direções.»\n' +
-          '«O mundo foi criado começando por Sião», diz um outro texto. O mesmo\n' +
-          'simbolismo aparece na Índia antiga: no <i>Rig Veda</i>, o Universo é concebido\n' +
-          'como adquirindo a sua extensão a partir de um ponto central (cf. <i>Traité,\n' +
-          'p. 324; Le Mythe, p. 36</i>).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'A criação do homem, réplica da cosmologia, teve semelhantemente\n' +
-          'lugar num ponto central, no Centro do Mundo. Segundo a tradição\n' +
-          'mesopotâmica, o homem foi feito no «umbigo da terra», no mesmo lugar\n' +
-          'onde se encontra também <i>Dur-an-ki</i>, o «laço entre o Céu e a Terra».\n' +
-          'Ohrmazd cria o homem primordial, Gajômard, no centro do Mundo. O\n' +
-          'Paraíso onde Adão foi criado a partir do barro encontra-se, bem\n' +
-          'entendido, no Centro do Cosmos. O Paraíso era o «umbigo da Terra», e,\n' +
-          'segundo uma tradição síria, ficava «numa montanha mais alta ido que\n' +
-          'todas as outras». De acordo com o livro sírio <i>A caverna dos Tesouros</i>,\n' +
-          'Adão foi criado no Centro da Terra, no próprio local onde devia erguer-se\n' +
-          'mais tarde a Cruz de Jesus. As mesmas tradições foram conservadas pelo\n' +
-          'judaismo. O apocalipse judaico e o midrash precisam que Adão foi criado\n' +
-          'em Jerusalém. Tendo Adão sido enterrado no mesmo local onde fora\n' +
-          'criado, ou seja no centro do mundo, sobre o Gólgota, também o sangue\n' +
-          'do Senhor o redimiu (ver <i>Traité, pp. 323 sq.; Le Mythe, pp. 32 sq.</i>). A\n' +
-          'variante mais difundida do simbolismo do Centro é a Árvore Cósmica que\n' +
-          'se encontra no meio do Universo e que sustenta, como um eixo, os três\n' +
-          'Mundos. A Índia de Veda, a China antiga, a mitologia germânica tal como\n' +
-          'as religiões «primitivas» conhecem, sob formas diferentes, esta Árvore\n' +
-          'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
-          'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
-          'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
-          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#footnotes">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
-          'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
-          'rituais que encontramos na história das religiões não passa de réplica, de\n' +
-          'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
-          'dizer, supõe-se que todas as árvores sagradas se encontram no Centro do\n' +
-          'Mundo e todas as árvores rituais ou postes, que se consagram antes ou\n' +
-          'durante qualquer cerimónia religiosa, são como que magicamente\n' +
-          'projetados no Centro doMundo. Contentemo-nos com alguns exemplos.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Cf. nosso Traité pp. 236 sq.; Le Chamanisme, pp. 244 sq.; sobre o simbolismo cristão\n' +
-              'da Cruz = Árvore Cósmica, ver H. de Lubac, Aspets da Boudhisme (Paris, 1951),\n' +
-              'pp. 61 sq.'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Na índia védica o poste sacrificial (<i>yûpa</i>) é feito de uma árvore que é\n' +
-          'assimilada à Árvore Universal. Enquanto se abate, o padre sacrificador\n' +
-          'dirige-lhe estas palavras: «Com o teu cimo não rasgues o Céu, com o teu\n' +
-          'centro não firas a atmosfera...» Vê-se bem que nos encontramos aqui\n' +
-          'perante a Árvore do Mundo. Da madeira dessa árvore faz-se o poste\n' +
-          'sacrificial e este torna-se uma espécie de pilar cósmico: «Ergue-te, oh\n' +
-          'Senhor da floresta ao topo da Terral», assim invoca o <i>Rig Veda, III, 8, 3</i>.\n' +
-          '«Com o teu cimo suportas o Céu, com a tua parte média enches os ares,\n' +
-          'com o teu pé seguras a Terra», proclama o <i>Çatapatha Brâhmana, III, 7, 1,\n' +
-          '4</i>.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'A instalação e a consagração do poste sacrificial constituem um rito\n' +
-          'do Centro. Assimilado à Árvore do Mundo o poste transforma-se por seu\n' +
-          'turno no eixo que liga as três regiões cósmicas. A comunicação entre o\n' +
-          'Céu e a Terra torna-se possível por meio deste pilar. E, de fato, o\n' +
-          'sacrificador sobe ao Céu, só ou com a mulher, neste poste transformado\n' +
-          'ritualmente no próprio Eixo do Mundo. Colocando uma escada, o\n' +
-          'sacrificador dirige-se à mulher: «Vem, subamos ao Céu!» «A mulher\n' +
-          'responde: subamos!» (<i>Çat. Br.</i>, V, 2, 1, 9). E começam a subir a escada. No\n' +
-          'topo e tocando o capitel, o sacrificador exclama: «Chegámos ao Céu!\n' +
-          '(<i>Taittiriya Samhitâ, Çat. Br.</i>, etc.). Ou, escalando os degraus do poste,\n' +
-          'estende as mãos (como uma ave estende as asas) e, chegado ao cimo\n' +
-          'exclama: «Atingi o Céu, os deuses: tornei-me imortal!» (<i>Taittiriya Samhitâ, 1, 7, 9</i>). «Na verdade, diz ainda o <i>Taittiriya Samhitâ</i> (VI, 6, 4, 2), o\n' +
-          'sacrificador faz uma escada e uma ponte para atingir o mundo celeste.»',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'O ponto ou a escada entre o Céu e a Terra eram possíveis porque se\n' +
-          'elevavam num Centro do Mundo. Exatamente como a escada vista em\n' +
-          'sonhos por Jacob e que tocava no Céu. E «os anjos de Deus subiam e\n' +
-          'desciam ao longo dessa escada» (Génesis, 28, 11 sq.). O rito índio faz\n' +
-          'também alusão à imortalidade que se obtém por se ter subido ao Céu.\n' +
-          'Como veremos dentro em pouco, uma quantidade de outras abordagens\n' +
-          'rituais de um Centro equivalem a uma conquista da imortalidade.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'A assimilação da árvore ritual à Árvore Cósmica é ainda mais\n' +
-          'transparente no Xamanismo central e norte-asiático. A escalada desta\n' +
-          'árvore para o Xamã tártaro simboliza a sua ascensão ao Céu.\n' +
-          'Efetivamente fazem-se na árvore 7 ou 9 entalhes e subindo por eles o\n' +
-          'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
-          'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
-          'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
-          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#footnotes">2</a></sup>.',
-        footnote: [
-          {
-            index: 2,
-            content: 'Cf. materiais e bibliografia no nosso livro Le Chamanisme, pp. 171 sq.'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'A árvore xamânica é apenas uma réplica da Árvore do Mundo, que se\n' +
-          'eleva no meio do Universo e no cimo da qual se encontra o Deus Supremo\n' +
-          'ou o deus solarizado. Os 7 ou 9 entalhes na árvore Xamânica simbolizam\n' +
-          'os 7 ou 9 ramos da Árvore Cósmica, ou seja os 7 ou 9 céus. O xamã sentese,\n' +
-          'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
-          'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
-          'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
-          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#footnotes">3</a></sup>. É\n' +
-          'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
-          'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
-          'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
-          'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
-          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#footnotes">4</a></sup>. Estamos\n' +
-          'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
-          'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
-          'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
-          'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
-          'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
-          'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
-          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#footnotes">5</a></sup>.',
-        footnote: [
-          {
-            index: 3,
-            content: 'A. A. Popov, Tavgijcy. Materialy po etnografii avamskich i vedeevskich tavgicev\n' +
-              '(Moska-Leningrad, 1936), pp. 84 sq.; ver Le Chamanisme et les techniques\n' +
-              'archaiques de l\'extase, pp. 160 sq.'
-          },
-          {
-            index: 4,
-            content: 'Cf. E. Emsheimer, Schamanentrommel und Trommelbaum (Ethnos, vol. IV, 1946, pp. 166-181).'
-          },
-          {
-            index: 5,
-            content: 'A ascensão iniciática de uma árvore cerimonial encontra-se também no\n' +
-              'xamanismo indonésio, sul-americano (Araucan) e norte-americano (Pomo), cf.\n' +
-              'Le Chamanisme, pp. 122 sq., 125 sq.'
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Imagens e Símbolos V',
-    author: 'Mircea Eliade',
-    section: 'Simbolismo da Ascenção',
-    img: 'mirceaEliade',
-    imgIndex: '3',
-    titleURL: 'imagens-e-simbolos',
-    authorURL: 'mircea-eliade',
-    sectionURL: 'simbolismo-da-ascencao',
-    content: 'É  bastante  provável  que,  pelo  menos  no  caso  das  religiões  centro-asiáticas  e  siberianas,  este  simbolismo  do  Centro  seja  influenciado  poresquemascosmológicosindo-iranianose,emúltimaanálise,mesopotâmicos. A importância do número 7, entre outras coisas, pareceprová-lo. Mas importa fazer bem a distinção entre o empréstimo de umateoria cosmológicaelaborada em torno do simbolismo do Centro—comoseria, por exemplo, a concepção de 7 níveis celestes—e osimbolismodocentro em si. Já vimos que este simbolismo é extremamente arcaico,queé  conhecido  pelos  Pigmeus  da  península  de  Malaca.  E  mesmo  que  sepudesse  suspeitar  de  uma  longínqua  influência  indiana  nestes  PigmeusSemang, ficaria ainda por explicar o simbolismo do Centro encontrado nosmonumentos   pré-históricos   (Montanhas   Cósmicas,   os   quatro   rios,   aÁrvore   e   a   espiral,   etc.).   Melhor   ainda:   pôde   demonstrar-se   que   ',
-    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
-      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
-      'Portugal',
-    paragraphs: [
-      {
-        text: 'É bastante provável que, pelo menos no caso das religiões centroasiáticas\n' +
-          'e siberianas, este simbolismo do Centro seja influenciado por\n' +
-          'esquemas cosmológicos indo-iranianos e, em última análise,\n' +
-          'mesopotâmicos. A importância do número 7, entre outras coisas, parece\n' +
-          'prová-lo. Mas importa fazer bem a distinção entre o empréstimo de uma\n' +
-          '<i>teoria cosmológica</i> elaborada em torno do simbolismo do Centro — como\n' +
-          'seria, por exemplo, a concepção de 7 níveis celestes — e o <i>simbolismo</i> do\n' +
-          'centro em si. Já vimos que este simbolismo é extremamente arcaico, que\n' +
-          'é conhecido pelos Pigmeus da península de Malaca. E mesmo que se\n' +
-          'pudesse suspeitar de uma longínqua influência indiana nestes Pigmeus\n' +
-          'Semang, ficaria ainda por explicar o simbolismo do Centro encontrado nos\n' +
-          'monumentos pré-históricos (Montanhas Cósmicas, os quatro rios, a\n' +
-          'Árvore e a espiral, etc.). Melhor ainda: pôde demonstrar-se que o simbolismo de um eixo cósmico é já conhecido nas culturas arcaicas (as\n' +
-          '<i>Urkulturen</i> da escola Graebner-Schmidt) e, em primeiro lugar, pelas\n' +
-          'populações árticas e norte-americanas: a trave central da habitação\n' +
-          'destes povos é assimilada ao Eixo Cósmico. E é na base deste poste que se\n' +
-          'colocam as oferendas destinadas às divindades celestiais, pois é só ao\n' +
-          'longo deste eixo que as oferendas podem subir ao céu<sup><a href="#footnotes">1</a></sup>. Quando a forma\n' +
-          'da habitação se altera a cabana é substituída pela yurta (como, por\n' +
-          'exemplo, entre os pastores-criadores da Ásia central), a função míticoritual\n' +
-          'do pilar central é assegurada pela abertura superior destinada esta\n' +
-          'ao escapamento do fumo. Na altura dos sacrifícios, introduz-se na yurta\n' +
-          'uma árvore cujo cimo sai por aquela abertura. Esta árvore sacrificial, pelos\n' +
-          'seus 7 ramos simboliza as 7 esferas celestes. Assim, por um lado, <i>a casa\n' +
-          'está homologada ao Universo</i> e por outro lado ela é vista como situada no\n' +
-          '<i>Centro do Mundo</i>, ficando a abertura destinada ao fumo na direcção da\n' +
-          'estrela polar.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Ver Le Chamanisme, pp. 235 sq.'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Voltaremos em breve a esta assimilação simbólica da habitação no\n' +
-          '«Centro do Mundo», pois ela trai um dos comportamentos mais\n' +
-          'instrutivos do homem religioso arcaico. Para já fiquemos nos ritos de\n' +
-          'ascensão que se verificam num «centro». Vimos que o Xamã tártaro ou\n' +
-          'siberiano trepa a uma árvore e que o sacrificador védico sobe uma\n' +
-          'escada. Os dois ritos perseguem a mesma finalidade: a ascensão ao Céu.\n' +
-          'Um número considerável de mitos fala de uma árvore, de uma liana, de\n' +
-          'uma corda, de um fio de aranha ou de uma escada que liga a Terra ao Céu\n' +
-          'e por intermédio dos quais certos seres privilegiados sobem efetivamente\n' +
-          'ao céu. Estes mitos têm, bem entendido, correspondências rituais —\n' +
-          'como, por exemplo a árvore Xamânica ou o mastro do sacrifício védico. A\n' +
-          'escada cerimonial desempenha igualmente um papel importante.\n' +
-          'Contentemo-nos com alguns exemplos: Polyeno (<i>Stratagematon</i>, VII, 22)\n' +
-          'fala-nos de Kosingas, padre-rei de algumas populações da Trácia, que\n' +
-          'ameaçava deixar os súbditos subindo por uma escada de madeira até à\n' +
-          'deusa Hera; o que prova que a dita escada ritual existia e que se supunha\n' +
-          'que pudesse conduzir o padre-rei até ao Céu. A ascensão celeste pela subida cerimonial de uma escada fazia provavelmente parte de uma\n' +
-          'iniciação órfica. Em todo o caso voltamos a encontrá-la na iniciação\n' +
-          'mitríaca. Nos mistérios de Mithra, a escada (<i>clímax</i>) cerimonial tinha 7\n' +
-          'degraus, sendo cada degrau feito de um metal diferente. Segundo Celso\n' +
-          '(Origines, <i>Contra Celsum</i>, VI, 22), o primeiro degrau era de chumbo e\n' +
-          'correspondia ao «céu» do planeta Saturno, o segundo de estanho\n' +
-          '(Vénus), o terceiro de bronze (Júpiter), o quarto de ferro (Mercúrio), o\n' +
-          'quinto de «liga de moeda» (Marte), o sexto de prata (Lua), o sétimo de\n' +
-          'ouro (Sol). O oitavo degrau, diz-nos Celso, representa a esfera das estrelas\n' +
-          'fixas<sup><a href="#footnotes">2</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
-          'os 7 céus elevando-se assim até ao Empíreo — tal como se subia ao\n' +
-          'último céu escalando os 7 andares da <i>ziqqurat</i> babilónica ou se\n' +
-          'atravessavam as diferentes regiões cósmicas pelos terraços do templo\n' +
-          'Barabudur que constituía em si próprio, como vimos, uma Montanha\n' +
-          'Cósmica e uma <i>imago mundi</i>.',
-        footnote: [
-          {
-            index: 2,
-            content: 'Cf. os materiais reunidos no nosso Chamanisme, pp. 248 sq. Para o simbolismo\n' +
-              'cristão da ascensão ver Louis Beirnaert, Le Symbolisme ascensionnel dans la\n' +
-              'liturgie et la mystique chrétiennes (Eranos-Jahrbuch, XIX, Zürich, 1951, pp. 41-\n' +
-              '63).'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Compreende-se facilmente que a escada da iniciação mitríaca era um\n' +
-          'Eixo do Mundo e que se encontrava no Centro do Universo; de outro\n' +
-          'modo a ruptura dos níveis não teria sido possível. «Iniciação» quer dizer,\n' +
-          'como se sabe, morte e ressurreição do neófito, ou, noutros contextos,\n' +
-          'descida aos Infernos seguida de ascensão ao Céu. A morte — iniciática ou\n' +
-          'não— é a ruptura de nível por excelência. E por isso que ela é simbolizada\n' +
-          'por uma escalada e frequentemente os rituais funerários utilizam escadas\n' +
-          'ou escadarias. A alma do morto sobe as veredas de uma montanha, ou\n' +
-          'trepa a uma árvore, ou liana até aos céus. Esta concepção encontra-se um\n' +
-          'pouco por todo o mundo, desde o Egipto antigo à Austrália. A expressão\n' +
-          'habitual em assiriano para o verbo «morrer» é: «agarrar-se à montanha».\n' +
-          'Igualmente em egípcio, <i>myny</i>, «agarrar-se», é um eufemismo para\n' +
-          '«morrer». Na tradição mítica indiana, Yam, o primeiro morto, trepou à\n' +
-          'montanha e percorreu os «altos desfiladeiros» para mostrar «o caminho a muitos homens»; assim se exprime o <i>Rig Veda</i> (X, 14, 1). O caminho dos\n' +
-          'mortos na crença popular uralo-altaica é a escalada dos montes; Bolot,\n' +
-          'herói Kara-Kirghiz, tal como Kesar, rei lendário dos mongóis, entra no\n' +
-          'outro mundo, à maneira de prova iniciática, por uma gruta situada no\n' +
-          'topo das montanhas; a descida do xamã aos Infernos também se realiza\n' +
-          'por meio de uma gruta. Os Egípcios conservam nos seus textos funerários\n' +
-          'a expressão <i>asket pet</i> (<i>asket</i> = «degrau») para indicar que a escada de que\n' +
-          'dispõe Ré, é uma escada real que liga a Terra ao Céu. «Está instalada, para\n' +
-          'mim, a escada de ver os deuses», diz o <i>Livro dos Mortos</i>. «Os deuses\n' +
-          'fazem-lhe uma escada para que, ao servir-se dela, ele suba ao Céu», diz\n' +
-          'ainda aquele livro. Em muitos túmulos do tempo das dinastias arcaicas e\n' +
-          'medievais, encontraram-se amuletos em forma de escada (<i>maqet</i>) ou\n' +
-          'uma escalda. O uso da escada funerária sobreviveu algures até aos nossos\n' +
-          'dias: diversas populações asiáticas primitivas — como, por exemplo, os\n' +
-          'Lolos, os Karens, etc. — erguem sobre os túmulos escadas rituais que\n' +
-          'servem para os defuntos subirem aos Céus<sup><a href="#footnotes">3</a></sup>.',
-        footnote: [
-          {
-            index: 3,
-            content: 'Ver Traité d\'Histoire des Religions, pp. 96 sq. Le Chamanisme et les techniques\n' +
-              'archaiques de l\'extase, pp. 420 sq'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Como acabamos de ver, a escada contém um simbolismo\n' +
-          'extremamente rico sem deixar de ser perfeitamente coerente: <i>ela\n' +
-          'representa plasticamente a ruptura de nível que torna possível a\n' +
-          'passagem de um modo de ser a um outro</i>; ou, colocando-nos no plano\n' +
-          'cosmológico, <i>que torna possível a comunicação entre Céu, Terra e Inferno</i>.\n' +
-          'E por isso que a escada e a escalada desempenham um papel considerável\n' +
-          'tanto nos ritos e mitos de iniciação como nos ritos funerários, para não\n' +
-          'falar dos ritos de entronização real ou sacerdotal, ou dos ritos de\n' +
-          'casamento. Ora, sabe-se que o simbolismo da escalada e dos degraus se\n' +
-          'encontra com muita frequência na literatura psicanalítica, o que define\n' +
-          'que estamos perante um comportamento arcaico da psiqué humana e\n' +
-          'não perante uma criação «histórica», uma inovação devida a um certo\n' +
-          'momento histórico (digamos: o Egipto arcaico ou a índia védica, etc.).\n' +
-          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#footnotes">4</a></sup>.',
-        footnote: [
-          {
-            index: 4,
-            content: 'Ver nosso estudo Durohâna and the «waking dream» (Art and Thought, A\n' +
-              'volume in honour of the late Dr. Ananda K. Coomaraswamy, London, 1947, pp.\n' +
-              '209 sq.).'
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Julien Green nota no seu Diário de 4 de Abril de 1933: «Em todos os\n' +
-          'meus livros a ideia do medo ou de qualquer outra emoção um pouco forte\n' +
-          'parece ligada de maneira inexplicável a uma escada. Apercebi-me disso\n' +
-          'ontem, quando passava em revista todos os romances que escrevi...\n' +
-          '(Seguem-se as referências). Pergunto-me como pude eu repetir tantas\n' +
-          'vezes este efeito sem dar por isso. Em criança sonhava que me\n' +
-          'perseguiam numa escada. Minha Mãe sofreu dos mesmos temores na sua\n' +
-          'juventude; talvez tenha permanecido em mim um pouco disso...»',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Sabemos hoje por que motivo a ideia de medo, no escritor francês,\n' +
-          'está ligada à imagem de uma escada e por que razão todos os\n' +
-          'acontecimentos dramáticos por ele descritos ao longo da sua obra —\n' +
-          'amor, morte, crime — tiveram lugar numa escada. A escalada ou a\n' +
-          'ascensão simboliza <i>o caminho para a realidade absoluta</i>; e, na consciência\n' +
-          'profana, a aproximação desta realidade provoca um sentimento\n' +
-          'ambivalente de medo e de alegria, de atracção e de repulsa, etc. As ideias\n' +
-          'de santificação, de morte, de amor e de libertação estão implicadas no\n' +
-          'simbolismo da escada. Com efeito, cada um destes modos de ser\n' +
-          'representa a abolição da condição humana profana, isto é, uma ruptura\n' +
-          'de nível ontológica: através do amor, da morte, da santidade, do\n' +
-          'conhecimento metafísico, o homem passa, como o diz a <i>Brihadâranyaka\n' +
-          'Upanisad</i>, do «irreal à realidade».',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
       },
       {
-        text: 'Mas, é preciso que não se esqueça, a escada simboliza todas as\n' +
-          'coisas porque se supõe erguer-se num «centro», porque torna possível a\n' +
-          'comunicação entre os diferentes níveis do ser, porque, enfim, não é mais\n' +
-          'do que uma fórmula concreta da escada mítica, da liana ou do fio de\n' +
-          'aranha, da Árvore Cósmica ou do Pilar universal que ligam as três zonas\n' +
-          'cósmicas.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
+        text: '',
+        footnote: []
+      },
+      {
+        text: '',
+        footnote: []
+      },
+      {
+        text: '',
+        footnote: []
+      },
+      {
+        text: '',
+        footnote: []
       }
     ]
   },
@@ -7961,6 +7597,717 @@ export default [
       },
       {
         text: '<i>Tradução e notas de Amador Cisneiros</i>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Imagens e Símbolos IV',
+    author: 'Mircea Eliade',
+    section: 'Simbolismo de Centro',
+    img: 'mirceaEliade',
+    imgIndex: '3',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'simbolismo-de-centro',
+    content: 'Voltemos  pois  à  imagem  das  três  regiões  cósmicas  ligadas,  num«Centro»  por  um  eixo.  É  sobretudo  nas  civilizações  palco-orientais  queencontramos esta imagem arquetípica. O nome dos santuários de Nippur,Larsa e Sippar eraDur-an-ki,«ligação entre o céu e a terra». Mas é aindana Babilónia que se faz a ligação entre a Terra e as regiões inferiores, poisa  cidade  fora  edificada  sobrebâb-apsi,a  «Porta  deapsû»,designandoapsû   as   águas   do   caos   antes  da   Criação.   Encontramos   esta   mesmatradição    entra    os    hebreus.    O    rochedo    de    Jerusalém    penetravaprofundamente nas águas subterrâneas(tehôm).Diz-se na Mishna que oTemplo   se   encontra   precisamente   em   cima   detehôm(equivalentehebraico deapsû).E, ainda como na Babilónia, havia a «porta deapsû»:orochedo do Templo de Jerusalém fechava a «boca dotehôm».Encontram-se   tradições   similares   no   mundo   indo-europeu.   Nos   Romanos,   porexemplo, omundusconstitui o ponto de encontro das regiões inferiores edo  mundo  terrestre.  O  templo  itálico  era  a  zonade  intersecção  dosmundos superior (divino), terrestre e subterrâneo (infernal; cf.Le Mythede l\'Eternel Retour,pp. 32sq.).',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
+    paragraphs: [
+      {
+        text: 'Voltemos pois à imagem das três regiões cósmicas ligadas, num\n' +
+          '«Centro» por um eixo. É sobretudo nas civilizações palco-orientais que\n' +
+          'encontramos esta imagem arquetípica. O nome dos santuários de Nippur,\n' +
+          'Larsa e Sippar era <i>Dur-an-ki</i>, «ligação entre o céu e a terra». Mas é ainda\n' +
+          'na Babilónia que se faz a ligação entre a Terra e as regiões inferiores, pois\n' +
+          'a cidade fora edificada sobre <i>bâb-apsi</i>, a «Porta de <i>apsû</i>», designando\n' +
+          'apsû as águas do caos antes da Criação. Encontramos esta mesma\n' +
+          'tradição entra os hebreus. O rochedo de Jerusalém penetrava\n' +
+          'profundamente nas águas subterrâneas (<i>tehôm</i>). Diz-se na Mishna que o\n' +
+          'Templo se encontra precisamente em cima de tehôm (equivalente\n' +
+          'hebraico de <i>apsû</i>). E, ainda como na Babilónia, havia a «porta de <i>apsû</i>»: o\n' +
+          'rochedo do Templo de Jerusalém fechava a «boca do <i>tehôm</i>». Encontramse\n' +
+          'tradições similares no mundo indo-europeu. Nos Romanos, por\n' +
+          'exemplo, o mundus constitui o ponto de encontro das regiões inferiores e\n' +
+          'do mundo terrestre. O templo itálico era a zona de intersecção dos\n' +
+          'mundos superior (divino), terrestre e subterrâneo (infernal; cf. <i>Le Mythe\n' +
+          'de l\'Eternel Retour, pp. 32 sq.</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'De fato, toda a cidade oriental se encontrava no centro do mundo.\n' +
+          'Babilónia era uma <i>Bâbilâni</i>, uma «porta dos deuses», pois era aí que os deuses desciam à terra. A capital do soberano chinês perfeito encontravase\n' +
+          'junto da Árvore miraculosa «<i>Mastro erguido</i>», <i>Kien-mou</i>, no ponto\n' +
+          'onde se entrecruzavam as três zonas cósmicas: Céu, Terra e Inferno. E\n' +
+          'poder-se-ia continuar a acumular exemplos indefinidamente. Todas estas\n' +
+          '\'cidades, templos ou palácios considerados como Centros do Mundo, não\n' +
+          'são mais do que réplicas infinitamente multiplicadas de uma imagem\n' +
+          'arcaica: a Montanha Cósmica, a Arvore do Mundo ou o Pilar central que\n' +
+          'sustém os níveis cósmicos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O símbolo de uma Montanha, de uma Árvore ou de um Pilar situados\n' +
+          'no Centro do Mundo, está extremamente difundido. Recordemos o\n' +
+          'Monte Meru da tradição índia, Haraberazaiti dos iranianos, Himingbjõr\n' +
+          'dos Germânicos, o «Monte dos Países» da tradição mesopotâmica, o\n' +
+          'Monte Thabor, na Palestina, (que poderia significar <i>tabbur</i> ou seja\n' +
+          '«umbigo da terra», o Gólgota que, para os cristãos, se encontra no centro\n' +
+          'do mundo, etc. (cf. <i>Traité, pp 321 sq.; Le Mythe de l\'Éternel Retour, pp. 30\n' +
+          'sq</i>.) Pelo fato de o território, a cidade, o templo ou o palácio real se\n' +
+          'encontrarem no «Centro do Mundo», isto é no cume da Montanha\n' +
+          'Cósmica, aqueles eram considerados como o lugar mais alto do mundo, o\n' +
+          'único que não fora submergido pelo dilúvio. «A terra de Israel não foi\n' +
+          'submergida pelo dilúvio», diz um texto rabínico. E, segundo a tradição\n' +
+          'islâmica, o lugar mais elevado da terra é a Kâ\'aba, porque «a estrela polar\n' +
+          'prova que ela se encontra na direcção do centro do Céu» (textos do\n' +
+          '<i>Mythe de l\'Éternel Retour, pp. 33</i>). O nome das torres e dos templos\n' +
+          'sagrados da Babilónia testemunha a sua assimilação à Montanha Cósmica,\n' +
+          'quer dizer ao Centro do Mundo: «Monte da Casa», «Casa do Monte de\n' +
+          'todas as terras», «Monte das tempestades», «Ligação entre o Céu e a\n' +
+          'Terra», etc. A <i>ziqqurar</i> era, a bem dizer, uma montanha cósmica, isto é,\n' +
+          'uma imagem simbólica do Cosmos: os sete andares representavam os\n' +
+          'sete céus planetários; subindo-os o padre atingia o topo do Universo. Este\n' +
+          'mesmo simbolismo está na base da construção do templo de Barabudur:\n' +
+          'este é edificado como uma montanha artificial. A sua ascensão equivale a\n' +
+          'uma viagem ao Centro do Mundo; ao atingir o terraço superior o\n' +
+          'peregrino realiza uma ruptura de nível; ele transcende o espaço profano e\n' +
+          'penetra numa «região pura». Estamos em presença de um «rito do centro» (textos em <i>Traité, pp. 323 sq.</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O topo da Montanha Cósmica não é apenas o ponto mais alto da\n' +
+          'Terra; ele é o umbigo da Terra, o ponto onde começou a criação. «O\n' +
+          'Santíssimo criou o mundo como um embrião», afirma um texto rabínico.\n' +
+          '«Tal como o embrião cresce a partir do umbigo, também Deus começou a\n' +
+          'criar o mundo pelo umbigo e daí ele expandiu-se em todas as direções.»\n' +
+          '«O mundo foi criado começando por Sião», diz um outro texto. O mesmo\n' +
+          'simbolismo aparece na Índia antiga: no <i>Rig Veda</i>, o Universo é concebido\n' +
+          'como adquirindo a sua extensão a partir de um ponto central (cf. <i>Traité,\n' +
+          'p. 324; Le Mythe, p. 36</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A criação do homem, réplica da cosmologia, teve semelhantemente\n' +
+          'lugar num ponto central, no Centro do Mundo. Segundo a tradição\n' +
+          'mesopotâmica, o homem foi feito no «umbigo da terra», no mesmo lugar\n' +
+          'onde se encontra também <i>Dur-an-ki</i>, o «laço entre o Céu e a Terra».\n' +
+          'Ohrmazd cria o homem primordial, Gajômard, no centro do Mundo. O\n' +
+          'Paraíso onde Adão foi criado a partir do barro encontra-se, bem\n' +
+          'entendido, no Centro do Cosmos. O Paraíso era o «umbigo da Terra», e,\n' +
+          'segundo uma tradição síria, ficava «numa montanha mais alta ido que\n' +
+          'todas as outras». De acordo com o livro sírio <i>A caverna dos Tesouros</i>,\n' +
+          'Adão foi criado no Centro da Terra, no próprio local onde devia erguer-se\n' +
+          'mais tarde a Cruz de Jesus. As mesmas tradições foram conservadas pelo\n' +
+          'judaismo. O apocalipse judaico e o midrash precisam que Adão foi criado\n' +
+          'em Jerusalém. Tendo Adão sido enterrado no mesmo local onde fora\n' +
+          'criado, ou seja no centro do mundo, sobre o Gólgota, também o sangue\n' +
+          'do Senhor o redimiu (ver <i>Traité, pp. 323 sq.; Le Mythe, pp. 32 sq.</i>). A\n' +
+          'variante mais difundida do simbolismo do Centro é a Árvore Cósmica que\n' +
+          'se encontra no meio do Universo e que sustenta, como um eixo, os três\n' +
+          'Mundos. A Índia de Veda, a China antiga, a mitologia germânica tal como\n' +
+          'as religiões «primitivas» conhecem, sob formas diferentes, esta Árvore\n' +
+          'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
+          'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
+          'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
+          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#footnotes">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
+          'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
+          'rituais que encontramos na história das religiões não passa de réplica, de\n' +
+          'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
+          'dizer, supõe-se que todas as árvores sagradas se encontram no Centro do\n' +
+          'Mundo e todas as árvores rituais ou postes, que se consagram antes ou\n' +
+          'durante qualquer cerimónia religiosa, são como que magicamente\n' +
+          'projetados no Centro doMundo. Contentemo-nos com alguns exemplos.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Cf. nosso Traité pp. 236 sq.; Le Chamanisme, pp. 244 sq.; sobre o simbolismo cristão\n' +
+              'da Cruz = Árvore Cósmica, ver H. de Lubac, Aspets da Boudhisme (Paris, 1951),\n' +
+              'pp. 61 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Na índia védica o poste sacrificial (<i>yûpa</i>) é feito de uma árvore que é\n' +
+          'assimilada à Árvore Universal. Enquanto se abate, o padre sacrificador\n' +
+          'dirige-lhe estas palavras: «Com o teu cimo não rasgues o Céu, com o teu\n' +
+          'centro não firas a atmosfera...» Vê-se bem que nos encontramos aqui\n' +
+          'perante a Árvore do Mundo. Da madeira dessa árvore faz-se o poste\n' +
+          'sacrificial e este torna-se uma espécie de pilar cósmico: «Ergue-te, oh\n' +
+          'Senhor da floresta ao topo da Terral», assim invoca o <i>Rig Veda, III, 8, 3</i>.\n' +
+          '«Com o teu cimo suportas o Céu, com a tua parte média enches os ares,\n' +
+          'com o teu pé seguras a Terra», proclama o <i>Çatapatha Brâhmana, III, 7, 1,\n' +
+          '4</i>.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A instalação e a consagração do poste sacrificial constituem um rito\n' +
+          'do Centro. Assimilado à Árvore do Mundo o poste transforma-se por seu\n' +
+          'turno no eixo que liga as três regiões cósmicas. A comunicação entre o\n' +
+          'Céu e a Terra torna-se possível por meio deste pilar. E, de fato, o\n' +
+          'sacrificador sobe ao Céu, só ou com a mulher, neste poste transformado\n' +
+          'ritualmente no próprio Eixo do Mundo. Colocando uma escada, o\n' +
+          'sacrificador dirige-se à mulher: «Vem, subamos ao Céu!» «A mulher\n' +
+          'responde: subamos!» (<i>Çat. Br.</i>, V, 2, 1, 9). E começam a subir a escada. No\n' +
+          'topo e tocando o capitel, o sacrificador exclama: «Chegámos ao Céu!\n' +
+          '(<i>Taittiriya Samhitâ, Çat. Br.</i>, etc.). Ou, escalando os degraus do poste,\n' +
+          'estende as mãos (como uma ave estende as asas) e, chegado ao cimo\n' +
+          'exclama: «Atingi o Céu, os deuses: tornei-me imortal!» (<i>Taittiriya Samhitâ, 1, 7, 9</i>). «Na verdade, diz ainda o <i>Taittiriya Samhitâ</i> (VI, 6, 4, 2), o\n' +
+          'sacrificador faz uma escada e uma ponte para atingir o mundo celeste.»',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O ponto ou a escada entre o Céu e a Terra eram possíveis porque se\n' +
+          'elevavam num Centro do Mundo. Exatamente como a escada vista em\n' +
+          'sonhos por Jacob e que tocava no Céu. E «os anjos de Deus subiam e\n' +
+          'desciam ao longo dessa escada» (Génesis, 28, 11 sq.). O rito índio faz\n' +
+          'também alusão à imortalidade que se obtém por se ter subido ao Céu.\n' +
+          'Como veremos dentro em pouco, uma quantidade de outras abordagens\n' +
+          'rituais de um Centro equivalem a uma conquista da imortalidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A assimilação da árvore ritual à Árvore Cósmica é ainda mais\n' +
+          'transparente no Xamanismo central e norte-asiático. A escalada desta\n' +
+          'árvore para o Xamã tártaro simboliza a sua ascensão ao Céu.\n' +
+          'Efetivamente fazem-se na árvore 7 ou 9 entalhes e subindo por eles o\n' +
+          'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
+          'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
+          'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
+          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#footnotes">2</a></sup>.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. materiais e bibliografia no nosso livro Le Chamanisme, pp. 171 sq.'
+          }
+        ]
+      },
+      {
+        text: 'A árvore xamânica é apenas uma réplica da Árvore do Mundo, que se\n' +
+          'eleva no meio do Universo e no cimo da qual se encontra o Deus Supremo\n' +
+          'ou o deus solarizado. Os 7 ou 9 entalhes na árvore Xamânica simbolizam\n' +
+          'os 7 ou 9 ramos da Árvore Cósmica, ou seja os 7 ou 9 céus. O xamã sentese,\n' +
+          'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
+          'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
+          'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
+          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#footnotes">3</a></sup>. É\n' +
+          'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
+          'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
+          'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
+          'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
+          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#footnotes">4</a></sup>. Estamos\n' +
+          'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
+          'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
+          'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
+          'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
+          'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
+          'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
+          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#footnotes">5</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'A. A. Popov, Tavgijcy. Materialy po etnografii avamskich i vedeevskich tavgicev\n' +
+              '(Moska-Leningrad, 1936), pp. 84 sq.; ver Le Chamanisme et les techniques\n' +
+              'archaiques de l\'extase, pp. 160 sq.'
+          },
+          {
+            index: 4,
+            content: 'Cf. E. Emsheimer, Schamanentrommel und Trommelbaum (Ethnos, vol. IV, 1946, pp. 166-181).'
+          },
+          {
+            index: 5,
+            content: 'A ascensão iniciática de uma árvore cerimonial encontra-se também no\n' +
+              'xamanismo indonésio, sul-americano (Araucan) e norte-americano (Pomo), cf.\n' +
+              'Le Chamanisme, pp. 122 sq., 125 sq.'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'A Carteira',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado',
+    imgIndex: '6',
+    titleURL: 'a-carteira',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '...De repente, Honório olhou para o chão e viu uma carteira.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Abaixar-se, apanhá-la e guardá-la foi obra de alguns instantes. Ninguém o\n' +
+          'viu, salvo um homem que estava à porta de uma loja, e que, sem o conhecer, lhe\n' +
+          'disse rindo:',
+        footnote: []
+      },
+      {
+        text: '— Olhe, se não dá por ela; perdia-a de uma vez.',
+        footnote: []
+      },
+      {
+        text: '— É verdade, concordou Honório envergonhado.',
+        footnote: []
+      },
+      {
+        text: 'Para avaliar a oportunidade desta carteira, é preciso saber que Honório tem\n' +
+          'de pagar amanhã uma dívida, quatrocentos e tantos mil-réis, e a carteira trazia o\n' +
+          'bojo recheado. A dívida não parece grande para um homem da posição de Honório,\n' +
+          'que advoga; mas todas as quantias são grandes ou pequenas, segundo as\n' +
+          'circunstâncias, e as dele não podiam ser piores. Gastos de família excessivos, a\n' +
+          'princípio por servir a parentes, e depois por agradar à mulher, que vivia aborrecida\n' +
+          'da solidão; baile daqui, jantar dali, chapéus, leques, tanta cousa mais, que não havia\n' +
+          'remédio senão ir descontando o futuro.',
+        footnote: []
+      },
+      {
+        text: 'Endividou-se. Começou pelas contas de lojas e armazéns; passou aos\n' +
+          'empréstimos, duzentos a um, trezentos a outro, quinhentos a outro, e tudo a crescer,\n' +
+          'e os bailes a darem-se, e os jantares a comerem-se, um turbilhão perpétuo, uma\n' +
+          'voragem.',
+        footnote: []
+      },
+      {
+        text: '—Tu agora vais bem, não? dizia-lhe ultimamente o Gustavo C..., advogado e\n' +
+          'familiar da casa.',
+        footnote: []
+      },
+      {
+        text: '— Agora vou, mentiu o Honório.',
+        footnote: []
+      },
+      {
+        text: 'A verdade é que ia mal. Poucas causas, de pequena monta, e constituintes\n' +
+          'remissos; por desgraça perdera ultimamente um processo, com que fundara grandes\n' +
+          'esperanças. Não só recebeu pouco, mas até parece que ele lhe tirou alguma cousa\n' +
+          'à reputação jurídica; em todo caso, andavam mofinas nos jornais.',
+        footnote: []
+      },
+      {
+        text: 'D. Amélia não sabia nada; ele não contava nada à mulher, bons ou maus\n' +
+          'negócios. Não contava nada a ninguém. Fingia-se tão alegre como se nadasse em\n' +
+          'um mar de prosperidades. Quando o Gustavo, que ia todas as noites à casa dele,\n' +
+          'dizia uma ou duas pilhérias, ele respondia com três e quatro; e depois ia ouvir os\n' +
+          'trechos de música alemã, que D. Amélia tocava muito bem ao piano, e que o\n' +
+          'Gustavo escutava com indizível prazer, ou jogavam cartas, ou simplesmente\n' +
+          'falavam de política.',
+        footnote: []
+      },
+      {
+        text: 'Um dia, a mulher foi achá-lo dando muitos beijos à filha, criança de quatro\n' +
+          'anos, e viu-lhe os olhos molhados; ficou espantada, e perguntou-lhe o que era.',
+        footnote: []
+      },
+      {
+        text: '— Nada, nada.',
+        footnote: []
+      },
+      {
+        text: 'Compreende-se que era o medo do futuro e o horror da miséria.',
+        footnote: []
+      },
+      {
+        text: 'Mas as esperanças voltavam com facilidade. A idéia de que os dias\n' +
+          'melhores tinham de vir dava-lhe conforto para a luta. Estava com, trinta e quatro anos; era o princípio da carreira: todos os princípios são difíceis. E toca a trabalhar,\n' +
+          'a esperar, a gastar, pedir fiado ou: emprestado, para pagar mal, e a más horas.',
+        footnote: []
+      },
+      {
+        text: 'A dívida urgente de hoje são uns malditos quatrocentos e tantos mil-réis de\n' +
+          'carros. Nunca demorou tanto a conta, nem ela cresceu tanto, como agora; e, a rigor,\n' +
+          'o credor não lhe punha a faca aos peitos; mas disse-lhe hoje uma palavra azeda,\n' +
+          'com um gesto mau, e Honório quer pagar-lhe hoje mesmo. Eram cinco horas da\n' +
+          'tarde.',
+        footnote: []
+      },
+      {
+        text: 'Tinha-se lembrado de ir a um agiota, mas voltou sem ousar pedir nada. Ao\n' +
+          'enfiar pela Rua. da Assembléia é que viu a carteira no chão, apanhou-a, meteu no\n' +
+          'bolso, e foi andando.',
+        footnote: []
+      },
+      {
+        text: 'Durante os primeiros minutos, Honório não pensou nada; foi andando,\n' +
+          'andando, andando, até o Largo da Carioca. No Largo parou alguns instantes, —\n' +
+          'enfiou depois pela Rua da Carioca, mas voltou logo, e entrou na Rua Uruguaiana.\n' +
+          'Sem saber como, achou-se daí a pouco no Largo de S. Francisco de Paula; e ainda,\n' +
+          'sem saber como, entrou em um Café. Pediu alguma cousa e encostou-se à parede,\n' +
+          'olhando para fora. Tinha medo de abrir a carteira; podia não achar nada, apenas\n' +
+          'papéis e sem valor para ele. Ao mesmo tempo, e esta era a causa principal das\n' +
+          'reflexões, a consciência perguntava-lhe se podia utilizar-se do dinheiro que achasse.\n' +
+          'Não lhe perguntava com o ar de quem não sabe, mas antes com uma expressão\n' +
+          'irônica e de censura. Podia lançar mão do dinheiro, e ir pagar com ele a dívida?',
+        footnote: []
+      },
+      {
+        text: 'Eis o ponto. A consciência acabou por lhe dizer que não podia, que devia\n' +
+          'levar a carteira à polícia, ou anunciá-la; mas tão depressa acabava de lhe dizer isto,\n' +
+          'vinham os apuros da ocasião, e puxavam por ele, e convidavam-no a ir pagar a\n' +
+          'cocheira. Chegavam mesmo a dizer-lhe que, se fosse ele que a tivesse perdido,\n' +
+          'ninguém iria entregar-lha; insinuação que lhe deu ânimo.',
+        footnote: []
+      },
+      {
+        text: 'Tudo isso antes de abrir a carteira. Tirou-a do bolso, finalmente, mas com\n' +
+          'medo, quase às escondidas; abriu-a, e ficou trêmulo. Tinha dinheiro, muito dinheiro;\n' +
+          'não contou, mas viu duas notas de duzentos mil-réis, algumas de cinqüenta e vinte;\n' +
+          'calculou uns setecentos mil-réis ou mais; quando menos, seiscentos. Era a dívida\n' +
+          'paga; eram menos algumas despesas urgentes. Honório teve tentações de fechar os\n' +
+          'olhos, correr à cocheira, pagar, e, depois de paga a dívida, adeus; reconciliar-se-ia\n' +
+          'consigo. Fechou a carteira, e com medo de a perder, tornou a guardá-la.',
+        footnote: []
+      },
+      {
+        text: 'Mas daí a pouco tirou-a outra vez, e abriu-a, com vontade de contar o\n' +
+          'dinheiro. Contar para quê? era dele? Afinal venceu-se e contou: eram setecentos e\n' +
+          'trinta mil-réis. Honório teve um calafrio.',
+        footnote: []
+      },
+      {
+        text: 'Ninguém viu, ninguém soube; podia ser um lance da fortuna, a sua boa sorte,\n' +
+          'um anjo... Honório teve pena de não crer nos anjos...',
+        footnote: []
+      },
+      {
+        text: 'Mas por que não havia de crer neles? E voltava ao dinheiro, olhava,\n' +
+          'passava-o pelas mãos; depois, resolvia o contrário, não usar do achado, restituí-lo.\n' +
+          'Restituí-lo a quem? Tratou de ver se havia na carteira algum sinal.',
+        footnote: []
+      },
+      {
+        text: '"Se houver um nome, uma indicação qualquer, não posso utilizar-me do\n' +
+          'dinheiro," pensou ele.',
+        footnote: []
+      },
+      {
+        text: 'Esquadrinhou os bolsos da carteira. Achou cartas, que não abriu,\n' +
+          'bilhetinhos dobrados, que não leu, e por fim um cartão de visita; leu o nome; era do\n' +
+          'Gustavo. Mas então, a carteira?... Examinou-a por fora, e pareceu-lhe efetivamente\n' +
+          'do amigo. Voltou ao interior; achou mais dous cartões, mais três, mais cinco. Não\n' +
+          'havia duvidar; era dele.',
+        footnote: []
+      },
+      {
+        text: 'A descoberta entristeceu-o. Não podia ficar com o dinheiro, sem praticar um\n' +
+          'ato ilícito, e, naquele caso, doloroso ao seu coração porque era em dano de um\n' +
+          'amigo. Todo o castelo levantado esboroou-se como se fosse de cartas. Bebeu a última gota de café, sem reparar que estava frio. Saiu, e só então reparou que era\n' +
+          'quase noite. Caminhou para casa. Parece que a necessidade ainda lhe deu uns\n' +
+          'dous empurrões, mas ele resistiu.',
+        footnote: []
+      },
+      {
+        text: '"Paciência, disse ele consigo; verei amanhã o que posso fazer."',
+        footnote: []
+      },
+      {
+        text: 'Chegando a casa, já ali achou o Gustavo, um pouco preocupado e a própria\n' +
+          'D. Amélia o parecia também. Entrou rindo, e perguntou ao amigo se lhe faltava\n' +
+          'alguma cousa.',
+        footnote: []
+      },
+      {
+        text: '— Nada.',
+        footnote: []
+      },
+      {
+        text: '— Nada?',
+        footnote: []
+      },
+      {
+        text: '— Por quê?',
+        footnote: []
+      },
+      {
+        text: '— Mete a mão no bolso; não te falta nada?',
+        footnote: []
+      },
+      {
+        text: '— Falta-me a carteira, disse o Gustavo sem meter a mão no bolso.',
+        footnote: []
+      },
+      {
+        text: '— Sabes se alguém a achou?',
+        footnote: []
+      },
+      {
+        text: '— Achei-a eu, disse Honório entregando-lha.',
+        footnote: []
+      },
+      {
+        text: 'Gustavo pegou dela precipitadamente, e olhou desconfiado para o amigo.\n' +
+          'Esse olhar foi para Honório como um golpe de estilete; depois de tanta luta com a\n' +
+          'necessidade, era um triste prêmio. Sorriu amargamente; e, como o outro lhe\n' +
+          'perguntasse onde a achara, deu-lhe as explicações precisas.',
+        footnote: []
+      },
+      {
+        text: '— Mas conheceste-a?',
+        footnote: []
+      },
+      {
+        text: '— Não; achei os teus bilhetes de visita.',
+        footnote: []
+      },
+      {
+        text: 'Honório deu duas voltas, e foi mudar de toilette para o jantar.',
+        footnote: []
+      },
+      {
+        text: 'Então Gustavo sacou novamente a carteira, abriu-a, foi a um dos bolsos, tirou\n' +
+          'um dos bilhetinhos, que o outro não quis abrir nem ler, e estendeu-o a D. Amélia,\n' +
+          'que, ansiosa e trêmula, rasgou-o em trinta mil pedaços: era um bilhetinho de amor.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Imagens e Símbolos V',
+    author: 'Mircea Eliade',
+    section: 'Simbolismo da Ascenção',
+    img: 'mirceaEliade',
+    imgIndex: '3',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'simbolismo-da-ascencao',
+    content: 'É  bastante  provável  que,  pelo  menos  no  caso  das  religiões  centro-asiáticas  e  siberianas,  este  simbolismo  do  Centro  seja  influenciado  poresquemascosmológicosindo-iranianose,emúltimaanálise,mesopotâmicos. A importância do número 7, entre outras coisas, pareceprová-lo. Mas importa fazer bem a distinção entre o empréstimo de umateoria cosmológicaelaborada em torno do simbolismo do Centro—comoseria, por exemplo, a concepção de 7 níveis celestes—e osimbolismodocentro em si. Já vimos que este simbolismo é extremamente arcaico,queé  conhecido  pelos  Pigmeus  da  península  de  Malaca.  E  mesmo  que  sepudesse  suspeitar  de  uma  longínqua  influência  indiana  nestes  PigmeusSemang, ficaria ainda por explicar o simbolismo do Centro encontrado nosmonumentos   pré-históricos   (Montanhas   Cósmicas,   os   quatro   rios,   aÁrvore   e   a   espiral,   etc.).   Melhor   ainda:   pôde   demonstrar-se   que   ',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
+    paragraphs: [
+      {
+        text: 'É bastante provável que, pelo menos no caso das religiões centroasiáticas\n' +
+          'e siberianas, este simbolismo do Centro seja influenciado por\n' +
+          'esquemas cosmológicos indo-iranianos e, em última análise,\n' +
+          'mesopotâmicos. A importância do número 7, entre outras coisas, parece\n' +
+          'prová-lo. Mas importa fazer bem a distinção entre o empréstimo de uma\n' +
+          '<i>teoria cosmológica</i> elaborada em torno do simbolismo do Centro — como\n' +
+          'seria, por exemplo, a concepção de 7 níveis celestes — e o <i>simbolismo</i> do\n' +
+          'centro em si. Já vimos que este simbolismo é extremamente arcaico, que\n' +
+          'é conhecido pelos Pigmeus da península de Malaca. E mesmo que se\n' +
+          'pudesse suspeitar de uma longínqua influência indiana nestes Pigmeus\n' +
+          'Semang, ficaria ainda por explicar o simbolismo do Centro encontrado nos\n' +
+          'monumentos pré-históricos (Montanhas Cósmicas, os quatro rios, a\n' +
+          'Árvore e a espiral, etc.). Melhor ainda: pôde demonstrar-se que o simbolismo de um eixo cósmico é já conhecido nas culturas arcaicas (as\n' +
+          '<i>Urkulturen</i> da escola Graebner-Schmidt) e, em primeiro lugar, pelas\n' +
+          'populações árticas e norte-americanas: a trave central da habitação\n' +
+          'destes povos é assimilada ao Eixo Cósmico. E é na base deste poste que se\n' +
+          'colocam as oferendas destinadas às divindades celestiais, pois é só ao\n' +
+          'longo deste eixo que as oferendas podem subir ao céu<sup><a href="#footnotes">1</a></sup>. Quando a forma\n' +
+          'da habitação se altera a cabana é substituída pela yurta (como, por\n' +
+          'exemplo, entre os pastores-criadores da Ásia central), a função míticoritual\n' +
+          'do pilar central é assegurada pela abertura superior destinada esta\n' +
+          'ao escapamento do fumo. Na altura dos sacrifícios, introduz-se na yurta\n' +
+          'uma árvore cujo cimo sai por aquela abertura. Esta árvore sacrificial, pelos\n' +
+          'seus 7 ramos simboliza as 7 esferas celestes. Assim, por um lado, <i>a casa\n' +
+          'está homologada ao Universo</i> e por outro lado ela é vista como situada no\n' +
+          '<i>Centro do Mundo</i>, ficando a abertura destinada ao fumo na direcção da\n' +
+          'estrela polar.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ver Le Chamanisme, pp. 235 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Voltaremos em breve a esta assimilação simbólica da habitação no\n' +
+          '«Centro do Mundo», pois ela trai um dos comportamentos mais\n' +
+          'instrutivos do homem religioso arcaico. Para já fiquemos nos ritos de\n' +
+          'ascensão que se verificam num «centro». Vimos que o Xamã tártaro ou\n' +
+          'siberiano trepa a uma árvore e que o sacrificador védico sobe uma\n' +
+          'escada. Os dois ritos perseguem a mesma finalidade: a ascensão ao Céu.\n' +
+          'Um número considerável de mitos fala de uma árvore, de uma liana, de\n' +
+          'uma corda, de um fio de aranha ou de uma escada que liga a Terra ao Céu\n' +
+          'e por intermédio dos quais certos seres privilegiados sobem efetivamente\n' +
+          'ao céu. Estes mitos têm, bem entendido, correspondências rituais —\n' +
+          'como, por exemplo a árvore Xamânica ou o mastro do sacrifício védico. A\n' +
+          'escada cerimonial desempenha igualmente um papel importante.\n' +
+          'Contentemo-nos com alguns exemplos: Polyeno (<i>Stratagematon</i>, VII, 22)\n' +
+          'fala-nos de Kosingas, padre-rei de algumas populações da Trácia, que\n' +
+          'ameaçava deixar os súbditos subindo por uma escada de madeira até à\n' +
+          'deusa Hera; o que prova que a dita escada ritual existia e que se supunha\n' +
+          'que pudesse conduzir o padre-rei até ao Céu. A ascensão celeste pela subida cerimonial de uma escada fazia provavelmente parte de uma\n' +
+          'iniciação órfica. Em todo o caso voltamos a encontrá-la na iniciação\n' +
+          'mitríaca. Nos mistérios de Mithra, a escada (<i>clímax</i>) cerimonial tinha 7\n' +
+          'degraus, sendo cada degrau feito de um metal diferente. Segundo Celso\n' +
+          '(Origines, <i>Contra Celsum</i>, VI, 22), o primeiro degrau era de chumbo e\n' +
+          'correspondia ao «céu» do planeta Saturno, o segundo de estanho\n' +
+          '(Vénus), o terceiro de bronze (Júpiter), o quarto de ferro (Mercúrio), o\n' +
+          'quinto de «liga de moeda» (Marte), o sexto de prata (Lua), o sétimo de\n' +
+          'ouro (Sol). O oitavo degrau, diz-nos Celso, representa a esfera das estrelas\n' +
+          'fixas<sup><a href="#footnotes">2</a></sup>. Subindo esta escada cerimonial, o iniciado percorria efetivamente\n' +
+          'os 7 céus elevando-se assim até ao Empíreo — tal como se subia ao\n' +
+          'último céu escalando os 7 andares da <i>ziqqurat</i> babilónica ou se\n' +
+          'atravessavam as diferentes regiões cósmicas pelos terraços do templo\n' +
+          'Barabudur que constituía em si próprio, como vimos, uma Montanha\n' +
+          'Cósmica e uma <i>imago mundi</i>.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. os materiais reunidos no nosso Chamanisme, pp. 248 sq. Para o simbolismo\n' +
+              'cristão da ascensão ver Louis Beirnaert, Le Symbolisme ascensionnel dans la\n' +
+              'liturgie et la mystique chrétiennes (Eranos-Jahrbuch, XIX, Zürich, 1951, pp. 41-\n' +
+              '63).'
+          }
+        ]
+      },
+      {
+        text: 'Compreende-se facilmente que a escada da iniciação mitríaca era um\n' +
+          'Eixo do Mundo e que se encontrava no Centro do Universo; de outro\n' +
+          'modo a ruptura dos níveis não teria sido possível. «Iniciação» quer dizer,\n' +
+          'como se sabe, morte e ressurreição do neófito, ou, noutros contextos,\n' +
+          'descida aos Infernos seguida de ascensão ao Céu. A morte — iniciática ou\n' +
+          'não— é a ruptura de nível por excelência. E por isso que ela é simbolizada\n' +
+          'por uma escalada e frequentemente os rituais funerários utilizam escadas\n' +
+          'ou escadarias. A alma do morto sobe as veredas de uma montanha, ou\n' +
+          'trepa a uma árvore, ou liana até aos céus. Esta concepção encontra-se um\n' +
+          'pouco por todo o mundo, desde o Egipto antigo à Austrália. A expressão\n' +
+          'habitual em assiriano para o verbo «morrer» é: «agarrar-se à montanha».\n' +
+          'Igualmente em egípcio, <i>myny</i>, «agarrar-se», é um eufemismo para\n' +
+          '«morrer». Na tradição mítica indiana, Yam, o primeiro morto, trepou à\n' +
+          'montanha e percorreu os «altos desfiladeiros» para mostrar «o caminho a muitos homens»; assim se exprime o <i>Rig Veda</i> (X, 14, 1). O caminho dos\n' +
+          'mortos na crença popular uralo-altaica é a escalada dos montes; Bolot,\n' +
+          'herói Kara-Kirghiz, tal como Kesar, rei lendário dos mongóis, entra no\n' +
+          'outro mundo, à maneira de prova iniciática, por uma gruta situada no\n' +
+          'topo das montanhas; a descida do xamã aos Infernos também se realiza\n' +
+          'por meio de uma gruta. Os Egípcios conservam nos seus textos funerários\n' +
+          'a expressão <i>asket pet</i> (<i>asket</i> = «degrau») para indicar que a escada de que\n' +
+          'dispõe Ré, é uma escada real que liga a Terra ao Céu. «Está instalada, para\n' +
+          'mim, a escada de ver os deuses», diz o <i>Livro dos Mortos</i>. «Os deuses\n' +
+          'fazem-lhe uma escada para que, ao servir-se dela, ele suba ao Céu», diz\n' +
+          'ainda aquele livro. Em muitos túmulos do tempo das dinastias arcaicas e\n' +
+          'medievais, encontraram-se amuletos em forma de escada (<i>maqet</i>) ou\n' +
+          'uma escalda. O uso da escada funerária sobreviveu algures até aos nossos\n' +
+          'dias: diversas populações asiáticas primitivas — como, por exemplo, os\n' +
+          'Lolos, os Karens, etc. — erguem sobre os túmulos escadas rituais que\n' +
+          'servem para os defuntos subirem aos Céus<sup><a href="#footnotes">3</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Ver Traité d\'Histoire des Religions, pp. 96 sq. Le Chamanisme et les techniques\n' +
+              'archaiques de l\'extase, pp. 420 sq'
+          }
+        ]
+      },
+      {
+        text: 'Como acabamos de ver, a escada contém um simbolismo\n' +
+          'extremamente rico sem deixar de ser perfeitamente coerente: <i>ela\n' +
+          'representa plasticamente a ruptura de nível que torna possível a\n' +
+          'passagem de um modo de ser a um outro</i>; ou, colocando-nos no plano\n' +
+          'cosmológico, <i>que torna possível a comunicação entre Céu, Terra e Inferno</i>.\n' +
+          'E por isso que a escada e a escalada desempenham um papel considerável\n' +
+          'tanto nos ritos e mitos de iniciação como nos ritos funerários, para não\n' +
+          'falar dos ritos de entronização real ou sacerdotal, ou dos ritos de\n' +
+          'casamento. Ora, sabe-se que o simbolismo da escalada e dos degraus se\n' +
+          'encontra com muita frequência na literatura psicanalítica, o que define\n' +
+          'que estamos perante um comportamento arcaico da psiqué humana e\n' +
+          'não perante uma criação «histórica», uma inovação devida a um certo\n' +
+          'momento histórico (digamos: o Egipto arcaico ou a índia védica, etc.).\n' +
+          'Contentemo-nos com um único exemplo de redescoberta espontânea deste simbolismo primordial<sup><a href="#footnotes">4</a></sup>.',
+        footnote: [
+          {
+            index: 4,
+            content: 'Ver nosso estudo Durohâna and the «waking dream» (Art and Thought, A\n' +
+              'volume in honour of the late Dr. Ananda K. Coomaraswamy, London, 1947, pp.\n' +
+              '209 sq.).'
+          }
+        ]
+      },
+      {
+        text: 'Julien Green nota no seu Diário de 4 de Abril de 1933: «Em todos os\n' +
+          'meus livros a ideia do medo ou de qualquer outra emoção um pouco forte\n' +
+          'parece ligada de maneira inexplicável a uma escada. Apercebi-me disso\n' +
+          'ontem, quando passava em revista todos os romances que escrevi...\n' +
+          '(Seguem-se as referências). Pergunto-me como pude eu repetir tantas\n' +
+          'vezes este efeito sem dar por isso. Em criança sonhava que me\n' +
+          'perseguiam numa escada. Minha Mãe sofreu dos mesmos temores na sua\n' +
+          'juventude; talvez tenha permanecido em mim um pouco disso...»',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Sabemos hoje por que motivo a ideia de medo, no escritor francês,\n' +
+          'está ligada à imagem de uma escada e por que razão todos os\n' +
+          'acontecimentos dramáticos por ele descritos ao longo da sua obra —\n' +
+          'amor, morte, crime — tiveram lugar numa escada. A escalada ou a\n' +
+          'ascensão simboliza <i>o caminho para a realidade absoluta</i>; e, na consciência\n' +
+          'profana, a aproximação desta realidade provoca um sentimento\n' +
+          'ambivalente de medo e de alegria, de atracção e de repulsa, etc. As ideias\n' +
+          'de santificação, de morte, de amor e de libertação estão implicadas no\n' +
+          'simbolismo da escada. Com efeito, cada um destes modos de ser\n' +
+          'representa a abolição da condição humana profana, isto é, uma ruptura\n' +
+          'de nível ontológica: através do amor, da morte, da santidade, do\n' +
+          'conhecimento metafísico, o homem passa, como o diz a <i>Brihadâranyaka\n' +
+          'Upanisad</i>, do «irreal à realidade».',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Mas, é preciso que não se esqueça, a escada simboliza todas as\n' +
+          'coisas porque se supõe erguer-se num «centro», porque torna possível a\n' +
+          'comunicação entre os diferentes níveis do ser, porque, enfim, não é mais\n' +
+          'do que uma fórmula concreta da escada mítica, da liana ou do fio de\n' +
+          'aranha, da Árvore Cósmica ou do Pilar universal que ligam as três zonas\n' +
+          'cósmicas.',
         footnote: [
           {
             index: '',
@@ -10181,6 +10528,71 @@ export default [
     ]
   },
   {
+    title: 'Spell',
+    author: 'Fernando Pessoa',
+    section: 'Poema',
+    img: 'fernandoPessoa',
+    imgIndex: '9',
+    titleURL: 'spell',
+    authorURL: 'fernando-pessoa',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>' +
+          'From the moonlit brink of dreams\n' +
+          '<br>' +
+          '        I stretch foiled hands to thee,\n' +
+          '<br>' +
+          'O borne down other streams\n' +
+          '<br>' +
+          '        Than eye can think to see!\n' +
+          '<br>' +
+          'O crowned with spirit-beams!\n' +
+          '<br>' +
+          '        O veiled spirituality!',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text:
+          '<br>' +
+          'My dreams and thoughts abate\n' +
+          '<br>' +
+          '        Their pennons at thy feet,\n' +
+          '<br>' +
+          'O angel born too late\n' +
+          '<br>' +
+          '        For fallen men to meet!\n' +
+          '<br>' +
+          'In what new sensual state\n' +
+          '<br>' +
+          '        Could our twined lives feel sweet?',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'What new emotion must\n' +
+          '<br>' +
+          '        I dream to think thee mine?\n' +
+          '<br>' +
+          'What purity of lust?\n' +
+          '<br>' +
+          '        O tendrilled as a vine\n' +
+          '<br>' +
+          'Around my caressed trust!\n' +
+          '<br>' +
+          '        O dream-pressed spirit-wine!',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Da Tranquilidade da Alma',
     author: 'Sêneca',
     section: 'Sereno a Sêneca',
@@ -10723,6 +11135,761 @@ export default [
             content: ''
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'O Colocador de Pronomes',
+    author: 'Monteiro Lobato',
+    section: 'Conto',
+    img: 'monteiroLobato',
+    imgIndex: '10',
+    titleURL: 'o-colocador-de-pronomes',
+    authorURL: 'monteiro-de-lobato',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: 'Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto',
+    paragraphs: [
+      {
+        text: 'Aldrovando Cantagalo veio ao mundo em virtude dum erro de gramática.\n',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Durante sessenta anos de vida terrena pererecou como um peru em cima da gramática.\n',
+        footnote: []
+      },
+      {
+        text: 'E morreu, afinal, vítima dum novo erro de gramática.',
+        footnote: []
+      },
+      {
+        text: 'Martir da gramática, fique este documento da sua vida como pedra angular para uma futura e bem merecida canonização.',
+        footnote: []
+      },
+      {
+        text: 'Havia em Itaoca um pobre moço que definhava de tédio no fundo de um cartório. Escrevente. Vinte e três anos. Magro. Ar um tanto palerma. Ledor de versos lacrimogêneos e pai duns acrósticos dados à luz no “Itaoquense”, com bastante sucesso.',
+        footnote: []
+      },
+      {
+        text: 'Vivia em paz com as suas certidões quando o frechou venenosa seta de Cupido. Objeto amado: a filha mais moça do coronel Triburtino, o qual tinha duas, essa Laurinha, do escrevente, então nos dezessete, e a do Carmo, encalhe da família, vesga, madurota, histérica, manca da perna esquerda e um tanto aluada.\n',
+        footnote: []
+      },
+      {
+        text: 'Triburtino não era homem de brincadeira. Esguelara um vereador oposicionista em plena sessão da câmara e desd’aí se transformou no tutú da terra. Toda gente lhe tinha um vago medo; mas o amor, que é mais forte que a morte, não receia sobrecenhos enfarruscados nem tufos de cabelos no nariz.\n',
+        footnote: []
+      },
+      {
+        text: 'Ousou o escrevente namorar-lhe a filha, apesar da distância hierárquica que os separava. Namoro à moda velha, já se vê, pois que nesse tempo não existia a gostorura dos cinemas. Encontros na igreja, à missa, troca de olhares, diálogos de flores - o que havia de inocente e puro. Depois, roupa nova, ponta de lenço de seda a entremostrar-se no bolsinho de cima e medição de passos na rua d’Ela, nos dia de folga. Depois, a serenata fatal à esquina, com o\n',
+        footnote: []
+      },
+      {
+        text: 'Acorda, donzela...\n',
+        footnote: []
+      },
+      {
+        text: 'Sapecado a medo num velho pinho de empréstimo. Depois, bilhetinho perfumado.\n',
+        footnote: []
+      },
+      {
+        text: 'Aqui se estrepou...\n',
+        footnote: []
+      },
+      {
+        text: 'Escrevera nesse bilhetinho, entretanto, apenas quatro palavras, afora pontos exclamativos e reticências:\n',
+        footnote: []
+      },
+      {
+        text: 'Anjo adorado!\n',
+        footnote: []
+      },
+      {
+        text: 'Amo-lhe!',
+        footnote: []
+      },
+      {
+        text: 'Para abrir o jogo bastava esse movimento de peão. Ora, aconteceu que o pai do anjo apanhou o bilhetinho celestial e, depois de três dias de sobrecenho carregado, mandou chamá-lo à sua presença, com disfarce de pretexto - para umas certidõesinhas, explicou.\n',
+        footnote: []
+      },
+      {
+        text: 'Apesar disso o moço veio um tanto ressabiado, com a pulga atrás da orelha.\n',
+        footnote: []
+      },
+      {
+        text: 'Não lhe erravam os pressentimentos. Mas o pilhou portas aquém, o coronel trancou o escritório, fechou a carranca e disse:\n',
+        footnote: []
+      },
+      {
+        text: '- A família Triburtino de Mendonça é a mais honrada desta terra, e eu, seu chefe natural, não permitirei nunca - nunca, ouviu? - que contra ela se cometa o menor deslize.\n',
+        footnote: []
+      },
+      {
+        text: 'Parou. Abriu uma gaveta. Tirou de dentro o bilhetinho cor de rosa, desdobrou-o\n',
+        footnote: []
+      },
+      {
+        text: '- É sua esta peça de flagrante delito?\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, a tremer, balbuciou medrosa confirmação.\n',
+        footnote: []
+      },
+      {
+        text: '- Muito bem! Continuou o coronel em tom mais sereno. Ama, então, minha filha e tem a audácia de o declarar... Pois agora...\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, por instinto, ergueu o braço para defender a cabeça e relanceou os olhos para a rua, sondando uma retirada estratégica.\n',
+        footnote: []
+      },
+      {
+        text: '- ... é casar! Concluiu de improviso o vingativo pai.\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente ressuscitou. Abriu os olhos e a boca, num pasmo. Depois, tornando a si, comoveu-se e com lágrimas nos olhos disse, gaguejante:\n',
+        footnote: []
+      },
+      {
+        text: '- Beijo-lhe as mãos, coronel! Nunca imaginei tanta generosidade em peito humano! Agora vejo com que injustiça o julgam aí fora!...\n',
+        footnote: []
+      },
+      {
+        text: 'Velhacamente o velho cortou-lhe o fio das expansões.\n',
+        footnote: []
+      },
+      {
+        text: '- Nada de frases, moço, vamos ao que serve: declaro-o solenemente noivo de minha filha!\n',
+        footnote: []
+      },
+      {
+        text: 'E voltando-se para dentro, gritou:\n',
+        footnote: []
+      },
+      {
+        text: '- Do Carmo! Venha abraçar o teu noivo!\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente piscou seis vezes e, enchendo-se de coragem, corrigiu o erro.\n',
+        footnote: []
+      },
+      {
+        text: '- Laurinha, quer o coronel dizer...\n',
+        footnote: []
+      },
+      {
+        text: 'O velho fechou de novo a carranca.\n',
+        footnote: []
+      },
+      {
+        text: '- Sei onde trago o nariz, moço. Vassuncê mandou este bilhete à Laurinha dizendo que ama-”lhe”. Se amasse a ela deveria dezer amo-”te”. Dizendo “amo-lhe” declara que ama a uma terceira pessoa, a qual não pode ser senão a Maria do Carmo. Salvo se declara amor à minha mulher...\n',
+        footnote: []
+      },
+      {
+        text: '- Oh, coronel...\n',
+        footnote: []
+      },
+      {
+        text: '- ...ou a preta Luzia, cozinheira. Escolha!\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, vencido, derrubou a cabeça com uma lágrima a escorrer rumo à asa do nariz. Silenciaram ambos, em pausa de tragédia. Por fim o coronel, batendo-lhe no ombro paternalmente, repetiu a boa lição da gramática matrimonial.\n',
+        footnote: []
+      },
+      {
+        text: '- Os pronomes, como sabe, são três: da primeira pessoa - quem fala, e neste caso vassuncê; da Segunda pessoa - a quem fala, e neste caso Laurinha; da terceira pessoa - de quem se fala, e neste caso do Carmo, minha mulher ou a preta. Escolha!\n',
+        footnote: []
+      },
+      {
+        text: 'Não havia fuga possível.\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente ergueu os olhos e viu do Carmo que entrava, muito lampeira da vida, torcendo acanhada a ponta do avental. Viu também sobre a secretária uma garrucha com espoleta nova ao alcance do maquiavélico pai, submeteu-se e abraçou a urucaca, enquanto o velho, estendendo as mãos, dizia teatralmente:\n',
+        footnote: []
+      },
+      {
+        text: '- Deus vos abençoe, meus filhos!\n',
+        footnote: []
+      },
+      {
+        text: 'No mês seguinte, e onze meses depois vagia nas mãos da parteira o futuro professor Aldrovando, o conspícuo sabedor de língua que durante cinqüenta anos a fio coçaria na gramática a sua incurável sarna filológica.\n',
+        footnote: []
+      },
+      {
+        text: 'Até aos dez anos não revelou Aldrovando pinta nenhuma. Menino vulgar, tossiu a coqueluche em tempo próprio, teve o sarampo da praxe, mas a cachumba e a catapora. Mais tarde, no colégio, enquanto os outros enchiam as horas de estudo com invenções de matar o tempo - empalamento de moscas e moidelas das respectivas cabecinhas entre duas folhas de papel, coisa de ver o desenho que saía - Aldrovando apalpava com erótica emoção a gramática de Augusto Freire da Silva. Era o latejar do furúnculo filológico que o determinaria na vida, para matá-lo, afinal...\n',
+        footnote: []
+      },
+      {
+        text: 'Deixê-mo-lo, porém, evoluir e tomêmo-lo quando nos serve, aos 40 anos, já a descer o morro, arcado ao peso da ciência e combalido de rins. Lá está ele em seu gabinete de trabalho, fossando à luza dum lampião os pronomes de Filinto Elísio. Corcovado, magro, seco, óculos de latão no nariz, careca, celibatário impenitente, dez horas de aulas por dia, duzentos mil réis por mês e o rim volta e meia a fazer-se lembrado.\n',
+        footnote: []
+      },
+      {
+        text: 'Já leu tudo. Sua vida foi sempre o mesmo poento idílio com as veneráveis costaneiras onde cabeceiam os clássicos lusitanos. Versou-os um por um com mão diurna e noturna. Sabe-os de cór, conhece-os pela morrinha, distingue pelo faro uma séca de Lucena duma esfalfa de Rodrigues Lobo. Digeriu todas as patranhas de Fernão Mendes Pinto. Obstruiu-se da broa encruada de Fr. Pantaleão do Aveiro. Na idade em que os rapazes correm atrás das raparigas, Aldrovando escabichava belchiores na pista dos mais esquecidos mestres da boa arte de maçar. Nunca dormiu entre braços de mulher. A mulher e o amor - mundo, diabo e carne eram para ele os alfarrábios freiráticos do quinhentismo, em cuja soporosa verborréia espapaçava os instintos lerdos, como porco em lameiro.\n',
+        footnote: []
+      },
+      {
+        text: 'Em certa época viveu três anos acampado em Vieria. Depois vagabundeou, como um Robinson, pelas florestas de Bernardes.\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando nada sabia do mundo atual. Desprezava a natureza, negava o presente. Passarinho conhecia um só: o rouxinol de Bernadim Ribeiro. E se acaso o sabiá de Gonçalves Dias vinha citar “pomos de Hesperides” na laranjeira do seu quintal, Aldrovando esfogueteava-o com apostrofes:\n',
+        footnote: []
+      },
+      {
+        text: '- Salta fora, regionalismo de má sonância!\n',
+        footnote: []
+      },
+      {
+        text: 'A língua lusa era-lhe um tabu sagrado que atingira a perfeição com Fr. Luiz de Sousa, e daí para cá, salvo lucilações esporádicas, vinha chafurdando no ingranzéu barbaresco.\n',
+        footnote: []
+      },
+      {
+        text: '- A ingresia d’hoje, declamava ele, está para a Língua, como o cadáver em putrefação está para o corpo vivo.\n',
+        footnote: []
+      },
+      {
+        text: 'E suspirava, condoído dos nossos destinos:\n',
+        footnote: []
+      },
+      {
+        text: '- Povo sem língua!... Não me sorri o futuro de Vera-Cruz...\n',
+        footnote: []
+      },
+      {
+        text: 'E não lhe objetassem que a língua é organismo vivo e que a temos a evoluir na boca do povo.\n',
+        footnote: []
+      },
+      {
+        text: '- Língua? Chama você língua à garabulha bordalenga que estampam periódicos? Cá está um desses galicígrafos. Deletreemo-lo ao acaso.\n',
+        footnote: []
+      },
+      {
+        text: 'E, baixando as cangalhas, lia:\n',
+        footnote: []
+      },
+      {
+        text: '- Teve lugar ontem... É língua esta espurcícia negral? Ó meu seráfico Frei Luiz, como te conspurcam o divino idioma estes sarrafaçais da moxinifada!\n',
+        footnote: []
+      },
+      {
+        text: '- ...no Trianon... Por que, Trianon? Por que este perene barbarizar com alienígenos arrevesos? Tão bem ficava - a Benfica, ou, se querem neologismo de bom cunho o Logratório...Tarelos é que são, tarelos!\n',
+        footnote: []
+      },
+      {
+        text: 'E suspirava deveras compungido.\n',
+        footnote: []
+      },
+      {
+        text: '- Inútil prosseguir. A folha inteira cacografa-se por este teor. Aí! Onde param os boas letras d’antanho? Fez-se peru o níveo cisne. Ninguém atende à lei suma - Horácio! Impera o desprimor, e o mau gosto vige como suprema regra. A gálica intrujice é maré sem vazante. Quando penetro num livreiro o coração se me confrange ante o pélago de óperas barbarescas que nos vertem cá mercadores de má morte. E é de notar, outrossim, que a elas se vão as preferências do vulgacho. Muito não faz que vi com estes olhos um gentil mancebo preferir uma sordície de Oitavo Mirbelo, Canhenho duma dama de servir, (1) creio, à... advinhe ao que, amigo? A Carta de Guia do meu divino Francisco Manoel!...\n',
+        footnote: []
+      },
+      {
+        text: '- Mas a evolução...\n',
+        footnote: []
+      },
+      {
+        text: '- Basta. Conheço às sobejas a escolástica da época, a “evolução” darwinica, os vocábulos macacos - pitecofonemas que “evolveram”, perderam o pelo e se vestem hoje à moda de França, com vidro no olho. Por amor a Frei Luiz, que ali daquela costaneira escandalizado nos ouve, não remanche o amigo na esquipática sesquipedalice.\n',
+        footnote: []
+      },
+      {
+        text: 'Um biógrafo ao molde clássico separaria a vida de Aldrovando em duas fases distingas: a estática, em que apenas acumulou ciência, e a dinâmica, em que, transfeito em apóstolo, veio a campo com todas as armas para contrabater o monstro da corrupção.\n',
+        footnote: []
+      },
+      {
+        text: 'Abriu campanha com memorável ofício ao congresso, pedindo leis repressivas contra os ácaros do idioma.\n',
+        footnote: []
+      },
+      {
+        text: '- “Leis, senhores, leis de Dracão, que diques sejam, e fossados, e alcaçares de granito prepostos à defensão do idioma. Mister sendo, a forca se restaure, que mais o baraço merece quem conspurca o sacro patrimônio da sã vernaculidade, que quem ao semelhante a vida tira. Vêde, senhores, os pronomes, em que lazeira jazem...',
+        footnote: []
+      },
+      {
+        text: 'Os pronomes, aí! Eram a tortura permanente do professor Aldrovando. Doía-lhe como punhalada vê-los por aí pré ou pospostos contra-regras elementares do dizer castiço. E sua representação alargou-se nesse pormenor, flagelante, concitando os pais da pátria à criação dum Santo Ofício gramatical.\n',
+        footnote: []
+      },
+      {
+        text: 'Os ignaros congressistas, porém, riram-se da memória, e grandemente piaram sobre Aldrovando as mais cruéis chalaças.\n',
+        footnote: []
+      },
+      {
+        text: '- Quer que instituamos patíbulo para os maus colocadores de pronomes! Isto seria auto-condenar-nos à morte! Tinha graça!',
+        footnote: []
+      },
+      {
+        text: 'Também lhe foi à pele a imprensa, com pilhérias soezes. E depois, o público. Ninguém alcançara a nobreza do seu gesto, e Aldrovando, com a mortificação n’alma, teve que mudar de rumo. Planeou recorrer ao púlpito dos jornais. Para isso mister foi, antes de nada, vencer o seu velho engulho pelos “galicígrafos de papel e graxa”. Transigiu e, breve, desses “pulmões da pública opinião” apostrofou o país com o verbo tonante de Ezequiel. Encheu colunas e colunas de objurgatórias ultra violentas, escritas no mais estreme vernáculo.\n',
+        footnote: []
+      },
+      {
+        text: 'Mas não foi entendido. Raro leitor metia os dentes naqueles intermináveis períodos engrenados à moda de Lucena; e ao cabo da aspérrima campanha viu que pregara em pleno deserto. Leram-no apenas a meia dúzia de Aldrovandos que vegetam sempre em toda parte, como notas rezinguentas da sinfonia universal.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'A massa dos leitores, entretanto, essa permaneceu alheia aos flamívomos pelouros da sua colubrina sem raia. E por fim os “periódicos” fecharam-lhe a porta no nariz, alegando falta de espaço e coisas.\n',
+        footnote: []
+      },
+      {
+        text: '- Espaço não há para as sãs idéias, objurgou o enxotado, mas sobeja, e pressuroso, para quanto recende à podriqueira!... Gomorra! Sodoma! Fogos do céu virão um dia alimpar-vos a gafa!... exclamou, profético, sacudindo à soleira da redação o pó das cambaias botinas de elástico.\n',
+        footnote: []
+      },
+      {
+        text: 'Tentou em seguida ação mais direta, abrindo consultório gramatical.\n',
+        footnote: []
+      },
+      {
+        text: '- Têm-nos os físicos (queria dizer médicos), os doutores em leis, os charlatãs de toda espécie. Abra-se um para a medicação da grande enferma, a língua. Gratuito, já se vê, que me não move amor de bens terrenos.\n',
+        footnote: []
+      },
+      {
+        text: 'Falhou a nova tentativa. Apenas moscas vagabundas vinham esvoejar na salinha modesta do apóstolo. Criatura humana nem uma só lá apareceu afim de remendar-se filologicamente.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Ele, todavia, não esmoreceu.\n',
+        footnote: []
+      },
+      {
+        text: '- Experimentemos processo outro, mais suasório.\n',
+        footnote: []
+      },
+      {
+        text: 'E anunciou a montagem da “Agência de Colocação de Pronômes e Reparos Estilísticos”.\n',
+        footnote: []
+      },
+      {
+        text: 'Quem tivesse um autógrafo a rever, um memorial a expungir de cincas, um calhamaço a compor-se com os “afeites” do lídimo vernáculo, fosse lá que, sem remuneração nenhuma, nele se faria obra limpa e escorreita.\n',
+        footnote: []
+      },
+      {
+        text: 'Era boa a idéia, e logo vieram os primeiros originais necessitados de ortopedia, sonetos a consertar pés de verso, ofícios ao governo pedindo concessões, cartas de amor.\n',
+        footnote: []
+      },
+      {
+        text: 'Tais, porém, eram as reformas que nos doentes operava Aldrovando, que os autores não mais reconheciam suas próprias obras. Um dos clientes chegou a reclamar.\n',
+        footnote: []
+      },
+      {
+        text: '- Professor, v.s. enganou-se. Pedi limpa de enxada nos pronomes, mas não que me traduzisse a memória em latim...\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando empertigou-se.\n',
+        footnote: []
+      },
+      {
+        text: '- Pois, amigo, errou de porta. Seu caso é alí com o alveitar da esquina.\n',
+        footnote: []
+      },
+      {
+        text: 'Pouco durou a Agência, morta à míngua de clientes. Teimava o povo em permanecer empapado no chafurdeiro da corrupção...\n',
+        footnote: []
+      },
+      {
+        text: 'O rosário de insucessos, entretanto, em vez de desalentar exasperava o apóstolo.\n',
+        footnote: []
+      },
+      {
+        text: '- Hei-de influir na minha época. Aos tarelos hei de vencer. Fogem-me à férula os maráus de pau e corda? Ir-lhes-ei empós, fila-los-eis pela gorja... Salta rumor!\n',
+        footnote: []
+      },
+      {
+        text: 'E foi-lhes “empós”, Andou pelas ruas examinando dísticos e tabuletas com vícios de língua. Descoberta a “asnidade”, ia ter com o proprietário, contra ele desfechando os melhores argumentos catequistas.\n',
+        footnote: []
+      },
+      {
+        text: 'Foi assim com o ferreiro da esquina, em cujo portão de tenda uma tabuleta - “Ferra-se cavalos” - escoicinhava a santa gramática.\n',
+        footnote: []
+      },
+      {
+        text: '- Amigo, disse-lhe pachorrentamente Aldrovando, natural a mim me parece que erre, alarve que és. Se erram paredros, nesta época de ouro da corrupção...\n',
+        footnote: []
+      },
+      {
+        text: 'O ferreiro pôs de lado o malho e entreabriu a boca.\n',
+        footnote: []
+      },
+      {
+        text: '- Mas da boa sombra do teu focinho espero, continuou o apóstolo, que ouvidos me darás. Naquela tábua um dislate existe que seriamente à língua lusa ofende. Venho pedir-te, em nome do asseio gramatical, que o expunjas.\n',
+        footnote: []
+      },
+      {
+        text: '- ???\n',
+        footnote: []
+      },
+      {
+        text: '- Que reformes a tabuleta, digo.\n',
+        footnote: []
+      },
+      {
+        text: '- Reformar a tabuleta? Uma tabuleta nova, com a licença paga? Estará acaso rachada?\n',
+        footnote: []
+      },
+      {
+        text: '- Fisicamente, não. A racha é na sintaxe. Fogem ali os dizeres à sã gramaticalidade.\n',
+        footnote: []
+      },
+      {
+        text: 'O honesto ferreiro não entendia nada de nada.\n',
+        footnote: []
+      },
+      {
+        text: '- Macacos me lambam se estou entendendo o que v. s. diz...\n',
+        footnote: []
+      },
+      {
+        text: '- Digo que está a forma verbal com eiva grave. O “ferra-se” tem que cair no plural, pois que a forma é passiva e o sujeito é “cavalos”.\n',
+        footnote: []
+      },
+      {
+        text: 'O ferreiro abriu o resto da boca.\n',
+        footnote: []
+      },
+      {
+        text: '- O sujeito sendo “cavalos”, continuou o mestre, a forma verbal é “ferram-se” - “ferram-se cavalos!”\n',
+        footnote: []
+      },
+      {
+        text: '- Ahn! Respondeu o ferreiro, começo agora a compreender. Diz v. s. que ...\n',
+        footnote: []
+      },
+      {
+        text: '- ... que “ferra-se cavalos” é um solecismo horrendo e o certo é “ferram-se cavalos”.\n',
+        footnote: []
+      },
+      {
+        text: '- V. S. me perdoe, mas o sujeito que ferra os cavalos sou eu, e eu não sou plural. Aquele “se” da tabuleta refere-se cá a este seu criado. É como quem diz: Serafim ferra cavalos - Ferra Serafim cavalos. Para economizar tinta e tábua abreviaram o meu nome, e ficou como está: Ferra Se (rafim) cavalos. Isto me explicou o pintor, e entendi-o muito bem.\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando ergueu os olhos para o céu e suspirou.\n',
+        footnote: []
+      },
+      {
+        text: '- Ferras cavalos e bem merecias que te fizessem eles o mesmo!... Mas não discutamos. Ofereço-te dez mil réis pela admissão dum “m” ali...\n',
+        footnote: []
+      },
+      {
+        text: '- Se V. S. paga...\n',
+        footnote: []
+      },
+      {
+        text: 'Bem empregado dinheiro! A tabuleta surgiu no dia seguinte dessolecismada, perfeitamente de acordo com as boas regras da gramática. Era a primeira vitória obtida e todas as tardes Aldrovando passava por lá para gozar-se dela\n',
+        footnote: []
+      },
+      {
+        text: 'Por mal seu, porém, não durou muito o regalo. Coincidindo a entronização do “m” com maus negócios na oficina, o supersticioso ferreiro atribuiu a macaca à alteração dos dizeres e lá raspou o “m” do professor.\n',
+        footnote: []
+      },
+      {
+        text: 'A cara que Aldrovando fez quando no passeio desse dia deu com a vitória borrada! Entrou furioso pela oficina a dentro, e mascava uma apóstrofe de fulminar quando o ferreiro, às brutas, lhe barrou o passo.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: '- Chega de caraminholas, ó barata tonta! Quem manda aqui, no serviço e na língua, sou eu. E é ir andando antes que eu o ferre com bom par de ferros ingleses!\n',
+        footnote: []
+      },
+      {
+        text: 'O mártir da língua meteu a gramática entre as pernas e moscou-se.\n',
+        footnote: []
+      },
+      {
+        text: '- “Sancta simplicitas!” ouviram-no murmurar na rua, de rumo à casa, em busca das consolações seráficas de Fr. Heitor Pinto. Chegado que foi ao gabinete de trabalho, caiu de borco sobre as costaneiras venerandas e não mais conteve as lágrimas, chorou...\n',
+        footnote: []
+      },
+      {
+        text: 'O mundo estava perdido e os homens, sobre maus, eram impenitentes. Não havia desviá-los do ruim caminho, e ele, já velho, com o rim a rezingar, não se sentia com forças para a continuação da guerra.\n',
+        footnote: []
+      },
+      {
+        text: '- Não hei-de acabar, porém, antes de dar a prelo um grande livro onde compendie a muita ciência que hei acumulado.\n',
+        footnote: []
+      },
+      {
+        text: 'E Aldrovando empreendeu a realização de um vastíssimo programa de estudos filológicos. Encabeçaria a série um tratado sobre a colocação dos pronomes, ponto onde mais claudicava a gente de Gomorra.\n',
+        footnote: []
+      },
+      {
+        text: 'Fê-lo, e foi feliz nesse período de vida em que, alheio ao mundo, todo se entregou, dia e noite, à obra magnífica. Saiu trabuco volumoso, que daria três tomos de 500 páginas cada um, corpo miúdo. Que proventos não adviriam dali para a lusitanidade. Todos os casos resolvidos para sempre, todos os homens de boa vontade salvos da gafaria! O ponto fraco do brasileiro falar resolvido de vez! Maravilhosa coisa...\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Pronto o primeiro tomo - Do pronome Se - anunciou a obra pelos jornais, ficando à espera das chusmas de editores que viriam disputá-la à sua porta. E por uns dias o apóstolo sonhou as delícias da estrondosa vitória literária, acrescida de gordos proventos pecuniários.\n',
+        footnote: []
+      },
+      {
+        text: 'Calculava em oitenta contos o valor dos direitos autorais, que, generoso que era, cederia por cinqüenta. E cinqüenta contos para um velho celibatário como ele, sem família nem vícios, tinha a significação duma grande fortuna. Empatados em empréstimos hipotecários sempre eram seus quinhentos mil réis por mês de renda, a pingarem pelo resto da vida na gavetinha onde, até então, nunca entrara pelega maior de duzentos. Servia, servia!... E Aldrovando, contente, esfregava as mãos de ouvido alerta, preparando frases para receber o editor que vinha vindo...\n',
+        footnote: []
+      },
+      {
+        text: 'Que vinha vindo mas não veio, aí!... As semanas se passaram sem que nenhum representante dessa miserável fauna de judeus surgisse a chatinar o maravilhoso livro.\n',
+        footnote: []
+      },
+      {
+        text: '- Não me vêm a mim? Salta rumor! Pois me vou a eles!\n',
+        footnote: []
+      },
+      {
+        text: 'E saiu em via sacra, a correr todos os editores da cidade.\n',
+        footnote: []
+      },
+      {
+        text: 'Má gente! Nenhum lhe quis o livro sob condições nenhumas. Torciam o nariz, dizendo “Não é vendável”; ou: “Porque não faz antes uma cartilha infantil aprovada pelo governo?\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando, com a morte n’alma e o rim dia a dia mais derrancado, retesou-se nas últimas resistências.\n',
+        footnote: []
+      },
+      {
+        text: '- Fá-la-ei imprimir à minha custa! Ah, amigos! Aceito o cartel. Sei pelejar com todas as armas e irei até ao fim. Bofé!\n',
+        footnote: []
+      },
+      {
+        text: 'Para lugar era mister dinheiro e bem pouco do vilíssimo metal possuía na arca o alquebrado Aldrovando. Não importa! Faria dinheiro, venderia móveis, imitaria Bernardo de Pallissy, não morreria sem ter o gosto de acaçapar Gomorra sob o peso da sua ciência impressa. Editaria ele mesmo um por um todos os volumes da obra salvadora.\n',
+        footnote: []
+      },
+      {
+        text: 'Disse e fez.\n',
+        footnote: []
+      },
+      {
+        text: 'Passou esse período de vida alternando revisão de provas com padecimentos renais. Venceu. O livro compôs-se, magnificamente revisto, primoroso na linguagem como não existia igual.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Dedicou-o a Fr. Luz de Souza:\n',
+        footnote: []
+      },
+      {
+        text: 'À memória daquele que me sabe as dores,\n',
+        footnote: []
+      },
+      {
+        text: 'O Autor.',
+        footnote: []
+      },
+      {
+        text: 'Mas não quis o destino que o já trêmulo Aldrovando colhesse os frutos de sua obra. Filho dum pronome impróprio, a má colocação doutro pronome lhe cortaria o fio da vida.\n',
+        footnote: []
+      },
+      {
+        text: 'Muito corretamente havia ele escrito na dedicatória: ...daquele que me sabe... e nem poderia escrever doutro modo um tão conspícuo colocador de pronomes. Maus fados intervieram, porém - até os fados conspiram contra a língua! - e por artimanha do diabo que os rege empastelou-se na oficina esta frase. Vai o tipógrafo e recompõe-na a seu modo ...d’aquele que sabe-me as dores... E assim saiu nos milheiros de cópias da avultada edição.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Mas não antecipemos.\n',
+        footnote: []
+      },
+      {
+        text: 'Pronta a obra e paga, ia Aldrovando recebê-la, enfim. Que glória! Construíra, finalmente, o pedestal da sua própria imortalidade, ao lado direito dos sumos cultores da língua.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'A grande idéia do livro, exposta no capítulo VI - Do método automático de bem colocar os pronomes - engenhosa aplicação duma regra mirífica por meio da qual até os burros de carroça poderiam zurrar com gramática, operaria como o “914? da sintaxe, limpando-a da avariose produzida pelo espiroqueta da pronominuria.\n',
+        footnote: []
+      },
+      {
+        text: 'A excelência dessa regra estava em possuir equivalentes químicos de uso na farmacopéia alopata, de modo que a um bom laboratório fácil lhe seria reduzí-la a ampolas para injeções hipodérmicas, ou a pílulas, pós ou poções para uso interno.\n',
+        footnote: []
+      },
+      {
+        text: 'E quem se injetasse ou engolisse uma pípula do futuro PRONOMINOL CANTAGALO, curar-se-ia para sempre do vício, colocando os pronomes instintivamente bem, tanto no falar como no escrever. Para algum caso de pronomorreia agudo, evidentemente incurável, haveria o recurso do PRONOMINOL Nº 2, onde entrava a estriquinina em dose suficiente para libertas o mundo do infame sujeito.\n',
+        footnote: []
+      },
+      {
+        text: 'Que glória! Aldrovando prelibava essas delícias todas quando lhe entrou casa a dentro a primeira carroçada de livros. Dois brutamontes de mangas arregaçadas empilharam-nos pelos cantos, em rumas que lá se iam; e concluso o serviço um deles pediu:\n',
+        footnote: []
+      },
+      {
+        text: '- Me dá um mata-bicho, patrão!\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando severizou o semblante ao ouvir aquele “Me” tão fora dos mancais, e tomando um exemplo da obra ofertou-a ao “doente”.\n',
+        footnote: []
+      },
+      {
+        text: '- Toma lá. O mau bicho que tens no sangue morrerá asinha às mãos deste vermífugo. Recomendo-te a leitura do capítulo sexto.\n',
+        footnote: []
+      },
+      {
+        text: 'O carroceiro não se fez rogar; saiu com o livro, dizendo ao companheiro:\n',
+        footnote: []
+      },
+      {
+        text: '- Isto no “sebo” sempre renderá cinco tostões. Já serve!\n',
+        footnote: []
+      },
+      {
+        text: 'Mal se sumiram, Aldrovando abancou-se à velha mesinha de trabalho e deu começo à tarefa de lançar dedicatórias num certo número de exemplares destinados à crítica. Abriu o primeiro, e estava já a escrever o nome de Rui Barbosa quando seus olhos deram com a horrenda cinca:\n',
+        footnote: []
+      },
+      {
+        text: '“daquele QUE SABE-ME as dores”.\n',
+        footnote: []
+      },
+      {
+        text: '- Deus do céu! Será possível?\n',
+        footnote: []
+      },
+      {
+        text: 'Era possível. Era fato. Naquele, como em todos os exemplares da edição, lá estava, no hediondo relevo da dedicatória a Fr. Luiz de Souza, o horripilantíssimo\n',
+        footnote: []
+      },
+      {
+        text: '- “que sabe-me”...\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando não murmurou palavra. De olhos muito abertos, no rosto uma estranha marca de dor - dor gramatical inda não descrita nos livros de patologia - permaneceu imóvel uns momentos.\n',
+        footnote: []
+      },
+      {
+        text: 'Depois empalideceu. Levou as mãos ao abdômen e estorceu-se nas garras de repentina e violentíssima ânsia.\n',
+        footnote: []
+      },
+      {
+        text: 'Ergueu os olhos para Frei Luiz de Souza e murmurou:\n',
+        footnote: []
+      },
+      {
+        text: '- Luiz! Luiz! Lamma Sabachtani?!\n',
+        footnote: []
+      },
+      {
+        text: 'E morreu.\n',
+        footnote: []
+      },
+      {
+        text: 'De que não sabemos - nem importa ao caso. O que importa é proclamarmos aos quatro ventos que com Aldrovando morreu o primeiro santo da gramática, o mártir número um da Colocação dos Pronomes.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Paz à sua alma.\n',
+        footnote: []
+      },
+      {
+        text: '(Ao todo, a obra de Aldrovando, incluindo tratados sobre circunflexo, vírgula, e psicologia do til, crase, pesava cerca de 4 arrobas, que renderam no sebo, 18 mil réis, vendidas a peso, a três tostões o quilo).\n',
+        footnote: []
+      },
+      {
+        text: '<i>Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto</i>',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'A Aia',
+    author: 'Eça de Queiroz',
+    section: 'Conto',
+    img: 'ecaQueiroz',
+    imgIndex: '8',
+    titleURL: 'a-aia',
+    authorURL: 'eca-de-queiroz',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'Era uma vez um rei, moço e valente, senhor de um reino abundante em cidades e searas, que partira a batalhar por terras distantes, deixando solitária e triste a sua rainha e um filhinho, que ainda vivia no seu berço, dentro das suas faixas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A lua cheia que o vira marchar, levado no seu sonho de conquista e de fama, começava a minguar, quando um dos seus cavaleiros apareceu, com as armas rotas, negro do sangue seco e do pó dos caminhos, trazendo a amarga nova de uma batalha perdida e da morte do rei, trespassado por sete lanças entre a flor da sua nobreza, à beira de um grande rio.',
+        footnote: []
+      },
+      {
+        text: 'A rainha chorou magnificamente o rei. Chorou ainda desoladamente o esposo, que era formoso e alegre. Mas, sobretudo, chorou ansiosamente o pai, que assim deixava o filhinho desamparado, no meio de tantos inimigos da sua frágil vida e do reino que seria seu, sem um braço que o defendesse, forte pela força e forte pelo amor.',
+        footnote: []
+      },
+      {
+        text: 'Desses inimigos o mais temeroso era seu tio, irmão bastardo do rei, homem depravado e bravio; consumido de cobiças grosseiras, desejando só a realeza por causa dos seus tesouros, e que havia anos vivia num castelo sobre os montes, com uma horda de rebeldes, à maneira de um lobo que, de atalaia no seu fojo, espera a presa. Ai! a presa agora era aquela criancinha, rei de mama, senhor de tantas províncias, e que dormia no seu berço com seu guizo de ouro fechado na mão!',
+        footnote: []
+      },
+      {
+        text: 'Ao lado dele, outro menino dormia noutro berço. Mas era um escravozinho, filho da bela e robusta escrava que amamentava o príncipe. Ambos tinham nascido na mesma noite de verão. O mesmo seio os criara. Quando a rainha, antes de adormecer, vinha beijar o principezinho, que tinha o cabelo louro e fino, beijava também, por amor dele, o escravozinho, que tinha o cabelo negro e crespo. Os olhos de ambos reluziam como pedras preciosas. Somente, o berço de um era magnífico de marfim entre brocados, e o berço de outro, pobre e de verga. A leal escrava, porém, a ambos cercava de carinho igual, porque, se um era o seu filho, o outro seria o seu rei.',
+        footnote: []
+      },
+      {
+        text: 'Nascida naquela casa real, ela tinha a paixão, a religião dos seus senhores. Nenhum pranto correra mais sentidamente do que o seu pelo rei morto à beira do grande rio. Pertencia, porém, a uma raça que acredita que a vida da terra se continua no céu. O rei seu amo, decerto, já estaria agora reinando em outro reino, para além das nuvens, abundante também em searas e cidades. O seu cavalo de batalha, as suas armas, os seus pajens tinham subido com ele às alturas. Os seus vassalos, que fossem morrendo, prontamente iriam, nesse reino celeste, retomar em torno dele a sua vassalagem. E ela, um dia, por seu turno, remontaria num raio de lua a habitar o palácio do seu senhor, e a fiar de novo o linho das suas túnicas, e a acender de novo a caçoleta dos seus perfumes; seria no céu como fora na terra, e feliz na sua servidão.',
+        footnote: []
+      },
+      {
+        text: 'Todavia, também ela tremia pelo seu principezinho! Quantas vezes, com ele pendurado do peito, pensava na sua fragilidade, na sua longa infância, nos anos lentos que correriam, antes que ele fosse ao menos do tamanho de uma espada, e naquele tio cruel, de face mais escura que a noite e coração mais escuro que a face, faminto do trono, e espreitando de cima do seu rochedo entre os alfanjes da sua borda! Pobre principezinho da sua alma! Com uma ternura maior o apertava nos braços. Mas o seu filho chalrava ao lado, era para ele que os seus braços corriam com um ardor mais feliz. Esse, na sua indigência, nada tinha a recear a vida. Desgraças, assaltos da sorte má nunca o poderiam deixar mais despido das glórias e bens do mundo do que já estava ali no seu berço, sob o pedaço de linho branco que resguardava a sua nudez. A existência, na verdade, era para ele mais preciosa e digna de ser conservada que a do seu príncipe, porque nenhum dos duros cuidados com que ela enegrece a alma dos senhores roçaria sequer a sua alma livre e simples de escravo. E, como se o amasse mais por aquela humildade ditosa, cobria o seu corpinho gordo de beijos pesados e devoradores, dos beijos que ela fazia ligeiros sobre as mãos do seu príncipe.',
+        footnote: []
+      },
+      {
+        text: 'No entanto, um grande temor enchia o palácio, onde agora reinava uma mulher entre mulheres. O bastardo, o homem de rapina, que errava no cimo das serras, descera à planície com a sua horda, e já através de casais e aldeias felizes ia deixando um sulco de matança e ruínas. As portas da cidade tinham sido seguras com cadeias mais fortes. Nas atalaias ardiam lumes mais altos. Mas à defesa faltava disciplina viril. Uma roca não governa como uma espada. Toda a nobreza fiel perecera na grande batalha. E a rainha desventurosa apenas sabia correr a cada instante ao berço do seu filhinho e chorar sobre ele a sua fraqueza de viúva. Só a ama leal parecia segura, como se os braços em que estreitava o seu príncipe fossem muralhas de uma cidadela que nenhuma audácia pode transpor.',
+        footnote: []
+      },
+      {
+        text: 'Ora uma noite, noite de silêncio e de escuridão, indo ela a adormecer, já despida, no seu catre, entre os seus dois meninos, adivinhou, mais que sentiu, um curto rumor de ferro e de briga, longe, à entrada dos vergéis reais. Embrulhada à pressa num pano, atirando os cabelos para trás, escutou ansiosamente. Na terra areada, entre os jasmineiros, corriam passos pesados e rudes. Depois houve um gemido, um corpo tombando molemente, sobre lajes, como um fardo. Descerrou violentamente a cortina. E além, ao fundo da galeria, avistou homens, um clarão de lanternas, brilhos de armas... Num relance tudo compreendeu: o palácio surpreendido, o bastardo cruel vindo roubar, matar o seu príncipe! Então, rapidamente, sem uma vacilação, uma dúvida, arrebatou o príncipe do seu berço de marfim, atirou-o para o pobre berço de verga, e, tirando o seu filho do berço servil, entre beijos desesperados, deitou-o no berço real que cobriu com um brocado.',
+        footnote: []
+      },
+      {
+        text: 'Bruscamente um homem enorme, de face flamejante, com um manto negro sobre a cota de malha, surgiu à porta da câmara, entre outros, que erguiam lanternas. Olhou, correu o berço de marfim onde os brocados luziam, arrancou a criança como se arranca uma bolsa de oiro, e, abafando os seus gritos no manto, abalou furiosamente.',
+        footnote: []
+      },
+      {
+        text: 'O príncipe dormia no seu novo berço. A ama ficara imóvel no silêncio e na treva.',
+        footnote: []
+      },
+      {
+        text: 'Mas brados de alarme atroaram, de repente, o palácio. Pelas janelas perpassou o longo flamejar das tochas. Os pátios ressoavam com o bater das armas. E desgrenhada, quase nua, a rainha invadiu a câmara, entre as aias, gritando pelo seu filho! Ao avistar o berço de marfim, com as roupas desmanchadas, vazio, caiu sobre as lajes num choro, despedaçada. Então, calada, muito lenta, muito pálida, a ama descobriu o pobre berço de verga... O príncipe lá estava quieto, adormecido, num sonho que o fazia sorrir, lhe iluminava toda a face entre os seus cabelos de oiro. A mãe caiu sobre o berço, com um suspiro, como cai um corpo morto.',
+        footnote: []
+      },
+      {
+        text: 'E nesse instante um novo clamor abalou a galeria de mármore. Era o capitão das guardas, a sua gente fiel. Nos seus clamores havia, porém, mais tristeza que triunfo. O bastardo morrera! Colhido, ao fugir, entre o palácio e a cidadela, esmagado pela forte legião de archeiros, sucumbira, ele e vinte da sua horda. O seu corpo lá ficara, com flechas no flanco, numa poça de sangue. Mas, ai dor sem nome! O corpinho tenro do príncipe lá ficara também envolto num manto, já frio, roxo ainda das mãos ferozes que o tinham esganado! Assim tumultuosamente lançavam a nova cruel os homens de armas, quando a rainha, deslumbrada, com lágrimas entre risos, ergueu nos braços, para lho mostrar, o príncipe que despertara.',
+        footnote: []
+      },
+      {
+        text: 'Foi um espanto, uma aclamação. Quem o salvara? Quem?... Lá estava junto do berço de marfim vazio, muda e hirta, aquela que o salvara! Serva sublimemente leal! Fora ela que, para conservar a vida ao seu príncipe, mandara à morte o seu filho... Então, só então, a mãe ditosa, emergindo da sua alegria extática, abraçou apaixonadamente a mãe dolorosa, e a beijou, e lhe chamou irmã do seu coração... E de entre aquela multidão que se apertava na galeria veio uma nova, ardente aclamação, com súplicas de que fosse recompensada magnificamente a serva admirável que salvara o rei e o reino.',
+        footnote: []
+      },
+      {
+        text: 'Mas como? Que bolas de ouro podem pagar um filho? Então um velho de casta nobre lembrou que ela fosse levada ao Tesouro real, e escolhesse de entre essas riquezas, que eram como as maiores dos maiores tesouros da Índia, todas as que o seu desejo apetecesse...',
+        footnote: []
+      },
+      {
+        text: 'A rainha tomou a mão da serva. E sem que a sua face de mármore perdesse a rigidez, com um andar de morta, como um sonho, ela foi assim conduzida para a Câmara dos Tesouros. Senhores, aias, homens de armas, seguiam, num respeito tão comovido, que apenas se ouvia o roçar das sandálias nas lajes. As espessas portas do Tesouro rodaram lentamente. E, Quando um servo destrancou as janelas, a luz da madrugada, já clara e rósea, entrando pelos gradeamentos de ferro, acendeu um maravilhoso e faiscante incêndio de ouro e pedrarias! Do chão de rocha até às sombrias abóbadas, por toda a câmara, reluziam, cintilavam, refulgiam os escudos de oiro, as armas marchetadas, os montões de diamantes, as pilhas de moedas, os longos fios de pérolas, todas as riquezas daquele reino, acumuladas por cem réis durante vinte séculos. Um longo — Ah! — lento e maravilhado, passou por sobre a turba que emudecera. Depois houve um silêncio ansioso. E no meio da câmara, envolta na refulgência preciosa. a ama não se movia... Apenas os seus olhos, brilhantes e secos, se tinham erguido para aquele céu que, além das grades, se tingia de rosa e de ouro. Era lá, nesse céu fresco de madrugada, que estava agora o seu menino. Estava lá, e já o Sol se erguia, e era tarde, e o seu menino chorava decerto, e procurava o seu peito!... E então a ama sorriu e estendeu a mão. Todos seguiam, sem respirar aquele lento mover da sua mão aberta. Que jóia maravilhosa, que fio de diamantes, que punhado de rubis ia ela escolher?',
+        footnote: []
+      },
+      {
+        text: 'A ama estendia a mão, e sobre um escabelo ao lado, entre um molho de armas, agarrou um punhal. Era um punhal de um velho rei, todo cravejado de esmeraldas, e que valia uma província.',
+        footnote: []
+      },
+      {
+        text: 'Agarrara o punhal, e com ele apertado fortemente na mão, apontando par; o céu, onde subiam os primeiros raios do Sol, encarou a rainha, a multidão, e gritou:',
+        footnote: []
+      },
+      {
+        text: '— Salvei o meu príncipe, e agora... vou dar de mamar ao meu filho.',
+        footnote: []
+      },
+      {
+        text: 'E cravou o punhal no coração.',
+        footnote: []
       }
     ]
   }
