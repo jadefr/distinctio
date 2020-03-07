@@ -2,10 +2,12 @@
   <div class="card-component-container">
 
     <!-- Card -->
-      <b-card no-body class="overflow-hidden" style="max-width: 400px;">
+    <b-card no-body class="overflow-hidden" style="max-width: 540px;">
       <b-row no-gutters>
         <b-col md="6">
-          <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`"><b-card-img :src="img" class="rounded-0"></b-card-img></router-link>
+          <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`">
+            <b-card-img :src="img" class="rounded-0"></b-card-img>
+          </router-link>
         </b-col>
         <b-col md="6" id="card-col">
           <b-card-body>
@@ -19,7 +21,7 @@
         </b-col>
       </b-row>
     </b-card>
-    </div>
+  </div>
 
 </template>
 
@@ -39,25 +41,35 @@ export default {
 </script>
 
 <style lang="scss">
+  @import '../assets/sass/libraries/_mixins.scss';
+
   .card-component-container {
 
-      @media (min-width: 768px){
-        #card-col {
-          -ms-flex: 0 0 50%;
-          -webkit-box-flex: 0;
-          /*flex: 0 0 50%;*/
-          /*max-width: 50%;*/
-          flex: 0 0 0;
-          max-width: 100%;
-      }
+    #card-title {
+      text-align: center;
+    }
 
-      #card-title {
-        text-align: center;
-      }
+    #card-text {
+      text-align: center;
+    }
 
-      #card-text {
-        text-align: center;
+    @media only screen and (min-width: 768px) and (max-width: 1000px) {
+      .card {
+        word-wrap: normal;
+
+        #card-title {
+          font-size: 0.9rem;
+        }
+        #card-text {
+          h5 {
+            font-size: 0.8rem;
+          }
+          p {
+            font-size: 0.7rem;
+          }
+        }
       }
     }
+
   }
 </style>
