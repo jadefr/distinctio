@@ -12081,7 +12081,7 @@ export default [
     img: 'monteiroLobato',
     imgIndex: '10',
     titleURL: 'o-colocador-de-pronomes',
-    authorURL: 'monteiro-de-lobato',
+    authorURL: 'monteiro-lobato',
     sectionURL: 'conto',
     content: '',
     disclaimer: 'Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto',
