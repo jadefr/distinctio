@@ -1,7 +1,4 @@
 # distinctio
-
-## Projeto
-
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
 ## Tech Stack
