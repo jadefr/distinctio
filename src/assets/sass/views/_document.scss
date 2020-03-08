@@ -91,8 +91,6 @@
 
       @include mini-mobile {
         padding: 0 10px;
-        //display: grid;
-        //grid-template-columns: 1fr;
       }
 
       h2 {
@@ -106,7 +104,6 @@
 
         @include mini-mobile {
           font-size: 2.1rem;
-          //display: block;
         }
       }
 
@@ -116,8 +113,6 @@
 
         @include mini-mobile {
           text-align: center;
-          //display: block;
-          //padding: 0 100px;
         }
       }
     }
@@ -131,10 +126,10 @@
       font-size: 22px;
       line-height: 22px;
       background: color(brown);
-      opacity: 40%;
+      opacity: 0.4;
 
       &:hover {
-        opacity: 80%;
+        opacity: 0.8;
       }
 
       @include mobile {
@@ -160,11 +155,15 @@
     }
 
     p {
-      font-size: 2rem;
+      font-size: 2.2rem;
       text-indent: 4rem;
 
       @include mobile {
-        font-size: 1.7em;
+        font-size: 2em;
+        text-indent: 0rem;
+      }
+      @include mini-mobile {
+        font-size: 1.9em;
         text-indent: 0rem;
       }
     }

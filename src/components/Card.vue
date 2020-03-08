@@ -11,11 +11,17 @@
         </b-col>
         <b-col md="6" id="card-col">
           <b-card-body>
-            <b-card-title id="card-title">{{ title }}</b-card-title>
+            <router-link :to="`/galeria/${authorURL}/${titleURL}`">
+              <b-card-title id="card-title">{{ title }}</b-card-title>
+            </router-link>
             <hr>
             <b-card-text id="card-text">
-              <h5>{{ section }}</h5>
-              <p>{{ author }}</p>
+              <router-link :to="`/galeria/${authorURL}/${titleURL}/${sectionURL}`">
+                <h5>{{ section }}</h5>
+              </router-link>
+              <router-link :to="`/galeria/${authorURL}`">
+                <p>{{ author }}</p>
+              </router-link>
             </b-card-text>
           </b-card-body>
         </b-col>
@@ -42,14 +48,26 @@ export default {
 
 <style lang="scss">
   @import '../assets/sass/libraries/_mixins.scss';
+  @import '../assets/sass/libraries/functions';
+  @import '../assets/sass/base/variables';
 
   .card-component-container {
 
+    .card-body {
+      a {
+        color: color(gallery-font-color);
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
     #card-title {
+      color: color(gallery-font-color);
       text-align: center;
     }
 
     #card-text {
+      color: color(gallery-font-color);
       text-align: center;
     }
 
