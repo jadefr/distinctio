@@ -27,7 +27,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * /galeria/:autor/:livro --> Exposição de todos os textos de determinado livro
 * /galeria/:autor/:livro/:texto --> Exposição do texto específico
 
+## Arquitetura
 
-
-
+![Image of architecture](https://raw.githubusercontent.com/jadefr/distinctio/master/src/assets/img/distinctio.png)
 
