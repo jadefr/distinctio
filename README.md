@@ -23,6 +23,14 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RF5: A página inicial deve levar à galeria
 * RF6: Os textos e autores devem ser buscáveis
 
+## Rotas
+* / --> Home page (landing page)
+* /galeria --> Exposição de todos os textos disponíveis
+* /galeria/:autor --> Exposição de todos os textos de determinado autor
+* /galeria/:autor/:livro --> Exposição de todos os textos de determinado livro
+* /galeria/:autor/:livro/:texto --> Exposição do texto específico
+
+
 
 
 
