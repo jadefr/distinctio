@@ -60,12 +60,6 @@ export default [
         footnote: []
       },
       {
-        text: 'Um dos jurados do Conselho, cheio de corpo e ruivo, parecia mais que lá se\n' +
-          'passou, não interessa ao caso particular, que era melhor ficasse também calado,\n' +
-          'confesso. Cantarei depressa; o terceiro ato não tarda.',
-        footnote: []
-      },
-      {
         text: 'Um dos jurados do Conselho, cheio de corpo e ruivo, parecia mais que ninguém\n' +
           'convencido do delito e do delinqüente. O processo foi examinado, os quesitos\n' +
           'lidos, e as respostas dadas (onze votos contra um); só o jurado ruivo estava\n' +
@@ -294,7 +288,7 @@ export default [
         ]
       },
       {
-        text: 'Equécrates – Que é isso?',
+        text: '<b>Equécrates –</b> Que é isso?',
         footnote: [],
         bold: [
           {
