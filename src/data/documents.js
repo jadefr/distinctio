@@ -5635,7 +5635,7 @@ export default [
         bold: []
       },
       {
-        text: '<br> Versão eletrônica do diálogo platônico "Fedão"<br>Tradução: Carlos Alberto Nunes<br>Créditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)<br>Homepage do grupo: http://br.egroups.com/group/acropolis/',
+        text: '<br> Versão eletrônica do diálogo platônico "Fedão"<br>Tradução: Carlos Alberto Nunes<br>Créditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia)',
         footnote: [],
         bold: []
       }
@@ -6455,7 +6455,7 @@ export default [
       },
       {
         text: '<br><br>' +
-          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
         footnote: []
       }
     ]
@@ -7000,7 +7000,7 @@ export default [
       },
       {
         text: '<br><br>' +
-          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
         footnote: []
       }
     ]
@@ -8537,7 +8537,7 @@ export default [
       },
       {
         text: '<br><br>' +
-          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/</a></i>',
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
         footnote: []
       }
     ]
@@ -12725,7 +12725,7 @@ export default [
         footnote: []
       },
       {
-        text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto</a></i>',
+        text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">O Colocador de Pronomes</a></i>',
         footnote: []
       }
     ]
