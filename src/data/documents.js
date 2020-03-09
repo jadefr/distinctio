@@ -6885,16 +6885,27 @@ export default [
       {
         text: '<br>' +
           'Em tumulto reunidas,\n' +
+          '<br>' +
           'as cores da perdida Primavera\n' +
+          '<br>' +
           'vão retornar, virão\n' +
+          '<br>' +
           'numa enchente de asas, aluvião,\n' +
+          '<br>' +
           'púrpura, sempre-viva, nascitura\n' +
+          '<br>' +
           'estranheza do amor da criatura,\n' +
+          '<br>' +
           'constelação descendo ao rosto teu:\n' +
+          '<br>' +
           'é Ele, é O que reúne o coração\n' +
+          '<br>' +
           'e o grande anel da esfera,\n' +
+          '<br>' +
           'o fogo, a língua ardendo, o incêndio vivo,\n' +
+          '<br>' +
           'a coluna de luz, o capitel que se perdeu…\n' +
+          '<br>' +
           'Que eu',
         footnote: []
       },
@@ -6932,27 +6943,44 @@ export default [
       {
         text: '<br>' +
           'em que serás enfim a sombra esguia\n' +
+          '<br>' +
           'que O deu à luz e que O assistiu morrer…\n' +
+          '<br>' +
           'Atravessa, ó Maria,\n' +
+          '<br>' +
           'os abismos do ser,\n' +
+          '<br>' +
           'ouve este estranho anúncio\n' +
+          '<br>' +
           'e deixa-te invadir para colher,\n' +
+          '<br>' +
           'mais fundo que a razão\n' +
+          '<br>' +
           'e o corpo, o sopro cálido, o prenúncio\n' +
+          '<br>' +
           'da mais viva alegria:\n' +
+          '<br>' +
           'entreabre-te ao clarão\n' +
+          '<br>' +
           'da visita suave,\n' +
+          '<br>' +
           'mas terrível, terrível, deixa a ave\n' +
+          '<br>' +
           'do imenso sacrifício te ofender.',
         footnote: []
       },
       {
         text: '<br>' +
           'Ó pétala intocada,\n' +
+          '<br>' +
           'hás de sofrer\n' +
+          '<br>' +
           'intensa madrugada\n' +
+          '<br>' +
           'e num lago de luz como afogada\n' +
+          '<br>' +
           'hás de durar suspensa\n' +
+          '<br>' +
           'entre a graça imortal e a dor imensa.',
         footnote: []
       },
