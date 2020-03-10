@@ -11,7 +11,8 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 ### Requisitos Não Funcionais
 * RNF1: O site deve apresentar um UX agradável
 * RNF2: Os texto devem estar em português
-* RNF2: Os texto devem ser de domínio público
+* RNF3: Os texto devem ser de domínio público
+* RNF4: Deve haver botões para aumentar e reduzir o tamanho da fonte
 
 ### Requisitos Funcionais
 * RF1: Exibir uma galeria de artigos
