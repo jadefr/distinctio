@@ -8,10 +8,18 @@
       <div id="bottom"></div>
     </div>
 
-    <!-- Icon -->
-    <a href="/galeria">
-      <b-icon icon="book" id="book-icon"></b-icon>
-    </a>
+    <!-- Header Icons -->
+    <div class="header-icons">
+      <!-- Font Icons -->
+      <div class="font-icons">
+        <button v-on:click="fontSize += 0.25">A+</button>
+        <button v-on:click="fontSize < 0.5? fontSize = 0.25: fontSize -= 0.25">A-</button>
+      </div>
+      <!-- Book Icon -->
+      <a href="/galeria">
+        <b-icon icon="book" id="book-icon"></b-icon>
+      </a>
+    </div>
 
     <!-- Header -->
     <header>
@@ -34,7 +42,7 @@
     </back-to-top>
 
     <!-- Article -->
-    <article>
+    <article v-bind:style="{ fontSize: fontSize + 'rem' }">
           <p v-for="(obj, index) in paragraphs" :key="index"
             v-html="obj">
           </p>
@@ -58,6 +66,7 @@ import { mapState } from 'vuex'
 export default {
   data () {
     return {
+      fontSize: 1.25,
       paragraphs: [],
       // paragraphString: '',
       paragraphsLength: '',
