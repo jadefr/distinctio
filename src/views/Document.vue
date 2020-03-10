@@ -66,7 +66,7 @@ import { mapState } from 'vuex'
 export default {
   data () {
     return {
-      fontSize: 1.25,
+      fontSize: 1,
       paragraphs: [],
       // paragraphString: '',
       paragraphsLength: '',
