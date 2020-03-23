@@ -95,7 +95,7 @@ export default [
         footnote: []
       },
       {
-        text: 'Quando saí do tribunal, vim pensando na frase do Lopes, e pareceu-me entendêla.\n' +
+        text: 'Quando saí do tribunal, vim pensando na frase do Lopes, e pareceu-me entendê-la.\n' +
           '“Suje-se gordo!” era como se dissesse que o condenado era mais que ladrão,\n' +
           'era um ladrão reles, um ladrão de nada. Achei esta explicação na esquina da\n' +
           'Rua de S. Pedro; vinha ainda pela dos Ourives. Cheguei a desandar um pouco, a\n' +
@@ -8689,7 +8689,7 @@ export default [
         footnote: []
       },
       {
-        text: '- Pois, amigo, errou de porta. Seu caso é alí com o alveitar da esquina.\n',
+        text: '- Pois, amigo, errou de porta. Seu caso é ali com o alveitar da esquina.\n',
         footnote: []
       },
       {
@@ -8873,7 +8873,7 @@ export default [
         footnote: []
       },
       {
-        text: 'Dedicou-o a Fr. Luz de Souza:\n',
+        text: 'Dedicou-o a Fr. Luiz de Souza:\n',
         footnote: []
       },
       {
