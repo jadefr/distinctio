@@ -68,7 +68,6 @@ export default {
     return {
       fontSize: 1,
       paragraphs: [],
-      // paragraphString: '',
       paragraphsLength: '',
       boldFirstIndex: '',
       boldLastIndex: '',
@@ -132,40 +131,6 @@ export default {
           return this.documents[i].content
         }
       }
-    },
-    getBoldIndexArray (boldFirstIndex, boldLastIndex) {
-      const beginning = parseInt(boldFirstIndex)
-      const end = parseInt(boldLastIndex) + 1
-      const array = []
-      let index = ''
-      for (let i = beginning; i < end; i++) {
-        index = i
-        array.push(index)
-      }
-      return array
-    },
-    color (str) {
-      let color = ''
-      if (str.includes('Fedão')) {
-        color = 'red'
-      } else {
-        color = 'blue'
-      }
-      return color
-    },
-    turnBold () {
-      // let paragraph = ''
-      for (let i = 0; i < this.paragraphs.length; i++) {
-        // paragraph = this.paragraphs[i]
-        if (this.boldIndexArray[0] === i) {
-          this.paragraphWithBolds += '<b>'
-        }
-        if (this.boldIndexArray[this.boldIndexArray.length - 1] === i) {
-          this.paragraphWithBolds += '</b>'
-        }
-        // this.paragraphWithBolds += paragraphs.charAt(i)
-      }
-      this.paragraphWithBolds += '<br><br>'
     }
   },
   mounted: function () {
@@ -182,9 +147,6 @@ export default {
           //
           if (this.documents[i].paragraphs[j].footnote.length) {
             for (let k = 0; k < this.documents[i].paragraphs[j].footnote.length; k++) {
-              // if (this.documents[i].paragraphs[j].text.includes('<a href="#">')) {
-              //   this.documents[i].paragraphs[j].text.replace('<a href="#">', '<a href="#footnote">')
-              // }
               if (this.documents[i].paragraphs[j].footnote[k].content !== '') {
                 this.footnotes.push(this.documents[i].paragraphs[j].footnote[k].content)
               }
@@ -207,15 +169,5 @@ export default {
     @include mobile {
       margin: 0 7%
     }
-  }
-
-  .red {
-    font-weight: bold;
-    color: red;
-  }
-
-  .blue {
-    font-weight: normal;
-    color: blue;
   }
 </style>
