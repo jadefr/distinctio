@@ -1,6 +1,18 @@
 # distinctio
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
+## Atributos
+* UX agradável
+  * textos de boa readability
+  * Botões de aumentar ou diminuir o tamanho da fonte
+  * Botão de voltar ao topo
+
+* Altamente escalonável
+  * a adição ou remoção de textos é feita de forma extremamente fácil
+  
+* Responsivo
+  * design adaptável para qualquer tamanho de viewport
+  
 ## Tech Stack
 * Vue.js/Vue Router/Vuex
 * Sass
@@ -13,6 +25,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RNF2: Os texto devem estar em português
 * RNF3: Os texto devem ser de domínio público
 * RNF4: Deve haver botões para aumentar e reduzir o tamanho da fonte
+* RFN5: Escalabilidade
 
 ### Requisitos Funcionais
 * RF1: Exibir uma galeria de artigos
