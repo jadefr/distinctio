@@ -44,7 +44,53 @@
     #bottom { bottom: 0; }
   }
 
-.header-icons {
+
+  // Progress Bar
+  progress {
+    /* Positioning */
+    position: fixed;
+    left: 0;
+    top: 0;
+
+    /* Dimensions */
+    width: 100%;
+    height: 10px;
+
+    @include mobile {
+      height: 6px;
+    }
+
+    /* Reset the appearance */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    /* Get rid of the default border in Firefox/Opera. */
+    border: none;
+
+    /* Progress bar container for Firefox/IE10+ */
+    background-color: transparent;
+
+    /* Progress bar value for IE10+ */
+    color: #853e3e;
+
+    &::-webkit-progress-bar {
+      background-color: transparent;
+    }
+
+    /* Firefox */
+    &::-moz-progress-bar {
+      background: #853e3e;
+    }
+
+    /* Chrome and Safari */
+    &::-webkit-progress-value {
+      background: #853e3e;
+    }
+  }
+
+  // Header Icons
+  .header-icons {
 
   // Font Icons
   .font-icons {
@@ -154,7 +200,7 @@
 
 
   // Back to top
-    .btn-to-top {
+  .btn-to-top {
       width: 2.7em;
       height: 2.7em;
       font-size: 22px;

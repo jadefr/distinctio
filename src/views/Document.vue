@@ -1,5 +1,6 @@
 <template>
   <div class="document-view-container">
+
     <!-- Borders -->
     <div class="borders">
       <div id="left"></div>
@@ -7,6 +8,9 @@
       <div id="top"></div>
       <div id="bottom"></div>
     </div>
+
+    <!-- Progress Bar -->
+    <progress value="0"></progress>
 
     <!-- Header Icons -->
     <div class="header-icons">
@@ -75,7 +79,8 @@ export default {
       boldLastIndexArray: [],
       paragraphWithBolds: '',
       boldIndexArray: [],
-      footnotes: []
+      footnotes: [],
+      height: 0
     }
   },
   computed: {
@@ -133,8 +138,31 @@ export default {
       }
     }
   },
+  /* eslint-env jquery */
   mounted: function () {
     window.scrollTo(0, 0)
+    //
+    // window.scrollTo({
+    //   top: 0,
+    //   left: 0,
+    //   behavior: 'smooth'
+    // })
+    //
+    const winHeight = $(window).height()
+    console.log(winHeight)
+    const docHeight = $(document).height()
+    console.log(docHeight)
+    const progressBar = $('progress')
+    var max, value
+
+    /* Set the max scrollable area */
+    max = docHeight - winHeight
+    progressBar.attr('max', max)
+
+    $(document).on('scroll', function() {
+      value = $(window).scrollTop()
+      progressBar.attr('value', value)
+    })
   },
   created () {
     for (let i = 0; i < this.documents.length; i++) {

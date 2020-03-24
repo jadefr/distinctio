@@ -6704,7 +6704,7 @@ export default [
           'historicismo e ao existencialismo historicista e voltemos ao nosso\n' +
           'problema, isto é, aos dilemas do historiador das religiões. Este, dizíamos,\n' +
           'esquece muitas vezes que está a lidar com um comportamento humano\n' +
-          'arcaico e integral e que, por conseguinte, o seu papel não deveria reduzirse\n' +
+          'arcaico e integral e que, por conseguinte, o seu papel não deveria reduzir-se\n' +
           'ao <i>registo das manifestações históricas deste comportamento</i>, ele\n' +
           'deveria aplicar-se também a penetrar mais profundamente os seus\n' +
           'significados e as suas articulações. Tomemos um só exemplo; sabe-se hoje\n' +
@@ -9483,7 +9483,7 @@ export default [
           'e perigo auxiliar a República, rodeada de pessoas incapazes de realizar o bem, com\n' +
           'as quais a comparação é humilhante, em cujo combate há risco, principalmente\n' +
           'diante da multidão revoltada, pelo que não é prudente tomar as rédeas quando não\n' +
-          'se podem conter os ímpetos desordenados do populacho, nem é generoso exporse,\n' +
+          'se podem conter os ímpetos desordenados do populacho, nem é generoso expor-se,\n' +
           'na luta com adversários impuros, a injúrias ou ultrajes que a sensatez não tolera;\n' +
           'como se os homens de grande virtude, animosos e dotados de espírito vigoroso,\n' +
           'pudessem ambicionar o poder com um objetivo mais legítimo que o de sacudir o\n' +

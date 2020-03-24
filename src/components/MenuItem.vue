@@ -77,7 +77,7 @@ export default {
       this.sectionURL.length = 0
       for (let j = 0; j < this.documents.length; j++) {
         if (this.$route.params.titleURL === this.documents[j].titleURL) {
-          console.log('input: ' + this.input + ' // ' + 'j ::  ' + j + ' // author :: ' + this.documents[j].author + ' // title :: ' + this.documents[j].title + ' // section :: ' + this.documents[j].section)
+          // console.log('input: ' + this.input + ' // ' + 'j ::  ' + j + ' // author :: ' + this.documents[j].author + ' // title :: ' + this.documents[j].title + ' // section :: ' + this.documents[j].section)
           this.author.push(this.documents[j].author)
           this.title.push(this.documents[j].title)
           this.section.push(this.documents[j].section)
@@ -87,9 +87,9 @@ export default {
         }
       }
     }
-    this.author.forEach(author => console.log('author: ' + author))
-    this.title.forEach(title => console.log('title: ' + title))
-    this.section.forEach(section => console.log('author: ' + section))
+    // this.author.forEach(author => console.log('author: ' + author))
+    // this.title.forEach(title => console.log('title: ' + title))
+    // this.section.forEach(section => console.log('author: ' + section))
 
     if (this.input === 'allAuthors') {
       console.log(this.input)

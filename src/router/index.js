@@ -5,6 +5,7 @@ import Gallery from '../views/Gallery.vue'
 import Document from '../views/Document.vue'
 import Author from '../views/Author.vue'
 import Title from '../views/Title.vue'
+import ScrollTest from '../views/ScrollTest'
 
 Vue.use(VueRouter)
 
@@ -33,6 +34,11 @@ const routes = [
     path: '/galeria/:authorURL/:titleURL',
     name: 'Title',
     component: Title
+  },
+  {
+    path: '/test',
+    name: 'ScrollTest',
+    component: ScrollTest
   }
 ]
 
