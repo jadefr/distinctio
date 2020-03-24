@@ -30,6 +30,10 @@ import Card from '@/components/Card'
 import NavBar from '@/components/NavBar'
 
 export default {
+  components: {
+    Card,
+    NavBar
+  },
   props: [
     'input'
   ],
@@ -44,10 +48,6 @@ export default {
       titleURL: [],
       sectionURL: []
     }
-  },
-  components: {
-    Card,
-    NavBar
   },
   computed: {
     ...mapState([

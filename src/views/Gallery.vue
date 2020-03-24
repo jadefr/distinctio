@@ -3,7 +3,7 @@
 
     <!-- NavBar Component -->
     <NavBar
-      go-to=""
+      :go-to="goTo"
     />
 
     <!-- Cards -->
@@ -33,6 +33,11 @@ export default {
   components: {
     Card,
     NavBar
+  },
+  data () {
+    return {
+      goTo: ''
+    }
   },
   computed: {
     ...mapState([
