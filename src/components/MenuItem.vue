@@ -2,7 +2,9 @@
   <div class="gallery-view-container">
 
     <!-- NavBar Component -->
-    <NavBar />
+    <NavBar
+      :go-to="goTo"
+    />
 
     <!-- Card Component -->
     <div class="gallery-card">
@@ -33,6 +35,7 @@ export default {
   ],
   data () {
     return {
+      goTo: 'galeria',
       author: [],
       title: [],
       section: [],
@@ -64,6 +67,7 @@ export default {
         this.sectionURL.push(this.documents[i].sectionURL)
       }
     }
+    //
     if (this.input === 'titleURL') {
       this.author.length = 0
       this.title.length = 0

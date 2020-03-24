@@ -5,9 +5,9 @@
     <div id="gallery-navbar">
       <!-- Icon -->
       <div id="icon">
-        <a href="/">
+        <router-link :to="`/${goTo}`">
           <b-icon icon="book" id="book-icon"></b-icon>
-        </a>
+        </router-link>
       </div>
 
       <b-navbar type="dark">
@@ -35,6 +35,14 @@
 
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    goTo: String
+  }
+}
+</script>
 
 <style lang="scss">
   @import '../assets/sass/views/gallery';

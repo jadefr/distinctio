@@ -2,7 +2,9 @@
   <div class="gallery-view-container">
 
     <!-- NavBar Component -->
-    <NavBar />
+    <NavBar
+      go-to=""
+    />
 
     <!-- Cards -->
     <div class="gallery-card">
