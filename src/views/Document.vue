@@ -143,24 +143,10 @@ export default {
   mounted: function () {
     window.scrollTo(0, 0)
 
-    // window.scrollTo({
-    //   top: 0,
-    //   left: 0,
-    //   behavior: 'smooth'
-    // })
-
-    const winHeight = $(window).height()
-    const docHeight = $(document).height()
-    const progressBar = $('progress')
-    var max, value
-
-    /* Set the max scrollable area */
-    max = docHeight - winHeight
-    progressBar.attr('max', max)
-
     $(document).on('scroll', function() {
-      value = $(window).scrollTop()
-      progressBar.attr('value', value)
+      $('progress')
+        .attr('max', $(document).height() - $(window).height())
+        .attr('value', $(window).scrollTop())
     })
   },
   created () {
