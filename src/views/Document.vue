@@ -80,7 +80,8 @@ export default {
       paragraphWithBolds: '',
       boldIndexArray: [],
       footnotes: [],
-      height: 0
+      position: '',
+      savedPosition: 0
     }
   },
   computed: {
@@ -141,17 +142,15 @@ export default {
   /* eslint-env jquery */
   mounted: function () {
     window.scrollTo(0, 0)
-    //
+
     // window.scrollTo({
     //   top: 0,
     //   left: 0,
     //   behavior: 'smooth'
     // })
-    //
+
     const winHeight = $(window).height()
-    console.log(winHeight)
     const docHeight = $(document).height()
-    console.log(docHeight)
     const progressBar = $('progress')
     var max, value
 
@@ -165,6 +164,7 @@ export default {
     })
   },
   created () {
+    //
     for (let i = 0; i < this.documents.length; i++) {
       if ((this.$route.params.sectionURL === this.documents[i].sectionURL) && (this.$route.params.titleURL === this.documents[i].titleURL)) {
         this.paragraphsLength = this.documents[i].paragraphs.length
@@ -180,9 +180,11 @@ export default {
               }
             }
           }
+          //
         }
       }
     }
+    //
   }
 }
 </script>

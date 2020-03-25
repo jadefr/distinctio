@@ -8491,7 +8491,7 @@ export default [
         footnote: []
       },
       {
-        text: '- Sei onde trago o nariz, moço. Vassuncê mandou este bilhete à Laurinha dizendo que ama-”lhe”. Se amasse a ela deveria dezer amo-”te”. Dizendo “amo-lhe” declara que ama a uma terceira pessoa, a qual não pode ser senão a Maria do Carmo. Salvo se declara amor à minha mulher...\n',
+        text: '- Sei onde trago o nariz, moço. Vassuncê mandou este bilhete à Laurinha dizendo que ama-“lhe”. Se amasse a ela deveria dizer amo-“te”. Dizendo “amo-lhe” declara que ama a uma terceira pessoa, a qual não pode ser senão a Maria do Carmo. Salvo se declara amor à minha mulher...\n',
         footnote: []
       },
       {
@@ -8531,7 +8531,7 @@ export default [
         footnote: []
       },
       {
-        text: 'Deixê-mo-lo, porém, evoluir e tomêmo-lo quando nos serve, aos 40 anos, já a descer o morro, arcado ao peso da ciência e combalido de rins. Lá está ele em seu gabinete de trabalho, fossando à luza dum lampião os pronomes de Filinto Elísio. Corcovado, magro, seco, óculos de latão no nariz, careca, celibatário impenitente, dez horas de aulas por dia, duzentos mil réis por mês e o rim volta e meia a fazer-se lembrado.\n',
+        text: 'Deixemo-lo, porém, evoluir e tomemo-lo quando nos serve, aos 40 anos, já a descer o morro, arcado ao peso da ciência e combalido de rins. Lá está ele em seu gabinete de trabalho, fossando à luza dum lampião os pronomes de Filinto Elísio. Corcovado, magro, seco, óculos de latão no nariz, careca, celibatário impenitente, dez horas de aulas por dia, duzentos mil réis por mês e o rim volta e meia a fazer-se lembrado.\n',
         footnote: []
       },
       {
