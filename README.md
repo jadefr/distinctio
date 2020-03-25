@@ -4,9 +4,9 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 ## Atributos
 * UX agradável
   * textos de boa readability
-  * Botões de aumentar ou diminuir o tamanho da fonte
-  * Botão de voltar ao topo
-  * Barra de progresso no topo dos textos
+  * botões de aumentar ou diminuir o tamanho da fonte
+  * botão de voltar ao topo
+  * barra de progresso no topo dos textos
 
 * Altamente escalonável
   * a adição ou remoção de textos é feita de forma extremamente fácil
