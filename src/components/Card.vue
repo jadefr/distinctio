@@ -69,6 +69,17 @@ export default {
     #card-text {
       color: color(gallery-font-color);
       text-align: center;
+
+      @include large-screen {
+        h5 {
+          font-size: 1.3rem;
+        }
+
+        p {
+          padding-top: 1rem;
+          font-size: 1.15rem;
+        }
+      }
     }
 
     @media only screen and (min-width: 768px) and (max-width: 1000px) {
