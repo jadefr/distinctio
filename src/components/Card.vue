@@ -72,12 +72,11 @@ export default {
 
       @include large-screen {
         h5 {
-          font-size: 1.3rem;
+          font-size: 1.4rem;
         }
-
         p {
           padding-top: 1rem;
-          font-size: 1.15rem;
+          font-size: 1.2rem;
         }
       }
     }
@@ -87,7 +86,7 @@ export default {
         word-wrap: normal;
 
         #card-title {
-          font-size: 0.9rem;
+          font-size: 0.95rem;
         }
         #card-text {
           h5 {
@@ -100,5 +99,22 @@ export default {
       }
     }
 
+    @include medium-screen {
+      .card {
+        word-wrap: normal;
+
+        #card-title {
+          font-size: 1.3rem;
+        }
+        #card-text {
+          h5 {
+            font-size: 1rem;
+          }
+          p {
+            font-size: 0.9rem;
+          }
+        }
+      }
+    }
   }
 </style>
