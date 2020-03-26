@@ -38,6 +38,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RF4: O header do artigo deve conter o título da seção, seguido pelo nome do livro e o autor
 * RF5: A página inicial deve levar à galeria
 * RF6: Os textos e autores devem ser buscáveis
+* RF7: Deve-se utilizar o localStorage para armazenar a altura do texto
 
 ## Rotas
 * / --> Home page (landing page)
