@@ -141,12 +141,15 @@ export default {
   },
   /* eslint-env jquery */
   mounted: function () {
-    window.scrollTo(0, 0)
+    const y = parseInt(localStorage.getItem('value' + window.location.pathname))
+    window.scrollTo(0, y)
 
     $(document).on('scroll', function() {
       $('progress')
         .attr('max', $(document).height() - $(window).height())
         .attr('value', $(window).scrollTop())
+
+      localStorage.setItem('value' + window.location.pathname, $(window).scrollTop())
     })
   },
   created () {
