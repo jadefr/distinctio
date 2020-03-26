@@ -30,9 +30,13 @@
       <p>A página de exibição do texto possui as seguintes funcionalidades:</p>
       <div class="text-box">
         <span class="line"><span class="bullet">1.</span> Botão <span class="highlight">livro</span> (<i>canto superior esquerdo</i>): <span class="answer">volta à galeria</span></span>
-        <span class="line"><span class="bullet">2.</span> Botões <span class="highlight">A-</span> e <span class="highlight">A+</span><sup><a href="#footnotes">*</a></sup> (<i>canto superior direito</i>): <span class="answer">diminui e aumenta o tamanho da fonte, respectivamente</span></span>
+        <span class="line"><span class="bullet">2.</span> Botões <span class="highlight">A-</span> e <span class="highlight">A+</span><sup><a href="#footnote">*</a></sup> (<i>canto superior direito</i>): <span class="answer">diminui e aumenta o tamanho da fonte, respectivamente</span></span>
         <span class="line"><span class="bullet">3.</span> Botão <span class="highlight">volta ao topo</span> (<i>canto inferior direito</i>): <span class="answer">volta ao início do texto</span></span>
         <span class="line"><span class="bullet">4.</span> Barra de <span class="highlight">progresso</span> (<i>na borda do topo</i>): <span class="answer">indica a porcentagem já lida</span></span>
+      </div>
+      <!-- Footnotes -->
+      <div id="footnote">
+        <p><span id="asterisk">*</span> Botões visíveis somente em tablet ou celular</p>
       </div>
         <br>
         <p>O <i>Distinctio</i> permite que se <span class="highlight-paragraph">guarde a posição</span> em que se parou de ler o texto:</p>
@@ -42,11 +46,6 @@
       </div>
       <br>
       <p id="last-paragraph">Caso tenha <span id="green-text">sugestões</span>, envie-as <a href="https://jadeferreira.com.br/#contato">aqui</a></p>
-    </div>
-
-    <!-- Footnotes -->
-    <div id="footnotes">
-      <p><span id="asterisk">*</span> Botões visíveis somente em tablet ou celular</p>
     </div>
   </div>
 </template>
