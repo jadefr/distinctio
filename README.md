@@ -7,6 +7,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
   * botões de aumentar ou diminuir o tamanho da fonte
   * botão de voltar ao topo
   * barra de progresso no topo dos textos
+  * armazenamento da altura em que se parou de ler o texto
 
 * Altamente escalonável
   * a adição ou remoção de textos é feita de forma extremamente fácil
@@ -44,6 +45,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * /galeria/:autor --> Exposição de todos os textos de determinado autor
 * /galeria/:autor/:livro --> Exposição de todos os textos de determinado livro
 * /galeria/:autor/:livro/:texto --> Exposição do texto específico
+* /galeria/guia-de-uso --> Guia de uso do site
 
 ## Arquitetura
 
