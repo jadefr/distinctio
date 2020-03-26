@@ -12,6 +12,7 @@
 
       <b-navbar type="dark">
         <b-navbar-nav>
+          <b-nav-item href="/guia-de-uso">Guia de Uso</b-nav-item>
           <!-- Navbar dropdowns -->
           <b-nav-item-dropdown text="Autores" right>
             <b-dropdown-item href="/galeria/bruno-tolentino">Bruno Tolentino</b-dropdown-item>
@@ -27,8 +28,6 @@
             <b-dropdown-item href="/galeria/seneca">Sêneca</b-dropdown-item>
             <b-dropdown-item href="/galeria/thomas-mann">Thomas Mann</b-dropdown-item>
           </b-nav-item-dropdown>
-
-<!--          <b-nav-item href="#">Títulos</b-nav-item>-->
         </b-navbar-nav>
       </b-navbar>
     </div>

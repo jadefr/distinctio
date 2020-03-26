@@ -5,7 +5,7 @@ import Gallery from '../views/Gallery.vue'
 import Document from '../views/Document.vue'
 import Author from '../views/Author.vue'
 import Title from '../views/Title.vue'
-import ScrollTest from '../views/ScrollTest'
+import About from '../views/About.vue'
 
 Vue.use(VueRouter)
 
@@ -36,9 +36,9 @@ const routes = [
     component: Title
   },
   {
-    path: '/test',
-    name: 'ScrollTest',
-    component: ScrollTest
+    path: '/guia-de-uso',
+    name: 'About',
+    component: About
   }
 ]
 

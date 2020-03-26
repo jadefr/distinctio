@@ -179,14 +179,4 @@ export default {
 </script>
 <style lang="scss" scoped>
   @import '../assets/sass/views/document';
-
-  #footnotes {
-    margin: 0 10%;
-    padding-bottom: 10px;
-    font-size: 1.2rem;
-
-    @include mobile {
-      margin: 0 7%
-    }
-  }
 </style>

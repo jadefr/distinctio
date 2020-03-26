@@ -1,0 +1,97 @@
+@import '../libraries/_mixins.scss';
+@import '../libraries/_functions.sass';
+@import '../base/_variables.scss';
+@import './document';
+
+.header-icons {
+  margin-left: 1em;
+  margin-top: 1em;
+   @include mobile {
+     margin-bottom: 1em;
+   }
+}
+
+header {
+  h2 {
+    font-weight: lighter;
+  }
+}
+.text {
+  margin: 10%;
+  text-align: justify;
+  font-size: 1.6rem;
+
+  @include mobile {
+    margin: 6%;
+    text-align: left;
+  }
+
+  .highlight-paragraph {
+    color: color(brown);
+    font-weight: bolder;
+    font-size: 1.8rem;
+  }
+
+
+  a {
+    text-decoration: none;
+    color: color(brown);
+
+    &:hover {
+      text-decoration: none;
+      color: color(pink);
+    }
+  }
+
+  .text-box {
+    margin: 2.3rem 0;
+    padding: 2% 5%;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    background: color(yellow-bg-spot);
+
+    .line {
+      display: block;
+      padding-bottom: 1.4rem;
+
+      .highlight {
+        color: color(green-switch);
+        font-weight: bolder;
+      }
+
+      .bullet {
+        font-size: 1.8rem;
+        font-weight: bolder;
+      }
+
+      .answer {
+        padding-left: 2rem;
+        font-size: 1.6rem;
+      }
+    }
+  }
+
+  #last-paragraph {
+    margin-top: 3rem;
+    margin-bottom: 0;
+    text-align: center;
+
+    #green-text {
+      color: color(green-bg-spot);
+    }
+  }
+}
+
+#footnotes {
+  margin: 0 10%;
+  padding-bottom: 10px;
+  font-size: 1.2rem;
+
+  @include mobile {
+    margin: 0 7%
+  }
+
+  #asterisk{
+    color: color(brown);
+  }
+}
