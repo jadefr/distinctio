@@ -28,8 +28,8 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RNF2: Os texto devem estar em português
 * RNF3: Os texto devem ser de domínio público
 * RNF4: Deve haver botões para aumentar e reduzir o tamanho da fonte
-* RFN5: Escalabilidade
-* RFN6: Barra de progresso nos textos
+* RNF5: Escalabilidade
+* RNF6: Barra de progresso nos textos
 
 ### Requisitos Funcionais
 * RF1: Exibir uma galeria de artigos
