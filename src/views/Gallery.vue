@@ -9,7 +9,7 @@
     <!-- Cards -->
     <div class="gallery-card">
       <b-card-group columns>
-        <Card v-for="(obj, key) in documents" :key="key"
+        <Card v-for="(obj, key) in document" :key="key"
               :author-u-r-l="obj.authorURL"
               :title-u-r-l="obj.titleURL"
               :section-u-r-l="obj.sectionURL"
@@ -36,12 +36,14 @@ export default {
   },
   data () {
     return {
-      goTo: ''
+      goTo: '',
+      document: []
     }
   },
   computed: {
     ...mapState([
       'documents',
+      'documents2',
       'imgs'
     ])
   },
@@ -55,6 +57,11 @@ export default {
           return img
         }
       }
+    }
+  },
+  created () {
+    for (let i = 0; i < this.documents2.length; i++) {
+      this.document.push(this.documents2[i].document)
     }
   }
 }

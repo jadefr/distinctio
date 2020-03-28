@@ -15,20 +15,11 @@
           <b-nav-item href="/guia-de-uso">Guia de Uso</b-nav-item>
           <!-- Navbar dropdowns -->
           <b-nav-item-dropdown text="Autores" right>
-            <b-dropdown-item href="/galeria/augusto-dos-anjos">Augusto dos Anjos</b-dropdown-item>
-            <b-dropdown-item href="/galeria/bruno-tolentino">Bruno Tolentino</b-dropdown-item>
-            <b-dropdown-item href="/galeria/eca-de-queiroz">Eça de Queiroz</b-dropdown-item>
-            <b-dropdown-item href="/galeria/fernando-pessoa">Fernando Pessoa</b-dropdown-item>
-            <b-dropdown-item href="/galeria/franz-kafka">Franz Kafka</b-dropdown-item>
-            <b-dropdown-item href="/galeria/machado-de-assis/">Machado de Assis</b-dropdown-item>
-            <b-dropdown-item href="/galeria/marco-aurelio">Marco Aurélio</b-dropdown-item>
-            <b-dropdown-item href="/galeria/marco-tulio-cicero">Marco Túlio Cícero</b-dropdown-item>
-            <b-dropdown-item href="/galeria/mircea-eliade">Mircea Eliade</b-dropdown-item>
-            <b-dropdown-item href="/galeria/monteiro-lobato">Monteiro Lobato</b-dropdown-item>
-            <b-dropdown-item href="/galeria/oscar-wilde">Oscar Wilde</b-dropdown-item>
-            <b-dropdown-item href="/galeria/platao/">Platão</b-dropdown-item>
-            <b-dropdown-item href="/galeria/seneca">Sêneca</b-dropdown-item>
-            <b-dropdown-item href="/galeria/thomas-mann">Thomas Mann</b-dropdown-item>
+            <NavigationItems
+              v-for="(obj, key) in uniqueElements" :key="key"
+                :author-u-r-l="obj[0]"
+                :author="obj[1]"
+              />
           </b-nav-item-dropdown>
         </b-navbar-nav>
       </b-navbar>
@@ -38,9 +29,43 @@
 </template>
 
 <script>
+import NavigationItems from '@/components/NavigationItems'
+import { mapState } from 'vuex'
+
 export default {
+  components: {
+    NavigationItems
+  },
   props: {
     goTo: String
+  },
+  data () {
+    return {
+      uniqueElements: []
+    }
+  },
+  computed: {
+    ...mapState([
+      'documents2'
+    ])
+  },
+  created () {
+    const authorsURL = []
+    const authors = []
+    for (let i = 0; i < this.documents2.length; i++) {
+      authorsURL.push(this.documents2[i].document.authorURL)
+      authors.push(this.documents2[i].document.author)
+    }
+    const unique = (value, index, self) => {
+      return self.indexOf(value) === index
+    }
+    const uniqueAuthors = authors.filter(unique).sort()
+    const uniqueAuthorsURL = authorsURL.filter(unique).sort()
+    //
+    for (let i = 0; i < uniqueAuthors.length; i++) {
+      const array = [uniqueAuthorsURL[i], uniqueAuthors[i]]
+      this.uniqueElements.push(array)
+    }
   }
 }
 </script>
