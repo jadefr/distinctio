@@ -238,7 +238,7 @@
     }
 
     p {
-      font-size: 2.2rem;
+      font-size: 1.7rem;
       text-indent: 4rem;
 
       @include desktop {
@@ -246,11 +246,11 @@
       }
 
       @include mobile {
-        font-size: 2em;
+        font-size: 1.6em;
         text-indent: 0rem;
       }
       @include mini-mobile {
-        font-size: 1.9em;
+        font-size: 1.5em;
         text-indent: 0rem;
       }
     }
