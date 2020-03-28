@@ -7,6 +7,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
   * botões de aumentar ou diminuir o tamanho da fonte
   * botão de voltar ao topo
   * barra de progresso no topo dos textos
+  * armazenamento da altura em que se parou de ler o texto
 
 * Altamente escalonável
   * a adição ou remoção de textos é feita de forma extremamente fácil
@@ -27,8 +28,8 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RNF2: Os texto devem estar em português
 * RNF3: Os texto devem ser de domínio público
 * RNF4: Deve haver botões para aumentar e reduzir o tamanho da fonte
-* RFN5: Escalabilidade
-* RFN6: Barra de progresso nos textos
+* RNF5: Escalabilidade
+* RNF6: Barra de progresso nos textos
 
 ### Requisitos Funcionais
 * RF1: Exibir uma galeria de artigos
@@ -37,6 +38,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * RF4: O header do artigo deve conter o título da seção, seguido pelo nome do livro e o autor
 * RF5: A página inicial deve levar à galeria
 * RF6: Os textos e autores devem ser buscáveis
+* RF7: Deve-se utilizar o localStorage para armazenar a altura do texto
 
 ## Rotas
 * / --> Home page (landing page)
@@ -44,6 +46,7 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 * /galeria/:autor --> Exposição de todos os textos de determinado autor
 * /galeria/:autor/:livro --> Exposição de todos os textos de determinado livro
 * /galeria/:autor/:livro/:texto --> Exposição do texto específico
+* /galeria/guia-de-uso --> Guia de uso do site
 
 ## Arquitetura
 
