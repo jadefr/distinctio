@@ -55,15 +55,23 @@ export default {
     for (let i = 0; i < this.documents2.length; i++) {
       authorsURL.push(this.documents2[i].document.authorURL)
       authors.push(this.documents2[i].document.author)
+      // console.log(i + ' :: ' + this.documents2[i].document.authorURL + ' :: ' + this.documents2[i].document.author)
     }
     const unique = (value, index, self) => {
       return self.indexOf(value) === index
     }
     const uniqueAuthors = authors.filter(unique).sort()
+    // console.log(uniqueAuthors.length)
+    uniqueAuthors.forEach(value => console.log('author: ' + value))
+
     const uniqueAuthorsURL = authorsURL.filter(unique).sort()
+    // console.log(uniqueAuthorsURL.length)
+    uniqueAuthorsURL.forEach(value => console.log('authorURL: ' + value))
+
     //
     for (let i = 0; i < uniqueAuthors.length; i++) {
       const array = [uniqueAuthorsURL[i], uniqueAuthors[i]]
+      // console.log(array)
       this.uniqueElements.push(array)
     }
   }
