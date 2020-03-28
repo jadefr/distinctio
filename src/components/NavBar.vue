@@ -15,6 +15,7 @@
           <b-nav-item href="/guia-de-uso">Guia de Uso</b-nav-item>
           <!-- Navbar dropdowns -->
           <b-nav-item-dropdown text="Autores" right>
+            <b-dropdown-item href="/galeria/augusto-dos-anjos">Augusto dos Anjos</b-dropdown-item>
             <b-dropdown-item href="/galeria/bruno-tolentino">Bruno Tolentino</b-dropdown-item>
             <b-dropdown-item href="/galeria/eca-de-queiroz">Eça de Queiroz</b-dropdown-item>
             <b-dropdown-item href="/galeria/fernando-pessoa">Fernando Pessoa</b-dropdown-item>
@@ -24,6 +25,7 @@
             <b-dropdown-item href="/galeria/marco-tulio-cicero">Marco Túlio Cícero</b-dropdown-item>
             <b-dropdown-item href="/galeria/mircea-eliade">Mircea Eliade</b-dropdown-item>
             <b-dropdown-item href="/galeria/monteiro-lobato">Monteiro Lobato</b-dropdown-item>
+            <b-dropdown-item href="/galeria/oscar-wilde">Oscar Wilde</b-dropdown-item>
             <b-dropdown-item href="/galeria/platao/">Platão</b-dropdown-item>
             <b-dropdown-item href="/galeria/seneca">Sêneca</b-dropdown-item>
             <b-dropdown-item href="/galeria/thomas-mann">Thomas Mann</b-dropdown-item>

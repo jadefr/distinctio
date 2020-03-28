@@ -6621,74 +6621,10 @@ export default [
     ]
   },
   {
-    title: 'Noturno',
-    author: 'Bruno Tolentino',
-    section: 'Poema',
-    img: 'brunoTolentino',
-    imgIndex: '12',
-    titleURL: 'noturno',
-    authorURL: 'bruno-tolentino',
-    sectionURL: 'poema',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<br>' +
-          'Não sou o que te quer. Sou o que desce\n' +
-          '<br>' +
-          'a ti, veia por veia, e se derrama\n' +
-          '<br>' +
-          'à cata de si mesmo e do que é chama\n' +
-          '<br>' +
-          'e em cinza se reúne e se arrefece.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '<br>' +
-          'Anoitece contigo. E me anoitece\n' +
-          '<br>' +
-          'o lume do que é findo e me reclama.\n' +
-          '<br>' +
-          'Abro as mãos no obscuro, toco a trama\n' +
-          '<br>' +
-          'que lacuna a lacuna amor se tece.',
-        footnote: []
-      },
-      {
-        text: '<br>' +
-          'Repousa em ti o espanto que em mim dói,\n' +
-          '<br>' +
-          'noturno. E te revolvo. E estás pousada,\n' +
-          '<br>' +
-          'pomba de pura sombra que me rói.',
-        footnote: []
-      },
-      {
-        text: '<br>' +
-          'E mordo o teu silêncio corrosivo,\n' +
-          '<br>' +
-          'chupo o que flui, amor, sei que estou vivo\n' +
-          '<br>' +
-          'e sou teu salto em mim suspenso em nada.',
-        footnote: []
-      },
-      {
-        text: '<br><br>' +
-          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Imagens e Símbolos II',
     author: 'Mircea Eliade',
     section: 'História e Arquétipos',
-    img: 'mirceaEliade',
+    img: 'mirceaEliade2',
     imgIndex: '3',
     titleURL: 'imagens-e-simbolos',
     authorURL: 'mircea-eliade',
@@ -7646,6 +7582,3481 @@ export default [
     ]
   },
   {
+    title: 'A Carteira',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado2',
+    imgIndex: '6',
+    titleURL: 'a-carteira',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '...De repente, Honório olhou para o chão e viu uma carteira.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Abaixar-se, apanhá-la e guardá-la foi obra de alguns instantes. Ninguém o\n' +
+          'viu, salvo um homem que estava à porta de uma loja, e que, sem o conhecer, lhe\n' +
+          'disse rindo:',
+        footnote: []
+      },
+      {
+        text: '— Olhe, se não dá por ela; perdia-a de uma vez.',
+        footnote: []
+      },
+      {
+        text: '— É verdade, concordou Honório envergonhado.',
+        footnote: []
+      },
+      {
+        text: 'Para avaliar a oportunidade desta carteira, é preciso saber que Honório tem\n' +
+          'de pagar amanhã uma dívida, quatrocentos e tantos mil-réis, e a carteira trazia o\n' +
+          'bojo recheado. A dívida não parece grande para um homem da posição de Honório,\n' +
+          'que advoga; mas todas as quantias são grandes ou pequenas, segundo as\n' +
+          'circunstâncias, e as dele não podiam ser piores. Gastos de família excessivos, a\n' +
+          'princípio por servir a parentes, e depois por agradar à mulher, que vivia aborrecida\n' +
+          'da solidão; baile daqui, jantar dali, chapéus, leques, tanta cousa mais, que não havia\n' +
+          'remédio senão ir descontando o futuro.',
+        footnote: []
+      },
+      {
+        text: 'Endividou-se. Começou pelas contas de lojas e armazéns; passou aos\n' +
+          'empréstimos, duzentos a um, trezentos a outro, quinhentos a outro, e tudo a crescer,\n' +
+          'e os bailes a darem-se, e os jantares a comerem-se, um turbilhão perpétuo, uma\n' +
+          'voragem.',
+        footnote: []
+      },
+      {
+        text: '—Tu agora vais bem, não? dizia-lhe ultimamente o Gustavo C..., advogado e\n' +
+          'familiar da casa.',
+        footnote: []
+      },
+      {
+        text: '— Agora vou, mentiu o Honório.',
+        footnote: []
+      },
+      {
+        text: 'A verdade é que ia mal. Poucas causas, de pequena monta, e constituintes\n' +
+          'remissos; por desgraça perdera ultimamente um processo, com que fundara grandes\n' +
+          'esperanças. Não só recebeu pouco, mas até parece que ele lhe tirou alguma cousa\n' +
+          'à reputação jurídica; em todo caso, andavam mofinas nos jornais.',
+        footnote: []
+      },
+      {
+        text: 'D. Amélia não sabia nada; ele não contava nada à mulher, bons ou maus\n' +
+          'negócios. Não contava nada a ninguém. Fingia-se tão alegre como se nadasse em\n' +
+          'um mar de prosperidades. Quando o Gustavo, que ia todas as noites à casa dele,\n' +
+          'dizia uma ou duas pilhérias, ele respondia com três e quatro; e depois ia ouvir os\n' +
+          'trechos de música alemã, que D. Amélia tocava muito bem ao piano, e que o\n' +
+          'Gustavo escutava com indizível prazer, ou jogavam cartas, ou simplesmente\n' +
+          'falavam de política.',
+        footnote: []
+      },
+      {
+        text: 'Um dia, a mulher foi achá-lo dando muitos beijos à filha, criança de quatro\n' +
+          'anos, e viu-lhe os olhos molhados; ficou espantada, e perguntou-lhe o que era.',
+        footnote: []
+      },
+      {
+        text: '— Nada, nada.',
+        footnote: []
+      },
+      {
+        text: 'Compreende-se que era o medo do futuro e o horror da miséria.',
+        footnote: []
+      },
+      {
+        text: 'Mas as esperanças voltavam com facilidade. A idéia de que os dias\n' +
+          'melhores tinham de vir dava-lhe conforto para a luta. Estava com, trinta e quatro anos; era o princípio da carreira: todos os princípios são difíceis. E toca a trabalhar,\n' +
+          'a esperar, a gastar, pedir fiado ou: emprestado, para pagar mal, e a más horas.',
+        footnote: []
+      },
+      {
+        text: 'A dívida urgente de hoje são uns malditos quatrocentos e tantos mil-réis de\n' +
+          'carros. Nunca demorou tanto a conta, nem ela cresceu tanto, como agora; e, a rigor,\n' +
+          'o credor não lhe punha a faca aos peitos; mas disse-lhe hoje uma palavra azeda,\n' +
+          'com um gesto mau, e Honório quer pagar-lhe hoje mesmo. Eram cinco horas da\n' +
+          'tarde.',
+        footnote: []
+      },
+      {
+        text: 'Tinha-se lembrado de ir a um agiota, mas voltou sem ousar pedir nada. Ao\n' +
+          'enfiar pela Rua. da Assembléia é que viu a carteira no chão, apanhou-a, meteu no\n' +
+          'bolso, e foi andando.',
+        footnote: []
+      },
+      {
+        text: 'Durante os primeiros minutos, Honório não pensou nada; foi andando,\n' +
+          'andando, andando, até o Largo da Carioca. No Largo parou alguns instantes, —\n' +
+          'enfiou depois pela Rua da Carioca, mas voltou logo, e entrou na Rua Uruguaiana.\n' +
+          'Sem saber como, achou-se daí a pouco no Largo de S. Francisco de Paula; e ainda,\n' +
+          'sem saber como, entrou em um Café. Pediu alguma cousa e encostou-se à parede,\n' +
+          'olhando para fora. Tinha medo de abrir a carteira; podia não achar nada, apenas\n' +
+          'papéis e sem valor para ele. Ao mesmo tempo, e esta era a causa principal das\n' +
+          'reflexões, a consciência perguntava-lhe se podia utilizar-se do dinheiro que achasse.\n' +
+          'Não lhe perguntava com o ar de quem não sabe, mas antes com uma expressão\n' +
+          'irônica e de censura. Podia lançar mão do dinheiro, e ir pagar com ele a dívida?',
+        footnote: []
+      },
+      {
+        text: 'Eis o ponto. A consciência acabou por lhe dizer que não podia, que devia\n' +
+          'levar a carteira à polícia, ou anunciá-la; mas tão depressa acabava de lhe dizer isto,\n' +
+          'vinham os apuros da ocasião, e puxavam por ele, e convidavam-no a ir pagar a\n' +
+          'cocheira. Chegavam mesmo a dizer-lhe que, se fosse ele que a tivesse perdido,\n' +
+          'ninguém iria entregar-lha; insinuação que lhe deu ânimo.',
+        footnote: []
+      },
+      {
+        text: 'Tudo isso antes de abrir a carteira. Tirou-a do bolso, finalmente, mas com\n' +
+          'medo, quase às escondidas; abriu-a, e ficou trêmulo. Tinha dinheiro, muito dinheiro;\n' +
+          'não contou, mas viu duas notas de duzentos mil-réis, algumas de cinqüenta e vinte;\n' +
+          'calculou uns setecentos mil-réis ou mais; quando menos, seiscentos. Era a dívida\n' +
+          'paga; eram menos algumas despesas urgentes. Honório teve tentações de fechar os\n' +
+          'olhos, correr à cocheira, pagar, e, depois de paga a dívida, adeus; reconciliar-se-ia\n' +
+          'consigo. Fechou a carteira, e com medo de a perder, tornou a guardá-la.',
+        footnote: []
+      },
+      {
+        text: 'Mas daí a pouco tirou-a outra vez, e abriu-a, com vontade de contar o\n' +
+          'dinheiro. Contar para quê? era dele? Afinal venceu-se e contou: eram setecentos e\n' +
+          'trinta mil-réis. Honório teve um calafrio.',
+        footnote: []
+      },
+      {
+        text: 'Ninguém viu, ninguém soube; podia ser um lance da fortuna, a sua boa sorte,\n' +
+          'um anjo... Honório teve pena de não crer nos anjos...',
+        footnote: []
+      },
+      {
+        text: 'Mas por que não havia de crer neles? E voltava ao dinheiro, olhava,\n' +
+          'passava-o pelas mãos; depois, resolvia o contrário, não usar do achado, restituí-lo.\n' +
+          'Restituí-lo a quem? Tratou de ver se havia na carteira algum sinal.',
+        footnote: []
+      },
+      {
+        text: '"Se houver um nome, uma indicação qualquer, não posso utilizar-me do\n' +
+          'dinheiro," pensou ele.',
+        footnote: []
+      },
+      {
+        text: 'Esquadrinhou os bolsos da carteira. Achou cartas, que não abriu,\n' +
+          'bilhetinhos dobrados, que não leu, e por fim um cartão de visita; leu o nome; era do\n' +
+          'Gustavo. Mas então, a carteira?... Examinou-a por fora, e pareceu-lhe efetivamente\n' +
+          'do amigo. Voltou ao interior; achou mais dous cartões, mais três, mais cinco. Não\n' +
+          'havia duvidar; era dele.',
+        footnote: []
+      },
+      {
+        text: 'A descoberta entristeceu-o. Não podia ficar com o dinheiro, sem praticar um\n' +
+          'ato ilícito, e, naquele caso, doloroso ao seu coração porque era em dano de um\n' +
+          'amigo. Todo o castelo levantado esboroou-se como se fosse de cartas. Bebeu a última gota de café, sem reparar que estava frio. Saiu, e só então reparou que era\n' +
+          'quase noite. Caminhou para casa. Parece que a necessidade ainda lhe deu uns\n' +
+          'dous empurrões, mas ele resistiu.',
+        footnote: []
+      },
+      {
+        text: '"Paciência, disse ele consigo; verei amanhã o que posso fazer."',
+        footnote: []
+      },
+      {
+        text: 'Chegando a casa, já ali achou o Gustavo, um pouco preocupado e a própria\n' +
+          'D. Amélia o parecia também. Entrou rindo, e perguntou ao amigo se lhe faltava\n' +
+          'alguma cousa.',
+        footnote: []
+      },
+      {
+        text: '— Nada.',
+        footnote: []
+      },
+      {
+        text: '— Nada?',
+        footnote: []
+      },
+      {
+        text: '— Por quê?',
+        footnote: []
+      },
+      {
+        text: '— Mete a mão no bolso; não te falta nada?',
+        footnote: []
+      },
+      {
+        text: '— Falta-me a carteira, disse o Gustavo sem meter a mão no bolso.',
+        footnote: []
+      },
+      {
+        text: '— Sabes se alguém a achou?',
+        footnote: []
+      },
+      {
+        text: '— Achei-a eu, disse Honório entregando-lha.',
+        footnote: []
+      },
+      {
+        text: 'Gustavo pegou dela precipitadamente, e olhou desconfiado para o amigo.\n' +
+          'Esse olhar foi para Honório como um golpe de estilete; depois de tanta luta com a\n' +
+          'necessidade, era um triste prêmio. Sorriu amargamente; e, como o outro lhe\n' +
+          'perguntasse onde a achara, deu-lhe as explicações precisas.',
+        footnote: []
+      },
+      {
+        text: '— Mas conheceste-a?',
+        footnote: []
+      },
+      {
+        text: '— Não; achei os teus bilhetes de visita.',
+        footnote: []
+      },
+      {
+        text: 'Honório deu duas voltas, e foi mudar de toilette para o jantar.',
+        footnote: []
+      },
+      {
+        text: 'Então Gustavo sacou novamente a carteira, abriu-a, foi a um dos bolsos, tirou\n' +
+          'um dos bilhetinhos, que o outro não quis abrir nem ler, e estendeu-o a D. Amélia,\n' +
+          'que, ansiosa e trêmula, rasgou-o em trinta mil pedaços: era um bilhetinho de amor.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Imagens e Símbolos III',
+    author: 'Mircea Eliade',
+    section: 'A Imagem do Mundo',
+    img: 'mirceaEliade2',
+    imgIndex: '3',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'a-imagem-do-mundo',
+    content: 'Dos símbolos põe um  problema de pesadas  consequências;  certas  zonasdo  inconsciente  individual  ou  coletivo  serão  ou  não  dominadas tambémpelologos,ou estaremos perante manifestações de um transconsciente?Este  problema  não  poderia  ser  resolvido  unicamente  pela  psicologia  deprofundidade,   pois   os   simbolismos   que   decifram   estaúltima   sãoconstituídos  na  maior  parte  do  tempo,  por  fragmentos  dispersos  e  pormanifestações de uma psiqué em crise, se não em regressão patológica.Para  surpreender  as  verdadeiras  estruturas  e  funções  dos  símbolos,  épreciso   que   nos   dirijamos   ao   inesgotável   repertório   da   história   dasreligiões.   Mas,   ainda   aqui   é   preciso   saber   escolher   pois   os   nossosdocumentos apresentam frequentemente formas decadentes, aberrantesou  francamente  medíocres.  Se  se  quiser  chegar  a  uma  compreensãoadequada  do  simbolismo  religioso  arcaico  é-se  obrigado  a  fazer  umaselecção,  do  mesmo  modo  que,  para  se  ter  ideia  de  uma  literaturaestrangeira,  não  se  consideram  ao acaso  os primeiros dez  ou  cem  livrosque se encontram na primeira biblioteca pública. Deve esperar-se que oshistoriadores das religiões façam um dia o trabalho de hierarquização dosseus documentos, tendo em conta o seu valor e o seu estado, tal como osseus colegas, os historiadores das literaturas. Mas, mesmo assim, estamosapenas no princípio.Aimagemdo mundoAs  sociedades  arcaicas  e  tradicionais  concebem  o  mundo  em  seuredor com um microcosmos. Nos limites deste mundo fechado, começa odomínio do desconhecido,  do  não-formado. De um  lado existe o  espaçocosmisado, portanto habitado e organizado—de outro lado, no exteriordeste   espaço   familiar,   existe   a   região   desconhecida   e   terrível   dosdemónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,a  morte,  a  noite.  Esta  imagem  de  um  microcosmomundo  habitado,rodeado  de  regiões  desérticas  assimiladas  ao  caos  ou   ao  reino  dos\n' +
+      'mortos,  sobreviveu  mesmo  nas  civilizações  muito  evoluídas,  com  as  daChina,  da  Mesopotâmia  ou  do  Egipto.  De  fato,  um  grande  número  detextos  assimila  os  adversários,  prontos  a  atacar  o  território  nacional,  àslarvas, aos demónios ou às forças do caos. Assim, os adversários do Faraóeram  considerados  como  «filhos  da  ruína,  dos  lobos,  dos  cães»,  etc.  OFaraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto osseus  inimigoseram  identificados  com  este  dragão  mítico2.  Pelo  fato  deatacarem e porem em perigo o equilíbrio e a própriavida da cidade (ouide  qualquer  outro  território  habitado  e  organizado),  os  inimigos  sãoassimilados  às  forças  demoníacas,  pois  eles  esforçam-se  por  reintegrareste microcosmos no estado caótico, ou seja suprimi-lo. A destruição deuma   ordem   estabelecida,a   abolição   de   uma   imagem   arquetípica,equivalia a uma regressão para o caos, para o pré-formal, para o estadonão  diferenciado  que  precedia  a  cosmogonia.  Notemos  que  as  mesmasimagens são ainda utilizadas nos nossos dias quando se trata de formularos    perigos    que    ameaçam    um    certo    tipo    de    civilização:    fala-senomeadamente   de   «caos»,   de   «desordem»,   das   «trevas»   em   quemergulhará o «nosso mundo». Todas estas expressões, como bem se vê,significam a abolição de uma ordem, de um Cosmos, de uma estrutura, ea re-imersão num estado fluido, amorfo, caótico enfim.A  concepção  do  adversário  sob  a  forma  de  um  ser  demoníaco,verdadeira encarnação idas forças do mal, sobreviveu igualmente até aosnossos dias. A psicanálise destas imagens míticas que ainda hoje animamomundo moderno, mostrar-nos-á talvez em que medida projetamos nos«inimigos» os nossos próprios desejos de destruição. Mas este problemaultrapassa a nossa competência. O que queremos trazer à luz é o fato de,para   o   mundo   arcaico   em   geral,   os   inimigos   queameaçavam   omicrocosmos serem perigosos não tanto como seres humanos (em si) masporque encarnavam as forças hostis e destruidoras. É muito provável queas defesas dos lugares habitados e das cidades tenham começado por serdefesas mágicas; pois estas defesas—fossos, labirintos, muralhas, ',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
+    paragraphs: [
+      {
+        text: 'As sociedades arcaicas e tradicionais concebem o mundo em seu\n' +
+          'redor com um microcosmos. Nos limites deste mundo fechado, começa o\n' +
+          'domínio do desconhecido, do não-formado. De um lado existe o espaço\n' +
+          'cosmisado, portanto habitado e organizado — de outro lado, no exterior\n' +
+          'deste espaço familiar, existe a região desconhecida e terrível dos\n' +
+          'demónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,\n' +
+          'a morte, a noite. Esta imagem de um microcosmomundo habitado,\n' +
+          'rodeado de regiões desérticas assimiladas ao caos ou ao reino dos mortos, sobreviveu mesmo nas civilizações muito evoluídas, com as da\n' +
+          'China, da Mesopotâmia ou do Egipto. De fato, um grande número de\n' +
+          'textos assimila os adversários, prontos a atacar o território nacional, às\n' +
+          'larvas, aos demónios ou às forças do caos. Assim, os adversários do Faraó\n' +
+          'eram considerados como «filhos da ruína, dos lobos, dos cães», etc. O\n' +
+          'Faraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto os\n' +
+          'seus inimigos eram identificados com este dragão mítico <sup><a href="#footnotes">1</a></sup>. Pelo fato de\n' +
+          'atacarem e porem em perigo o equilíbrio e a própria vida da cidade (ou\n' +
+          'ide qualquer outro território habitado e organizado), os inimigos são\n' +
+          'assimilados às forças demoníacas, pois eles esforçam-se por reintegrar\n' +
+          'este microcosmos no estado caótico, ou seja suprimi-lo. A destruição de\n' +
+          'uma ordem estabelecida, a abolição de uma imagem arquetípica,\n' +
+          'equivalia a uma regressão para o caos, para o pré-formal, para o estado\n' +
+          'não diferenciado que precedia a cosmogonia. Notemos que as mesmas\n' +
+          'imagens são ainda utilizadas nos nossos dias quando se trata de formular\n' +
+          'os perigos que ameaçam um certo tipo de civilização: fala-se\n' +
+          'nomeadamente de «caos», de «desordem», das «trevas» em que\n' +
+          'mergulhará o «nosso mundo». Todas estas expressões, como bem se vê,\n' +
+          'significam a abolição de uma ordem, de um Cosmos, de uma estrutura, e\n' +
+          'a re-imersão num estado fluido, amorfo, caótico enfim.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ver o nosso livro Le Mythe de l\'Éternel Retour: Archétypes et Répétition\n' +
+              '(Gallimard, Paris, 1949), pp. 68 sq.'
+          }
+        ]
+      },
+      {
+        text: 'A concepção do adversário sob a forma de um ser demoníaco,\n' +
+          'verdadeira encarnação idas forças do mal, sobreviveu igualmente até aos\n' +
+          'nossos dias. A psicanálise destas imagens míticas que ainda hoje animam\n' +
+          'o mundo moderno, mostrar-nos-á talvez em que medida projetamos nos\n' +
+          '«inimigos» os nossos próprios desejos de destruição. Mas este problema\n' +
+          'ultrapassa a nossa competência. O que queremos trazer à luz é o fato de,\n' +
+          'para o mundo arcaico em geral, os inimigos que ameaçavam o\n' +
+          'microcosmos serem perigosos não tanto como seres humanos (em si) mas\n' +
+          'porque encarnavam as forças hostis e destruidoras. É muito provável que\n' +
+          'as defesas dos lugares habitados e das cidades tenham começado por ser\n' +
+          'defesas mágicas; pois estas defesas — fossos, labirintos, muralhas, etc. — eram dispostas mais para impedir a invasão dos espíritos maus do que o\n' +
+          'ataque dos humanos<sup><a href="#footnotes">2</a></sup>. Mesmo muito mais tarde na história, na Idade\n' +
+          'Média, por exemplo, os muros das cidades eram consagrados ritualmente\n' +
+          'como uma defesa contra o Demónio, a doença e a morte. Além do mais, o\n' +
+          'simbolismo arcaico não encontra qualquer dificuldade em assimilar o\n' +
+          'inimigo humano ao Demónio ou à Morte. Afinal o resultado dos seus\n' +
+          'ataques, quer sejam demoníacos, quer militares, é sempre o mesmo: a\n' +
+          'ruína, a desintegração, a morte.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. W. J. Knight, Cumaean Gates (Oxford, 1936); Karl Kerényi, Labyrinth-Studien (Amsterdam-Leipzig, 1941, Albae Vigilae, Heft XV).'
+          }
+        ]
+      },
+      {
+        text: 'Todo o microcosmos, toda a região habitada, tem aquilo a que\n' +
+          'poderia chamar-se um «Centro», isto é um lugar sagrado por excelência. É\n' +
+          'aí, nesse Centro, que o sagrado se manifesta de uma maneira total, quer\n' +
+          'sob a forma de hierofanias elementares — como entre os «primitivos» (os\n' +
+          'centros totémicos, por exemplo, as cavernas onde se enterram os\n' +
+          '<i>tchuringas</i>, etc.) — quer sob a forma mais evoluída das epifanias diretas\n' +
+          'dos deuses, como nas civilizações tradicionais. Mas não se deve encarar\n' +
+          'este simbolismo do Centro com as suas implicações geométricas do\n' +
+          'espírito científico ocidental. Para cada um destes microcosmos podem\n' +
+          'existir vários «centros». Como não tardaremos a ver, todas as civilizações\n' +
+          'orientais — Mesopotâmia, índia, China, etc. — conhecem um número\n' +
+          'ilimitado de «Centros». Melhor ainda: cada um destes «Centros» é\n' +
+          'considerado e mesmo designado literalmente por «Centro do Mundo».\n' +
+          'Como se trata de um <i>espaço sagrado</i>, que é dado por uma hierofania ou\n' +
+          'construído ritualmente, e não de um espaço profano, homogéneo,\n' +
+          'geométrico, a pluralidade dos «Centros da Terra» no interior de uma só\n' +
+          'região habitada não oferece qualquer dificuldade<sup><a href="#footnotes">3</a></sup>. Estamos em presença\n' +
+          'de uma geografia sagrada e mítica, a única efetivamente <i>real</i> e não de\n' +
+          'uma geografia profana, «objetiva», de certo modo abstrata e não\n' +
+          'essencial, construção teórica de um espaço e de um mundo que não se\n' +
+          'habita e que portanto, não se conhece.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Nosso Traité d\'Histoire des Religions (Payot, Paris, 1949), pp. 315 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Na geografia mítica, o espaço sagrado é o espaço <i>real</i> por excelência, pois, tal como se provou recentemente<sup><a href="#footnotes">4</a></sup>, para o mundo arcaico o mito é\n' +
+          'real porque ele relata as manifestações da verdadeira realidade: o\n' +
+          '<i>sagrado</i>. É em tal espaço que se está diretamente em contato com o\n' +
+          'sagrado — seja este materializado em certos objetos (<i>tchuringas</i>,\n' +
+          'representações da divindade, etc.) ou manifestado nos símbolos hierocósmicos\n' +
+          '(Pilar do Mundo, Árvore Cósmica, etc.). Nas culturas que\n' +
+          'conhecem a concepção das três regiões cósmicas — Céu, Terra, Inferno—\n' +
+          'o «centro» constitui o ponto de intersecção destas regiões. É aqui que se\n' +
+          'torna possível uma ruptura de nível e, ao mesmo tempo, uma\n' +
+          'comunicação entre estas três regiões. Temos motivos para crer que a\n' +
+          'imagem de três níveis cósmicos é bastante arcaica; ela encontra-se, por\n' +
+          'exemplo, nos pigmeus Semang da península de Malaca: no centro do\n' +
+          'Mundo ergue-se um enorme rochedo, Batu-Ribn; debaixo dele encontrase\n' +
+          'o Inferno. Outrora de Batu-Ribn elevava-se um trono em direcção ao Céu\n' +
+          '<sup><a href="#footnotes">5</a></sup>. O inferno, no centro da terra e a «porta» do Céu encontram-se pois\n' +
+          'no mesmo eixo, e por este eixo se efetuava a passagem de uma região\n' +
+          'cósmica para outra. Hesitar-se-ia em crer na autenticidade desta teoria\n' +
+          'cosmológica entre os pigmeus Semang se não tivessemos bases para\n' +
+          'admitir que a mesma teoria tinha sido já esboçada na época pré-histórica<sup><a href="#footnotes">6</a></sup>.\n' +
+          'Os Semang dizem que <i>antigamente</i> um tronco de árvore ligava\n' +
+          'o cume da Montanha Cósmica, o Centro do Mundo, com o Céu. É uma\n' +
+          'alusão a um tema mítico extremamente difundido: outrora, as\n' +
+          'comunicações com o Céu e as relações com a divindade eram fáceis e\n' +
+          '«naturais»; em consequência de uma falta ritual, estas comunicações\n' +
+          'foram interrompidas e os deuses retiraram-se mais para o alto nos céus. Só os curandeiros, os Xamãs, os padres e os heróis ou os soberanos\n' +
+          'conseguem restabelecer, de modo passageiro e unicamente para seu\n' +
+          'próprio uso, as comunicações com o Céu<sup><a href="#footnotes">7</a></sup>. O mito de um paraíso\n' +
+          'primordial perdido por causa de uma determinada falta é extremamente\n' +
+          'importante — mas, se bem que de certo modo se relacione com o nosso\n' +
+          'assunto, não o podemos discutir agora.',
+        footnote: [
+          {
+            index: 4,
+            content: 'Cf. . R. Pettazzoni, Miti e Leggende, I (Torino, 1948), p. v; id., Veritá del Mito\n' +
+              '(Studi e Materiali di Storia delle Religioni, vol. XXI, 1947-1948, pp. 104-116); G.\n' +
+              'van der Leeuw, Die Bedeutung der Mythen (Festschrift für Alfred Bertholet,\n' +
+              'Tübingen, 1949, pp. 287-293); M. Elíade, Traité d\'Histoire des Religions, pp. 350\n' +
+              'sq.'
+          },
+          {
+            index: 5,
+            content: 'P. Schebesta, Les Pygmées (trad. fr., Paris, 1940), pp. 156 sq.'
+          },
+          {
+            index: 6,
+            content: 'Cf. por exemplo, W. Gaerte, Kosmische Vorstellungen im Bilde prähistorisher\n' +
+              'Zeit: Erdberg, Himmelsberg, Erdnabel und Welttenströme (Anthropos, IX, 1914,\n' +
+              'pp. 956-979).'
+          },
+          {
+            index: 7,
+            content: 'Cf. nosso Chamanisme et les techniques archaïques de l\'extase (Payot, 1951).'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'O Colocador de Pronomes',
+    author: 'Monteiro Lobato',
+    section: 'Conto',
+    img: 'monteiroLobato',
+    imgIndex: '10',
+    titleURL: 'o-colocador-de-pronomes',
+    authorURL: 'monteiro-lobato',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: 'Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto',
+    paragraphs: [
+      {
+        text: 'Aldrovando Cantagalo veio ao mundo em virtude dum erro de gramática.\n',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Durante sessenta anos de vida terrena pererecou como um peru em cima da gramática.\n',
+        footnote: []
+      },
+      {
+        text: 'E morreu, afinal, vítima dum novo erro de gramática.',
+        footnote: []
+      },
+      {
+        text: 'Martir da gramática, fique este documento da sua vida como pedra angular para uma futura e bem merecida canonização.',
+        footnote: []
+      },
+      {
+        text: 'Havia em Itaoca um pobre moço que definhava de tédio no fundo de um cartório. Escrevente. Vinte e três anos. Magro. Ar um tanto palerma. Ledor de versos lacrimogêneos e pai duns acrósticos dados à luz no “Itaoquense”, com bastante sucesso.',
+        footnote: []
+      },
+      {
+        text: 'Vivia em paz com as suas certidões quando o frechou venenosa seta de Cupido. Objeto amado: a filha mais moça do coronel Triburtino, o qual tinha duas, essa Laurinha, do escrevente, então nos dezessete, e a do Carmo, encalhe da família, vesga, madurota, histérica, manca da perna esquerda e um tanto aluada.\n',
+        footnote: []
+      },
+      {
+        text: 'Triburtino não era homem de brincadeira. Esguelara um vereador oposicionista em plena sessão da câmara e desd’aí se transformou no tutú da terra. Toda gente lhe tinha um vago medo; mas o amor, que é mais forte que a morte, não receia sobrecenhos enfarruscados nem tufos de cabelos no nariz.\n',
+        footnote: []
+      },
+      {
+        text: 'Ousou o escrevente namorar-lhe a filha, apesar da distância hierárquica que os separava. Namoro à moda velha, já se vê, pois que nesse tempo não existia a gostorura dos cinemas. Encontros na igreja, à missa, troca de olhares, diálogos de flores - o que havia de inocente e puro. Depois, roupa nova, ponta de lenço de seda a entremostrar-se no bolsinho de cima e medição de passos na rua d’Ela, nos dia de folga. Depois, a serenata fatal à esquina, com o\n',
+        footnote: []
+      },
+      {
+        text: 'Acorda, donzela...\n',
+        footnote: []
+      },
+      {
+        text: 'Sapecado a medo num velho pinho de empréstimo. Depois, bilhetinho perfumado.\n',
+        footnote: []
+      },
+      {
+        text: 'Aqui se estrepou...\n',
+        footnote: []
+      },
+      {
+        text: 'Escrevera nesse bilhetinho, entretanto, apenas quatro palavras, afora pontos exclamativos e reticências:\n',
+        footnote: []
+      },
+      {
+        text: 'Anjo adorado!\n',
+        footnote: []
+      },
+      {
+        text: 'Amo-lhe!',
+        footnote: []
+      },
+      {
+        text: 'Para abrir o jogo bastava esse movimento de peão. Ora, aconteceu que o pai do anjo apanhou o bilhetinho celestial e, depois de três dias de sobrecenho carregado, mandou chamá-lo à sua presença, com disfarce de pretexto - para umas certidõesinhas, explicou.\n',
+        footnote: []
+      },
+      {
+        text: 'Apesar disso o moço veio um tanto ressabiado, com a pulga atrás da orelha.\n',
+        footnote: []
+      },
+      {
+        text: 'Não lhe erravam os pressentimentos. Mas o pilhou portas aquém, o coronel trancou o escritório, fechou a carranca e disse:\n',
+        footnote: []
+      },
+      {
+        text: '- A família Triburtino de Mendonça é a mais honrada desta terra, e eu, seu chefe natural, não permitirei nunca - nunca, ouviu? - que contra ela se cometa o menor deslize.\n',
+        footnote: []
+      },
+      {
+        text: 'Parou. Abriu uma gaveta. Tirou de dentro o bilhetinho cor de rosa, desdobrou-o\n',
+        footnote: []
+      },
+      {
+        text: '- É sua esta peça de flagrante delito?\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, a tremer, balbuciou medrosa confirmação.\n',
+        footnote: []
+      },
+      {
+        text: '- Muito bem! Continuou o coronel em tom mais sereno. Ama, então, minha filha e tem a audácia de o declarar... Pois agora...\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, por instinto, ergueu o braço para defender a cabeça e relanceou os olhos para a rua, sondando uma retirada estratégica.\n',
+        footnote: []
+      },
+      {
+        text: '- ... é casar! Concluiu de improviso o vingativo pai.\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente ressuscitou. Abriu os olhos e a boca, num pasmo. Depois, tornando a si, comoveu-se e com lágrimas nos olhos disse, gaguejante:\n',
+        footnote: []
+      },
+      {
+        text: '- Beijo-lhe as mãos, coronel! Nunca imaginei tanta generosidade em peito humano! Agora vejo com que injustiça o julgam aí fora!...\n',
+        footnote: []
+      },
+      {
+        text: 'Velhacamente o velho cortou-lhe o fio das expansões.\n',
+        footnote: []
+      },
+      {
+        text: '- Nada de frases, moço, vamos ao que serve: declaro-o solenemente noivo de minha filha!\n',
+        footnote: []
+      },
+      {
+        text: 'E voltando-se para dentro, gritou:\n',
+        footnote: []
+      },
+      {
+        text: '- Do Carmo! Venha abraçar o teu noivo!\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente piscou seis vezes e, enchendo-se de coragem, corrigiu o erro.\n',
+        footnote: []
+      },
+      {
+        text: '- Laurinha, quer o coronel dizer...\n',
+        footnote: []
+      },
+      {
+        text: 'O velho fechou de novo a carranca.\n',
+        footnote: []
+      },
+      {
+        text: '- Sei onde trago o nariz, moço. Vassuncê mandou este bilhete à Laurinha dizendo que ama-“lhe”. Se amasse a ela deveria dizer amo-“te”. Dizendo “amo-lhe” declara que ama a uma terceira pessoa, a qual não pode ser senão a Maria do Carmo. Salvo se declara amor à minha mulher...\n',
+        footnote: []
+      },
+      {
+        text: '- Oh, coronel...\n',
+        footnote: []
+      },
+      {
+        text: '- ...ou a preta Luzia, cozinheira. Escolha!\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente, vencido, derrubou a cabeça com uma lágrima a escorrer rumo à asa do nariz. Silenciaram ambos, em pausa de tragédia. Por fim o coronel, batendo-lhe no ombro paternalmente, repetiu a boa lição da gramática matrimonial.\n',
+        footnote: []
+      },
+      {
+        text: '- Os pronomes, como sabe, são três: da primeira pessoa - quem fala, e neste caso vassuncê; da Segunda pessoa - a quem fala, e neste caso Laurinha; da terceira pessoa - de quem se fala, e neste caso do Carmo, minha mulher ou a preta. Escolha!\n',
+        footnote: []
+      },
+      {
+        text: 'Não havia fuga possível.\n',
+        footnote: []
+      },
+      {
+        text: 'O escrevente ergueu os olhos e viu do Carmo que entrava, muito lampeira da vida, torcendo acanhada a ponta do avental. Viu também sobre a secretária uma garrucha com espoleta nova ao alcance do maquiavélico pai, submeteu-se e abraçou a urucaca, enquanto o velho, estendendo as mãos, dizia teatralmente:\n',
+        footnote: []
+      },
+      {
+        text: '- Deus vos abençoe, meus filhos!\n',
+        footnote: []
+      },
+      {
+        text: 'No mês seguinte, e onze meses depois vagia nas mãos da parteira o futuro professor Aldrovando, o conspícuo sabedor de língua que durante cinqüenta anos a fio coçaria na gramática a sua incurável sarna filológica.\n',
+        footnote: []
+      },
+      {
+        text: 'Até aos dez anos não revelou Aldrovando pinta nenhuma. Menino vulgar, tossiu a coqueluche em tempo próprio, teve o sarampo da praxe, mas a cachumba e a catapora. Mais tarde, no colégio, enquanto os outros enchiam as horas de estudo com invenções de matar o tempo - empalamento de moscas e moidelas das respectivas cabecinhas entre duas folhas de papel, coisa de ver o desenho que saía - Aldrovando apalpava com erótica emoção a gramática de Augusto Freire da Silva. Era o latejar do furúnculo filológico que o determinaria na vida, para matá-lo, afinal...\n',
+        footnote: []
+      },
+      {
+        text: 'Deixemo-lo, porém, evoluir e tomemo-lo quando nos serve, aos 40 anos, já a descer o morro, arcado ao peso da ciência e combalido de rins. Lá está ele em seu gabinete de trabalho, fossando à luza dum lampião os pronomes de Filinto Elísio. Corcovado, magro, seco, óculos de latão no nariz, careca, celibatário impenitente, dez horas de aulas por dia, duzentos mil réis por mês e o rim volta e meia a fazer-se lembrado.\n',
+        footnote: []
+      },
+      {
+        text: 'Já leu tudo. Sua vida foi sempre o mesmo poento idílio com as veneráveis costaneiras onde cabeceiam os clássicos lusitanos. Versou-os um por um com mão diurna e noturna. Sabe-os de cór, conhece-os pela morrinha, distingue pelo faro uma séca de Lucena duma esfalfa de Rodrigues Lobo. Digeriu todas as patranhas de Fernão Mendes Pinto. Obstruiu-se da broa encruada de Fr. Pantaleão do Aveiro. Na idade em que os rapazes correm atrás das raparigas, Aldrovando escabichava belchiores na pista dos mais esquecidos mestres da boa arte de maçar. Nunca dormiu entre braços de mulher. A mulher e o amor - mundo, diabo e carne eram para ele os alfarrábios freiráticos do quinhentismo, em cuja soporosa verborréia espapaçava os instintos lerdos, como porco em lameiro.\n',
+        footnote: []
+      },
+      {
+        text: 'Em certa época viveu três anos acampado em Vieria. Depois vagabundeou, como um Robinson, pelas florestas de Bernardes.\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando nada sabia do mundo atual. Desprezava a natureza, negava o presente. Passarinho conhecia um só: o rouxinol de Bernadim Ribeiro. E se acaso o sabiá de Gonçalves Dias vinha citar “pomos de Hesperides” na laranjeira do seu quintal, Aldrovando esfogueteava-o com apostrofes:\n',
+        footnote: []
+      },
+      {
+        text: '- Salta fora, regionalismo de má sonância!\n',
+        footnote: []
+      },
+      {
+        text: 'A língua lusa era-lhe um tabu sagrado que atingira a perfeição com Fr. Luiz de Sousa, e daí para cá, salvo lucilações esporádicas, vinha chafurdando no ingranzéu barbaresco.\n',
+        footnote: []
+      },
+      {
+        text: '- A ingresia d’hoje, declamava ele, está para a Língua, como o cadáver em putrefação está para o corpo vivo.\n',
+        footnote: []
+      },
+      {
+        text: 'E suspirava, condoído dos nossos destinos:\n',
+        footnote: []
+      },
+      {
+        text: '- Povo sem língua!... Não me sorri o futuro de Vera-Cruz...\n',
+        footnote: []
+      },
+      {
+        text: 'E não lhe objetassem que a língua é organismo vivo e que a temos a evoluir na boca do povo.\n',
+        footnote: []
+      },
+      {
+        text: '- Língua? Chama você língua à garabulha bordalenga que estampam periódicos? Cá está um desses galicígrafos. Deletreemo-lo ao acaso.\n',
+        footnote: []
+      },
+      {
+        text: 'E, baixando as cangalhas, lia:\n',
+        footnote: []
+      },
+      {
+        text: '- Teve lugar ontem... É língua esta espurcícia negral? Ó meu seráfico Frei Luiz, como te conspurcam o divino idioma estes sarrafaçais da moxinifada!\n',
+        footnote: []
+      },
+      {
+        text: '- ...no Trianon... Por que, Trianon? Por que este perene barbarizar com alienígenos arrevesos? Tão bem ficava - a Benfica, ou, se querem neologismo de bom cunho o Logratório...Tarelos é que são, tarelos!\n',
+        footnote: []
+      },
+      {
+        text: 'E suspirava deveras compungido.\n',
+        footnote: []
+      },
+      {
+        text: '- Inútil prosseguir. A folha inteira cacografa-se por este teor. Aí! Onde param os boas letras d’antanho? Fez-se peru o níveo cisne. Ninguém atende à lei suma - Horácio! Impera o desprimor, e o mau gosto vige como suprema regra. A gálica intrujice é maré sem vazante. Quando penetro num livreiro o coração se me confrange ante o pélago de óperas barbarescas que nos vertem cá mercadores de má morte. E é de notar, outrossim, que a elas se vão as preferências do vulgacho. Muito não faz que vi com estes olhos um gentil mancebo preferir uma sordície de Oitavo Mirbelo, Canhenho duma dama de servir, (1) creio, à... advinhe ao que, amigo? A Carta de Guia do meu divino Francisco Manoel!...\n',
+        footnote: []
+      },
+      {
+        text: '- Mas a evolução...\n',
+        footnote: []
+      },
+      {
+        text: '- Basta. Conheço às sobejas a escolástica da época, a “evolução” darwinica, os vocábulos macacos - pitecofonemas que “evolveram”, perderam o pelo e se vestem hoje à moda de França, com vidro no olho. Por amor a Frei Luiz, que ali daquela costaneira escandalizado nos ouve, não remanche o amigo na esquipática sesquipedalice.\n',
+        footnote: []
+      },
+      {
+        text: 'Um biógrafo ao molde clássico separaria a vida de Aldrovando em duas fases distingas: a estática, em que apenas acumulou ciência, e a dinâmica, em que, transfeito em apóstolo, veio a campo com todas as armas para contrabater o monstro da corrupção.\n',
+        footnote: []
+      },
+      {
+        text: 'Abriu campanha com memorável ofício ao congresso, pedindo leis repressivas contra os ácaros do idioma.\n',
+        footnote: []
+      },
+      {
+        text: '- “Leis, senhores, leis de Dracão, que diques sejam, e fossados, e alcaçares de granito prepostos à defensão do idioma. Mister sendo, a forca se restaure, que mais o baraço merece quem conspurca o sacro patrimônio da sã vernaculidade, que quem ao semelhante a vida tira. Vêde, senhores, os pronomes, em que lazeira jazem...',
+        footnote: []
+      },
+      {
+        text: 'Os pronomes, aí! Eram a tortura permanente do professor Aldrovando. Doía-lhe como punhalada vê-los por aí pré ou pospostos contra-regras elementares do dizer castiço. E sua representação alargou-se nesse pormenor, flagelante, concitando os pais da pátria à criação dum Santo Ofício gramatical.\n',
+        footnote: []
+      },
+      {
+        text: 'Os ignaros congressistas, porém, riram-se da memória, e grandemente piaram sobre Aldrovando as mais cruéis chalaças.\n',
+        footnote: []
+      },
+      {
+        text: '- Quer que instituamos patíbulo para os maus colocadores de pronomes! Isto seria auto-condenar-nos à morte! Tinha graça!',
+        footnote: []
+      },
+      {
+        text: 'Também lhe foi à pele a imprensa, com pilhérias soezes. E depois, o público. Ninguém alcançara a nobreza do seu gesto, e Aldrovando, com a mortificação n’alma, teve que mudar de rumo. Planeou recorrer ao púlpito dos jornais. Para isso mister foi, antes de nada, vencer o seu velho engulho pelos “galicígrafos de papel e graxa”. Transigiu e, breve, desses “pulmões da pública opinião” apostrofou o país com o verbo tonante de Ezequiel. Encheu colunas e colunas de objurgatórias ultra violentas, escritas no mais estreme vernáculo.\n',
+        footnote: []
+      },
+      {
+        text: 'Mas não foi entendido. Raro leitor metia os dentes naqueles intermináveis períodos engrenados à moda de Lucena; e ao cabo da aspérrima campanha viu que pregara em pleno deserto. Leram-no apenas a meia dúzia de Aldrovandos que vegetam sempre em toda parte, como notas rezinguentas da sinfonia universal.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'A massa dos leitores, entretanto, essa permaneceu alheia aos flamívomos pelouros da sua colubrina sem raia. E por fim os “periódicos” fecharam-lhe a porta no nariz, alegando falta de espaço e coisas.\n',
+        footnote: []
+      },
+      {
+        text: '- Espaço não há para as sãs idéias, objurgou o enxotado, mas sobeja, e pressuroso, para quanto recende à podriqueira!... Gomorra! Sodoma! Fogos do céu virão um dia alimpar-vos a gafa!... exclamou, profético, sacudindo à soleira da redação o pó das cambaias botinas de elástico.\n',
+        footnote: []
+      },
+      {
+        text: 'Tentou em seguida ação mais direta, abrindo consultório gramatical.\n',
+        footnote: []
+      },
+      {
+        text: '- Têm-nos os físicos (queria dizer médicos), os doutores em leis, os charlatãs de toda espécie. Abra-se um para a medicação da grande enferma, a língua. Gratuito, já se vê, que me não move amor de bens terrenos.\n',
+        footnote: []
+      },
+      {
+        text: 'Falhou a nova tentativa. Apenas moscas vagabundas vinham esvoejar na salinha modesta do apóstolo. Criatura humana nem uma só lá apareceu afim de remendar-se filologicamente.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Ele, todavia, não esmoreceu.\n',
+        footnote: []
+      },
+      {
+        text: '- Experimentemos processo outro, mais suasório.\n',
+        footnote: []
+      },
+      {
+        text: 'E anunciou a montagem da “Agência de Colocação de Pronômes e Reparos Estilísticos”.\n',
+        footnote: []
+      },
+      {
+        text: 'Quem tivesse um autógrafo a rever, um memorial a expungir de cincas, um calhamaço a compor-se com os “afeites” do lídimo vernáculo, fosse lá que, sem remuneração nenhuma, nele se faria obra limpa e escorreita.\n',
+        footnote: []
+      },
+      {
+        text: 'Era boa a idéia, e logo vieram os primeiros originais necessitados de ortopedia, sonetos a consertar pés de verso, ofícios ao governo pedindo concessões, cartas de amor.\n',
+        footnote: []
+      },
+      {
+        text: 'Tais, porém, eram as reformas que nos doentes operava Aldrovando, que os autores não mais reconheciam suas próprias obras. Um dos clientes chegou a reclamar.\n',
+        footnote: []
+      },
+      {
+        text: '- Professor, v.s. enganou-se. Pedi limpa de enxada nos pronomes, mas não que me traduzisse a memória em latim...\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando empertigou-se.\n',
+        footnote: []
+      },
+      {
+        text: '- Pois, amigo, errou de porta. Seu caso é ali com o alveitar da esquina.\n',
+        footnote: []
+      },
+      {
+        text: 'Pouco durou a Agência, morta à míngua de clientes. Teimava o povo em permanecer empapado no chafurdeiro da corrupção...\n',
+        footnote: []
+      },
+      {
+        text: 'O rosário de insucessos, entretanto, em vez de desalentar exasperava o apóstolo.\n',
+        footnote: []
+      },
+      {
+        text: '- Hei-de influir na minha época. Aos tarelos hei de vencer. Fogem-me à férula os maráus de pau e corda? Ir-lhes-ei empós, fila-los-eis pela gorja... Salta rumor!\n',
+        footnote: []
+      },
+      {
+        text: 'E foi-lhes “empós”, Andou pelas ruas examinando dísticos e tabuletas com vícios de língua. Descoberta a “asnidade”, ia ter com o proprietário, contra ele desfechando os melhores argumentos catequistas.\n',
+        footnote: []
+      },
+      {
+        text: 'Foi assim com o ferreiro da esquina, em cujo portão de tenda uma tabuleta - “Ferra-se cavalos” - escoicinhava a santa gramática.\n',
+        footnote: []
+      },
+      {
+        text: '- Amigo, disse-lhe pachorrentamente Aldrovando, natural a mim me parece que erre, alarve que és. Se erram paredros, nesta época de ouro da corrupção...\n',
+        footnote: []
+      },
+      {
+        text: 'O ferreiro pôs de lado o malho e entreabriu a boca.\n',
+        footnote: []
+      },
+      {
+        text: '- Mas da boa sombra do teu focinho espero, continuou o apóstolo, que ouvidos me darás. Naquela tábua um dislate existe que seriamente à língua lusa ofende. Venho pedir-te, em nome do asseio gramatical, que o expunjas.\n',
+        footnote: []
+      },
+      {
+        text: '- ???\n',
+        footnote: []
+      },
+      {
+        text: '- Que reformes a tabuleta, digo.\n',
+        footnote: []
+      },
+      {
+        text: '- Reformar a tabuleta? Uma tabuleta nova, com a licença paga? Estará acaso rachada?\n',
+        footnote: []
+      },
+      {
+        text: '- Fisicamente, não. A racha é na sintaxe. Fogem ali os dizeres à sã gramaticalidade.\n',
+        footnote: []
+      },
+      {
+        text: 'O honesto ferreiro não entendia nada de nada.\n',
+        footnote: []
+      },
+      {
+        text: '- Macacos me lambam se estou entendendo o que v. s. diz...\n',
+        footnote: []
+      },
+      {
+        text: '- Digo que está a forma verbal com eiva grave. O “ferra-se” tem que cair no plural, pois que a forma é passiva e o sujeito é “cavalos”.\n',
+        footnote: []
+      },
+      {
+        text: 'O ferreiro abriu o resto da boca.\n',
+        footnote: []
+      },
+      {
+        text: '- O sujeito sendo “cavalos”, continuou o mestre, a forma verbal é “ferram-se” - “ferram-se cavalos!”\n',
+        footnote: []
+      },
+      {
+        text: '- Ahn! Respondeu o ferreiro, começo agora a compreender. Diz v. s. que ...\n',
+        footnote: []
+      },
+      {
+        text: '- ... que “ferra-se cavalos” é um solecismo horrendo e o certo é “ferram-se cavalos”.\n',
+        footnote: []
+      },
+      {
+        text: '- V. S. me perdoe, mas o sujeito que ferra os cavalos sou eu, e eu não sou plural. Aquele “se” da tabuleta refere-se cá a este seu criado. É como quem diz: Serafim ferra cavalos - Ferra Serafim cavalos. Para economizar tinta e tábua abreviaram o meu nome, e ficou como está: Ferra Se (rafim) cavalos. Isto me explicou o pintor, e entendi-o muito bem.\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando ergueu os olhos para o céu e suspirou.\n',
+        footnote: []
+      },
+      {
+        text: '- Ferras cavalos e bem merecias que te fizessem eles o mesmo!... Mas não discutamos. Ofereço-te dez mil réis pela admissão dum “m” ali...\n',
+        footnote: []
+      },
+      {
+        text: '- Se V. S. paga...\n',
+        footnote: []
+      },
+      {
+        text: 'Bem empregado dinheiro! A tabuleta surgiu no dia seguinte dessolecismada, perfeitamente de acordo com as boas regras da gramática. Era a primeira vitória obtida e todas as tardes Aldrovando passava por lá para gozar-se dela\n',
+        footnote: []
+      },
+      {
+        text: 'Por mal seu, porém, não durou muito o regalo. Coincidindo a entronização do “m” com maus negócios na oficina, o supersticioso ferreiro atribuiu a macaca à alteração dos dizeres e lá raspou o “m” do professor.\n',
+        footnote: []
+      },
+      {
+        text: 'A cara que Aldrovando fez quando no passeio desse dia deu com a vitória borrada! Entrou furioso pela oficina a dentro, e mascava uma apóstrofe de fulminar quando o ferreiro, às brutas, lhe barrou o passo.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: '- Chega de caraminholas, ó barata tonta! Quem manda aqui, no serviço e na língua, sou eu. E é ir andando antes que eu o ferre com bom par de ferros ingleses!\n',
+        footnote: []
+      },
+      {
+        text: 'O mártir da língua meteu a gramática entre as pernas e moscou-se.\n',
+        footnote: []
+      },
+      {
+        text: '- “Sancta simplicitas!” ouviram-no murmurar na rua, de rumo à casa, em busca das consolações seráficas de Fr. Heitor Pinto. Chegado que foi ao gabinete de trabalho, caiu de borco sobre as costaneiras venerandas e não mais conteve as lágrimas, chorou...\n',
+        footnote: []
+      },
+      {
+        text: 'O mundo estava perdido e os homens, sobre maus, eram impenitentes. Não havia desviá-los do ruim caminho, e ele, já velho, com o rim a rezingar, não se sentia com forças para a continuação da guerra.\n',
+        footnote: []
+      },
+      {
+        text: '- Não hei-de acabar, porém, antes de dar a prelo um grande livro onde compendie a muita ciência que hei acumulado.\n',
+        footnote: []
+      },
+      {
+        text: 'E Aldrovando empreendeu a realização de um vastíssimo programa de estudos filológicos. Encabeçaria a série um tratado sobre a colocação dos pronomes, ponto onde mais claudicava a gente de Gomorra.\n',
+        footnote: []
+      },
+      {
+        text: 'Fê-lo, e foi feliz nesse período de vida em que, alheio ao mundo, todo se entregou, dia e noite, à obra magnífica. Saiu trabuco volumoso, que daria três tomos de 500 páginas cada um, corpo miúdo. Que proventos não adviriam dali para a lusitanidade. Todos os casos resolvidos para sempre, todos os homens de boa vontade salvos da gafaria! O ponto fraco do brasileiro falar resolvido de vez! Maravilhosa coisa...\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Pronto o primeiro tomo - Do pronome Se - anunciou a obra pelos jornais, ficando à espera das chusmas de editores que viriam disputá-la à sua porta. E por uns dias o apóstolo sonhou as delícias da estrondosa vitória literária, acrescida de gordos proventos pecuniários.\n',
+        footnote: []
+      },
+      {
+        text: 'Calculava em oitenta contos o valor dos direitos autorais, que, generoso que era, cederia por cinqüenta. E cinqüenta contos para um velho celibatário como ele, sem família nem vícios, tinha a significação duma grande fortuna. Empatados em empréstimos hipotecários sempre eram seus quinhentos mil réis por mês de renda, a pingarem pelo resto da vida na gavetinha onde, até então, nunca entrara pelega maior de duzentos. Servia, servia!... E Aldrovando, contente, esfregava as mãos de ouvido alerta, preparando frases para receber o editor que vinha vindo...\n',
+        footnote: []
+      },
+      {
+        text: 'Que vinha vindo mas não veio, aí!... As semanas se passaram sem que nenhum representante dessa miserável fauna de judeus surgisse a chatinar o maravilhoso livro.\n',
+        footnote: []
+      },
+      {
+        text: '- Não me vêm a mim? Salta rumor! Pois me vou a eles!\n',
+        footnote: []
+      },
+      {
+        text: 'E saiu em via sacra, a correr todos os editores da cidade.\n',
+        footnote: []
+      },
+      {
+        text: 'Má gente! Nenhum lhe quis o livro sob condições nenhumas. Torciam o nariz, dizendo “Não é vendável”; ou: “Porque não faz antes uma cartilha infantil aprovada pelo governo?\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando, com a morte n’alma e o rim dia a dia mais derrancado, retesou-se nas últimas resistências.\n',
+        footnote: []
+      },
+      {
+        text: '- Fá-la-ei imprimir à minha custa! Ah, amigos! Aceito o cartel. Sei pelejar com todas as armas e irei até ao fim. Bofé!\n',
+        footnote: []
+      },
+      {
+        text: 'Para lugar era mister dinheiro e bem pouco do vilíssimo metal possuía na arca o alquebrado Aldrovando. Não importa! Faria dinheiro, venderia móveis, imitaria Bernardo de Pallissy, não morreria sem ter o gosto de acaçapar Gomorra sob o peso da sua ciência impressa. Editaria ele mesmo um por um todos os volumes da obra salvadora.\n',
+        footnote: []
+      },
+      {
+        text: 'Disse e fez.\n',
+        footnote: []
+      },
+      {
+        text: 'Passou esse período de vida alternando revisão de provas com padecimentos renais. Venceu. O livro compôs-se, magnificamente revisto, primoroso na linguagem como não existia igual.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Dedicou-o a Fr. Luiz de Souza:\n',
+        footnote: []
+      },
+      {
+        text: 'À memória daquele que me sabe as dores,\n',
+        footnote: []
+      },
+      {
+        text: 'O Autor.',
+        footnote: []
+      },
+      {
+        text: 'Mas não quis o destino que o já trêmulo Aldrovando colhesse os frutos de sua obra. Filho dum pronome impróprio, a má colocação doutro pronome lhe cortaria o fio da vida.\n',
+        footnote: []
+      },
+      {
+        text: 'Muito corretamente havia ele escrito na dedicatória: ...daquele que me sabe... e nem poderia escrever doutro modo um tão conspícuo colocador de pronomes. Maus fados intervieram, porém - até os fados conspiram contra a língua! - e por artimanha do diabo que os rege empastelou-se na oficina esta frase. Vai o tipógrafo e recompõe-na a seu modo ...d’aquele que sabe-me as dores... E assim saiu nos milheiros de cópias da avultada edição.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Mas não antecipemos.\n',
+        footnote: []
+      },
+      {
+        text: 'Pronta a obra e paga, ia Aldrovando recebê-la, enfim. Que glória! Construíra, finalmente, o pedestal da sua própria imortalidade, ao lado direito dos sumos cultores da língua.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'A grande idéia do livro, exposta no capítulo VI - Do método automático de bem colocar os pronomes - engenhosa aplicação duma regra mirífica por meio da qual até os burros de carroça poderiam zurrar com gramática, operaria como o “914? da sintaxe, limpando-a da avariose produzida pelo espiroqueta da pronominuria.\n',
+        footnote: []
+      },
+      {
+        text: 'A excelência dessa regra estava em possuir equivalentes químicos de uso na farmacopéia alopata, de modo que a um bom laboratório fácil lhe seria reduzí-la a ampolas para injeções hipodérmicas, ou a pílulas, pós ou poções para uso interno.\n',
+        footnote: []
+      },
+      {
+        text: 'E quem se injetasse ou engolisse uma pípula do futuro PRONOMINOL CANTAGALO, curar-se-ia para sempre do vício, colocando os pronomes instintivamente bem, tanto no falar como no escrever. Para algum caso de pronomorreia agudo, evidentemente incurável, haveria o recurso do PRONOMINOL Nº 2, onde entrava a estriquinina em dose suficiente para libertas o mundo do infame sujeito.\n',
+        footnote: []
+      },
+      {
+        text: 'Que glória! Aldrovando prelibava essas delícias todas quando lhe entrou casa a dentro a primeira carroçada de livros. Dois brutamontes de mangas arregaçadas empilharam-nos pelos cantos, em rumas que lá se iam; e concluso o serviço um deles pediu:\n',
+        footnote: []
+      },
+      {
+        text: '- Me dá um mata-bicho, patrão!\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando severizou o semblante ao ouvir aquele “Me” tão fora dos mancais, e tomando um exemplo da obra ofertou-a ao “doente”.\n',
+        footnote: []
+      },
+      {
+        text: '- Toma lá. O mau bicho que tens no sangue morrerá asinha às mãos deste vermífugo. Recomendo-te a leitura do capítulo sexto.\n',
+        footnote: []
+      },
+      {
+        text: 'O carroceiro não se fez rogar; saiu com o livro, dizendo ao companheiro:\n',
+        footnote: []
+      },
+      {
+        text: '- Isto no “sebo” sempre renderá cinco tostões. Já serve!\n',
+        footnote: []
+      },
+      {
+        text: 'Mal se sumiram, Aldrovando abancou-se à velha mesinha de trabalho e deu começo à tarefa de lançar dedicatórias num certo número de exemplares destinados à crítica. Abriu o primeiro, e estava já a escrever o nome de Rui Barbosa quando seus olhos deram com a horrenda cinca:\n',
+        footnote: []
+      },
+      {
+        text: '“daquele QUE SABE-ME as dores”.\n',
+        footnote: []
+      },
+      {
+        text: '- Deus do céu! Será possível?\n',
+        footnote: []
+      },
+      {
+        text: 'Era possível. Era fato. Naquele, como em todos os exemplares da edição, lá estava, no hediondo relevo da dedicatória a Fr. Luiz de Souza, o horripilantíssimo\n',
+        footnote: []
+      },
+      {
+        text: '- “que sabe-me”...\n',
+        footnote: []
+      },
+      {
+        text: 'Aldrovando não murmurou palavra. De olhos muito abertos, no rosto uma estranha marca de dor - dor gramatical inda não descrita nos livros de patologia - permaneceu imóvel uns momentos.\n',
+        footnote: []
+      },
+      {
+        text: 'Depois empalideceu. Levou as mãos ao abdômen e estorceu-se nas garras de repentina e violentíssima ânsia.\n',
+        footnote: []
+      },
+      {
+        text: 'Ergueu os olhos para Frei Luiz de Souza e murmurou:\n',
+        footnote: []
+      },
+      {
+        text: '- Luiz! Luiz! Lamma Sabachtani?!\n',
+        footnote: []
+      },
+      {
+        text: 'E morreu.\n',
+        footnote: []
+      },
+      {
+        text: 'De que não sabemos - nem importa ao caso. O que importa é proclamarmos aos quatro ventos que com Aldrovando morreu o primeiro santo da gramática, o mártir número um da Colocação dos Pronomes.\n' +
+          '',
+        footnote: []
+      },
+      {
+        text: 'Paz à sua alma.\n',
+        footnote: []
+      },
+      {
+        text: '(Ao todo, a obra de Aldrovando, incluindo tratados sobre circunflexo, vírgula, e psicologia do til, crase, pesava cerca de 4 arrobas, que renderam no sebo, 18 mil réis, vendidas a peso, a três tostões o quilo).\n',
+        footnote: []
+      },
+      {
+        text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">O Colocador de Pronomes</a></i>',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'A Ela',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado2',
+    imgIndex: '6',
+    titleURL: 'a-ela',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>Quem és tu que me atormentas <br>' +
+          'Com teus prazenteiros sorrisos? <br>' +
+          'Com teus prazenteiros sorrisos? <br>' +
+          'Quem és tu que me apontas <br>' +
+          'As portas dos paraísos? <br>' +
+          '<br>' +
+          'Imagem do céu és tu? <br>' +
+          'És filha da divindade? <br>' +
+          'Ou vens prender em teus cabelos <br>' +
+          'A minha liberdade?<br>',
+        footnote: []
+      },
+      {
+        text: '<br><br>',
+        footnote: []
+      },
+      {
+        text: '“Vê V. Exa., Sr. presidente, que nesse tempo, o nobre deputado era inimigo de todas as leis\n' +
+          'opressoras. A assembléia tem visto como ele trata as leis do metro.”',
+        footnote: []
+      },
+      {
+        text: 'Todo o resto do discurso foi assim. A minoria protestou. Luís Tinoco fez-se de todas as cores, e a\n' +
+          'sessão acabou em risada. No dia seguinte os jornais amigos de Luís Tinoco agradeceram ao\n' +
+          'adversário deste o triunfo que lhe proporcionou mostrando à província “uma antiga e brilhante face do\n' +
+          'talento do ilustre deputado”. Os que indecorosamente riram dos versos, foram condenados com estas\n' +
+          'poucas linhas: “Há dias um deputado governista disse que a situação era uma caravana de homens\n' +
+          'honestos e bons. É caravana, não há dúvida; vimos ontem os seus camelos”.',
+        footnote: []
+      },
+      {
+        text: 'Nem por isso, Luís Tinoco ficou mais consolado. As cartas ao Dr. Lemos começaram a escassear, até\n' +
+          'que de todo cessaram de aparecer. Decorreram assim silenciosos uns três anos, ao cabo dos quais o\n' +
+          'Dr. Lemos foi nomeado não sei para que cargo na província onde se achava Luís Tinoco. Partiu.\n' +
+          'Apenas empossado do cargo, tratou de procurar o ex-poeta, e pouco tempo gastou recebendo logo um\n' +
+          'convite dele para ir a um estabelecimento rural onde se achava.',
+        footnote: []
+      },
+      {
+        text: '– Há de me chamar ingrato, não? disse Luís Tinoco, apenas viu assomar à porta de casa o\n' +
+          'Dr. Lemos. Mas não sou; contava ir vê-lo daqui a um ano; e se lhe não escrevi... Mas que tem doutor?\n' +
+          'está espantado?',
+        footnote: []
+      },
+      {
+        text: 'O Dr. Lemos estava efetivamente pasmado a olhar para a figura de Luís Tinoco. Era aquele o poeta\n' +
+          'dos Goivos e Camélias, o eloqüente deputado, o fogoso publicista? O que ele tinha diante de si era um\n' +
+          'honrado e pacato lavrador, ar e maneiras rústicas, sem o menor vestígio das atitudes melancólicas do\n' +
+          'poeta, do gesto arrebatado do trbuno, - uma transformação, uma criatura muito outra e muito melhor.\n' +
+          'Riram-se ambos, um da mudança, outro do espanto, pedindo o Dr. Lemos a Luís Tinoco lhe dissesse\n' +
+          'se era certo haver deixado a política, ou se aquilo eram apenas umas férias para renovar a alma.',
+        footnote: []
+      },
+      {
+        text: '– Tudo lhe explicarei, doutor, mas há de ser depois de ter examinado a minha casa e\n' +
+          'minha roça, depois de lhe apresentar minha mulher e meus filhos...',
+        footnote: []
+      },
+      {
+        text: '– Casado?',
+        footnote: []
+      },
+      {
+        text: '– Há vinte meses.',
+        footnote: []
+      },
+      {
+        text: '– E não me disse nada!',
+        footnote: []
+      },
+      {
+        text: '– Ia este ano à corte e esperava surpreendê-lo... Que duas criancinhas as minhas... lindas\n' +
+          'como dois anjos. Saem à mãe, que é a flor da província. Oxalá pareçam também com ela nas\n' +
+          'qualidades de dona de casa; que atividade! que economia!...',
+        footnote: []
+      },
+      {
+        text: 'Feita a apresentação, beijadas as crianças, examinado tudo, Luís Tinoco declarou ao Dr. Lemos que' +
+          'definitivamente deixara a política.',
+        footnote: []
+      },
+      {
+        text: '– De vez?',
+        footnote: []
+      },
+      {
+        text: '– De vez.',
+        footnote: []
+      },
+      {
+        text: '– Mas que motivo? desgostos, naturalmente.',
+        footnote: []
+      },
+      {
+        text: '– Não; descobri que não era fadado para grandes destinos. Um dia leram-me na\n' +
+          'assembléia alguns versos meus. Reconheci então quanto eram pífios os tais versos; e podendo vir\n' +
+          'mais tarde a olhar com a mesma lástima e igual arrependimento para as minhas obras políticas,\n' +
+          'arrepiei carreira e deixei a vida pública. Uma noite de reflexão e nada mais.',
+        footnote: []
+      },
+      {
+        text: '– Pois teve ânimo?...',
+        footnote: []
+      },
+      {
+        text: '– Tive, meu amigo, tive ânimo de pisar terreno sólido, em vez de patinhar nas ilusões dos\n' +
+          'primeiros dias. Eu era um ridículo poeta e talvez ainda mais ridículo orador. Minha vocação era esta.\n' +
+          'Com poucos anos mais estou rico. Ande agora beber o café que nos espera e feche a boca, que as\n' +
+          'moscas andam no ar.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Noturno',
+    author: 'Bruno Tolentino',
+    section: 'Poema',
+    img: 'brunoTolentino',
+    imgIndex: '12',
+    titleURL: 'noturno',
+    authorURL: 'bruno-tolentino',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>' +
+          'Não sou o que te quer. Sou o que desce\n' +
+          '<br>' +
+          'a ti, veia por veia, e se derrama\n' +
+          '<br>' +
+          'à cata de si mesmo e do que é chama\n' +
+          '<br>' +
+          'e em cinza se reúne e se arrefece.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>' +
+          'Anoitece contigo. E me anoitece\n' +
+          '<br>' +
+          'o lume do que é findo e me reclama.\n' +
+          '<br>' +
+          'Abro as mãos no obscuro, toco a trama\n' +
+          '<br>' +
+          'que lacuna a lacuna amor se tece.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Repousa em ti o espanto que em mim dói,\n' +
+          '<br>' +
+          'noturno. E te revolvo. E estás pousada,\n' +
+          '<br>' +
+          'pomba de pura sombra que me rói.',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'E mordo o teu silêncio corrosivo,\n' +
+          '<br>' +
+          'chupo o que flui, amor, sei que estou vivo\n' +
+          '<br>' +
+          'e sou teu salto em mim suspenso em nada.',
+        footnote: []
+      },
+      {
+        text: '<br><br>' +
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Da Tranquilidade da Alma',
+    author: 'Sêneca',
+    section: 'Sereno a Sêneca',
+    img: 'seneca',
+    imgIndex: '5',
+    titleURL: 'da-tranquilidade-da-alma',
+    authorURL: 'seneca',
+    sectionURL: 'sereno-a-seneca',
+    content: '1.  Observando-me  atentamente,  descobri  em  mim,  ó  Sêneca,  certos  defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam nas  regiões  mais  profundas;  outros,  enfim,  que  não  são  contínuos,  mas  que  reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os mais desagradáveis de todos. Eles lembram aqueles inimigos que nos rodeiam para nos  assaltar  no  momento  propício  e  com  os  quais  não  se  sabe  nunca  se  se  deve  estar em pé de guerra, ou se se pode contar em um período de paz. 2.   No   entanto,   a   disposição   na   qual   eu   me   surpreendo   o   mais   freqüentemente  (pois,  por  que  não  me  confessarei  a  ti,  como  a  um  médico?)  é  de  não  estar  nem  francamente  liberto  de  minhas  crenças  e  repugnâncias  de  outrora,  nem novamente sob seu domínio. Se o estado no qual estou não é o pior que possa existir, é, em todo caso, o mais lamentável e o mais bizarro: não estou nem doente nem são. 3. Não me digas que todas as virtudes são fracas nos seus inícios e que com o  tempo  elas  tomam  consistência  e  força.  Também  não  ignoro  que  todos  os  benefícios  que  visam  ao  exterior,  como  o  brilho  de  uma  dignidade,  a  glória  da  1Sêneca imagina que o amigo Aneu Sereno (do qual bem pouco conhecemos: a ele o filósofo dedicou três obras — A Perseverança do Sábio, Da Tranqüilidade da Alma, O Lazer — para convertê-lo do epicurismo ao estoicismo) lhe apresente algumas perguntas. Na verdade, Sêneca não responde exatamente às perguntas e dúvidas do amigo, mas de modo geral estas páginas se colocam entre as mais brilhantes e vivazes do escritor romano."\n' +
+      'eloqüência  e  todos  aqueles  que  dependem  do  favor  público,  têm  necessidade  de  duração  para  crescerem:  as  virtudes  precisam  de  tempo  para  amadurecer,  e  as  qualidades  que  nos  permitem  seduzir  graças  a  um  simples  verniz  esperam  que  o  correr  dos  anos  lhes  acentue  gradualmente  as  cores.  Mas  temo  que  o  hábito  que  fortalece  todas  as  coisas  possa  consolidar  em  mim  esta  fraqueza:  tanto  no  mal  como no bem, um contato prolongado nos faz tomar o gosto. 4.  Em  que  consiste  esta  enfermidade  de  uma  alma  irresoluta,  que  não  se  inclina deliberadamente nem à virtude nem ao vício? Eu não saberei dizê-lo numa palavra,  mas  posso  explicá-lo  pormenorizadamente.  Indicar-te-ei  o  que  sinto:  tu  acharás o nome da doença. 5. Tenho um profundo amor à simplicidade, e o confesso: o que amo não é nenhum  leito  faustosamente  preparado,  não  são  de  modo  algum  roupas  que  se  tiram  do  fundo  de  um  baú,  que  se  torturam  debaixo  de  pesos  e  de  inúmeros  parafusos,  para  obrigá-las  a  ficarem  com  lustro,272F2 mas  um  costume  simples  e  grosseiro que se conserva sem cuidado e que se usa sem escrúpulo. 6.  O  que  eu  amo  não  é  uma  alimentação  que  muitos  escravos  preparam  e  olham comer, que se encomenda não sei quantos dias antes e que é apresentada por não sei quantos braços: são pratos fáceis de achar e de preparar, que não têm nada de  requintado,  nem  de  raro;  relativamente  aos  quais  se  tem  certeza  de  que  não  faltarão  em  nenhuma  parte,  que  não  pesam  nem  à  bolsa  nem  ao  estômago  e  que  não tornam a sair de nenhum modo por onde eles entrarem.273F37.  O  que  eu  amo  é  um  servo  simplesmente  vestido,  um  pequeno  escravo  desajeitado,  é  a  maciça  baixela  de  meu  pai,  homem  rústico,  cuja  argentaria  não  trazia  nem  gravações,  nem  mesmo  o  nome  do  artífice;  é  uma  mesa  que  não  deslumbra pelas suas cores marmóreas e que não seja conhecida de toda cidade por ter  pertencido  sucessivamente  a  toda  uma  série  de  amadores,  mas  que  seja  de  uso  cômodo e diante da qual não se vejam os  olhos  dos  convivas  nem  arregalarem  de  prazer nem de ciúmes',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<center>SERENO A SÊNECA<sup><a href="#footnotes">1</a></sup></center><br>',
+        footnote: [
+          {
+            index: 1,
+            content: 'Sêneca imagina que o amigo Aneu Sereno (do qual bem pouco conhecemos: a ele o filósofo dedicou três obras — A Perseverança do\n' +
+              'Sábio, Da Tranqüilidade da Alma, 0 Lazer — para convertê-lo do epicurismo ao estoicismo) lhe apresente algumas perguntas. Na verdade,\n' +
+              'Sêneca não responde exatamente às perguntas e dúvidas do amigo, mas de modo geral estas páginas se colocam entre as mais brilhantes e\n' +
+              'vivazes do escritor romano."'
+          }
+        ]
+      },
+      {
+        text: '<center><b>I</b></center>',
+        footnote: []
+      },
+      {
+        text: '1. Observando-me atentamente, descobri em mim, ó Sêneca, certos\n' +
+          'defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam\n' +
+          'nas regiões mais profundas; outros, enfim, que não são contínuos, mas que\n' +
+          'reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os\n' +
+          'mais desagradáveis de todos. Eles lembram aqueles inimigos que nos rodeiam para\n' +
+          'nos assaltar no momento propício e com os quais não se sabe nunca se se deve\n' +
+          'estar em pé de guerra, ou se se pode contar em um período de paz.',
+        footnote: []
+      },
+      {
+        text: '2. No entanto, a disposição na qual eu me surpreendo o mais\n' +
+          'freqüentemente (pois, por que não me confessarei a ti, como a um médico?) é de\n' +
+          'não estar nem francamente liberto de minhas crenças e repugnâncias de outrora,\n' +
+          'nem novamente sob seu domínio. Se o estado no qual estou não é o pior que possa\n' +
+          'existir, é, em todo caso, o mais lamentável e o mais bizarro: não estou nem doente\n' +
+          'nem são.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '3. Não me digas que todas as virtudes são fracas nos seus inícios e que com\n' +
+          'o tempo elas tomam consistência e força. Também não ignoro que todos os\n' +
+          'benefícios que visam ao exterior, como o brilho de uma dignidade, a glória da eloqüência e todos aqueles que dependem do favor público, têm necessidade de\n' +
+          'duração para crescerem: as virtudes precisam de tempo para amadurecer, e as\n' +
+          'qualidades que nos permitem seduzir graças a um simples verniz esperam que o\n' +
+          'correr dos anos lhes acentue gradualmente as cores. Mas temo que o hábito que\n' +
+          'fortalece todas as coisas possa consolidar em mim esta fraqueza: tanto no mal\n' +
+          'como no bem, um contato prolongado nos faz tomar o gosto.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. Em que consiste esta enfermidade de uma alma irresoluta, que não se\n' +
+          'inclina deliberadamente nem à virtude nem ao vício? Eu não saberei dizê-lo numa\n' +
+          'palavra, mas posso explicá-lo pormenorizadamente. Indicar-te-ei o que sinto: tu\n' +
+          'acharás o nome da doença.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. Tenho um profundo amor à simplicidade, e o confesso: o que amo não é\n' +
+          'nenhum leito faustosamente preparado, não são de modo algum roupas que se\n' +
+          'tiram do fundo de um baú, que se torturam debaixo de pesos e de inúmeros\n' +
+          'parafusos, para obrigá-las a ficarem com lustro<sup><a href="#footnotes">2</a></sup>' +
+          ' mas um costume simples e\n' +
+          'grosseiro que se conserva sem cuidado e que se usa sem escrúpulo.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Prensas com manivelas ("prela") para conservar as pregas.'
+          }
+        ]
+      },
+      {
+        text: '6. O que eu amo não é uma alimentação que muitos escravos preparam e\n' +
+          'olham comer, que se encomenda não sei quantos dias antes e que é apresentada por\n' +
+          'não sei quantos braços: são pratos fáceis de achar e de preparar, que não têm nada\n' +
+          'de requintado, nem de raro; relativamente aos quais se tem certeza de que não\n' +
+          'faltarão em nenhuma parte, que não pesam nem à bolsa nem ao estômago e que\n' +
+          'não tornam a sair de nenhum modo por onde eles entrarem<sup><a href="#footnotes">3</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Conforme o bem conhecido costume romano: vomitar para comer ainda...'
+          }
+        ]
+      },
+      {
+        text: '7. O que eu amo é um servo simplesmente vestido, um pequeno escravo\n' +
+          'desajeitado, é a maciça baixela de meu pai, homem rústico, cuja argentaria não\n' +
+          'trazia nem gravações, nem mesmo o nome do artífice; é uma mesa que não\n' +
+          'deslumbra pelas suas cores marmóreas e que não seja conhecida de toda cidade por\n' +
+          'ter pertencido sucessivamente a toda uma série de amadores, mas que seja de uso\n' +
+          'cômodo e diante da qual não se vejam os olhos dos convivas nem arregalarem de\n' +
+          'prazer nem de ciúmes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '8. E, quando estou bem acostumado a essa maneira de viver, eis que me\n' +
+          'deixo fascinar pela pompa de algum <i>paedagogium</i><sup><a href="#footnotes">4</a></sup>,' +
+          ' pelo espetáculo de escravos mais\n' +
+          'cuidadosamente vestidos e guarnecidos de ouro que para um desfile público, e de\n' +
+          'um batalhão de criados resplandecentes. Igualmente me fascina uma casa onde\n' +
+          'tudo, até o solo que se pisa, é precioso, onde a riqueza é tão pródiga nos menores\n' +
+          'recantos, que mesmo os tetos reluzem, e onde uma multidão de cortesãos se\n' +
+          'oprime ao redor das fortunas que se desperdiçam. E que dizer daquelas águas\n' +
+          'límpidas e transparentes, que correm ao redor das salas de festa; e das próprias\n' +
+          'festas dignas de sua decoração?',
+        footnote: [
+          {
+            index: 4,
+            content: 'Escola para as pajens, nas casas dos ricos romanos.'
+          }
+        ]
+      },
+      {
+        text: '9. Posso dizer que o luxo, ao sair de uma longa e ingrata temperança, me\n' +
+          'envolve de repente com seu brilho e me rodeia com seu tumulto, e sinto meus\n' +
+          'olhares vacilarem: eu o suporto menos facilmente à vista do que no pensamento; e\n' +
+          'retorno de lá não corrompido mas desencorajado: não mais sustento a cabeça alta\n' +
+          'no meio de meus pobres móveis, sinto pungir-me uma dor secreta e me ponho a\n' +
+          'duvidar sobre se todas aquelas suntuosidades não valem que as prefiramos. Nada\n' +
+          'há em tudo isto que mude meus sentimentos, mas não deixa de haver algo\n' +
+          'suscetível de abalá-los.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '10. Resolvi seguir a varonil energia de nossos preceitos e introduzir-me na\n' +
+          'vida pública. Agradam-me as dignidades e os fasces: não certamente que a púrpura\n' +
+          'ou as varas do litor me seduzam, mas para estar na possibilidade de melhor servir\n' +
+          'meus amigos e meus próximos e todos os meus concidadãos e finalmente a\n' +
+          'humanidade inteira: com um ardor de noviço, inclino-me a seguir Zenão, Crisipo e\n' +
+          'Cleanto<sup><a href="#footnotes">5</a></sup>,' +
+          ' nenhum dos quais, para falar a verdade, tomou parte nos negócios\n' +
+          'públicos, mas dos quais muitos se tornaram discípulos.',
+        footnote: [
+          {
+            index: 5,
+            content: 'Filósofos gregos: Zenão (325-246 a.C.) fundou a doutrina do estoicismo, que foi continuada por seu discípulo Cleanto (331-233 a.C.) e\n' +
+              'sistematizada por Crisipo (278-204 a.C).'
+          }
+        ]
+      },
+      {
+        text: '11. Minha alma, que não está habituada a choques, padece com a menor\n' +
+          'humilhação; ao sofrer alguma injúria (como é comum encontrar em toda a\n' +
+          'existência humana) ou alguma contrariedade, bagatelas, que me têm tomado mais tempo do que elas valem a pena, volto-me à ociosidade e, como os animais, por\n' +
+          'mais cansados que estejam, acelero o passo ao retornar ao lar.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '12. Decido, então, encerrar-me em casa: que ninguém me roube um dia, pois\n' +
+          'jamais ele me indenizaria de uma tal perda; que minha alma não se incline a não ser\n' +
+          'para si mesma, que não sonhe a não ser consigo; que não se ocupe de nada que a\n' +
+          'distraia, de nada que a submeta ao julgamento de outrem. Apreciemos uma\n' +
+          'tranqüilidade que seja estranha a todas as preocupações públicas ou particulares.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '13. Mas, desde que uma nobre leitura me exaltou o espírito e que grandes\n' +
+          'exemplos me estimularam, não peço mais nada que saltar no fórum para emprestar\n' +
+          'a um o apoio de minha palavra, a outro o de uma atividade que poderá não servir\n' +
+          'de nada, mas que se esforçará, ao menos, por ser útil para abater em pleno fórum o\n' +
+          'orgulho de alguns audaciosos, que o sucesso torna insolentes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '14. Em literatura, por Hércules, estou bem advertido de que não se deve ter\n' +
+          'em vista senão as idéias e não se deve falar a não ser para exprimi-las: é preciso\n' +
+          'subordinar a forma ao pensamento, de maneira que este, qualquer caminho que ele\n' +
+          'tome, veja as palavras seguirem sem esforço. Para que serve compor obras eternas?\n' +
+          'Por que querer que a posteridade pronuncie teu nome? Tu nasceste para morrer:\n' +
+          'existe menos pretensão em se fazer ocultar em silêncio<sup><a href="#footnotes">6</a></sup>.' +
+          ' Escreve, pois, para ocupar\n' +
+          'teu tempo, escreve para ter proveito e não para tua glorificação, num estilo\n' +
+          'desprovido de brilho: inútil esforçar-se mais que de ordinário, quando se trabalha\n' +
+          'para viver.',
+        footnote: [
+          {
+            index: 6,
+            content: 'Ao pé da letra: "Em se fazer sepultar com funerais sem fausto".'
+          }
+        ]
+      },
+      {
+        text: '15. Sim, mas desde que meu espírito se eleva para concepções um pouco\n' +
+          'generosas, eis que ele apura seu estilo e aspira dar à forma a mesma elevação que ao\n' +
+          'sentimento, e minha linguagem tenta igualar a nobreza de meu pensamento.\n' +
+          'Esquecendo, então, meus princípios e os conselhos de um gosto mais sóbrio,\n' +
+          'lanço-me numa sublimidade de estilo e não sou mais eu que falo pela minha boca.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '16. Para abreviar esta enumeração, eu torno a encontrar sempre em mim esta\n' +
+          'fraqueza de uma alma cheia de boas intenções, e temo cair nela ou, o que seria mais angustioso, ficar perpetuamente suspenso à beira deste abismo; e me pergunto se\n' +
+          'meu caso não seria por acaso mais grave do que ele me parece: pois temos os olhos\n' +
+          'indulgentes quando se trata de nossa pessoa e o amor-próprio obscurece sempre\n' +
+          'nossos julgamentos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '17. Creio que há muitos homens que poderiam ter-se elevado à sabedoria se\n' +
+          'não se tivessem julgado filhos da fortuna, se não tivessem fingido ignorar algumas\n' +
+          'de suas imperfeições e não tivessem tido os olhos fechados diante dos outros; pois\n' +
+          'não se deve imaginar que nossa própria adulação nos seja menos funesta que a de\n' +
+          'outrem. Quem ousa dizer a si mesmo a verdade? Qual é o homem que, no meio de\n' +
+          'uma multidão de cortesãos que o adulam, não exagera ainda mais as lisonjas que lhe\n' +
+          'dirigem?',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '18. Assim, pois, eu te suplico, se conheces um remédio capaz de deter as\n' +
+          'indecisões que me agitam, não me julgues indigno de te dever a tranqüilidade. Sei\n' +
+          'que esta inconstância da alma não tem nada de muito perigoso e que ela não\n' +
+          'acarreta nenhuma perturbação profunda; e para empregar uma comparação que te\n' +
+          'faça compreender do que me queixo: a tempestade não mais me agita, mas não\n' +
+          'sinto menos enjôo. Liberta-me, pois, deste mal e vem em auxílio de um\n' +
+          'desventurado que ainda sofre à vista da terra.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Schopenhauer',
+    author: 'Thomas Mann',
+    section: 'Seção II',
+    img: 'thomasMann',
+    imgIndex: '7',
+    titleURL: 'schopenhauer',
+    authorURL: 'thomas-mann',
+    sectionURL: 'secao-II',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'De maneira geral, que é a ética? É a ciência das ações dos homens, a\n' +
+          'ciência do bem e do mal. Ciência? A vontade cega, sem razão nem senso,\n' +
+          'poderia receber ensinamento? Evidentemente, não se poderia ensinar a\n' +
+          'virtude, assim como não se poderia formar um artista explicando-se-lhe o que\n' +
+          'constitui o estado estético, nem se poderia levar um homem a praticar o bem e\n' +
+          'a evitar o mal com o explicar-se-lhe o sentido e significação de um e outro.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Verdadeiramente nenhuma prescrição havia a fazer à vontade: seria\n' +
+          'livre, absoluta e todo-poderosa. A liberdade encontrar-se-ia mesmo <i>unicamente</i>\n' +
+          'nela, existiria exclusivamente no transcendente, jamais no empírico,\n' +
+          'na objetivação da vontade, que repousaria no espaço, no tempo e na\n' +
+          'causalidade, no mundo. Aqui, tudo estaria submetido à inflexível causalidade,\n' +
+          'ligado e determinado como causa e efeito; a liberdade encontrar-se-ia para\n' +
+          'além das aparências fenomenais, como a vontade, mas lá estaria presente e\n' +
+          'com poder absoluto, lá estaria a liberdade da vontade. Como acontece\n' +
+          'freqüentemente, a "sã razão humana" enganava-se inteiramente quanto à liberdade,\n' +
+          'que não estaria no ato, mas no <i>ser</i>, não no "operari", mas no "esse"; no\n' +
+          'ato, é verdade, reinariam, pois, inelutàvelmente a necessidade e o\n' +
+          'determinismo, mas o ser continuaria originalmente e metafìsicamente livre.\n' +
+          'Certo, o homem que tivesse cometido um ato culposo deveria necessàriamente,\n' +
+          'na qualidade de caráter empírico, sob a influência de móveis\n' +
+          'determinados, agir assim, mas teria podido <i>ser outro</i>, e mesmo o remorso, a\n' +
+          'angústia da consciência visariam o ser, não o ato.',
+        footnote: []
+      },
+      {
+        text: 'Cruel e duro pensamento, insultante, desapiedado, arrogante! Aceitá-lo\n' +
+          'repugna ao nosso sentimento, e eis que nosso sentimento apela para sua\n' +
+          'mística. A verdade mística, na qual se funda, longe de deixar cair no olvido o\n' +
+          'par de conceitos culpa-mérito, ao contrário, equivale a espantoso\n' +
+          'aprofundamento. Por isso, é verdade, ambos escapam à esfera moral\n' +
+          'concebida em estreito sentido. Mas os espíritos aristocráticos, precisamente os\n' +
+          'que não faziam grande caso da "justiça", sempre se inclinaram a privar a\n' +
+          'moralidade da culpa e do mérito. Goethe fala complacentemente de "méritos\n' +
+          'inatos", o que é uma reunião de palavras deveras absurda do duplo ponto de\n' +
+          'vista da lógica e de moral. Porque o "mérito" é inteiramente e por natureza um\n' +
+          'conceito moral, e o que é inato, como a beleza, a inteligência, a distinção, o\n' +
+          'talento, ou conferindo-lhe o valor do destino, a <i>felicidade</i>, nada disso\n' +
+          'logicamente pode ser mérito. Para que aqui se pudesse falar de mérito, fora\n' +
+          'preciso que tudo isso fosse resultado de livre escolha, a expressão duma\n' +
+          'vontade colocada ante os fenômenos, e é precisamente o que Schopenhauer\n' +
+          'afirma quando declara, com dureza aristocrática, que, feliz ou infeliz, cada um\n' +
+          'sempre recebe apenas o que lhe é devido.Mas a aristocrática aceitação da\n' +
+          'injustiça e da diversidade no destino dos homens não demora a se resolver em\n' +
+          'uma igualdade, a mais determinada e a mais democrática de toda.s, pelo\n' +
+          'simples fato de que o raciocínio reduz a desigualdade e a diferença e mesmo a\n' +
+          '<i>disparidade</i> a uma ilusão. Para designar esta ilusão, serve-se Schopenhauer\n' +
+          'dum nome emprestado à sabedoria hindu, que ele admira muito, dada a\n' +
+          'concordância dela com a sua própria visão do mundo; chama-a "o véu de\n' +
+          'Meia". Mas já muito antes, segunda o costume dos sábios ocidentais, tinha-se\n' +
+          'expressado em latim; esta grande ilusão que representa. a injusta desigualdade\n' +
+          'das fortunas, dos caracteres, das situações e dos destinos repousa no\n' +
+          '"principium individuationis". Diferença e injustiça não são mais do que as\n' +
+          'conseqüências que a multiplicidade no seio do tempo e do espaço implica,\n' +
+          'mas aquela que não é mais que aparência, \'é a representação que nós, seres\n' +
+          'individuais, graças à organização de nossa inteligência, podemos ter dum\n' +
+          'mundo que, em sua vera realidade, é a objetivação da vontade de viver una e\n' +
+          'única no todo e nas partes, em mim e em ti. Mas aquilo, o indivíduo, que tem\n' +
+          'o sentimento de sua unicidade em face do mundo, não o reconhece. . E como\n' +
+          'poderia reconhecê-lo se as condições de seu conhecimento, o "véu de Maia",\n' +
+          'que envolve seu olhar e o mundo, o impedem de contemplar a verdade? Não\n' +
+          'vê ele a essência das coisas, que é una, mas suas aparências fenomenais,\n' +
+          'separadas, diferentes, e mais ainda, opostas: alegria e tormento, carrasco e\n' +
+          'vítima, vida contente aqui, e ali lamentável. Dizes sim a um, especialmente\n' +
+          'por tua própria conta, e repudias ao outro, sobretudo no que te diz respeito. A\n' +
+          'vontade, que é tua origem e tua essência, faz-te aspirar à felicidade, às alegrias\n' +
+          'e aos prazeres da vida; estendes para ela as mãos, apertaas com força contra\n' +
+          'teu peito; e esquece-te de que, admitindo assim a vontade, admites também todos\n' +
+          'os tormentos do mundo e os apertas contra ti. O que, ao mesmo tempo, tu\n' +
+          'fazes de mau, o mal que cometes, tua revolta contra a injustiça da vida, e\n' +
+          'também a inveja, a aspiração e o desejo, a tua cobiça do mundo, tudo isso\n' +
+          'provém da ilusão da multiplicidade, deste erro, que tu não és o mundo e o\n' +
+          'mundo não é tu. Sim, tudo isso vem desta diferença entre "eu" e "tu", que não\n' +
+          'é mais que uma ilusão, a ilusão de Maia.Vem daí igualmente teu medo da,\n' +
+          'morte. A morte não é mais que a supressão dum erro, dum descaminho,\n' +
+          'porque cada individuação é um descaminho. Não é mais que o\n' +
+          'desaparecimento duma parede imaginária que separa o resto do mundo o eu,\n' +
+          'em que tu te achas encerrado. Crês que, à. tua morte, este resto do mundo\n' +
+          'continuará a existir, ao passo que tu - horrível pensamento! - não existirás\n' +
+          'mais. Ora, eu te digo: .êste mundo, que é tua representação, não será mais:\n' +
+          'mas tu (mais exatamente: aquilo que, em ti, teme a morte, que não a quer,\n' +
+          'porque é a vontade de viver), tu permanecerás, viverás, porque a vontade, que\n' +
+          'é a tua substância, poderá sempre encontrar o caminho da vida. Não te\n' +
+          'pertence toda a eternidade? E com a vida, que para esta não é mais que um\n' +
+          'tempo, quando, na verdade, ela é contínua presença, de novo o tempo te será\n' +
+          'dado em partilha. À tua vontade está assegurada a vida, com todas as suas\n' +
+          'alegrias e todos os seus tormentos, durante o tempo que ela a quiser. Melhor\n' +
+          'seria para ti que ela não a quisesse. Esperando, vives tal qual és. Vês e amas,\n' +
+          'olhas e desejas, cobiças a imagem que te é estranha, tão estranha, tão outra,\n' +
+          'diferente de ti sofres por isso, queres atraí-Ia a ti, em ti, ser ela. Mas ser uma\n' +
+          'coisa não é vê-Ia; para isso muito falta; é incomparavelmente mais penoso e\n' +
+          'mais lamentável. O desejo é um logro causado pela representação. Tu és dado\n' +
+          'a ti mesmo, teu corpo te é dado a princípio como representação, assim como\n' +
+          'tudo o resto do mundo, mas ao mesmo tempo como vontade, e é a única coisa\n' +
+          'no mundo que te foi dada também como vontade. Tudo o mais não é para ti\n' +
+          'senão representação. O mundo inteiro parece-te um bailado, um espetáculo, ao\n' +
+          'qual o teu primeiro e natural julgamento está longe de atribuir tamanha\n' +
+          'realidade quanto a ti, o espectador; estás longe de torná-lo tão a sério quanta a\n' +
+          'ti, no mesmo grau e com o mesmo sentido. Ao Eu, escravo do princípio de\n' +
+          'individuação, envolto no véu de Maia, todos os outros seres aparecem como\n' +
+          'máscara e fantasmas, aos quais não está absolutamente em condições de\n' +
+          'atribuir uma existência tão importante e tão séria quanto a tua mesma. Só tu\n' +
+          'importas, não é? Único ser real. Tu és o centro do mundo, e tudo conspira para\n' +
+          'teu bem-estar, para, no máximo possível, afastar de ti os sofrimentos da vida,\n' +
+          'para te procurar profusão de felicidades. O que aos outros acontece é duma\n' +
+          'importância incomparavelmente menor, não te faz bem nem mal.Tal é o ponto\n' +
+          'de vista do egoísmo natural, inteiro e inteiramente cego, o aprisionamento sem\n' +
+          'remissão no princípio de individuação. Penetrar com o olhar esse princípio,\n' +
+          'penetrar por intuição seu caráter enganador, que vela a verdade, pressentir\n' +
+          'confusamente que não há diferença entre Eu e Tu, ter o sentimento de que por\n' +
+          'tudo e em todos os seres não há mais que uma só e mesma vontade, é o\n' +
+          'começo e a essência de toda ética. O mau é aquele que, desde que nenhuma\n' +
+          'força exterior o impeça, comete o mal, isto é, um homem que não se contenta\n' +
+          'com afirmar a vontade de viver tal qual aparece em seu corpo, mas, além\n' +
+          'disso, nega a que aparece nos outros e se esforça por aniquilar-lhes a\n' +
+          'existência, desde que entrave o caminho aos esforços de sua própria vontade.\n' +
+          'No caráter mau exprime-se uma vontade imperiosa, que ultrapassa a afirmação\n' +
+          'de seu próprio corpo, mas, sobretudo, uma profunda impotência do\n' +
+          'conhecimento para se libertar das aparências assim como do princípio de\n' +
+          'individuação, a ponto de se manter duro como o ferro na diferença que este\n' +
+          'princípio estabelece entre sua própria pessoa e todas as outras; é precisamente\n' +
+          'porque considera a essência das outras inteiramente estranha à sua, separada\n' +
+          'dela por um abismo, e porque nelas não vê, no sentido literal da palavra, mais\n' +
+          'que máscaras vazias, atribuindo-se, com a mais profunda convicção, a única\n' +
+          'realidade que exista.',
+        footnote: []
+      },
+      {
+        text: 'A bondade é positiva. Faz obra de amor. Age, assim, por uma razão que\n' +
+          'sente profundamente: se não o fizesse, julgar-se-ia semelhante a um homem\n' +
+          'que jejuasse hoje a fim de ter amanhã mais do que pode consumir. É\n' +
+          'exatamente assim que pensaria o "homem de bem", se deixasse os outros na\n' +
+          'indigência, enquanto ele próprio vivesse na abastança. Para ele, o véu de Maia\n' +
+          'tornou-se transparente; desapareceu a grande ilusão que dá à vontade dispersa\n' +
+          'nos fenômenos a aparência de gozar aqui e sofrer ali, quando é sempre a\n' +
+          'mesma vontade e o mesmo tormento que ela causa e sofre ao mesmo tempo. 0\n' +
+          'amor e a bondade são compaixão, nascida do conhecimento do "<i>Tat twan asi</i>\n' +
+          '", do "Isto, és tu", do gesto que levanta o véu de Maia. Já o dissera Spinoza :\n' +
+          '"<i>Benevolentia nihil aliud est, quam cupiditas ex commiseratio orta</i>", "a\n' +
+          'bondade não é mais que o amor nascido da compaixão". Mas daí resulta\n' +
+          'claramente que, se a justiça se ergue até à vontade, pode esta por sua vez se\n' +
+          'alçar ainda, não somente até ao amor mais desinteressado e ao mais generoso\n' +
+          'sacrifício, mas na verdade, até à santidade. Porque, quando um homem chegou\n' +
+          'a tal conhecimento do amor, considera o sofrimento de tudo que vive como o\n' +
+          'seu e se apropria da dor do mundo inteiro. Vê o Todo. a vida, contradição\n' +
+          'interna da vontade e sofrimento que não cessa. a humanidade sofredora, a\n' +
+          'animalidade sofredora, e o conhecimento da coisa em si torna-se para êle um\n' +
+          'alívio do querer. Nele, a vontade se desviara da vida, porque, já que a sua\n' +
+          'compaixão refletida o obriga a negá-la, como poderia aprovar ainda.\n' +
+          'compreendendo aí a si próprio, o querer viver, de que a vida é a obra, a\n' +
+          'expressão e o espelho? A resolução que. chegado a tal compreensão, toma um\n' +
+          'homem é a da renúncia, da resignação, da suprema impassibilidade. Nele se\n' +
+          'realiza a passagem da virtude para o nobre paradoxo da ascese, um grande paradoxo,\n' +
+          'na verdade; porque acontece então que uma individuação da vontade\n' +
+          'renega o ser que nela aparece e que se exprime por seu corpo, que seus atos\n' +
+          'desmentem sua aparência e entram em luta aberta com ela. O asceta recusa-se\n' +
+          'a satisfazer o sexo: sua castidade é o signo de que, com a vida desse corpo, a\n' +
+          'vontade, de que ele é a manifestação, igualmente se anula. Como definir o\n' +
+          'santo? Aquele que não faz nada de tudo que deseja e faz tudo que não deseja.\n' +
+          'Ora, a castidade ascética, tornada regra geral, acarretaria o fim da espécie\n' +
+          'humana. Mas, dada a estreita ligação de todas as manifestações da vontade, a\n' +
+          'mais alta de todas, o homem, em sua queda, arrastará também seu débil\n' +
+          'reflexo, a animalidade, e, como assim todo conhecimento se suprimiria, o\n' +
+          'mundo inteiro - pois sem sujeito não há objeto - por si mesmo cairia no Nada.\n' +
+          'O homem é, em potência, o salvador da natureza. É por isso que Angelus\n' +
+          'Silesius, o místico, exclama',
+        footnote: []
+      },
+      {
+        text: '<i>Homem! Todas as coisas te amam e correm para ti:\n' +
+          'Tudo corre para ti para chegar a Deus.</i>',
+        footnote: []
+      },
+      {
+        text: 'Por paradoxal que possa parecer, malgrado toda a sua misantropia e\n' +
+          'todas as suas palavras e queixas sobre o estado de corrupção da vida em geral,\n' +
+          'como sobre o caráter grotesco do gênio humano em particular, apesar do\n' +
+          'desespero que o acabrunha quando vê a miserável companhia em que caímos\n' +
+          'pelo fato de termos nascido homens, Schopenhauer tem, no entanto, e culto do\n' +
+          'homem, tal como o concebe. Enche-se de altiva veneração humana em\n' +
+          'presença deste "coroamento da criação" que, para ele, como para o autor da\n' +
+          'Gênese, significa o homem, a mais alta e a mais adiantada objetivação da\n' +
+          'vontade. Esta mais importante forma de seu humanisno caminha inteiramente\n' +
+          'a par com seu ceticismo político, sua oposição à Revolução, e tacitamente\n' +
+          'concorda com eles. Para ele, o homem é venerável, porque é o ser capaz de\n' +
+          'conhecer. Certo, todo conhecimento, em princípio, se submete à vontade, pois\n' +
+          'dela emerge, como a cabeça do tronco. I: nos animais jamais se pode suprimir\n' +
+          'esta sujeição da inteligência. Veja-se, porém, somente a diferença entre o\n' +
+          'homem e o animal, no que respeita à situação da cabeça em relação ao tronco.\n' +
+          'Nos animais inferiores, ambos se fundem e, em tortos, a cabeça se volta para a\n' +
+          'terra, onde se encontrará os objetos do querer; nos próprios animais superiores,\n' +
+          'a cabeça e o tronco são ainda muito mais unidos que no homem, em\n' +
+          'quem a cabaça (aqui Schopenhauer diz o "chefe" e não a ca beça aparece\n' +
+          'superposta livremente a ele e trazida por ele, <i>sem estar a seu serviço</i>. "O Apelo\n' +
+          'de Belvedere representa no mais alto grau es ta superioridade do homem: a\n' +
+          'cabeça do Deus das Musas, cujo olhar vai longe, ergue-se tão livremente sobre\n' +
+          'os ombros que parece ter-se escapado do corpo e ter-se libertado do cuidado\n' +
+          'de servi-lo".',
+        footnote: []
+      },
+      {
+        text: 'Podem-se fazer mais humanas associações de idéias? Não é em vão\n' +
+          'que Schopenhauer vê a dignidade do homem na estátua do Deus das Musas. É\n' +
+          'uma visão profunda e particular, unindo a arte, o conhecimento e a <i>dignidade\n' +
+          'do sofrimento</i> humano, que se revela nesta imagem; é um <i>humanismo\n' +
+          'pessimista</i> que, pois o humanismo tem essencialmente a colaboração dum\n' +
+          'otimismo de retórica, representa qualquer coisa inteiramente nova e, ouso\n' +
+          'afirmá-lo, uma visão de futuro fecunda no domínio das convicções. No\n' +
+          'homem, suprema objetivação da vontade, este humanismo é iluminado pelo\n' +
+          'reais claro conhecimento; mas, à medida que o conhecimento atinge maior\n' +
+          'nitidez, que a consciência se eleva, também o sofrimento cresce e este, por sua\n' +
+          'vez, em graus diferentes segundo os indivíduos; é no homem de gênio que se\n' +
+          'eleva mais alto. "O que determina a hierarquia é a aptidão para sofrer\n' +
+          'profundamente" - escreveu Nietzsche, seguindo sem reserva e até o fim o\n' +
+          'aristocratismo do sofrimento de Schopenhauer, doutrina segundo a qual a\n' +
+          'vocação do homem e do gênio, sua mais alta distinção e seu enobrecimento é\n' +
+          'o sofrimento. Resultam desta vocação as duas grandes possibilidades que o\n' +
+          'humanismo de Schopenhauer consigna ao homem; chamam-se <i>arte</i> e\n' +
+          '<i>santidade</i>. Puramente humana é a possibilidade do estado estético,\n' +
+          'contemplação das Idéias libertada da vontade; humana e unicamente humana é\n' +
+          'a possibilidade duma redenção definitiva, quando a vontade de viver se nega a\n' +
+          'si mesma para se elevar mais alto que o artista, até à santidade ascética. Ao\n' +
+          'homem é outorgada a possibilidade da correção, que anula o grande erro e\n' +
+          'engano do ser: intuição suprema, que lhe ocorre quando chama a si todo o\n' +
+          'sofrimento do mundo e quando pode conduzi-lo à resignação é à inversão da\n' +
+          'vontade. Assim, o homem é a esperança secreta do mundo e de todas as\n' +
+          'criaturas; é para ele que, por assim dizer, todos os seres correm, cheio, de\n' +
+          'confiança; é para ele que todos levam os olhares, como para o seu possível\n' +
+          'redentor e salvador.',
+        footnote: []
+      },
+      {
+        text: 'Concepção de grande beleza mística, em que se exprime um respeito\n' +
+          'humano pela, missão do homem, prevalece sobre a. misantropia de Schopenhauer,\n' +
+          'sobre todo o seu desgosto dos homens, e os retifica. É o que me\n' +
+          'importa: a união do pessimismo e do humanismo, a experiência espiritual, que\n' +
+          'revela a Schopenhauer que se pode admitir a um sem excluir ao outro e que se\n' +
+          'pode ser pessimista sem necessidade de ser bem falante ou um lisonjeador da\n' +
+          'humanidade.',
+        footnote: []
+      },
+      {
+        text: 'O que nos põe em guarda, quando tentados a tomar ao pé da letra o\n' +
+          'humanismo de Schopenhauer é sua concepção apolínea e clássica da vontade;\n' +
+          'o que, antes, no seu caso, como em tantos outros, nos força a estabelecer\n' +
+          'distinção entre a opinião e o ser, a não confundir o homem com seus juízos, é\n' +
+          'seu "extremismo", a grotesca dualidade, a contradição interna de sua natureza,\n' +
+          'que se deve chamar romântica, no sentido mais pitoresco da palavra, e que da\n' +
+          'esfera de Goethe o afasta muito mais do que poderia ele ter consciência disso.',
+        footnote: []
+      },
+      {
+        text: 'Raramente haverá título mais expressivo, mais exaustivo que o de sua\n' +
+          'obra-prima, sua obra única no fundo, pois desenvolve seu único pensamento:\n' +
+          'porque tudo o mais, tudo o que ele escreveu durante os setenta e dois anos de\n' +
+          'sua vida, não foram mais que peças de confirmação obstinadamente reunidas,\n' +
+          'arrimos de reforço. "O mundo como vontade e representação": não é somente\n' +
+          'êste pensamento, condensado na, formula mais curta; é também o homem, o\n' +
+          'ser humano, a pessoa, a vida, o sofrimento. Nele, os impulsos da vontade,\n' +
+          'sobretudo os da sexualidade, devem ter sido particularmente fortes e\n' +
+          'perigosos, torturantes como as imagens mitológicas de que se serve para pintar\n' +
+          'a escravidão da vontade; sem dúvida, corresponderam elas _à sua violenta necessidade\n' +
+          'de conhecimento, à. sua espiritualidade clara e poderosa, mas\n' +
+          'opondo-se-lhes de maneira tal que o resultado, caricatural em alto grau, foram\n' +
+          'a dualidade radical e terrível e o despedaçamento da experiência, o mais\n' +
+          'profundo desejo de salvação, a negação espiritual da própria vida, a acusação\n' +
+          'contra seu Eu, mau, errado e culpado. Para Schopenhauer, o sexo é o "foco da\n' +
+          'vontade\'", em sua objetivação corporal o pólo oposto ao cérebro, que\n' +
+          'representa o conhecimento.. Se, visivelmente, tivessem as duas esperas um\n' +
+          'poder que de muito ultrapassasse o médio, os únicos beneficiados seriam a\n' +
+          'plenitude e a força de sua natureza considerada no totalidade; o que precisamente\n' +
+          'faz dele um pessimista e um negador do mundo são unicamente as\n' +
+          'relações entre as duas esferas, sua total oposição, que vai até à hostilidade, que\n' +
+          'tende à exclusão de uma delas e traz o sofrimento; essa relações, além disso,\n' +
+          'não impedem que se chame ao seu pessimismo o produto espiritual da\n' +
+          'plenitude e da força, mal compreendida. A dualidade de sua natureza, sensível\n' +
+          'aos antagonismos e aos conflitos, atormentada e violenta, fá-lo sentir o mundo\n' +
+          'a um tempo como instinto e espírito, paixão e conhecimento, "vontade" e\n' +
+          '"representação". Como não descobriu ele em sua arte, em seu gênio, a unidade\n' +
+          'deste mundo? Por que não comprendeu ele que o gênio não é de maneira\n' +
+          'alguma o silêncio da sensualidade e a ostentação da vontade, de que a arte\n' +
+          'seria a objetivação pelo espírito, mas a união e a interpenetração das duas\n' +
+          'esferas, união que encanta mais que, isoladamente, o sexo ou o espírito? 0\n' +
+          'estado de artista, de criador será, nele mesmo, mais que a sensualidade\n' +
+          'espiritualizada e o espírito tornado genial pelo sexo? Goethe viu e viveu tudo\n' +
+          'isso muito diferentemente que o pessimista Schopenhauer : de maneira mais\n' +
+          'feliz, mais sã, mais serena, "mais clássica", menos patológica - tomada a\n' +
+          'palavra não no sentido clínico, mas no espiritual - quero dizer, pois, menos\n' +
+          'romântica. Para ele, sexo e espírito, "a idéia e o amor" constituíam o mais\n' +
+          'poderoso e o mais nobre encanto da vida, e escrevia: "Porque a vida é o amor,\n' +
+          'a vida da vicia, é o espírito". Em Schopenhauer, ao contrário, o crescimento\n' +
+          'genial das datas esferas termina no ascetismo. Para ele, o sexo perturba\n' +
+          'diabolicamente a contemplarão pura e o conhecimento renega o sexo,\n' +
+          'ordenando-lhe: "Se teu olho te escandaliza, arranca-o". Conceber o\n' +
+          'conhecimento como a "paz dá alma", a arte como o apaziguamento, como o\n' +
+          'estado de contemplação "pura", que salva o homem, salvando-se pelo\n' +
+          'aniquilamento da vontade, e o artista comi o esboço do santo, que\n' +
+          'definitivamente se alforriou da vontade, tal é a idéia de Schopenhauer. Repitamo-\n' +
+          'lo ainda: na medida em que tendi para uma objetividade apolínea, esta\n' +
+          'concepção do espírito e da arte se encontra com a de Goethe, apresenta caráter\n' +
+          'clássico. Mas seu extremismo e seu ascetismo são nitidamente românticos,\n' +
+          'tomada esta palavra em sentido oposto ao do gosto de Goethe, que\n' +
+          'conhecemos melhor por suas atitudes a respeito de Kleist.',
+        footnote: []
+      },
+      {
+        text: 'No fundo, é certo, os termos duma alternativa como "clássico" e\n' +
+          '"romântico", não calham a Schopenhauer : nem um nem outro exprime toda\n' +
+          'sua alma, que não é contemporânea dos homens para os quais esses conceitos\n' +
+          'opostos representavam ainda um papel. Está muito mais perto de nós que os\n' +
+          'espíritos que se preocupavam com esta diferença e se classificavam segundo\n' +
+          'ela; a forma de espírito de Schopenhauer, a sensibilidade e o ardor excessivos\n' +
+          'de seu gênio, cujo dualismo é caricatural, são menos românticos que <i>modernos</i>;\n' +
+          'desejaria dizer muito com esta designação, mas relacionando-a totalmente\n' +
+          'com uma alma moderna, cujo calvário só é bastante visível neste século entre\n' +
+          'Goethe e Nietzsche. Dêsse ponto de vista, Schopenhauer toma lugar entre um\n' +
+          'e outro: mais moderno, mais doloroso, mais complicado que Goethe, mas\n' +
+          'muito mais "clássicos", mais robusto, mais são que Nietzsche, ele operou a\n' +
+          'transição; pode-se, pois, deduzir daí que o otimismo e o pessimismo, a\n' +
+          'afirmação ou a negação da vida nada têm a ver com a saúde e a doença. A saúde\n' +
+          'e a doença, se as considerarmos como juízo de valor, só com muita\n' +
+          'precaução podem ser aplicadas à espiritualidade humana, porque são conceitos\n' +
+          'biológicos e a natureza do homem não se reduz ao biológico.',
+        footnote: []
+      },
+      {
+        text: 'Schopenhauer, psicólogo da vontade, é o pai de toda a psicologia\n' +
+          'moderna, dele se vai, pelo radicalismo psicológico de Nietzsche, em linha reta\n' +
+          'a Freud, assim como àqueles que concluíram sua psicologia do inconsciente e\n' +
+          'a aplicaram às ciências do espírito. O anti-intelectualismo e o anti-socratismo\n' +
+          'de Nietzsche não são mais que a afirmação filosófica e a glorificação do\n' +
+          'primado da vontade, descoberta por Schopenhauer e da intuição pessimista\n' +
+          'que o fez designar um lugar secundário à inteligência, serva da vontade. Esta\n' +
+          'intuição, esta verificação - que não é precisamente humana no sentido clássico\n' +
+          '- de que a inteligência está simplesmente às ordens da vontade, para provê-Ia\n' +
+          'de motivos, freqüentemente muito pouco fundados e falaciosos para racionalizar\n' +
+          'os instintos, contém uma psicologia cética e pessimista, uma ciência da\n' +
+          'alma impiedosarnente lúcida que não somente preparou os caminhos ao que\n' +
+          'chamamos psicanálise, como já é esta própria psicanálise. No fundo, toda\n' +
+          'psicologia desmascara; é o olhar penetrante, irônico do naturalista, que penetra\n' +
+          'as relações enganadoras do espírito e do instinto. Isso corresponde perfeitamente\n' +
+          'à conivência mística da natureza nas <i>afinidades eletivas</i>, em que\n' +
+          'Goethe .faz Eduardo dizer, já enamorado, após seu primeiro encontre com\n' +
+          'Odila : "Ela tem muito espírito", e sua mulher lhe responde: "Muito espírito?\n' +
+          'Mas ela não abriu a boca!" Schopenhauer por certo gostou desta passagem. É\n' +
+          'uma amável ilustração, ainda classicamente serena, da frase em que declara\n' +
+          'que a gente não quer uma coisa porque a reconhece boa, mas que se julga boa\n' +
+          'porque se quer.',
+        footnote: []
+      },
+      {
+        text: 'A verdadeira razão que nos faz hoje retomar Schopenhauer e examinar\n' +
+          'sua concepção do mundo, o motivo que nos leva a evocar sua fisionomia\n' +
+          'espiritual, com tudo que ela lembra, diante de uma geração que não sabe\n' +
+          'grande coisa. dele, são as relações do pessimismo e da humanidade. É o desejo\n' +
+          'de transmitir aos homens do tempo presente, nos quais o sentimento de\n' +
+          'humanidade atravessa grave crise, a experiência pessoal da união particular\n' +
+          'contraída pela melancolia e pela altivez do homem nesta filosofia. O\n' +
+          'pessimismo de Schopenhauer é sua humanidade. Sua explicação do mundo\n' +
+          'pela vontade, sua intuição da onipotência dos instintos, o rebaixamento da razão\n' +
+          'outrora divina, do espírito, da inteligência, reduzida a não ser mais que o\n' +
+          'instrumento da vida que quer afirmar-se, tudo isso é anticlássico e, em\n' +
+          'essência, inumano. Mas sua humanidade, sua espiritualidade residem\n' +
+          'precisamente no matiz pessimista de sua doutrina, que o leva a renegar o\n' +
+          'mundo e a pregar um ideal ascético; no fato de que êsse grande escritor,\n' +
+          'versado em sofrimento, cuja prosa é a da grande época de nossa civilização\n' +
+          'humanista, tirou o homem do elemento biológico e da natureza, fez de sua\n' +
+          'alma, que sente e conhece, o teatro da inversão do querer e viu nele o salvador\n' +
+          'possível de todas as criaturas.',
+        footnote: []
+      },
+      {
+        text: 'Em seu primeiro terço, o século XIX foi uma reação total contra o\n' +
+          'racionalismo e o intelectualismo clássicos; comprovou-se numa admiração do\n' +
+          'inconsciente, numa glorificação de instinto, que julgava dever à "vida" e que\n' +
+          'somente preparou assaz, para os, instintos maus, dias felizes... Freqüentemente\n' +
+          'o pessimismo consciente se mudou então em prazer de prejudicar, o reconhecimento\n' +
+          'de verdades amargas pelo espírita transformou-se em ódio e em\n' +
+          'despreza do próprio espírito e, sem a menor generosidade a seu respeito, a\n' +
+          'gente se pôs do lado da vida, isto é, do lado do mais forte; porque, se uma\n' +
+          'coisa é certa e provada, é exatamente esse fato de nada ter a vida a temer do\n' +
+          'espírito, e do conhecimento e que, na terra, o espírito. não a vida, tem o mínimo\n' +
+          'de força e a maior necessidade de proteção. Mas a própria\n' +
+          'anti-humanidade atual é, afinal, uma experiência humana, uma resposta unilateral\n' +
+          'aos eternos problemas da essência e destino do homem. Visivelmente\n' +
+          'ela precisa dum corretivo que restabeleça o equilíbrio, e eu creio que a\n' +
+          'filosofia evocada aqui pode hoje prestar bons serviços. Chamei Schopenhauer\n' +
+          'de “moderno"; deveria ter dito "futuro". Os elementos que compõem sua\n' +
+          'personalidade, sua harmonia claro-escura, a mistura de Voltaire e de Jacó\n' +
+          'Bõhme, o paradoxo de sua prosa clássica e clara, que revela o mais profundo,\n' +
+          'o mais noturno abismo, sua altiva misantropia, que jamais renega seu respeito\n' +
+          'pela idéia do homem, em suma, o que eu chamei sua humanidade pessimista,\n' +
+          'apareceme rico de futuro e promete talvez, à sua construção teórica, que\n' +
+          'esteve na moda e foi célebre, caindo depois em semi-esquecimento, uma ação\n' +
+          'nova, profunda e fecunda, sobre os homens. Sua sensualidade espiritual, sua\n' +
+          'doutrina - que era vida - segundo a qual conhecimento, pensamento, filosofia\n' +
+          'não são apenas ocupação de cabeça, mas do homem inteiro - coração e\n' +
+          'sentidos, corpo e alma - em uma palavra, o que dele faz um artista, tudo isso\n' +
+          'pode ajudar a produzir-se uma humanidade que ultrapassa a aridez da razão e\n' +
+          'deificação do instinto. Porque sempre, companheiro do homem na jornada que\n' +
+          'penosamente o conduz a si mesmo, a arte atinge primeiro o objetivo.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'A Esfinge Sem Segredo',
+    author: 'Oscar Wilde',
+    section: 'Uma Água Forte',
+    img: 'oscarWilde',
+    imgIndex: '5',
+    titleURL: 'a-esfinge-sem-segredo',
+    authorURL: 'oscar-wilde',
+    sectionURL: 'uma-agua-forte',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'Achava-me numa tarde sentado no terraço do Café Paz, contemplando o fausto e a pobreza da vida parisiense, a meditar, enquanto bebericava o meu vermute, sobre o estranho panorama de orgulho e miséria que desfilava diante de mim, quando ouvi alguém pronunciar o meu nome. Voltei-me e dei com os olhos em Lord Murchison. Não nos tínhamos tornado a ver desde que estivéramos juntos no colégio, havia isto uns dez anos, de modo que me encheu de satisfação aquele encontro e apertamos as mãos cordialmente. Tínhamos sido grandes amigos em Oxford. Gostaria dele imensamente. Era tão bonito, tão comunicativo, tão cavalheiresco. Costumávamos dizer dele que seria o melhor dos sujeitos, se não falasse sempre a verdade, mas acho que, na realidade, o admirávamos mais justamente por causa da sua franqueza. Encontrei-o muito mudado. Parecia inquieto, perturbado e em dúvida a respeito de alguma coisa. Senti que não podia ser o cepticismo moderno, pois Murchison era um dos conservadores mais inabaláveis e acreditava no Pentateuco com a mesma firmeza com que acreditava na Câmara dos Pares. De modo que conclui que havia alguma mulher naquilo e perguntei-lhe se ainda não se havia casado.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '- Não compreendo as mulheres bastante bem - respondeu.',
+        footnote: []
+      },
+      {
+        text: '- Meu caro Geraldo - disse -, as mulheres estão feitas para serem amadas e não para serem compreendidas.',
+        footnote: []
+      },
+      {
+        text: '- Não posso amar sem ter confiança absoluta - replicou.',
+        footnote: []
+      },
+      {
+        text: '- Creio que há um mistério na sua vida, Geraldo - exclamei. - Conte-me isso.',
+        footnote: []
+      },
+      {
+        text: '- Vamos dar um passeio de carro - respondeu. - Há gente demais aqui. Esse carro amarelo, não. Um de qualquer outra cor... aquele ali, verde escuro serve.',
+        footnote: []
+      },
+      {
+        text: 'Dentro de poucos minutos estávamos a descer a trote o bulevar na direção da Madalena.',
+        footnote: []
+      },
+      {
+        text: '- Para onde vamos? - perguntei.',
+        footnote: []
+      },
+      {
+        text: '- Oh! para onde você quiser! - respondeu. - Para o restaurante do Bosque. Jantaremos ali e contar-me-á tudo a respeito da sua vida.',
+        footnote: []
+      },
+      {
+        text: '- Primeiro quero que você me conte a sua. Revele-me o seu mistério.',
+        footnote: []
+      },
+      {
+        text: 'Tirou do bolso uma pequena carteira de marroquim com fecho de prata e entregou-me. Abri-a. Dentro havia a fotografia de uma mulher. Era alta e esbelta e de aspecto singular com grandes olhos misteriosos e cabelos soltos. Parecia uma clairvoyante<sup><a href="#footnotes">1</a></sup> e achava-se envolta em ricas peles.',
+        footnote: [
+          {
+            index: 1,
+            content: 'vidente'
+          }
+        ]
+      },
+      {
+        text: '- Qual é a sua opinião a respeito desse rosto - perguntou ele. - Inspira confiança?',
+        footnote: []
+      },
+      {
+        text: 'Examinei o retrato atentamente. Parecia-me o rosto de alguém que guarda um segredo, mas o que não podia dizer era se o segredo fosse bom ou mau. Aquela beleza parecia feita de muitos mistérios reunidos, uma beleza, de fato, mais psicológica do que plástica, e o ligeiro sorriso que lhe flutuava nos lábios era demasiado subtil para ter realmente encanto.',
+        footnote: []
+      },
+      {
+        text: '- Bem - exclamou ele, impaciente - que me diz?',
+        footnote: []
+      },
+      {
+        text: '- É a Gioconda em vestes de luto - respondi. - Conte-me tudo quanto a ela se refere.',
+        footnote: []
+      },
+      {
+        text: '- Agora não; depois do jantar - disse ele e começou a conversar a respeito de outras coisas.',
+        footnote: []
+      },
+      {
+        text: 'Quando o empregado trouxe o nosso café e os cigarros, lembrei a Geraldo a sua promessa. Ele levantou-se da sua cadeira, caminhou duas ou três vezes acima e abaixo na sala e, deixando-se cair numa cadeira de braços, contou-me a seguinte história:',
+        footnote: []
+      },
+      {
+        text: '- Uma tarde, aí pelas cinco horas, descia eu pela Rua Bond. Havia uma terrível aglomeração de veículos e o tráfego quase parado. Perto do passeio estava parado um carrinho fechado, amarelo, que, por esse ou aquele motivo, atraiu a minha atenção. Ao passar ao seu lado, vi surgir dele, a olhar para fora, o rosto que lhe mostrei ainda há pouco. Fascinou-me imediatamente. Fiquei a noite inteira a pensar nele e o dia seguinte também. Subi e desci várias vezes por entre aquela maldita confusão, lançando um olhar perscrutador para dentro de todo carro, à espera do carro fechado amarelo. Mas não pude descobrir ma belle inconnue<sup><a href="#footnotes">2</a></sup> e afinal comecei a pensar que era ela apenas um sonho. Cerca de uma semana depois, estava a jantar com Madame de Rastail. O jantar estava marcado para as oito horas, mas às oito e meia ainda nos achávamos à espera na sala de visitas. Por fim o criado abriu a porta e anunciou Lady Alroy. Era a mulher que eu estivera a procurar. Entrou muito devagar, parecendo um raio de lua cercado de renda cinzenta, e, para intenso deleite meu, pediram-me que a conduzisse à sala de jantar. Depois de nos sentarmos, observei-lhe com a maior inocência:',
+        footnote: [
+          {
+            index: 2,
+            content: 'Minha bela desconhecida'
+          }
+        ]
+      },
+      {
+        text: '«Creio que já a vi, há algum tempo, na Rua Bond, Lady Alroy».',
+        footnote: []
+      },
+      {
+        text: 'Ela ficou muito pálida e disse-me, em voz baixa:',
+        footnote: []
+      },
+      {
+        text: '«Por favor, não fale tão alto. Podem ouvi-lo».',
+        footnote: []
+      },
+      {
+        text: 'Senti-me desditosíssimo por ter começado tão mal e mergulhei cegamente numa dissertação sobre peças francesas. Ela falava pouquíssimo, sempre com a mesma voz baixa e musical, parecendo receosa de que alguém a estivesse escutando. Senti-me apaixonadamente, estupidamente enamorado e a indefinível atmosfera de mistério que a cercava excitava, a mais não poder, a minha curiosidade. Quando ela se retirou, logo após o jantar, perguntei-lhe se poderia visitá-la. Hesitou um momento, olhou em redor para ver se alguém estava perto de nós e depois disse:',
+        footnote: []
+      },
+      {
+        text: '«Sim; amanhã a um quarto para as cinco».',
+        footnote: []
+      },
+      {
+        text: 'Roguei a Madame de Rastail que me desse informações a respeito dela; mas tudo quanto pude saber é que era uma viúva, morando numa bela casa em Park Lane e, como naquele momento um desses cientistas cacetes começasse uma dissertação a respeito de viúvas, para exemplificar a sobrevivência dos matrimonialmente mais ajustados, despedi-me e fui para casa.',
+        footnote: []
+      },
+      {
+        text: 'No dia seguinte cheguei pontualmente a Park Lane, no momento exato, mas o mordomo disse-me que Lady Alroy tinha acabado de sair. Dirigi-me ao clube, bastante desiludido e confuso e, depois de muito refletir, escrevi-lhe uma carta, perguntando-lhe se me seria permitido tentar a sorte em alguma outra parte. Por vários dias não recebi resposta, mas afinal chegou-me às mãos um bilhetinho, dizendo-me que estaria ela em casa no domingo, às quatro e com este extraordinário pós-escrito: «Por obséquio não torne a escrever para mim aqui; explicar-lhe-ei, quando o vir». No domingo, recebeu-me e mostrou-se perfeitamente encantadora. Mas quando me despedia, pediu-me que, se alguma vez tivesse ocasião de escrever-lhe de novo, dirigisse a minha carta para «Sra. Knox, aos cuidados da Biblioteca Whittaker, Rua Verde». «Há motivos - disse ela - pelos quais não posso receber cartas em minha própria casa».',
+        footnote: []
+      },
+      {
+        text: 'Durante toda a temporada via-a amiudadas vezes e a atmosfera de mistério sempre se manteve em torno dela. Às vezes pensava que se achava ela em poder de algum homem, mas parecia tão inabordável que não podia acreditar naquilo. Era realmente difícil para eu chegar a qualquer conclusão, pois ela era como um desses estranhos cristais que a gente vê em museus e que são, num momento, claros, e em outro, turvos. Por fim, decidi-me a pedi-la em casamento. Senti-me doente e cansado daquele incessante segredo que impunha a todas as minhas visitas e às poucas cartas que lhe enviei. Escrevi-lhe para a biblioteca, perguntando-lhe se podia ver-me na segunda-feira seguinte, às seis horas. Respondeu que sim e senti-me transportado ao sétimo céu. Estava apaixonado por ela, a despeito do mistério, pensava então... em conseqüência dele, vejo agora. Não; era a mulher mesma que eu amava. O mistério perturbava-me, enlouquecia-me. Porque o acaso fez-me descobrir a pista?',
+        footnote: []
+      },
+      {
+        text: '- Descobriu-a então? - exclamei.',
+        footnote: []
+      },
+      {
+        text: '- Receio que sim - respondeu. - Julgue você por si mesmo. Quando chegou a segunda-feira, fui almoçar com meu tio e cerca das quatro horas encontrava-me em Marylebone Road. Meu tio, como você sabe, mora em Regent\'s Park. Queria alcançar Piccadilly e, para atalhar, meti-me por uma enfiada de becos miseráveis. De repente avistei à minha frente Lady Alroy, com um espesso véu e caminhando muito apressada. Ao chegar à derradeira casa da rua, subiu os degraus, tirou do bolso uma chave, abriu a porta e entrou. «Aqui está o mistério», disse a mim mesmo e apressei-me em examinar a casa. Parecia uma espécie de prédio de aluguer. No degrau da porta estava caído o lenço dela. Apanhei-o e meti-o no bolso. Depois comecei a refletir no que devia fazer. Cheguei à conclusão de que não tinha o direito de espioná-la. Tomei um carro e segui para o clube. Às seis horas fui visitá-la. Estava sentada num sofá, em traje de chá, um tecido prateado, preso por uns broches de certas estranhas pedras lunares que sempre usava. Era de uma beleza perfeita.',
+        footnote: []
+      },
+      {
+        text: '«Alegra-me tanto vê-lo - disse. - Não saí hoje durante o dia».',
+        footnote: []
+      },
+      {
+        text: 'Olhei para ela, estupefato e tirando o lenço do meu bolso, entreguei-lhe.',
+        footnote: []
+      },
+      {
+        text: '«Deixou cair isto esta tarde, Lady Alroy, na Rua Cumnor» - disse eu, calmamente.',
+        footnote: []
+      },
+      {
+        text: 'Ela olhou para mim, aterrorizada, mas não fez o menor gesto para pegar no lenço.',
+        footnote: []
+      },
+      {
+        text: '«Que estava a fazer ali?» - perguntei.',
+        footnote: []
+      },
+      {
+        text: '«Que direito tem o senhor de fazer-me perguntas?» - replicou.',
+        footnote: []
+      },
+      {
+        text: '«O direito de um homem que a ama» - respondi-lhe. - «Vim aqui para pedi-la em casamento».',
+        footnote: []
+      },
+      {
+        text: 'Ocultou o rosto nas mãos e desfez-se em pranto.',
+        footnote: []
+      },
+      {
+        text: '«Tem de responder-me» - continuei.',
+        footnote: []
+      },
+      {
+        text: 'Ela ergueu-se e, fitando-me o rosto, disse:',
+        footnote: []
+      },
+      {
+        text: '«Lorde Murchison, nada tenho a dizer-lhe».',
+        footnote: []
+      },
+      {
+        text: '«Foi encontrar alguém» - exclamei. - «É esse o seu mistério».',
+        footnote: []
+      },
+      {
+        text: 'Ela ficou terrivelmente pálida e disse:',
+        footnote: []
+      },
+      {
+        text: '«Não fui encontrar ninguém».',
+        footnote: []
+      },
+      {
+        text: '«Não pode dizer a verdade?» - exclamei.',
+        footnote: []
+      },
+      {
+        text: '«Já a disse» - replicou ela.',
+        footnote: []
+      },
+      {
+        text: 'Eu estava a enlouquecer, alucinado. Não sei o que disse, mas foram coisas terríveis. Por fim, saí à pressa da casa. Escreveu-me uma carta no dia seguinte. Devolvi-lhe, intacta\n' +
+          'e parti para a Noruega, em companhia de Alan Colville. Um mês depois regressei e a primeira coisa que vi no Morning Post foi a notícia da morte de Lady Alroy. Apanhara um resfriado na Ópera e morrera, dentro de cinco dias, de congestão pulmonar. Fechei-me em casa e não quis ver ninguém. Tinha-a amado tanto, tinha-a amado tão loucamente! Meu Deus! Quanto amara eu aquela mulher!',
+        footnote: []
+      },
+      {
+        text: '- E você, foi àquela rua, àquela casa? - perguntei.',
+        footnote: []
+      },
+      {
+        text: '- Sim - respondeu.',
+        footnote: []
+      },
+      {
+        text: '- Um dia, fui à Rua Cumnor. Não podia deixar de fazê-lo. Vivia torturado pela dúvida. Bati à porta e uma mulher de aspecto respeitável abriu-a para mim. Perguntei-lhe se havia quartos para alugar.',
+        footnote: []
+      },
+      {
+        text: '«Bem, meu senhor - respondeu ela - as salas podem ser alugadas, mas há três meses que não tenho visto a senhora e como os alugueres estão-se a acumular, o senhor poderá alugá-las».',
+        footnote: []
+      },
+      {
+        text: '«É esta a senhora?» - perguntei, mostrando-lhe a fotografia.',
+        footnote: []
+      },
+      {
+        text: '«É ela, sim, com toda certeza» - exclamou a mulher. - «E quando estará de volta, meu senhor?»',
+        footnote: []
+      },
+      {
+        text: '«Morreu» - respondi.',
+        footnote: []
+      },
+      {
+        text: '«Oh! meu senhor, não diga!» - disse a mulher. - «Era a minha melhor inquilina. Pagava-me três guinéus por semana simplesmente para vir sentar-se nesta minha sala de vez em quando».',
+        footnote: []
+      },
+      {
+        text: '«Encontrava-se com alguém aqui?» - perguntei, mas a mulher garantiu-me que tal não ocorria, que ela sempre vinha sozinha e não via ninguém.',
+        footnote: []
+      },
+      {
+        text: '«Mas afinal que fazia ela aqui?» - exclamei.',
+        footnote: []
+      },
+      {
+        text: '«Ficava simplesmente sentada na sala, meu senhor, lendo livros e às vezes tomava chá» - respondeu a mulher.',
+        footnote: []
+      },
+      {
+        text: 'Não sabia o que dizer, de modo que lhe dei um soberano e saí. Agora, que pensa que significava tudo aquilo? Não acredita que a mulher estivesse a dizer a verdade?',
+        footnote: []
+      },
+      {
+        text: '- Acredito.',
+        footnote: []
+      },
+      {
+        text: '- Então por que ia Lady Alroy ali?',
+        footnote: []
+      },
+      {
+        text: '- Meu caro Geraldo - respondi - Lady Alroy era simplesmente uma mulher com a mania do mistério. Alugava aqueles quartos somente pelo prazer de ir ali, de véu descido\n' +
+          'e imaginando ser uma heroína. Tinha paixão pelo segredo, mas não passava de uma simples esfinge sem segredo.',
+        footnote: []
+      },
+      {
+        text: '- Estou convencido disto - repliquei.',
+        footnote: []
+      },
+      {
+        text: 'Lorde Murchison tirou do bolso a carteira de marroquim, abriu-a e olhou a fotografia.',
+        footnote: []
+      },
+      {
+        text: 'Quem sabe? - disse afinal.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Em Frontispício',
+    author: 'Bruno Tolentino',
+    section: 'Poema',
+    img: 'brunoTolentino',
+    imgIndex: '12',
+    titleURL: 'em-frontispicio',
+    authorURL: 'bruno-tolentino',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br> “Eu vos compensarei pelos anos que o gafanhoto comeu…”\n' +
+          '<br>' +
+          '(Joel, 2: 25)',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>' +
+          'O Senhor prometera nos compensar os anos\n' +
+          '<br>' +
+          'que a legião dos gafanhotos devorara,\n' +
+          '<br>' +
+          'meu coração, mas a promessa era tão rara\n' +
+          '<br>' +
+          'que achei mais natural vê-Lo mudar de planos',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'que afinal ocupar-Se de assuntos tão mundanos.\n' +
+          '<br>' +
+          'Assombra-me, portanto, ver uma luz tão clara\n' +
+          '<br>' +
+          'fecundar-me as cantigas, coração meu — repara\n' +
+          '<br>' +
+          'como crescem espigas entre escombros humanos…',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'Naturalmente, quem sou eu para que Deus\n' +
+          '<br>' +
+          'cumprisse em minha vida promessa tão perfeita,\n' +
+          '<br>' +
+          'e no entanto hei-Lo arando, limpando os olhos meus,',
+        footnote: []
+      },
+      {
+        text: '<br>' +
+          'fazendo-os ver que, no trigal em que se deita\n' +
+          '<br>' +
+          'a luz dourada e musical, se algo perdeu-se\n' +
+          '<br>' +
+          'foi como o grão — entre a seara e a colheita.',
+        footnote: []
+      },
+      {
+        text: '<br><br>' +
+          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Meditações',
+    author: 'Marco Aurélio',
+    section: 'Livro I',
+    img: 'marcoAurelio',
+    imgIndex: '2',
+    titleURL: 'meditacoes',
+    authorURL: 'marco-aurelio',
+    sectionURL: 'livro-I',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '1. De Vero, meu avô, a honradez e serenidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '2. Da reputação e memória de meu genitor <sup><a href="#footnotes">1</a></sup> a discrição e varonilidade.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Ânio Vero.'
+          }
+        ]
+      },
+      {
+        text: '3. De minha mãe<sup><a href="#footnotes">2</a></sup>' +
+          ' a religiosidade, a generosidade e a abstenção não só de\n' +
+          'praticar o mal mas até de se demorar em semelhante pensamento; ainda, a singeleza\n' +
+          'do passadio e a distância do teor de vida dos ricos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '4. De meu bisavô, o ter em casa mestres excelentes, em vez de freqüentar\n' +
+          'escolas públicas, e compreender que a instrução requer se despenda largamente.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '5. De meu aio, o não me haver tornado partidário dos Verdes ou dos Azuis<sup><a href="#footnotes">3</a></sup>,\n' +
+          'nem dos Palmulários ou dos Escutários<sup><a href="#footnotes">4</a></sup>;\n' +
+          'o aturar fadigas e precisar de pouco; o\n' +
+          'executar eu próprio minhas tarefas, o não ser intrometido e a repulsa a intrigas.',
+        footnote: [
+          {
+            index: 3,
+            content: 'Facções de cocheiros no circo.'
+          },
+          {
+            index: 4,
+            content: 'Facções de gladiadores.'
+          }
+        ]
+      },
+      {
+        text: '6. De Diogneto<sup><a href="#footnotes">5</a></sup>,' +
+          'o descaso das futilidades; o não crer no que dizem os\n' +
+          'milagreiros e charlatães sobre encantamentos, expulsão de demônios e quejandas\n' +
+          'imposturas; o não criar codornizes nem me entregar a paixões dessa espécie; o\n' +
+          'suportar franquezas; o familiarizar-me com a Filosofia e ouvir as lições,\n' +
+          'primeiramente, de Báquio, depois, de Tândasis e Marciano; o ter escrito diálogos na\n' +
+          'infância; o ter desejado o catre, o pelego e todas as outras simplicidades da\n' +
+          'educação helênica.',
+        footnote: [
+          {
+            index: 5,
+            content: 'Erudito e pintor.'
+          }
+        ]
+      },
+      {
+        text: '7. De Rústico<sup><a href="#footnotes">6</a></sup>, ' +
+          'a compreensão de que devia corrigir e cultivar o meu caráter;\n' +
+          'o não me entregar à paixão da sofistica, nem compor tratados teóricos, redigir\n' +
+          'arengas de exortação ou exibir-me, para suscitar admirações, como pessoa operosa\n' +
+          'e benfazeja; a abstenção da retórica, da poesia, do preciosismo; o não andar de toga\n' +
+          'em casa, nem alimentar vaidades que tais; o usar de simplicidade nas minhas cartas,\n' +
+          'como ele na que mandou de Sinoessa a minha mãe; a presteza em responder ao\n' +
+          'apelo de reconciliação dos que se irritaram comigo e me ofenderam, tão logo de si\n' +
+          'mesmos queiram voltar às boas; o ler acuradamente, não me satisfazendo com uma\n' +
+          'vista d\'olhos superficial; o não assentir precipitadamente às indiscrições; o conhecer\n' +
+          'os comentários de Epicteto<sup><a href="#footnotes">7</a></sup>,\n' +
+          ' que me emprestou de sua biblioteca.',
+        footnote: [
+          {
+            index: 6,
+            content: 'Filósofo da escola estóica, conselheiro de Marco Aurélio.'
+          },
+          {
+            index: 7,
+            content: 'Uma das maiores figuras da filosofia antiga. Viveu no começo da era cristã, de 40 a 125. Nascido na Frígia, de família servil, foi levado\n' +
+              'para Roma no tempo de Nero; ali recebeu de seu amo a liberdade e estudou com Musônio, adepto do estoicismo. Quando Domiciano\n' +
+              'expulsou da Itália os filósofos, passou-se para Nicópolis, no Epiro, e ali ensinou Filosofia. Conhecemos os seus ensinamentos graças ao\n' +
+              'historiador Arriano, seu discípulo, que registrou o pensamento e as máximas do mestre em duas obras, Entretenimentos e Manual,\n' +
+              'consideradas as obras capitais da escola estóica. Sua influência, profunda no ocaso do paganismo, estendeu-se através da era cristã.'
+          }
+        ]
+      },
+      {
+        text: '8. De Apolônio<sup><a href="#footnotes">8</a></sup>,' +
+          ' a independência, a decisão sem longos debates nem\n' +
+          'recurso à sorte dos lados; o não me orientar, sequer por instantes, senão pela razão;\n' +
+          'o não me alterar nos sofrimentos agudos, na perda dum filho, nas doenças\n' +
+          'prolongadas; o ter visto com meus olhos, num exemplo vivo, que o rigor extremo\n' +
+          'se compadece com a benignidade; o não ser irritadiço nas explicações; o ter visto\n' +
+          'um homem que manifestamente reputava como o menor de seus dotes o tirocínio\n' +
+          'e facilidade em transmitir os princípios doutrinários; o ter aprendido como receber\n' +
+          'as assim consideradas gentilezas dos amigos, sem render-me a elas nem desdenhálas\n' +
+          'indelicadamente.',
+        footnote: [
+          {
+            index: 8,
+            content: 'Obscuro mestre de filosofia estóica.'
+          }
+        ]
+      },
+      {
+        text: '9. De Sexto<sup><a href="#footnotes">9</a></sup>,' +
+          'a benevolência; o exemplo de casa regida pela tradição; a\n' +
+          'concepção de como viver segundo a natureza; a gravidade não afetada; a solicitude\n' +
+          'atenta para com os amigos; a tolerância para com os ignorantes e para com os que\n' +
+          'opinam sem maduro exame; a boa harmonia com todos, tanto que seu convívio\n' +
+          'agradava mais que qualquer blandícia, apesar de infundir, ao mesmo tempo, o\n' +
+          'máximo respeito para com sua pessoa; o atinar arguta e metodicamente com as normas necessárias à vida e ordená-las; o jamais mostrar nem aparência de cólera\n' +
+          'ou qualquer outra emoção, mas ser ao mesmo tempo muito sereno e muito\n' +
+          'afetuoso; o elogiar sem espalha-fato; a erudição vasta <i>sem</i> alarde.',
+        footnote: [
+          {
+            index: 9,
+            content: 'to de Queronéia, filósofo estóico, sobrinho de Plutarco.'
+          }
+        ]
+      },
+      {
+        text: '10. De Alexandre, o gramático, o não criticar,-o não vituperar quem profere\n' +
+          'algum barbarismo, solecismo ou cacofonia, mas aduzir aquela única expressão que\n' +
+          'devia ser dita, jeitosamente, em forma quer de resposta, quer de confirmação ou\n' +
+          'debate do assunto mesmo, e não de seu enunciado, quer ainda dalguma outra\n' +
+          'semelhante sugestão casual adequada.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '11. De Frontão<sup><a href="#footnotes">10</a></sup>,' +
+          'o notar quanta inveja, doblez e hipocrisia há nos tiranos e\n' +
+          'que esses chamados em Roma patrícios quase sempre são de certo modo bem\n' +
+          'falhos de afeição.',
+        footnote: [
+          {
+            index: 10,
+            content: 'Marco Cornélio Frontão, natural da Numídia (100 a 175 A.D.), preceptor de Marco Aurélio, seu conselheiro e amigo, a quem o\n' +
+              'imperador votava respeito e carinho, como se vê na volumosa correspondência que trocaram. Compôs modelos de eloqüência, à maneira\n' +
+              'dos retores gregos. Gozava de grande reputação e sua casa era freqüentada pelos expoentes da cultura contemporânea em Roma. Seu\n' +
+              'mérito real, porém, é diminuto; sobressaía na mediocridade geral.'
+          }
+        ]
+      },
+      {
+        text: '12. De Alexandre, o platônico, o não dizer ou escrever, amiúde e sem\n' +
+          'necessidade, que estou ocupado, nem me subtrair assim constantemente aos\n' +
+          'deveres sociais para com os de minha convivência, a pretexto de fainas prementes.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '13. De Catulo, o não desdenhar as queixas dum amigo, embora porventura\n' +
+          'infundadas, e tratar, ao contrário, de restaurar o bom entendimento habitual; o\n' +
+          'louvar os mestres com ardor, como se recorda de Domício e Atenódoto; e o amor\n' +
+          'verdadeiro para com os filhos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '14. De meu irmão Severo<sup><a href="#footnotes">11</a></sup>,' +
+          'o amor à família, à verdade e à justiça; o ter\n' +
+          'conhecido por seu intermédio a Tráseas, Helvídio, Catão, Dião, Bruto; a concepção\n' +
+          'dum poder régio que acima de tudo respeite a liberdade dos súditos; dele, ainda, o\n' +
+          'culto da Filosofia, constante e sem desfalecimento; a beneficência e a liberalidade\n' +
+          'copiosa; o bem esperar da afeição dos amigos e confiar nela; a franqueza para com\n' +
+          'aqueles a quem acaso censurava e o não precisarem os seus amigos conjeturar o\n' +
+          'que ele desejava ou não desejava, por ser patente.\'',
+        footnote: [
+          {
+            index: 11,
+            content: 'Cláudio Severo; cultivou a Filosofia peripatética. Não era, realmente, irmão de Marco Aurélio, mas consogro.'
+          }
+        ]
+      },
+      {
+        text: '15. De Máximo<sup><a href="#footnotes">12</a></sup>,' +
+          'o domínio de si mesmo e o não titubear em matéria\n' +
+          'nenhuma; a fortaleza nas vicissitudes, notadamente nas enfermidades; a feliz fusão\n' +
+          'da doçura e da imponência em seu caráter; o cumprimento de suas obrigações sem\n' +
+          'queixas; o crerem todos que ele pensava como dizia e não havia maldade em seus\n' +
+          'atos; a ausência de espantos e de medos; o jamais açodar-se ou demorar,\n' +
+          'embaraçar-se, descoroçoar, ou gargalhar e em seguida entregar-se a cóleras ou\n' +
+          'suspeitas; a beneficência, a indulgência e a lealdade; o dar antes a impressão de não\n' +
+          'entortado que de endireitado; que ninguém jamais se imaginaria menosprezado por\n' +
+          'ele, nem ousaria acreditar-se superior a ele.',
+        footnote: [
+          {
+            index: 12,
+            content: 'Cláudio Máximo, adepto do estoicismo.'
+          }
+        ]
+      },
+      {
+        text: '16. De meu pai<sup><a href="#footnotes">13</a></sup>,' +
+          'a placidez e a firmeza inabalável nas decisões, fundadas em\n' +
+          'exames acurados; a indiferença para com a vaidade de supostas honrarias; o amor\n' +
+          'ao trabalho e a perseverança; o escutar as pessoas capazes de alguma contribuição\n' +
+          'para o bem comum; a inflexibilidade no aquinhoar cada um segundo seu mérito; a\n' +
+          'experiência de quando apertar e quando afrouxar; o ter posto fim à pederastia; a\n' +
+          'afabilidade; o consentir aos amigos nem sempre jantar em sua companhia nem\n' +
+          'acompanhá-lo obrigatoriamente nas viagens; o não o acharem mudado os que se\n' +
+          'houvessem afastado por algum dever; o exame acurado nas deliberações em\n' +
+          'comum e a persistência, sem abandonar as pesquisas e contentar-se com as idéias\n' +
+          'óbvias; a conservação das amizades, sem enfado nem exagerado apego; a autosuficiência\n' +
+          'em tudo e a serenidade; a longa previsão e o arranjo prévio das\n' +
+          'minúcias, sem teatralidade; o ter coibido as aclamações e toda bajulação de sua\n' +
+          'pessoa; a vigilância permanente dos interesses do Império; a administração das\n' +
+          'rendas do erário e a tolerância da crítica em alguns itens administrativos; o não ter\n' +
+          'superstições em relação aos deuses e, quanto aos homens, não ser bajulador das\n' +
+          'massas, blandicioso, populista, mas em tudo sóbrio, firme e nunca de mau gosto\n' +
+          'nem inovador; o uso dos bens que concorrem para a comodidade da vida e a sorte\n' +
+          'lhos proporcionara copiosamente — sem vaidade e ao mesmo tempo sem\n' +
+          'pretextos, de modo que, quando os havia, os fruía sem requintes e, quando carecia, passava sem eles; o não poderem chamá-lo intrujão, nem chocarreiro, nem pedante,\n' +
+          'e sim homem amadurecido, completo, inacessível à bajulação, capaz de gerir os\n' +
+          'seus interesses e os alheios; além disso, as atenções para com os filósofos autênticos\n' +
+          'e, em relação aos outros, sem todavia ofendê-los, o não se deixar conduzir por eles;\n' +
+          'ainda, a afabilidade, a amabilidade não fastidiosa; os cuidados comedidos com o seu\n' +
+          'corpo, que eram os de alguém não apegado à vida, sem tafularia nem desmazelo\n' +
+          'tampouco; contudo, dado o seu zelo de si mesmo, mínima era sua precisão de\n' +
+          'médicos-, poções ou emplastros; principalmente, a deferência votada, sem ciúmes,\n' +
+          'àqueles que tivessem adquirido algum talento, como a oratória, a ciência das leis ou\n' +
+          'costumes, ou outras disciplinas, e o interesse por que cada um deles gozasse de\n' +
+          'reputação na medida de seus méritos; seguindo em tudo o costume dos\n' +
+          'antepassados, o não demonstrar que o seu propósito era esse de preservar a\n' +
+          'tradição; também o não ser instável e irrequieto, mas demorar nos mesmos lugares\n' +
+          'e ocupações; o entregar-se às tarefas habituais logo após os acessos de dor de\n' +
+          'cabeça, refeito e em pleno vigor; o não ter muitos segredos, mas o menos possível e\n' +
+          'o mais raramente, e isso apenas em questões administrativas; a prudência e\n' +
+          'comedimento, tanto na celebração de festividades como na construção de obras, na\n' +
+          'liberalidade oficial e atos desse gênero, como homem que visava àquilo que era\n' +
+          'mister fazer e não à glória advinda das realizações; o não tomar banho em hora\n' +
+          'imprópria, não edificar apenas por gosto, não se preocupar com requintes à mesa,\n' +
+          'nem com o pano e cores da roupa, ou com os dotes físicos dos servos; a ordem\n' +
+          'dada em Lório que recolheu a maior parte das alfaias<sup><a href="#footnotes">14</a></sup>' +
+          ' da residência da beira-mar e\n' +
+          'das de Lanúvio; o modo como despachou o pedido do publicano de Túsculo e seu\n' +
+          'procedimento em casos semelhantes; nenhum ato cruel, nem indecoroso, nem\n' +
+          'violento, nem azo a dizerem alguma vez <i>chegou a suar</i>, mas o cálculo minudencioso\n' +
+          'de tudo, como se o tempo sobrasse, sem confusão, com ordem, solidez e coerência.\n' +
+          'A ele se ajustaria o que de Sócrates se lembra: podia tanto abster-se como gozar\n' +
+          'daqueles bens que a maioria, se lhe faltam, debilita-se, se os tem, a eles se rende. A força e firmeza, bem como a continência num caso e no outro, são próprias de\n' +
+          'homem dotado de alma equilibrada e invencível, como ele o foi na moléstia que o\n' +
+          'levou.',
+        footnote: [
+          {
+            index: 13,
+            content: 'Trata-se do pai adotivo, Antonino Pio, sucessor de Adriano como imperador, de 138 a 161. Outro perfil seu se encontra no Livro VI, n.°\n' +
+              '30.'
+          },
+          {
+            index: 14,
+            content: 'O texto aqui não faz sentido; a tradução é conjetura. O sujeito da oração, stolê, roupa, não poderia acomodar-se com o predicado;\n' +
+              'supus, em seu lugar, entolê, ordem; o objeto, alfaias, também é conjetura. Fique anotado aqui, valendo para outras passagens igualmente\n' +
+              'obscuras, que o texto nos chegou deploravelmente eivado de lacunas e corruptelas por vezes indecifráveis.'
+          }
+        ]
+      },
+      {
+        text: '17. Dos deuses, o ter bons avós, bons pais, uma boa irmã, bons mestres,\n' +
+          'bons familiares, parentes, amigos quase todos bons; o não ter cometido faltas para\n' +
+          'com nenhum deles, apesar de ter um temperamento que poderia eventualmente\n' +
+          'induzir-me a alguma; foi graça dos deuses não ter ocorrido conjuntura que me\n' +
+          'viesse a pôr à prova; o não ter sido educado em casa da amásia de meu avô por\n' +
+          'muito tempo; o ter preservado minha juventude e não ter usado a virilidade antes\n' +
+          'do tempo, tendo-o, ademais, ultrapassado; o ter estado sob as ordens do soberano,\n' +
+          'meu pai, que havia de extirpar em mim toda presunção e fazer-me compreender\n' +
+          'que é possível viver na corte sem necessitar de guarda pessoal, nem de roupagens\n' +
+          'aparatosas, nem lampadários, nem estátuas e objetos desse gênero igualmente\n' +
+          'faustosos, mas limitando-se quase ao teor de um simples particular, sem por isso\n' +
+          'rebaixar-se nem desleixar o cumprimento dos deveres de imperador em relação aos\n' +
+          'interesses do Estado; o deparar um irmão capaz, por seu caráter, de incentivar-me\n' +
+          'no cuidado de mim próprio, encantando-me, ao mesmo tempo, com sua deferência\n' +
+          'e estima; não ter tido filhos estúpidos nem deformes; o não me haver avançado\n' +
+          'excessivamente na oratória, na poética e nas demais disciplinas em que me pudera,\n' +
+          'talvez, deter, caso sentisse que progredia sem esforço; o ter-me antecipado em\n' +
+          'conferir a meus aios dignidades a que pareciam aspirar, sem me fiar da esperança de\n' +
+          'fazê-lo mais tarde, pois ainda eram moços; o ter conhecido a Apolônio, Rústico e\n' +
+          'Máximo; o ter feito, com clareza e amiúde, a idéia do que é a vida segundo a\n' +
+          'natureza, e assim, no que depende dos deuses, de suas comunicações, assistência e\n' +
+          'inspiração, nada daí por diante impede que eu viva segundo a natureza e, das\n' +
+          'minhas deficiências nesse ideal, o culpado sou eu por não atentar nos avisos, para\n' +
+          'não dizer nas lições dos deuses; o ter meu físico resistido tão longamente à vida que\n' +
+          'levo; o não ter tido contato com Benedita nem com Teódoto e o ter-me curado\n' +
+          'também das paixões amorosas concebidas ao depois; nas minhas freqüentes\n' +
+          'irritações contra Rústico, nada mais ter feito que me houvesse de pesar; o haver\n' +
+          'morado comigo, ao menos em seus últimos anos de vida, minha mãe, que havia de\n' +
+          'morrer ainda jovem; nas ocasiões em que desejei acudir alguém em aperturas, ou\n' +
+          'que me pedia por alguma outra razão, o nunca me responderem que não havia\n' +
+          'recursos donde tirar; o não ocorrer a mim próprio igual precisão de pedir\n' +
+          'emprestado a outrem; o ser minha mulher<sup><a href="#footnotes">15</a></sup>' +
+          'o que é, tão obediente, tão afetuosa,\n' +
+          'tão simples; o dispor de aios proficientes para meus filhos; a inspiração, em sonhos,\n' +
+          'de remédios, sobretudo para não escarrar sangue e não ter vertigens, e como que\n' +
+          'um oráculo, em Caieta, a esse respeito; quando aspirei à Filosofia, o não ter\n' +
+          'deparado um sofista, nem me sentar a analisar autores ou silogismos, ou aplicar-me\n' +
+          'ao estudo dos fenômenos celestes. Tudo isso, com efeito, devo aos deuses\n' +
+          'protetores e à Fortuna.',
+        footnote: [
+          {
+            index: 15,
+            content: 'Faustina, filha de Antonino. Essa opinião não foi partilhada por alguns historiadores, quiçá malignos.'
+          }
+        ]
+      },
+      {
+        text: 'No país dos Quados, à margem do Grã<sup><a href="#footnotes">16</a></sup>.',
+        footnote: [
+          {
+            index: 16,
+            content: 'Povo germânico, que se havia sublevado, no território atualmente da Tchecoslováquia. Este primeiro livro, aparentemente, foi composto\n' +
+              'depois dos outros, servindo de introdução. As reflexões filosóficas começam realmente no segundo.'
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Eterna Mágoa',
+    author: 'Augusto dos Anjos',
+    section: 'Poema',
+    img: 'augustoAnjos',
+    imgIndex: '5',
+    titleURL: 'eterna-magoa',
+    authorURL: 'augusto-dos-anjos',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>O homem por sobre quem caiu a praga <br>' +
+          ' Da tristeza do Mundo, o homem que é triste <br>' +
+          ' Para todos os séculos existe <br>' +
+          'E nunca mais o seu pesar se apaga!',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br>Não crê em nada, pois, nada há que traga<br>' +
+          ' Consolo à Mágoa, a que só ele assiste. <br>' +
+          'Quer resistir, e quanto mais resiste <br>' +
+          'Mais se lhe aumenta e se lhe afunda a chaga.',
+        footnote: []
+      },
+      {
+        text: '<br>Sabe que sofre, mas o que não sabe<br>' +
+          ' É que essa mágoa infinda assim, não cabe<br>' +
+          ' Na sua vida, é que essa mágoa infinda',
+        footnote: []
+      },
+      {
+        text: '<br>Transpõe a vida do seu corpo inerme; <br>' +
+          'E quando esse homem se transforma em verme <br>' +
+          'É essa mágoa que o acompanha ainda!',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Imagens e Símbolos IV',
+    author: 'Mircea Eliade',
+    section: 'Simbolismo de Centro',
+    img: 'mirceaEliade',
+    imgIndex: '3',
+    titleURL: 'imagens-e-simbolos',
+    authorURL: 'mircea-eliade',
+    sectionURL: 'simbolismo-de-centro',
+    content: 'Voltemos  pois  à  imagem  das  três  regiões  cósmicas  ligadas,  num«Centro»  por  um  eixo.  É  sobretudo  nas  civilizações  palco-orientais  queencontramos esta imagem arquetípica. O nome dos santuários de Nippur,Larsa e Sippar eraDur-an-ki,«ligação entre o céu e a terra». Mas é aindana Babilónia que se faz a ligação entre a Terra e as regiões inferiores, poisa  cidade  fora  edificada  sobrebâb-apsi,a  «Porta  deapsû»,designandoapsû   as   águas   do   caos   antes  da   Criação.   Encontramos   esta   mesmatradição    entra    os    hebreus.    O    rochedo    de    Jerusalém    penetravaprofundamente nas águas subterrâneas(tehôm).Diz-se na Mishna que oTemplo   se   encontra   precisamente   em   cima   detehôm(equivalentehebraico deapsû).E, ainda como na Babilónia, havia a «porta deapsû»:orochedo do Templo de Jerusalém fechava a «boca dotehôm».Encontram-se   tradições   similares   no   mundo   indo-europeu.   Nos   Romanos,   porexemplo, omundusconstitui o ponto de encontro das regiões inferiores edo  mundo  terrestre.  O  templo  itálico  era  a  zonade  intersecção  dosmundos superior (divino), terrestre e subterrâneo (infernal; cf.Le Mythede l\'Eternel Retour,pp. 32sq.).',
+    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
+      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
+      'Portugal',
+    paragraphs: [
+      {
+        text: 'Voltemos pois à imagem das três regiões cósmicas ligadas, num\n' +
+          '«Centro» por um eixo. É sobretudo nas civilizações palco-orientais que\n' +
+          'encontramos esta imagem arquetípica. O nome dos santuários de Nippur,\n' +
+          'Larsa e Sippar era <i>Dur-an-ki</i>, «ligação entre o céu e a terra». Mas é ainda\n' +
+          'na Babilónia que se faz a ligação entre a Terra e as regiões inferiores, pois\n' +
+          'a cidade fora edificada sobre <i>bâb-apsi</i>, a «Porta de <i>apsû</i>», designando\n' +
+          'apsû as águas do caos antes da Criação. Encontramos esta mesma\n' +
+          'tradição entra os hebreus. O rochedo de Jerusalém penetrava\n' +
+          'profundamente nas águas subterrâneas (<i>tehôm</i>). Diz-se na Mishna que o\n' +
+          'Templo se encontra precisamente em cima de tehôm (equivalente\n' +
+          'hebraico de <i>apsû</i>). E, ainda como na Babilónia, havia a «porta de <i>apsû</i>»: o\n' +
+          'rochedo do Templo de Jerusalém fechava a «boca do <i>tehôm</i>». Encontramse\n' +
+          'tradições similares no mundo indo-europeu. Nos Romanos, por\n' +
+          'exemplo, o mundus constitui o ponto de encontro das regiões inferiores e\n' +
+          'do mundo terrestre. O templo itálico era a zona de intersecção dos\n' +
+          'mundos superior (divino), terrestre e subterrâneo (infernal; cf. <i>Le Mythe\n' +
+          'de l\'Eternel Retour, pp. 32 sq.</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'De fato, toda a cidade oriental se encontrava no centro do mundo.\n' +
+          'Babilónia era uma <i>Bâbilâni</i>, uma «porta dos deuses», pois era aí que os deuses desciam à terra. A capital do soberano chinês perfeito encontravase\n' +
+          'junto da Árvore miraculosa «<i>Mastro erguido</i>», <i>Kien-mou</i>, no ponto\n' +
+          'onde se entrecruzavam as três zonas cósmicas: Céu, Terra e Inferno. E\n' +
+          'poder-se-ia continuar a acumular exemplos indefinidamente. Todas estas\n' +
+          '\'cidades, templos ou palácios considerados como Centros do Mundo, não\n' +
+          'são mais do que réplicas infinitamente multiplicadas de uma imagem\n' +
+          'arcaica: a Montanha Cósmica, a Arvore do Mundo ou o Pilar central que\n' +
+          'sustém os níveis cósmicos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O símbolo de uma Montanha, de uma Árvore ou de um Pilar situados\n' +
+          'no Centro do Mundo, está extremamente difundido. Recordemos o\n' +
+          'Monte Meru da tradição índia, Haraberazaiti dos iranianos, Himingbjõr\n' +
+          'dos Germânicos, o «Monte dos Países» da tradição mesopotâmica, o\n' +
+          'Monte Thabor, na Palestina, (que poderia significar <i>tabbur</i> ou seja\n' +
+          '«umbigo da terra», o Gólgota que, para os cristãos, se encontra no centro\n' +
+          'do mundo, etc. (cf. <i>Traité, pp 321 sq.; Le Mythe de l\'Éternel Retour, pp. 30\n' +
+          'sq</i>.) Pelo fato de o território, a cidade, o templo ou o palácio real se\n' +
+          'encontrarem no «Centro do Mundo», isto é no cume da Montanha\n' +
+          'Cósmica, aqueles eram considerados como o lugar mais alto do mundo, o\n' +
+          'único que não fora submergido pelo dilúvio. «A terra de Israel não foi\n' +
+          'submergida pelo dilúvio», diz um texto rabínico. E, segundo a tradição\n' +
+          'islâmica, o lugar mais elevado da terra é a Kâ\'aba, porque «a estrela polar\n' +
+          'prova que ela se encontra na direcção do centro do Céu» (textos do\n' +
+          '<i>Mythe de l\'Éternel Retour, pp. 33</i>). O nome das torres e dos templos\n' +
+          'sagrados da Babilónia testemunha a sua assimilação à Montanha Cósmica,\n' +
+          'quer dizer ao Centro do Mundo: «Monte da Casa», «Casa do Monte de\n' +
+          'todas as terras», «Monte das tempestades», «Ligação entre o Céu e a\n' +
+          'Terra», etc. A <i>ziqqurar</i> era, a bem dizer, uma montanha cósmica, isto é,\n' +
+          'uma imagem simbólica do Cosmos: os sete andares representavam os\n' +
+          'sete céus planetários; subindo-os o padre atingia o topo do Universo. Este\n' +
+          'mesmo simbolismo está na base da construção do templo de Barabudur:\n' +
+          'este é edificado como uma montanha artificial. A sua ascensão equivale a\n' +
+          'uma viagem ao Centro do Mundo; ao atingir o terraço superior o\n' +
+          'peregrino realiza uma ruptura de nível; ele transcende o espaço profano e\n' +
+          'penetra numa «região pura». Estamos em presença de um «rito do centro» (textos em <i>Traité, pp. 323 sq.</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O topo da Montanha Cósmica não é apenas o ponto mais alto da\n' +
+          'Terra; ele é o umbigo da Terra, o ponto onde começou a criação. «O\n' +
+          'Santíssimo criou o mundo como um embrião», afirma um texto rabínico.\n' +
+          '«Tal como o embrião cresce a partir do umbigo, também Deus começou a\n' +
+          'criar o mundo pelo umbigo e daí ele expandiu-se em todas as direções.»\n' +
+          '«O mundo foi criado começando por Sião», diz um outro texto. O mesmo\n' +
+          'simbolismo aparece na Índia antiga: no <i>Rig Veda</i>, o Universo é concebido\n' +
+          'como adquirindo a sua extensão a partir de um ponto central (cf. <i>Traité,\n' +
+          'p. 324; Le Mythe, p. 36</i>).',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A criação do homem, réplica da cosmologia, teve semelhantemente\n' +
+          'lugar num ponto central, no Centro do Mundo. Segundo a tradição\n' +
+          'mesopotâmica, o homem foi feito no «umbigo da terra», no mesmo lugar\n' +
+          'onde se encontra também <i>Dur-an-ki</i>, o «laço entre o Céu e a Terra».\n' +
+          'Ohrmazd cria o homem primordial, Gajômard, no centro do Mundo. O\n' +
+          'Paraíso onde Adão foi criado a partir do barro encontra-se, bem\n' +
+          'entendido, no Centro do Cosmos. O Paraíso era o «umbigo da Terra», e,\n' +
+          'segundo uma tradição síria, ficava «numa montanha mais alta ido que\n' +
+          'todas as outras». De acordo com o livro sírio <i>A caverna dos Tesouros</i>,\n' +
+          'Adão foi criado no Centro da Terra, no próprio local onde devia erguer-se\n' +
+          'mais tarde a Cruz de Jesus. As mesmas tradições foram conservadas pelo\n' +
+          'judaismo. O apocalipse judaico e o midrash precisam que Adão foi criado\n' +
+          'em Jerusalém. Tendo Adão sido enterrado no mesmo local onde fora\n' +
+          'criado, ou seja no centro do mundo, sobre o Gólgota, também o sangue\n' +
+          'do Senhor o redimiu (ver <i>Traité, pp. 323 sq.; Le Mythe, pp. 32 sq.</i>). A\n' +
+          'variante mais difundida do simbolismo do Centro é a Árvore Cósmica que\n' +
+          'se encontra no meio do Universo e que sustenta, como um eixo, os três\n' +
+          'Mundos. A Índia de Veda, a China antiga, a mitologia germânica tal como\n' +
+          'as religiões «primitivas» conhecem, sob formas diferentes, esta Árvore\n' +
+          'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
+          'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
+          'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
+          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#footnotes">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
+          'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
+          'rituais que encontramos na história das religiões não passa de réplica, de\n' +
+          'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
+          'dizer, supõe-se que todas as árvores sagradas se encontram no Centro do\n' +
+          'Mundo e todas as árvores rituais ou postes, que se consagram antes ou\n' +
+          'durante qualquer cerimónia religiosa, são como que magicamente\n' +
+          'projetados no Centro doMundo. Contentemo-nos com alguns exemplos.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Cf. nosso Traité pp. 236 sq.; Le Chamanisme, pp. 244 sq.; sobre o simbolismo cristão\n' +
+              'da Cruz = Árvore Cósmica, ver H. de Lubac, Aspets da Boudhisme (Paris, 1951),\n' +
+              'pp. 61 sq.'
+          }
+        ]
+      },
+      {
+        text: 'Na índia védica o poste sacrificial (<i>yûpa</i>) é feito de uma árvore que é\n' +
+          'assimilada à Árvore Universal. Enquanto se abate, o padre sacrificador\n' +
+          'dirige-lhe estas palavras: «Com o teu cimo não rasgues o Céu, com o teu\n' +
+          'centro não firas a atmosfera...» Vê-se bem que nos encontramos aqui\n' +
+          'perante a Árvore do Mundo. Da madeira dessa árvore faz-se o poste\n' +
+          'sacrificial e este torna-se uma espécie de pilar cósmico: «Ergue-te, oh\n' +
+          'Senhor da floresta ao topo da Terral», assim invoca o <i>Rig Veda, III, 8, 3</i>.\n' +
+          '«Com o teu cimo suportas o Céu, com a tua parte média enches os ares,\n' +
+          'com o teu pé seguras a Terra», proclama o <i>Çatapatha Brâhmana, III, 7, 1,\n' +
+          '4</i>.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A instalação e a consagração do poste sacrificial constituem um rito\n' +
+          'do Centro. Assimilado à Árvore do Mundo o poste transforma-se por seu\n' +
+          'turno no eixo que liga as três regiões cósmicas. A comunicação entre o\n' +
+          'Céu e a Terra torna-se possível por meio deste pilar. E, de fato, o\n' +
+          'sacrificador sobe ao Céu, só ou com a mulher, neste poste transformado\n' +
+          'ritualmente no próprio Eixo do Mundo. Colocando uma escada, o\n' +
+          'sacrificador dirige-se à mulher: «Vem, subamos ao Céu!» «A mulher\n' +
+          'responde: subamos!» (<i>Çat. Br.</i>, V, 2, 1, 9). E começam a subir a escada. No\n' +
+          'topo e tocando o capitel, o sacrificador exclama: «Chegámos ao Céu!\n' +
+          '(<i>Taittiriya Samhitâ, Çat. Br.</i>, etc.). Ou, escalando os degraus do poste,\n' +
+          'estende as mãos (como uma ave estende as asas) e, chegado ao cimo\n' +
+          'exclama: «Atingi o Céu, os deuses: tornei-me imortal!» (<i>Taittiriya Samhitâ, 1, 7, 9</i>). «Na verdade, diz ainda o <i>Taittiriya Samhitâ</i> (VI, 6, 4, 2), o\n' +
+          'sacrificador faz uma escada e uma ponte para atingir o mundo celeste.»',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'O ponto ou a escada entre o Céu e a Terra eram possíveis porque se\n' +
+          'elevavam num Centro do Mundo. Exatamente como a escada vista em\n' +
+          'sonhos por Jacob e que tocava no Céu. E «os anjos de Deus subiam e\n' +
+          'desciam ao longo dessa escada» (Génesis, 28, 11 sq.). O rito índio faz\n' +
+          'também alusão à imortalidade que se obtém por se ter subido ao Céu.\n' +
+          'Como veremos dentro em pouco, uma quantidade de outras abordagens\n' +
+          'rituais de um Centro equivalem a uma conquista da imortalidade.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A assimilação da árvore ritual à Árvore Cósmica é ainda mais\n' +
+          'transparente no Xamanismo central e norte-asiático. A escalada desta\n' +
+          'árvore para o Xamã tártaro simboliza a sua ascensão ao Céu.\n' +
+          'Efetivamente fazem-se na árvore 7 ou 9 entalhes e subindo por eles o\n' +
+          'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
+          'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
+          'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
+          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#footnotes">2</a></sup>.',
+        footnote: [
+          {
+            index: 2,
+            content: 'Cf. materiais e bibliografia no nosso livro Le Chamanisme, pp. 171 sq.'
+          }
+        ]
+      },
+      {
+        text: 'A árvore xamânica é apenas uma réplica da Árvore do Mundo, que se\n' +
+          'eleva no meio do Universo e no cimo da qual se encontra o Deus Supremo\n' +
+          'ou o deus solarizado. Os 7 ou 9 entalhes na árvore Xamânica simbolizam\n' +
+          'os 7 ou 9 ramos da Árvore Cósmica, ou seja os 7 ou 9 céus. O xamã sentese,\n' +
+          'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
+          'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
+          'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
+          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#footnotes">3</a></sup>. É\n' +
+          'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
+          'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
+          'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
+          'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
+          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#footnotes">4</a></sup>. Estamos\n' +
+          'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
+          'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
+          'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
+          'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
+          'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
+          'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
+          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#footnotes">5</a></sup>.',
+        footnote: [
+          {
+            index: 3,
+            content: 'A. A. Popov, Tavgijcy. Materialy po etnografii avamskich i vedeevskich tavgicev\n' +
+              '(Moska-Leningrad, 1936), pp. 84 sq.; ver Le Chamanisme et les techniques\n' +
+              'archaiques de l\'extase, pp. 160 sq.'
+          },
+          {
+            index: 4,
+            content: 'Cf. E. Emsheimer, Schamanentrommel und Trommelbaum (Ethnos, vol. IV, 1946, pp. 166-181).'
+          },
+          {
+            index: 5,
+            content: 'A ascensão iniciática de uma árvore cerimonial encontra-se também no\n' +
+              'xamanismo indonésio, sul-americano (Araucan) e norte-americano (Pomo), cf.\n' +
+              'Le Chamanisme, pp. 122 sq., 125 sq.'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Não sei quantas almas tenho',
+    author: 'Fernando Pessoa',
+    section: 'Poema',
+    img: 'fernandoPessoa',
+    imgIndex: '9',
+    titleURL: 'nao-sei-quantas-almas-tenho',
+    authorURL: 'fernando-pessoa',
+    sectionURL: 'poema',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br> Não sei quantas almas tenho.' +
+          '<br>' +
+          'Cada momento mudei.' +
+          '<br>' +
+          'Continuamente me estranho.\n' +
+          '<br>' +
+          'Nunca me vi nem achei.\n' +
+          '<br>' +
+          'De tanto ser, só tenho alma.\n' +
+          '<br>' +
+          'Quem tem alma não tem calma.\n' +
+          '<br>' +
+          'Quem vê é só o que vê,\n' +
+          '<br>' +
+          'Quem sente não é quem é,\n' +
+          '<p>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<br> Atento ao que sou e vejo,\n' +
+          '<br>' +
+          'Torno-me eles e não eu.\n' +
+          '<br>' +
+          'Cada meu sonho ou desejo\n' +
+          '<br>' +
+          'É do que nasce e não meu.\n' +
+          '<br>' +
+          'Sou minha própria paisagem,\n' +
+          '<br>' +
+          'Assisto à minha passagem,\n' +
+          '<br>' +
+          'Diverso, móbil e só,\n' +
+          '<br>' +
+          'Não sei sentir-me onde estou.',
+        footnote: []
+      },
+      {
+        text: '<br> Por isso, alheio, vou lendo\n' +
+          '<br>' +
+          'Como páginas, meu ser\n' +
+          '<br>' +
+          'O que segue não prevendo,\n' +
+          '<br>' +
+          'O que passou a esquecer.\n' +
+          '<br>' +
+          'Noto à margem do que li\n' +
+          '<br>' +
+          'O que julguei que senti.\n' +
+          '<br>' +
+          'Releio e digo: «Fui eu?»\n' +
+          '<br>' +
+          'Deus sabe, porque o escreveu.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'A Ideia do Ezequiel Maia',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado3',
+    imgIndex: '6',
+    titleURL: 'a-ideia-do-ezequiel-maia',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'A idéia do Ezequiel Maia era achar um mecanismo que lhe permitisse rasgar o véu ou\n' +
+          'revestimento ilusório que dá o aspecto material às cousas. Ezequiel era idealista. Negava\n' +
+          'abertamente a existência dos corpos. Corpo era uma ilusão do espírito, necessária aos\n' +
+          'fins práticos da vida, mas despida da menor parcela de realidade. Em vão os amigos lhe\n' +
+          'ofereciam finas viandas, mulheres deleitosas, e lhe pediam que negasse, se podia, a\n' +
+          'realidade de tão excelentes cousas. Ele lastimava, comendo, a ilusão da comida;\n' +
+          'lastimava-se a si mesmo, quando tinha ante si os braços magníficos de uma senhora.\n' +
+          'Tudo concepção do espírito; nada era nada. Esse mesmo nome de Maia não o tomou ele,\n' +
+          'senão como um símbolo. Primitivamente, chamava-se Nóbrega; mas achou que os hindus\n' +
+          'celebram uma deusa, mãe das ilusões, a que dão o nome de Maia, e tanto bastou para\n' +
+          'que trocasse por ele o apelido de família.\n',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'A opinião dos amigos e parentes era que este homem tinha o juízo a juros naquele banco\n' +
+          'invisível, que nunca paga os juros, e, quando pode, guarda o capital. Parece que sim;\n' +
+          'parece também que ele não tocou de um salto o fundo do abismo, mas escorregando,\n' +
+          'indo de uma restauração da cabala para outra da astrologia, da astrologia à quiromancia,\n' +
+          'da quiromancia à charada, da charada ao espiritismo, do espiritismo ao niilismo idealista.\n' +
+          'Era inteligente e lido; formara-se em matemáticas, e os professores desta ciência diziam\n' +
+          'que ele a conhecia como gente.',
+        footnote: []
+      },
+      {
+        text: 'Depois de largo cogitar, achou Ezequiel um meio: abstrair-se pelo nariz. Consistia em\n' +
+          'fincar os olhos na extremidade do nariz, à maneira do faquir, embotando a sensibilidade\n' +
+          'ao ponto de perder toda a consciência do mundo exterior. Cairia então o véu ilusório das\n' +
+          'cousas; entrar-se-ia no mundo exclusivo dos espíritos. Dito e feito. Ezequiel metia-se em\n' +
+          'casa, sentava-se na poltrona, com as mãos espalmadas nos joelhos, e os olhos na ponta\n' +
+          'do nariz. Pela afirmação dele, a abstração operava-se em vinte minutos, e poderia fazerse\n' +
+          'mais cedo, se ele não tivesse o nariz tão extenso. A inconveniência de um nariz\n' +
+          'comprido é que o olhar, desde que transpusesse uma certa linha, exercia mais facilmente\n' +
+          'a miserável função ilusória. Vinte minutos, porém, era o prazo razoável de uma boa\n' +
+          'abstração. O Ezequiel ficava horas e horas, e às vezes dias e dias, sentado, sem se mexer, sem ver nem ouvir; e a família (um irmão e duas sobrinhas) preferia deixá-lo assim, a acordá-lo; não se cansaria, ao menos, na perpétua agitação do costume.',
+        footnote: []
+      },
+      {
+        text: '— Uma vez abstrato, dizia ele aos parentes e familiares, liberto-me da ilusão dos\n' +
+          'sentidos. A aparência da realidade extingue-se, como se não fosse mais do que um fumo\n' +
+          'sutil, evaporado pela substância das cousas. Não há então corpos; entesto com os\n' +
+          'espíritos, penetro-os, revolvo-os, congrego-me, transfundo-me neles. Não sonhaste a\n' +
+          'noite passada comigo, Micota?',
+        footnote: []
+      },
+      {
+        text: '— Sonhei, titio, mentia a sobrinha.',
+        footnote: []
+      },
+      {
+        text: '— Não era sonho; era eu mesmo que estava contigo; por sinal que me pedias as festas, e\n' +
+          'eu prometi-te um chapéu, um bonito chapéu enfeitado de plumas...',
+        footnote: []
+      },
+      {
+        text: '— Isso é verdade, acudia a sobrinha.',
+        footnote: []
+      },
+      {
+        text: '— Tudo verdade, Micota; mas a verdade única e verdadeira. Não há outra; não pode\n' +
+          'haver verdade contra verdade, assim como não há sol contra sol.',
+        footnote: []
+      },
+      {
+        text: 'As experiências do Ezequiel repetiram-se durante seis meses. Nos dous primeiros meses,\n' +
+          'eram simples viagens universais; percorria o globo e os planetas dentro de poucos\n' +
+          'minutos, aniquilava os séculos, abrangia tudo, absorvia tudo, difundia-se em tudo. Saciou\n' +
+          'assim a primeira sede da abstração. No terceiro mês, começou uma série de excursões\n' +
+          'analíticas. Visitou primeiramente o espírito do padeiro da esquina, de um barbeiro, de um\n' +
+          'coronel, de um magistrado, vizinhos da mesma rua; passou depois ao resto da paróquia,\n' +
+          'do distrito e da capital, e recolheu quantidade de observações interessantes. No quarto\n' +
+          'mês empreendeu um estudo que lhe comeu cinqüenta e seis dias: achar a filiação das\n' +
+          'idéias, e remontar à primeira idéia do homem. Escreveu sobre este assunto uma extensa\n' +
+          'memória, em que provou a todas as luzes que a primeira idéia do homem foi o círculo,\n' +
+          'não sendo o homem simbolicamente outra cousa: — um círculo lógico, se o\n' +
+          'considerarmos na pura condição espiritual; e se o tomarmos com o invólucro material, um\n' +
+          'círculo vicioso. E exemplificava. As crianças brincam com arcos, fazem rodas umas com\n' +
+          'as outras; os legisladores parlamentares sentam-se geralmente em círculo, e as\n' +
+          'constantes alterações do poder, que tanta gente condena, não são mais do que uma\n' +
+          'necessidade fisiológica e política de fazer circular os homens. Que são a infância e a\n' +
+          'decrepitude, senão as duas pontas ligadas deste círculo da vida? Tudo isso lardeado de\n' +
+          'trechos latinos, gregos e hebraicos, verdadeiro pesadelo, fruto indigesto de uma\n' +
+          'inteligência pervertida. No sexto mês...',
+        footnote: []
+      },
+      {
+        text: '— Ah! meus amigos, o sexto mês é que me trouxe um achado sublime, uma solução ao\n' +
+          'problema do senso moral. Para os não cansar; restrinjo-me ao exame comparativo que fiz\n' +
+          'em dous indivíduos da nossa rua, o Neves do nº 25, e o Delgado. Sabem que eles ainda\n' +
+          'são parentes.',
+        footnote: []
+      },
+      {
+        text: 'E aí começou o Ezequiel uma narração tão extraordinária, que os amigos não puderam\n' +
+          'ouvir sem algum interesse. Os dous vizinhos eram da mesma idade, mais ou menos,\n' +
+          'quarenta e tantos anos, casados, com filhos, sendo que o Neves liquidara o negócio\n' +
+          'desde algum tempo, e vivia das rendas, ao passo que o Delgado continuara o negócio, e\n' +
+          'justamente falira três semanas antes.',
+        footnote: []
+      },
+      {
+        text: '— Vocês lembram-se ter visto o Delgado entrar aqui em casa um dia muito triste?\n' +
+          'Ninguém se lembrava, mas todos disseram que sim.',
+        footnote: []
+      },
+      {
+        text: '— Desconfiei do negócio, continuou o Ezequiel, abstraí-me, e fui direito a ele. Achei-lhe a\n' +
+          'consciência agitada, gemendo, contorcendo-se; perguntei-lhe o que era, se tinha\n' +
+          'praticado alguma morte, e respondeu-me que não; não praticara morte nem roubo, mas\n' +
+          'espancara a mulher, metera-lhe as mãos na cara, sem motivo, por um assomo de cólera.\n' +
+          'Cólera passageira, disse-lhe, e uma vez que façam as pazes... — Estão feitas, acudiu ele;\n' +
+          'Zeferina perdoou-me tudo, chorando; ah! doutor, é uma santa mulher! — E então? — Mas\n' +
+          'não posso esquecer que lhe dei, não me perdôo isto; sei que foi na cegueira da raiva,\n' +
+          'mas não posso perdoar-me, não posso. E a consciência tornou a doer-lhe, como a\n' +
+          'princípio, inquieta, convulsa. Dá cá aquele livro, Micota.',
+        footnote: []
+      },
+      {
+        text: 'Micota trouxe-lhe o livro, um livro manuscrito, in folio, capa de couro escuro e lavrado. O\n' +
+          'Ezequiel abriu-o na página 140, onde o nome do Delgado estava escrito com esta nota:\n' +
+          '— "Este homem possui o senso moral". Escrevera a nota, logo depois daquele episódio; e\n' +
+          'todas as experiências futuras não vieram senão confirmar-lhe a primeira observação.',
+        footnote: []
+      },
+      {
+        text: '— Sim, ele tem o senso moral, continuou o Ezequiel. Vocês vão ver se me enganei. Dias\n' +
+          'depois, tendo-me abstraído, fui logo a ele, e achei-o na maior agitação. — Adivinho,\n' +
+          'disse-lhe; houve outra expansão muscular, outra correção... Não me respondeu nada; a\n' +
+          'consciência mordia-se toda, presa de um furor extraordinário. Como se apaziguasse de\n' +
+          'quando em quando, aproveitei os intervalos para teimar com ele. Disse-me então que\n' +
+          'jurara falso para salvar um amigo, ato de covardia e de impiedade. Para atenuá-lo,\n' +
+          'lembrava-se dos tormentos da véspera, da luta que sustentara antes de jazer a promessa\n' +
+          'de ir jurar falso; recordava também a amizade antiga ao interessado, os favores\n' +
+          'recebidos, uns de recomendação, outros de amparo, alguns de dinheiro; advertia na\n' +
+          'obrigação de retribuir os benefícios, na ridicularia de uma gratidão teórica, sentimental, e\n' +
+          'nada mais. Quando ele amontoava essas razões de justificação ou desculpa, é que a\n' +
+          'consciência parecia tranqüila; mas, de repente, todo o castelo voava a um piparote desta\n' +
+          'palavra: "Não devias ter jurado falso". E a consciência revolvia-se, frenética, desvairada,\n' +
+          'até que a própria fadiga lhe trazia algum descanso.',
+        footnote: []
+      },
+      {
+        text: 'Ezequiel referiu ainda outros casos. Contou que o Delgado, por sugestões de momento,\n' +
+          'faltara algumas vezes à verdade, e que, a cada mentira, a consciência raivosa dava\n' +
+          'sopapos em si mesma. Enfim, teve o desastre comercial, e faliu. O sócio, para abrandar a\n' +
+          'inclemência dos fados, propôs-lhe um arranjo de escrituração. Delgado recusou a pés\n' +
+          'juntos; era roubar os credores, não devia fazê-lo. Debalde o sócio lhe demonstrava que\n' +
+          'não era roubar os credores, mas resguardar a família, cousa diferente. Delgado abanou a\n' +
+          'cabeça. Não e não; preferia ficar pobre, miserável, mas honrado; onde houvesse um\n' +
+          'recanto de cortiço e um pedaço de carne-seca, podia viver. Demais, tinha braços. Vieram\n' +
+          'as lágrimas da mulher, que lhe não pediu nada mas trouxe as lágrimas e os filhos. Nem\n' +
+          'ao menos as crianças vieram chorando; não, senhor; vieram alegres, rindo, pulando\n' +
+          'muito, sublinhando assim a crueldade da fortuna. E o sócio, ardilosamente ao ouvido: —\n' +
+          'Ora vamos; veja você se é lícito trair a confiança destes inocentes. Veja se... Delgado\n' +
+          'afrouxou e cedeu.',
+        footnote: []
+      },
+      {
+        text: '— Não, nunca me há de esquecer o que então se passou naquela consciência, continuou\n' +
+          'o Ezequiel; era um tumulto, um clamor, uma convulsão diabólica, um ranger de dentes,\n' +
+          'uma cousa única. O Delgado não ficava quieto três minutos; ia de um lado para outro,\n' +
+          'atônito, fugindo a si mesmo. Não dormiu nada a primeira noite. De manhã saiu para andar\n' +
+          'à toa; pensou em matar-se; chegou a entrar em uma casa de armas, à Rua dos Ourives,\n' +
+          'para comprar um revólver, mas advertiu que não tinha dinheiro, e retirou-se. Quis deixarse\n' +
+          'esmagar por um carro. Quis enforcar-se com o lenço. Não pensava no código; por\n' +
+          'mais que o revolvesse, não achava lá a idéia da cadeia. Era o próprio delito que o\n' +
+          'atormentava. Ouvia vozes misteriosas que lhe davam o nome de falsário, de ladrão; e a\n' +
+          'consciência dizia-lhe que sim, que ele era um ladrão e um falsário. Às vezes pensava em\n' +
+          'comprar um bilhete de Espanha, tirar a sorte grande, convocar os credores, confessar\n' +
+          'tudo, e pagar-lhes integralmente, com juro, um juro alto, muito alto, para puni-lo do\n' +
+          'crime... Mas a consciência replicava logo que era um sofisma, que os credores seriam\n' +
+          'pagos, é verdade, mas só os credores. O ato ficava intacto. Queimasse ele os livros e\n' +
+          'dispersasse as cinzas ao vento, era a mesma cousa; o crime subsistia. Assim passou três\n' +
+          'noites, três noites cruéis, até que no quarto dia, de manhã, resolveu ir ter com o Neves e\n' +
+          'revelar-lhe tudo.',
+        footnote: []
+      },
+      {
+        text: '— Descanse, titio, disse-lhe uma das sobrinhas, assustada com o fulgor dos olhos do\n' +
+          'Ezequiel.',
+        footnote: []
+      },
+      {
+        text: 'Mas o Ezequiel respondeu que não estava cansado, e contaria o resto.',
+        footnote: []
+      },
+      {
+        text: 'O resto era estupendo. O Neves lia os jornais no terraço, quando o Delgado lhe apareceu.\n' +
+          'A fisionomia daquele era tão bondosa, a palavra com que o saudou — "Anda cá, Juca!"\n' +
+          'vinha tão impregnada da velha familiaridade, que o Delgado esmoreceu. Sentou-se ao pé\n' +
+          'dele, acanhado, sem força para lhe dizer nem lhe pedir nada, um conselho, ou, quando\n' +
+          'menos, uma consolação. Em que língua narraria o delito a um homem cuja vida era um\n' +
+          'modelo, cujo nome era um exemplo? Viveram juntos; sabia que a alma do Neves era\n' +
+          'como um céu imaculado, que só interrompia o azul para cravejá-lo de estrelas. Estas\n' +
+          'eram as boas palavras que ele costumava dizer aos amigos. Nenhuma ação que o\n' +
+          'desdourasse. Não espancara a mulher, não jurara falso, não emendara a escrituração,\n' +
+          'não mentiu, não enganou ninguém.',
+        footnote: []
+      },
+      {
+        text: '— Que tem você? perguntou o Neves.',
+        footnote: []
+      },
+      {
+        text: '— Vou contar-lhe uma cousa grave, explodiu o Delgado; peço-lhe desde já que me\n' +
+          'perdoe.',
+        footnote: []
+      },
+      {
+        text: 'Contou-lhe tudo. O Neves, que a princípio o ouvira com algum medo, por ele lhe ter\n' +
+          'pedido perdão, depressa respirou; mas não deixou de reprovar a imprudência do\n' +
+          'Delgado. Realmente, onde tinha ele a cabeça para brincar assim com a cadeia? Era\n' +
+          'negócio grave; urgia abafá-lo, e, em todo caso, estar alerta. E recordava-lhe o conceito\n' +
+          'em que sempre teve o tal sócio. — "Você defendia-o então; e aí tem a bela prenda. Um\n' +
+          'maluco!" O Delgado, que trazia consigo o remorso, sentiu incutir-se-lhe o terror; e, em vez\n' +
+          'de um remédio, levou duas doenças.',
+        footnote: []
+      },
+      {
+        text: '"Justos céus! exclamou consigo o Ezequiel, dar-se-á que este Neves não tenha o senso\n' +
+          'moral?"',
+        footnote: []
+      },
+      {
+        text: 'Não o deixou mais. Esquadrinhou-lhe a vida; talvez alguma ação do passado, alguma\n' +
+          'cousa... Nada; não achou nada. As reminiscências do Neves eram todas de uma vida\n' +
+          'regular, metódica, sem catástrofes, mas sem infrações. O Ezequiel estava atônito. Não\n' +
+          'podia conciliar tanta limpeza de costumes com a absoluta ausência de senso moral. A\n' +
+          'verdade, porém, é que o contraste existia. Ezequiel ainda advertiu na sutileza do\n' +
+          'fenômeno e na conveniência de verificá-lo bem. Dispôs-se a uma longa análise. Entrou a\n' +
+          'acompanhar o Neves a toda a parte, em casa, na rua, no teatro, acordado ou dormindo,\n' +
+          'de dia ou de noite.',
+        footnote: []
+      },
+      {
+        text: 'O resultado era sempre o mesmo. A notícia de uma atrocidade deixava-o interiormente\n' +
+          'impassível; a de uma indignidade também. Se assinava qualquer petição (e nunca\n' +
+          'recusou nenhuma) contra um ato impuro ou cruel, era por uma razão de conveniência\n' +
+          'pública, a mesma que o levava a pagar para a Escola Politécnica, embora não soubesse\n' +
+          'matemáticas. Gostava de ler romances e de ir ao teatro; mas não entendia certos lances\n' +
+          'e expressões, certos movimentos de indignação, que atribuía a excessos de estilo.\n' +
+          'Ezequiel não lhe perdia os sonhos, que eram, às vezes, extraordinários. Este, por\n' +
+          'exemplo: sonhou que herdara as riquezas de um nababo, forjando ele mesmo o\n' +
+          'testamento e matando o testador. De manhã, ainda na cama, recordou todas as\n' +
+          'peripécias do sonho, com os olhos no teto, e soltou um suspiro.',
+        footnote: []
+      },
+      {
+        text: 'Um dia, um fâmulo do Neves, andando na rua, viu cair uma carteira do bolso de um\n' +
+          'homem, que caminhava adiante dele, apanhou-a e guardou-a. De noite, porém, surgiu-lhe\n' +
+          'este caso de consciência: — se um caído era o mesmo que um achado. Referiu o negócio\n' +
+          'ao Neves, que lhe perguntou, antes de tudo, se o homem vira cair a carteira; sabendo que\n' +
+          'não, levantou os ombros. Mas, conquanto o fâmulo fosse grande amigo dele, o Neves\n' +
+          'arrependeu-se do gesto, e, no dia seguinte, comendou-lhe a entrega da carteira; eis as\n' +
+          'circunstâncias do caso. Indo de bond, o condutor esqueceu-se de lhe pedir a passagem;\n' +
+          'Neves, que sabia o valor do dinheiro, saboreou mentalmente esses duzentos réis caídos;\n' +
+          'mas advertiu que algum passageiro poderia ter notado a falta, e, ostensivamente, por\n' +
+          'cima da cabeça de outros, deu a moeda ao condutor. Uma idéia traz outra; Neves\n' +
+          'lembrou-se que alguém podia ter visto cair a carteira e apanhá-la o fâmulo; foi a este, e\n' +
+          'compeliu-o a anunciar o achado. "A consideração pública, Bernardo, disse ele, é a\n' +
+          'carteira que nunca se deve perder."',
+        footnote: []
+      },
+      {
+        text: 'Ezequiel notou que este adágio popular — ladrão que furta a ladrão tem cem anos de\n' +
+          'perdão — estava incrustado na consciência do Neves, e parecia até inventado por ele. Foi\n' +
+          'o único sentimento de horror ao crime, que lhe achou; mas, analisando-o, descobriu que\n' +
+          'não era senão um sentimento de desforra contra o segundo roubado, o aplauso do logro,\n' +
+          'uma consolação no prejuízo, um antegosto do castigo que deve receber todo aquele que\n' +
+          'mete a mão na algibeira dos outros.',
+        footnote: []
+      },
+      {
+        text: 'Realmente, um tal contraste era de ensandecer ao homem mais ajuizado do universo. O\n' +
+          'Ezequiel fez essa mesma reflexão aos amigos e parentes; acrescentou que jurara aos\n' +
+          'seus deuses achar a razão do contraste, ou suicidar-se. Sim, ou morreria, ou daria ao\n' +
+          'mundo civilizado a explicação de um fenômeno tão estupendo como a contradição da\n' +
+          'consciência do Neves com as suas ações exteriores... Enquanto ele falava assim, os\n' +
+          'olhos chamejavam muito. Micota, a um sinal do pai, foi buscar à janela uma das\n' +
+          'quartinhas d’água, que ali estavam ao fresco, e trouxe-a a Ezequiel. Profundo Ezequiel!\n' +
+          'tudo entendeu, mas aceitou a água, bebeu dous ou três goles, e sorriu para a sobrinha. E\n' +
+          'continuou dizendo que sim, senhor, que acharia a razão, que a formularia em um livro de\n' +
+          'trezentas páginas...',
+        footnote: []
+      },
+      {
+        text: '— Trezentas páginas, estão ouvindo? Um livro grosso assim...',
+        footnote: []
+      },
+      {
+        text: 'E estendia três dedos. Depois descreveu o livro. Trezentas páginas, com estampas, uma\n' +
+          'fotografia da consciência do Neves e outra das suas ações. Jurava que ia mandar o livro\n' +
+          'a todas as academias do universo, com esta conclusão em forma de epígrafe: "Há\n' +
+          'virtualmente um pequeno número de gatunos, que nunca furtaram um par de sapatos".',
+        footnote: []
+      },
+      {
+        text: '— Coitado! diziam os amigos descendo as escadas. Um homem de tanto talento!',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'A Metamorfose',
     author: 'Franz Kafka',
     section: 'Capítulo I',
@@ -8342,2692 +11753,6 @@ export default [
     ]
   },
   {
-    title: 'O Colocador de Pronomes',
-    author: 'Monteiro Lobato',
-    section: 'Conto',
-    img: 'monteiroLobato',
-    imgIndex: '10',
-    titleURL: 'o-colocador-de-pronomes',
-    authorURL: 'monteiro-lobato',
-    sectionURL: 'conto',
-    content: '',
-    disclaimer: 'Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto',
-    paragraphs: [
-      {
-        text: 'Aldrovando Cantagalo veio ao mundo em virtude dum erro de gramática.\n',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'Durante sessenta anos de vida terrena pererecou como um peru em cima da gramática.\n',
-        footnote: []
-      },
-      {
-        text: 'E morreu, afinal, vítima dum novo erro de gramática.',
-        footnote: []
-      },
-      {
-        text: 'Martir da gramática, fique este documento da sua vida como pedra angular para uma futura e bem merecida canonização.',
-        footnote: []
-      },
-      {
-        text: 'Havia em Itaoca um pobre moço que definhava de tédio no fundo de um cartório. Escrevente. Vinte e três anos. Magro. Ar um tanto palerma. Ledor de versos lacrimogêneos e pai duns acrósticos dados à luz no “Itaoquense”, com bastante sucesso.',
-        footnote: []
-      },
-      {
-        text: 'Vivia em paz com as suas certidões quando o frechou venenosa seta de Cupido. Objeto amado: a filha mais moça do coronel Triburtino, o qual tinha duas, essa Laurinha, do escrevente, então nos dezessete, e a do Carmo, encalhe da família, vesga, madurota, histérica, manca da perna esquerda e um tanto aluada.\n',
-        footnote: []
-      },
-      {
-        text: 'Triburtino não era homem de brincadeira. Esguelara um vereador oposicionista em plena sessão da câmara e desd’aí se transformou no tutú da terra. Toda gente lhe tinha um vago medo; mas o amor, que é mais forte que a morte, não receia sobrecenhos enfarruscados nem tufos de cabelos no nariz.\n',
-        footnote: []
-      },
-      {
-        text: 'Ousou o escrevente namorar-lhe a filha, apesar da distância hierárquica que os separava. Namoro à moda velha, já se vê, pois que nesse tempo não existia a gostorura dos cinemas. Encontros na igreja, à missa, troca de olhares, diálogos de flores - o que havia de inocente e puro. Depois, roupa nova, ponta de lenço de seda a entremostrar-se no bolsinho de cima e medição de passos na rua d’Ela, nos dia de folga. Depois, a serenata fatal à esquina, com o\n',
-        footnote: []
-      },
-      {
-        text: 'Acorda, donzela...\n',
-        footnote: []
-      },
-      {
-        text: 'Sapecado a medo num velho pinho de empréstimo. Depois, bilhetinho perfumado.\n',
-        footnote: []
-      },
-      {
-        text: 'Aqui se estrepou...\n',
-        footnote: []
-      },
-      {
-        text: 'Escrevera nesse bilhetinho, entretanto, apenas quatro palavras, afora pontos exclamativos e reticências:\n',
-        footnote: []
-      },
-      {
-        text: 'Anjo adorado!\n',
-        footnote: []
-      },
-      {
-        text: 'Amo-lhe!',
-        footnote: []
-      },
-      {
-        text: 'Para abrir o jogo bastava esse movimento de peão. Ora, aconteceu que o pai do anjo apanhou o bilhetinho celestial e, depois de três dias de sobrecenho carregado, mandou chamá-lo à sua presença, com disfarce de pretexto - para umas certidõesinhas, explicou.\n',
-        footnote: []
-      },
-      {
-        text: 'Apesar disso o moço veio um tanto ressabiado, com a pulga atrás da orelha.\n',
-        footnote: []
-      },
-      {
-        text: 'Não lhe erravam os pressentimentos. Mas o pilhou portas aquém, o coronel trancou o escritório, fechou a carranca e disse:\n',
-        footnote: []
-      },
-      {
-        text: '- A família Triburtino de Mendonça é a mais honrada desta terra, e eu, seu chefe natural, não permitirei nunca - nunca, ouviu? - que contra ela se cometa o menor deslize.\n',
-        footnote: []
-      },
-      {
-        text: 'Parou. Abriu uma gaveta. Tirou de dentro o bilhetinho cor de rosa, desdobrou-o\n',
-        footnote: []
-      },
-      {
-        text: '- É sua esta peça de flagrante delito?\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente, a tremer, balbuciou medrosa confirmação.\n',
-        footnote: []
-      },
-      {
-        text: '- Muito bem! Continuou o coronel em tom mais sereno. Ama, então, minha filha e tem a audácia de o declarar... Pois agora...\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente, por instinto, ergueu o braço para defender a cabeça e relanceou os olhos para a rua, sondando uma retirada estratégica.\n',
-        footnote: []
-      },
-      {
-        text: '- ... é casar! Concluiu de improviso o vingativo pai.\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente ressuscitou. Abriu os olhos e a boca, num pasmo. Depois, tornando a si, comoveu-se e com lágrimas nos olhos disse, gaguejante:\n',
-        footnote: []
-      },
-      {
-        text: '- Beijo-lhe as mãos, coronel! Nunca imaginei tanta generosidade em peito humano! Agora vejo com que injustiça o julgam aí fora!...\n',
-        footnote: []
-      },
-      {
-        text: 'Velhacamente o velho cortou-lhe o fio das expansões.\n',
-        footnote: []
-      },
-      {
-        text: '- Nada de frases, moço, vamos ao que serve: declaro-o solenemente noivo de minha filha!\n',
-        footnote: []
-      },
-      {
-        text: 'E voltando-se para dentro, gritou:\n',
-        footnote: []
-      },
-      {
-        text: '- Do Carmo! Venha abraçar o teu noivo!\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente piscou seis vezes e, enchendo-se de coragem, corrigiu o erro.\n',
-        footnote: []
-      },
-      {
-        text: '- Laurinha, quer o coronel dizer...\n',
-        footnote: []
-      },
-      {
-        text: 'O velho fechou de novo a carranca.\n',
-        footnote: []
-      },
-      {
-        text: '- Sei onde trago o nariz, moço. Vassuncê mandou este bilhete à Laurinha dizendo que ama-“lhe”. Se amasse a ela deveria dizer amo-“te”. Dizendo “amo-lhe” declara que ama a uma terceira pessoa, a qual não pode ser senão a Maria do Carmo. Salvo se declara amor à minha mulher...\n',
-        footnote: []
-      },
-      {
-        text: '- Oh, coronel...\n',
-        footnote: []
-      },
-      {
-        text: '- ...ou a preta Luzia, cozinheira. Escolha!\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente, vencido, derrubou a cabeça com uma lágrima a escorrer rumo à asa do nariz. Silenciaram ambos, em pausa de tragédia. Por fim o coronel, batendo-lhe no ombro paternalmente, repetiu a boa lição da gramática matrimonial.\n',
-        footnote: []
-      },
-      {
-        text: '- Os pronomes, como sabe, são três: da primeira pessoa - quem fala, e neste caso vassuncê; da Segunda pessoa - a quem fala, e neste caso Laurinha; da terceira pessoa - de quem se fala, e neste caso do Carmo, minha mulher ou a preta. Escolha!\n',
-        footnote: []
-      },
-      {
-        text: 'Não havia fuga possível.\n',
-        footnote: []
-      },
-      {
-        text: 'O escrevente ergueu os olhos e viu do Carmo que entrava, muito lampeira da vida, torcendo acanhada a ponta do avental. Viu também sobre a secretária uma garrucha com espoleta nova ao alcance do maquiavélico pai, submeteu-se e abraçou a urucaca, enquanto o velho, estendendo as mãos, dizia teatralmente:\n',
-        footnote: []
-      },
-      {
-        text: '- Deus vos abençoe, meus filhos!\n',
-        footnote: []
-      },
-      {
-        text: 'No mês seguinte, e onze meses depois vagia nas mãos da parteira o futuro professor Aldrovando, o conspícuo sabedor de língua que durante cinqüenta anos a fio coçaria na gramática a sua incurável sarna filológica.\n',
-        footnote: []
-      },
-      {
-        text: 'Até aos dez anos não revelou Aldrovando pinta nenhuma. Menino vulgar, tossiu a coqueluche em tempo próprio, teve o sarampo da praxe, mas a cachumba e a catapora. Mais tarde, no colégio, enquanto os outros enchiam as horas de estudo com invenções de matar o tempo - empalamento de moscas e moidelas das respectivas cabecinhas entre duas folhas de papel, coisa de ver o desenho que saía - Aldrovando apalpava com erótica emoção a gramática de Augusto Freire da Silva. Era o latejar do furúnculo filológico que o determinaria na vida, para matá-lo, afinal...\n',
-        footnote: []
-      },
-      {
-        text: 'Deixemo-lo, porém, evoluir e tomemo-lo quando nos serve, aos 40 anos, já a descer o morro, arcado ao peso da ciência e combalido de rins. Lá está ele em seu gabinete de trabalho, fossando à luza dum lampião os pronomes de Filinto Elísio. Corcovado, magro, seco, óculos de latão no nariz, careca, celibatário impenitente, dez horas de aulas por dia, duzentos mil réis por mês e o rim volta e meia a fazer-se lembrado.\n',
-        footnote: []
-      },
-      {
-        text: 'Já leu tudo. Sua vida foi sempre o mesmo poento idílio com as veneráveis costaneiras onde cabeceiam os clássicos lusitanos. Versou-os um por um com mão diurna e noturna. Sabe-os de cór, conhece-os pela morrinha, distingue pelo faro uma séca de Lucena duma esfalfa de Rodrigues Lobo. Digeriu todas as patranhas de Fernão Mendes Pinto. Obstruiu-se da broa encruada de Fr. Pantaleão do Aveiro. Na idade em que os rapazes correm atrás das raparigas, Aldrovando escabichava belchiores na pista dos mais esquecidos mestres da boa arte de maçar. Nunca dormiu entre braços de mulher. A mulher e o amor - mundo, diabo e carne eram para ele os alfarrábios freiráticos do quinhentismo, em cuja soporosa verborréia espapaçava os instintos lerdos, como porco em lameiro.\n',
-        footnote: []
-      },
-      {
-        text: 'Em certa época viveu três anos acampado em Vieria. Depois vagabundeou, como um Robinson, pelas florestas de Bernardes.\n',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando nada sabia do mundo atual. Desprezava a natureza, negava o presente. Passarinho conhecia um só: o rouxinol de Bernadim Ribeiro. E se acaso o sabiá de Gonçalves Dias vinha citar “pomos de Hesperides” na laranjeira do seu quintal, Aldrovando esfogueteava-o com apostrofes:\n',
-        footnote: []
-      },
-      {
-        text: '- Salta fora, regionalismo de má sonância!\n',
-        footnote: []
-      },
-      {
-        text: 'A língua lusa era-lhe um tabu sagrado que atingira a perfeição com Fr. Luiz de Sousa, e daí para cá, salvo lucilações esporádicas, vinha chafurdando no ingranzéu barbaresco.\n',
-        footnote: []
-      },
-      {
-        text: '- A ingresia d’hoje, declamava ele, está para a Língua, como o cadáver em putrefação está para o corpo vivo.\n',
-        footnote: []
-      },
-      {
-        text: 'E suspirava, condoído dos nossos destinos:\n',
-        footnote: []
-      },
-      {
-        text: '- Povo sem língua!... Não me sorri o futuro de Vera-Cruz...\n',
-        footnote: []
-      },
-      {
-        text: 'E não lhe objetassem que a língua é organismo vivo e que a temos a evoluir na boca do povo.\n',
-        footnote: []
-      },
-      {
-        text: '- Língua? Chama você língua à garabulha bordalenga que estampam periódicos? Cá está um desses galicígrafos. Deletreemo-lo ao acaso.\n',
-        footnote: []
-      },
-      {
-        text: 'E, baixando as cangalhas, lia:\n',
-        footnote: []
-      },
-      {
-        text: '- Teve lugar ontem... É língua esta espurcícia negral? Ó meu seráfico Frei Luiz, como te conspurcam o divino idioma estes sarrafaçais da moxinifada!\n',
-        footnote: []
-      },
-      {
-        text: '- ...no Trianon... Por que, Trianon? Por que este perene barbarizar com alienígenos arrevesos? Tão bem ficava - a Benfica, ou, se querem neologismo de bom cunho o Logratório...Tarelos é que são, tarelos!\n',
-        footnote: []
-      },
-      {
-        text: 'E suspirava deveras compungido.\n',
-        footnote: []
-      },
-      {
-        text: '- Inútil prosseguir. A folha inteira cacografa-se por este teor. Aí! Onde param os boas letras d’antanho? Fez-se peru o níveo cisne. Ninguém atende à lei suma - Horácio! Impera o desprimor, e o mau gosto vige como suprema regra. A gálica intrujice é maré sem vazante. Quando penetro num livreiro o coração se me confrange ante o pélago de óperas barbarescas que nos vertem cá mercadores de má morte. E é de notar, outrossim, que a elas se vão as preferências do vulgacho. Muito não faz que vi com estes olhos um gentil mancebo preferir uma sordície de Oitavo Mirbelo, Canhenho duma dama de servir, (1) creio, à... advinhe ao que, amigo? A Carta de Guia do meu divino Francisco Manoel!...\n',
-        footnote: []
-      },
-      {
-        text: '- Mas a evolução...\n',
-        footnote: []
-      },
-      {
-        text: '- Basta. Conheço às sobejas a escolástica da época, a “evolução” darwinica, os vocábulos macacos - pitecofonemas que “evolveram”, perderam o pelo e se vestem hoje à moda de França, com vidro no olho. Por amor a Frei Luiz, que ali daquela costaneira escandalizado nos ouve, não remanche o amigo na esquipática sesquipedalice.\n',
-        footnote: []
-      },
-      {
-        text: 'Um biógrafo ao molde clássico separaria a vida de Aldrovando em duas fases distingas: a estática, em que apenas acumulou ciência, e a dinâmica, em que, transfeito em apóstolo, veio a campo com todas as armas para contrabater o monstro da corrupção.\n',
-        footnote: []
-      },
-      {
-        text: 'Abriu campanha com memorável ofício ao congresso, pedindo leis repressivas contra os ácaros do idioma.\n',
-        footnote: []
-      },
-      {
-        text: '- “Leis, senhores, leis de Dracão, que diques sejam, e fossados, e alcaçares de granito prepostos à defensão do idioma. Mister sendo, a forca se restaure, que mais o baraço merece quem conspurca o sacro patrimônio da sã vernaculidade, que quem ao semelhante a vida tira. Vêde, senhores, os pronomes, em que lazeira jazem...',
-        footnote: []
-      },
-      {
-        text: 'Os pronomes, aí! Eram a tortura permanente do professor Aldrovando. Doía-lhe como punhalada vê-los por aí pré ou pospostos contra-regras elementares do dizer castiço. E sua representação alargou-se nesse pormenor, flagelante, concitando os pais da pátria à criação dum Santo Ofício gramatical.\n',
-        footnote: []
-      },
-      {
-        text: 'Os ignaros congressistas, porém, riram-se da memória, e grandemente piaram sobre Aldrovando as mais cruéis chalaças.\n',
-        footnote: []
-      },
-      {
-        text: '- Quer que instituamos patíbulo para os maus colocadores de pronomes! Isto seria auto-condenar-nos à morte! Tinha graça!',
-        footnote: []
-      },
-      {
-        text: 'Também lhe foi à pele a imprensa, com pilhérias soezes. E depois, o público. Ninguém alcançara a nobreza do seu gesto, e Aldrovando, com a mortificação n’alma, teve que mudar de rumo. Planeou recorrer ao púlpito dos jornais. Para isso mister foi, antes de nada, vencer o seu velho engulho pelos “galicígrafos de papel e graxa”. Transigiu e, breve, desses “pulmões da pública opinião” apostrofou o país com o verbo tonante de Ezequiel. Encheu colunas e colunas de objurgatórias ultra violentas, escritas no mais estreme vernáculo.\n',
-        footnote: []
-      },
-      {
-        text: 'Mas não foi entendido. Raro leitor metia os dentes naqueles intermináveis períodos engrenados à moda de Lucena; e ao cabo da aspérrima campanha viu que pregara em pleno deserto. Leram-no apenas a meia dúzia de Aldrovandos que vegetam sempre em toda parte, como notas rezinguentas da sinfonia universal.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'A massa dos leitores, entretanto, essa permaneceu alheia aos flamívomos pelouros da sua colubrina sem raia. E por fim os “periódicos” fecharam-lhe a porta no nariz, alegando falta de espaço e coisas.\n',
-        footnote: []
-      },
-      {
-        text: '- Espaço não há para as sãs idéias, objurgou o enxotado, mas sobeja, e pressuroso, para quanto recende à podriqueira!... Gomorra! Sodoma! Fogos do céu virão um dia alimpar-vos a gafa!... exclamou, profético, sacudindo à soleira da redação o pó das cambaias botinas de elástico.\n',
-        footnote: []
-      },
-      {
-        text: 'Tentou em seguida ação mais direta, abrindo consultório gramatical.\n',
-        footnote: []
-      },
-      {
-        text: '- Têm-nos os físicos (queria dizer médicos), os doutores em leis, os charlatãs de toda espécie. Abra-se um para a medicação da grande enferma, a língua. Gratuito, já se vê, que me não move amor de bens terrenos.\n',
-        footnote: []
-      },
-      {
-        text: 'Falhou a nova tentativa. Apenas moscas vagabundas vinham esvoejar na salinha modesta do apóstolo. Criatura humana nem uma só lá apareceu afim de remendar-se filologicamente.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Ele, todavia, não esmoreceu.\n',
-        footnote: []
-      },
-      {
-        text: '- Experimentemos processo outro, mais suasório.\n',
-        footnote: []
-      },
-      {
-        text: 'E anunciou a montagem da “Agência de Colocação de Pronômes e Reparos Estilísticos”.\n',
-        footnote: []
-      },
-      {
-        text: 'Quem tivesse um autógrafo a rever, um memorial a expungir de cincas, um calhamaço a compor-se com os “afeites” do lídimo vernáculo, fosse lá que, sem remuneração nenhuma, nele se faria obra limpa e escorreita.\n',
-        footnote: []
-      },
-      {
-        text: 'Era boa a idéia, e logo vieram os primeiros originais necessitados de ortopedia, sonetos a consertar pés de verso, ofícios ao governo pedindo concessões, cartas de amor.\n',
-        footnote: []
-      },
-      {
-        text: 'Tais, porém, eram as reformas que nos doentes operava Aldrovando, que os autores não mais reconheciam suas próprias obras. Um dos clientes chegou a reclamar.\n',
-        footnote: []
-      },
-      {
-        text: '- Professor, v.s. enganou-se. Pedi limpa de enxada nos pronomes, mas não que me traduzisse a memória em latim...\n',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando empertigou-se.\n',
-        footnote: []
-      },
-      {
-        text: '- Pois, amigo, errou de porta. Seu caso é ali com o alveitar da esquina.\n',
-        footnote: []
-      },
-      {
-        text: 'Pouco durou a Agência, morta à míngua de clientes. Teimava o povo em permanecer empapado no chafurdeiro da corrupção...\n',
-        footnote: []
-      },
-      {
-        text: 'O rosário de insucessos, entretanto, em vez de desalentar exasperava o apóstolo.\n',
-        footnote: []
-      },
-      {
-        text: '- Hei-de influir na minha época. Aos tarelos hei de vencer. Fogem-me à férula os maráus de pau e corda? Ir-lhes-ei empós, fila-los-eis pela gorja... Salta rumor!\n',
-        footnote: []
-      },
-      {
-        text: 'E foi-lhes “empós”, Andou pelas ruas examinando dísticos e tabuletas com vícios de língua. Descoberta a “asnidade”, ia ter com o proprietário, contra ele desfechando os melhores argumentos catequistas.\n',
-        footnote: []
-      },
-      {
-        text: 'Foi assim com o ferreiro da esquina, em cujo portão de tenda uma tabuleta - “Ferra-se cavalos” - escoicinhava a santa gramática.\n',
-        footnote: []
-      },
-      {
-        text: '- Amigo, disse-lhe pachorrentamente Aldrovando, natural a mim me parece que erre, alarve que és. Se erram paredros, nesta época de ouro da corrupção...\n',
-        footnote: []
-      },
-      {
-        text: 'O ferreiro pôs de lado o malho e entreabriu a boca.\n',
-        footnote: []
-      },
-      {
-        text: '- Mas da boa sombra do teu focinho espero, continuou o apóstolo, que ouvidos me darás. Naquela tábua um dislate existe que seriamente à língua lusa ofende. Venho pedir-te, em nome do asseio gramatical, que o expunjas.\n',
-        footnote: []
-      },
-      {
-        text: '- ???\n',
-        footnote: []
-      },
-      {
-        text: '- Que reformes a tabuleta, digo.\n',
-        footnote: []
-      },
-      {
-        text: '- Reformar a tabuleta? Uma tabuleta nova, com a licença paga? Estará acaso rachada?\n',
-        footnote: []
-      },
-      {
-        text: '- Fisicamente, não. A racha é na sintaxe. Fogem ali os dizeres à sã gramaticalidade.\n',
-        footnote: []
-      },
-      {
-        text: 'O honesto ferreiro não entendia nada de nada.\n',
-        footnote: []
-      },
-      {
-        text: '- Macacos me lambam se estou entendendo o que v. s. diz...\n',
-        footnote: []
-      },
-      {
-        text: '- Digo que está a forma verbal com eiva grave. O “ferra-se” tem que cair no plural, pois que a forma é passiva e o sujeito é “cavalos”.\n',
-        footnote: []
-      },
-      {
-        text: 'O ferreiro abriu o resto da boca.\n',
-        footnote: []
-      },
-      {
-        text: '- O sujeito sendo “cavalos”, continuou o mestre, a forma verbal é “ferram-se” - “ferram-se cavalos!”\n',
-        footnote: []
-      },
-      {
-        text: '- Ahn! Respondeu o ferreiro, começo agora a compreender. Diz v. s. que ...\n',
-        footnote: []
-      },
-      {
-        text: '- ... que “ferra-se cavalos” é um solecismo horrendo e o certo é “ferram-se cavalos”.\n',
-        footnote: []
-      },
-      {
-        text: '- V. S. me perdoe, mas o sujeito que ferra os cavalos sou eu, e eu não sou plural. Aquele “se” da tabuleta refere-se cá a este seu criado. É como quem diz: Serafim ferra cavalos - Ferra Serafim cavalos. Para economizar tinta e tábua abreviaram o meu nome, e ficou como está: Ferra Se (rafim) cavalos. Isto me explicou o pintor, e entendi-o muito bem.\n',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando ergueu os olhos para o céu e suspirou.\n',
-        footnote: []
-      },
-      {
-        text: '- Ferras cavalos e bem merecias que te fizessem eles o mesmo!... Mas não discutamos. Ofereço-te dez mil réis pela admissão dum “m” ali...\n',
-        footnote: []
-      },
-      {
-        text: '- Se V. S. paga...\n',
-        footnote: []
-      },
-      {
-        text: 'Bem empregado dinheiro! A tabuleta surgiu no dia seguinte dessolecismada, perfeitamente de acordo com as boas regras da gramática. Era a primeira vitória obtida e todas as tardes Aldrovando passava por lá para gozar-se dela\n',
-        footnote: []
-      },
-      {
-        text: 'Por mal seu, porém, não durou muito o regalo. Coincidindo a entronização do “m” com maus negócios na oficina, o supersticioso ferreiro atribuiu a macaca à alteração dos dizeres e lá raspou o “m” do professor.\n',
-        footnote: []
-      },
-      {
-        text: 'A cara que Aldrovando fez quando no passeio desse dia deu com a vitória borrada! Entrou furioso pela oficina a dentro, e mascava uma apóstrofe de fulminar quando o ferreiro, às brutas, lhe barrou o passo.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: '- Chega de caraminholas, ó barata tonta! Quem manda aqui, no serviço e na língua, sou eu. E é ir andando antes que eu o ferre com bom par de ferros ingleses!\n',
-        footnote: []
-      },
-      {
-        text: 'O mártir da língua meteu a gramática entre as pernas e moscou-se.\n',
-        footnote: []
-      },
-      {
-        text: '- “Sancta simplicitas!” ouviram-no murmurar na rua, de rumo à casa, em busca das consolações seráficas de Fr. Heitor Pinto. Chegado que foi ao gabinete de trabalho, caiu de borco sobre as costaneiras venerandas e não mais conteve as lágrimas, chorou...\n',
-        footnote: []
-      },
-      {
-        text: 'O mundo estava perdido e os homens, sobre maus, eram impenitentes. Não havia desviá-los do ruim caminho, e ele, já velho, com o rim a rezingar, não se sentia com forças para a continuação da guerra.\n',
-        footnote: []
-      },
-      {
-        text: '- Não hei-de acabar, porém, antes de dar a prelo um grande livro onde compendie a muita ciência que hei acumulado.\n',
-        footnote: []
-      },
-      {
-        text: 'E Aldrovando empreendeu a realização de um vastíssimo programa de estudos filológicos. Encabeçaria a série um tratado sobre a colocação dos pronomes, ponto onde mais claudicava a gente de Gomorra.\n',
-        footnote: []
-      },
-      {
-        text: 'Fê-lo, e foi feliz nesse período de vida em que, alheio ao mundo, todo se entregou, dia e noite, à obra magnífica. Saiu trabuco volumoso, que daria três tomos de 500 páginas cada um, corpo miúdo. Que proventos não adviriam dali para a lusitanidade. Todos os casos resolvidos para sempre, todos os homens de boa vontade salvos da gafaria! O ponto fraco do brasileiro falar resolvido de vez! Maravilhosa coisa...\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Pronto o primeiro tomo - Do pronome Se - anunciou a obra pelos jornais, ficando à espera das chusmas de editores que viriam disputá-la à sua porta. E por uns dias o apóstolo sonhou as delícias da estrondosa vitória literária, acrescida de gordos proventos pecuniários.\n',
-        footnote: []
-      },
-      {
-        text: 'Calculava em oitenta contos o valor dos direitos autorais, que, generoso que era, cederia por cinqüenta. E cinqüenta contos para um velho celibatário como ele, sem família nem vícios, tinha a significação duma grande fortuna. Empatados em empréstimos hipotecários sempre eram seus quinhentos mil réis por mês de renda, a pingarem pelo resto da vida na gavetinha onde, até então, nunca entrara pelega maior de duzentos. Servia, servia!... E Aldrovando, contente, esfregava as mãos de ouvido alerta, preparando frases para receber o editor que vinha vindo...\n',
-        footnote: []
-      },
-      {
-        text: 'Que vinha vindo mas não veio, aí!... As semanas se passaram sem que nenhum representante dessa miserável fauna de judeus surgisse a chatinar o maravilhoso livro.\n',
-        footnote: []
-      },
-      {
-        text: '- Não me vêm a mim? Salta rumor! Pois me vou a eles!\n',
-        footnote: []
-      },
-      {
-        text: 'E saiu em via sacra, a correr todos os editores da cidade.\n',
-        footnote: []
-      },
-      {
-        text: 'Má gente! Nenhum lhe quis o livro sob condições nenhumas. Torciam o nariz, dizendo “Não é vendável”; ou: “Porque não faz antes uma cartilha infantil aprovada pelo governo?\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando, com a morte n’alma e o rim dia a dia mais derrancado, retesou-se nas últimas resistências.\n',
-        footnote: []
-      },
-      {
-        text: '- Fá-la-ei imprimir à minha custa! Ah, amigos! Aceito o cartel. Sei pelejar com todas as armas e irei até ao fim. Bofé!\n',
-        footnote: []
-      },
-      {
-        text: 'Para lugar era mister dinheiro e bem pouco do vilíssimo metal possuía na arca o alquebrado Aldrovando. Não importa! Faria dinheiro, venderia móveis, imitaria Bernardo de Pallissy, não morreria sem ter o gosto de acaçapar Gomorra sob o peso da sua ciência impressa. Editaria ele mesmo um por um todos os volumes da obra salvadora.\n',
-        footnote: []
-      },
-      {
-        text: 'Disse e fez.\n',
-        footnote: []
-      },
-      {
-        text: 'Passou esse período de vida alternando revisão de provas com padecimentos renais. Venceu. O livro compôs-se, magnificamente revisto, primoroso na linguagem como não existia igual.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Dedicou-o a Fr. Luiz de Souza:\n',
-        footnote: []
-      },
-      {
-        text: 'À memória daquele que me sabe as dores,\n',
-        footnote: []
-      },
-      {
-        text: 'O Autor.',
-        footnote: []
-      },
-      {
-        text: 'Mas não quis o destino que o já trêmulo Aldrovando colhesse os frutos de sua obra. Filho dum pronome impróprio, a má colocação doutro pronome lhe cortaria o fio da vida.\n',
-        footnote: []
-      },
-      {
-        text: 'Muito corretamente havia ele escrito na dedicatória: ...daquele que me sabe... e nem poderia escrever doutro modo um tão conspícuo colocador de pronomes. Maus fados intervieram, porém - até os fados conspiram contra a língua! - e por artimanha do diabo que os rege empastelou-se na oficina esta frase. Vai o tipógrafo e recompõe-na a seu modo ...d’aquele que sabe-me as dores... E assim saiu nos milheiros de cópias da avultada edição.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Mas não antecipemos.\n',
-        footnote: []
-      },
-      {
-        text: 'Pronta a obra e paga, ia Aldrovando recebê-la, enfim. Que glória! Construíra, finalmente, o pedestal da sua própria imortalidade, ao lado direito dos sumos cultores da língua.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'A grande idéia do livro, exposta no capítulo VI - Do método automático de bem colocar os pronomes - engenhosa aplicação duma regra mirífica por meio da qual até os burros de carroça poderiam zurrar com gramática, operaria como o “914? da sintaxe, limpando-a da avariose produzida pelo espiroqueta da pronominuria.\n',
-        footnote: []
-      },
-      {
-        text: 'A excelência dessa regra estava em possuir equivalentes químicos de uso na farmacopéia alopata, de modo que a um bom laboratório fácil lhe seria reduzí-la a ampolas para injeções hipodérmicas, ou a pílulas, pós ou poções para uso interno.\n',
-        footnote: []
-      },
-      {
-        text: 'E quem se injetasse ou engolisse uma pípula do futuro PRONOMINOL CANTAGALO, curar-se-ia para sempre do vício, colocando os pronomes instintivamente bem, tanto no falar como no escrever. Para algum caso de pronomorreia agudo, evidentemente incurável, haveria o recurso do PRONOMINOL Nº 2, onde entrava a estriquinina em dose suficiente para libertas o mundo do infame sujeito.\n',
-        footnote: []
-      },
-      {
-        text: 'Que glória! Aldrovando prelibava essas delícias todas quando lhe entrou casa a dentro a primeira carroçada de livros. Dois brutamontes de mangas arregaçadas empilharam-nos pelos cantos, em rumas que lá se iam; e concluso o serviço um deles pediu:\n',
-        footnote: []
-      },
-      {
-        text: '- Me dá um mata-bicho, patrão!\n',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando severizou o semblante ao ouvir aquele “Me” tão fora dos mancais, e tomando um exemplo da obra ofertou-a ao “doente”.\n',
-        footnote: []
-      },
-      {
-        text: '- Toma lá. O mau bicho que tens no sangue morrerá asinha às mãos deste vermífugo. Recomendo-te a leitura do capítulo sexto.\n',
-        footnote: []
-      },
-      {
-        text: 'O carroceiro não se fez rogar; saiu com o livro, dizendo ao companheiro:\n',
-        footnote: []
-      },
-      {
-        text: '- Isto no “sebo” sempre renderá cinco tostões. Já serve!\n',
-        footnote: []
-      },
-      {
-        text: 'Mal se sumiram, Aldrovando abancou-se à velha mesinha de trabalho e deu começo à tarefa de lançar dedicatórias num certo número de exemplares destinados à crítica. Abriu o primeiro, e estava já a escrever o nome de Rui Barbosa quando seus olhos deram com a horrenda cinca:\n',
-        footnote: []
-      },
-      {
-        text: '“daquele QUE SABE-ME as dores”.\n',
-        footnote: []
-      },
-      {
-        text: '- Deus do céu! Será possível?\n',
-        footnote: []
-      },
-      {
-        text: 'Era possível. Era fato. Naquele, como em todos os exemplares da edição, lá estava, no hediondo relevo da dedicatória a Fr. Luiz de Souza, o horripilantíssimo\n',
-        footnote: []
-      },
-      {
-        text: '- “que sabe-me”...\n',
-        footnote: []
-      },
-      {
-        text: 'Aldrovando não murmurou palavra. De olhos muito abertos, no rosto uma estranha marca de dor - dor gramatical inda não descrita nos livros de patologia - permaneceu imóvel uns momentos.\n',
-        footnote: []
-      },
-      {
-        text: 'Depois empalideceu. Levou as mãos ao abdômen e estorceu-se nas garras de repentina e violentíssima ânsia.\n',
-        footnote: []
-      },
-      {
-        text: 'Ergueu os olhos para Frei Luiz de Souza e murmurou:\n',
-        footnote: []
-      },
-      {
-        text: '- Luiz! Luiz! Lamma Sabachtani?!\n',
-        footnote: []
-      },
-      {
-        text: 'E morreu.\n',
-        footnote: []
-      },
-      {
-        text: 'De que não sabemos - nem importa ao caso. O que importa é proclamarmos aos quatro ventos que com Aldrovando morreu o primeiro santo da gramática, o mártir número um da Colocação dos Pronomes.\n' +
-          '',
-        footnote: []
-      },
-      {
-        text: 'Paz à sua alma.\n',
-        footnote: []
-      },
-      {
-        text: '(Ao todo, a obra de Aldrovando, incluindo tratados sobre circunflexo, vírgula, e psicologia do til, crase, pesava cerca de 4 arrobas, que renderam no sebo, 18 mil réis, vendidas a peso, a três tostões o quilo).\n',
-        footnote: []
-      },
-      {
-        text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">O Colocador de Pronomes</a></i>',
-        footnote: []
-      }
-    ]
-  },
-  {
-    title: 'A Carteira',
-    author: 'Machado de Assis',
-    section: 'Conto',
-    img: 'machado2',
-    imgIndex: '6',
-    titleURL: 'a-carteira',
-    authorURL: 'machado-de-assis',
-    sectionURL: 'conto',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '...De repente, Honório olhou para o chão e viu uma carteira.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'Abaixar-se, apanhá-la e guardá-la foi obra de alguns instantes. Ninguém o\n' +
-          'viu, salvo um homem que estava à porta de uma loja, e que, sem o conhecer, lhe\n' +
-          'disse rindo:',
-        footnote: []
-      },
-      {
-        text: '— Olhe, se não dá por ela; perdia-a de uma vez.',
-        footnote: []
-      },
-      {
-        text: '— É verdade, concordou Honório envergonhado.',
-        footnote: []
-      },
-      {
-        text: 'Para avaliar a oportunidade desta carteira, é preciso saber que Honório tem\n' +
-          'de pagar amanhã uma dívida, quatrocentos e tantos mil-réis, e a carteira trazia o\n' +
-          'bojo recheado. A dívida não parece grande para um homem da posição de Honório,\n' +
-          'que advoga; mas todas as quantias são grandes ou pequenas, segundo as\n' +
-          'circunstâncias, e as dele não podiam ser piores. Gastos de família excessivos, a\n' +
-          'princípio por servir a parentes, e depois por agradar à mulher, que vivia aborrecida\n' +
-          'da solidão; baile daqui, jantar dali, chapéus, leques, tanta cousa mais, que não havia\n' +
-          'remédio senão ir descontando o futuro.',
-        footnote: []
-      },
-      {
-        text: 'Endividou-se. Começou pelas contas de lojas e armazéns; passou aos\n' +
-          'empréstimos, duzentos a um, trezentos a outro, quinhentos a outro, e tudo a crescer,\n' +
-          'e os bailes a darem-se, e os jantares a comerem-se, um turbilhão perpétuo, uma\n' +
-          'voragem.',
-        footnote: []
-      },
-      {
-        text: '—Tu agora vais bem, não? dizia-lhe ultimamente o Gustavo C..., advogado e\n' +
-          'familiar da casa.',
-        footnote: []
-      },
-      {
-        text: '— Agora vou, mentiu o Honório.',
-        footnote: []
-      },
-      {
-        text: 'A verdade é que ia mal. Poucas causas, de pequena monta, e constituintes\n' +
-          'remissos; por desgraça perdera ultimamente um processo, com que fundara grandes\n' +
-          'esperanças. Não só recebeu pouco, mas até parece que ele lhe tirou alguma cousa\n' +
-          'à reputação jurídica; em todo caso, andavam mofinas nos jornais.',
-        footnote: []
-      },
-      {
-        text: 'D. Amélia não sabia nada; ele não contava nada à mulher, bons ou maus\n' +
-          'negócios. Não contava nada a ninguém. Fingia-se tão alegre como se nadasse em\n' +
-          'um mar de prosperidades. Quando o Gustavo, que ia todas as noites à casa dele,\n' +
-          'dizia uma ou duas pilhérias, ele respondia com três e quatro; e depois ia ouvir os\n' +
-          'trechos de música alemã, que D. Amélia tocava muito bem ao piano, e que o\n' +
-          'Gustavo escutava com indizível prazer, ou jogavam cartas, ou simplesmente\n' +
-          'falavam de política.',
-        footnote: []
-      },
-      {
-        text: 'Um dia, a mulher foi achá-lo dando muitos beijos à filha, criança de quatro\n' +
-          'anos, e viu-lhe os olhos molhados; ficou espantada, e perguntou-lhe o que era.',
-        footnote: []
-      },
-      {
-        text: '— Nada, nada.',
-        footnote: []
-      },
-      {
-        text: 'Compreende-se que era o medo do futuro e o horror da miséria.',
-        footnote: []
-      },
-      {
-        text: 'Mas as esperanças voltavam com facilidade. A idéia de que os dias\n' +
-          'melhores tinham de vir dava-lhe conforto para a luta. Estava com, trinta e quatro anos; era o princípio da carreira: todos os princípios são difíceis. E toca a trabalhar,\n' +
-          'a esperar, a gastar, pedir fiado ou: emprestado, para pagar mal, e a más horas.',
-        footnote: []
-      },
-      {
-        text: 'A dívida urgente de hoje são uns malditos quatrocentos e tantos mil-réis de\n' +
-          'carros. Nunca demorou tanto a conta, nem ela cresceu tanto, como agora; e, a rigor,\n' +
-          'o credor não lhe punha a faca aos peitos; mas disse-lhe hoje uma palavra azeda,\n' +
-          'com um gesto mau, e Honório quer pagar-lhe hoje mesmo. Eram cinco horas da\n' +
-          'tarde.',
-        footnote: []
-      },
-      {
-        text: 'Tinha-se lembrado de ir a um agiota, mas voltou sem ousar pedir nada. Ao\n' +
-          'enfiar pela Rua. da Assembléia é que viu a carteira no chão, apanhou-a, meteu no\n' +
-          'bolso, e foi andando.',
-        footnote: []
-      },
-      {
-        text: 'Durante os primeiros minutos, Honório não pensou nada; foi andando,\n' +
-          'andando, andando, até o Largo da Carioca. No Largo parou alguns instantes, —\n' +
-          'enfiou depois pela Rua da Carioca, mas voltou logo, e entrou na Rua Uruguaiana.\n' +
-          'Sem saber como, achou-se daí a pouco no Largo de S. Francisco de Paula; e ainda,\n' +
-          'sem saber como, entrou em um Café. Pediu alguma cousa e encostou-se à parede,\n' +
-          'olhando para fora. Tinha medo de abrir a carteira; podia não achar nada, apenas\n' +
-          'papéis e sem valor para ele. Ao mesmo tempo, e esta era a causa principal das\n' +
-          'reflexões, a consciência perguntava-lhe se podia utilizar-se do dinheiro que achasse.\n' +
-          'Não lhe perguntava com o ar de quem não sabe, mas antes com uma expressão\n' +
-          'irônica e de censura. Podia lançar mão do dinheiro, e ir pagar com ele a dívida?',
-        footnote: []
-      },
-      {
-        text: 'Eis o ponto. A consciência acabou por lhe dizer que não podia, que devia\n' +
-          'levar a carteira à polícia, ou anunciá-la; mas tão depressa acabava de lhe dizer isto,\n' +
-          'vinham os apuros da ocasião, e puxavam por ele, e convidavam-no a ir pagar a\n' +
-          'cocheira. Chegavam mesmo a dizer-lhe que, se fosse ele que a tivesse perdido,\n' +
-          'ninguém iria entregar-lha; insinuação que lhe deu ânimo.',
-        footnote: []
-      },
-      {
-        text: 'Tudo isso antes de abrir a carteira. Tirou-a do bolso, finalmente, mas com\n' +
-          'medo, quase às escondidas; abriu-a, e ficou trêmulo. Tinha dinheiro, muito dinheiro;\n' +
-          'não contou, mas viu duas notas de duzentos mil-réis, algumas de cinqüenta e vinte;\n' +
-          'calculou uns setecentos mil-réis ou mais; quando menos, seiscentos. Era a dívida\n' +
-          'paga; eram menos algumas despesas urgentes. Honório teve tentações de fechar os\n' +
-          'olhos, correr à cocheira, pagar, e, depois de paga a dívida, adeus; reconciliar-se-ia\n' +
-          'consigo. Fechou a carteira, e com medo de a perder, tornou a guardá-la.',
-        footnote: []
-      },
-      {
-        text: 'Mas daí a pouco tirou-a outra vez, e abriu-a, com vontade de contar o\n' +
-          'dinheiro. Contar para quê? era dele? Afinal venceu-se e contou: eram setecentos e\n' +
-          'trinta mil-réis. Honório teve um calafrio.',
-        footnote: []
-      },
-      {
-        text: 'Ninguém viu, ninguém soube; podia ser um lance da fortuna, a sua boa sorte,\n' +
-          'um anjo... Honório teve pena de não crer nos anjos...',
-        footnote: []
-      },
-      {
-        text: 'Mas por que não havia de crer neles? E voltava ao dinheiro, olhava,\n' +
-          'passava-o pelas mãos; depois, resolvia o contrário, não usar do achado, restituí-lo.\n' +
-          'Restituí-lo a quem? Tratou de ver se havia na carteira algum sinal.',
-        footnote: []
-      },
-      {
-        text: '"Se houver um nome, uma indicação qualquer, não posso utilizar-me do\n' +
-          'dinheiro," pensou ele.',
-        footnote: []
-      },
-      {
-        text: 'Esquadrinhou os bolsos da carteira. Achou cartas, que não abriu,\n' +
-          'bilhetinhos dobrados, que não leu, e por fim um cartão de visita; leu o nome; era do\n' +
-          'Gustavo. Mas então, a carteira?... Examinou-a por fora, e pareceu-lhe efetivamente\n' +
-          'do amigo. Voltou ao interior; achou mais dous cartões, mais três, mais cinco. Não\n' +
-          'havia duvidar; era dele.',
-        footnote: []
-      },
-      {
-        text: 'A descoberta entristeceu-o. Não podia ficar com o dinheiro, sem praticar um\n' +
-          'ato ilícito, e, naquele caso, doloroso ao seu coração porque era em dano de um\n' +
-          'amigo. Todo o castelo levantado esboroou-se como se fosse de cartas. Bebeu a última gota de café, sem reparar que estava frio. Saiu, e só então reparou que era\n' +
-          'quase noite. Caminhou para casa. Parece que a necessidade ainda lhe deu uns\n' +
-          'dous empurrões, mas ele resistiu.',
-        footnote: []
-      },
-      {
-        text: '"Paciência, disse ele consigo; verei amanhã o que posso fazer."',
-        footnote: []
-      },
-      {
-        text: 'Chegando a casa, já ali achou o Gustavo, um pouco preocupado e a própria\n' +
-          'D. Amélia o parecia também. Entrou rindo, e perguntou ao amigo se lhe faltava\n' +
-          'alguma cousa.',
-        footnote: []
-      },
-      {
-        text: '— Nada.',
-        footnote: []
-      },
-      {
-        text: '— Nada?',
-        footnote: []
-      },
-      {
-        text: '— Por quê?',
-        footnote: []
-      },
-      {
-        text: '— Mete a mão no bolso; não te falta nada?',
-        footnote: []
-      },
-      {
-        text: '— Falta-me a carteira, disse o Gustavo sem meter a mão no bolso.',
-        footnote: []
-      },
-      {
-        text: '— Sabes se alguém a achou?',
-        footnote: []
-      },
-      {
-        text: '— Achei-a eu, disse Honório entregando-lha.',
-        footnote: []
-      },
-      {
-        text: 'Gustavo pegou dela precipitadamente, e olhou desconfiado para o amigo.\n' +
-          'Esse olhar foi para Honório como um golpe de estilete; depois de tanta luta com a\n' +
-          'necessidade, era um triste prêmio. Sorriu amargamente; e, como o outro lhe\n' +
-          'perguntasse onde a achara, deu-lhe as explicações precisas.',
-        footnote: []
-      },
-      {
-        text: '— Mas conheceste-a?',
-        footnote: []
-      },
-      {
-        text: '— Não; achei os teus bilhetes de visita.',
-        footnote: []
-      },
-      {
-        text: 'Honório deu duas voltas, e foi mudar de toilette para o jantar.',
-        footnote: []
-      },
-      {
-        text: 'Então Gustavo sacou novamente a carteira, abriu-a, foi a um dos bolsos, tirou\n' +
-          'um dos bilhetinhos, que o outro não quis abrir nem ler, e estendeu-o a D. Amélia,\n' +
-          'que, ansiosa e trêmula, rasgou-o em trinta mil pedaços: era um bilhetinho de amor.',
-        footnote: []
-      }
-    ]
-  },
-  {
-    title: 'Da República',
-    author: 'Marco Túlio Cícero',
-    section: 'Excerto',
-    img: 'cicero',
-    imgIndex: '1',
-    titleURL: 'da-republica',
-    authorURL: 'marco-tulio-cicero',
-    sectionURL: 'excerto',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<center>LIVRO PRIMEIRO</center>',
-        footnote: []
-      },
-      {
-        text: 'I. Sem o amor pátrio, não teriam Duílio<sup><a href="#footnotes">1</a></sup>' +
-          ', Atílio<sup><a href="#footnotes">2</a></sup>' +
-          ' e Metelo<sup><a href="#footnotes">3</a></sup>' +
-          ' libertado Roma\n' +
-          'do terror de Cartago; sem ele, não teriam os dois Cipiões apagado o incêndio da\n' +
-          'segunda guerra púnica, e, quando seu incremento foi ainda maior, não o teria\n' +
-          'debilitado Quinto Máximo,<sup><a href="#footnotes">4</a></sup>\n' +
-          ' nem extinguido M. Marcelo,<sup><a href="#footnotes">5</a></sup>\n' +
-          ' nem impelido P.\n' +
-          'Africano<sup><a href="#footnotes">6</a></sup>\n' +
-          ' às próprias muralhas inimigas. Certamente Catão,<sup><a href="#footnotes">7</a></sup>\n' +
-          ' homem cuja família\n' +
-          'era desconhecida e de quem, não obstante, todos os que estudam as mesmas\n' +
-          'verdades invejam a glória que alcançou com sua virtude e trabalho, podia ser lícito\n' +
-          'deleitar-se ociosamente no saudável e próximo sítio de Túsculo<sup><a href="#footnotes">8</a></sup>\n' +
-          '. Mas o homem\n' +
-          'veemente prefere, embora seja chamado de louco e a necessidade não o obrigue,\n' +
-          'arrostar as tempestades públicas entre suas ondas, até sucumbir decrépito, a viver\n' +
-          'no ócio prazenteiro e na tranqüilidade. Deixo de nomear os inúmeros varões que\n' +
-          'salvaram a República, e passo em silêncio aqueles de quem se conserva recente memória, temeroso de suscitar queixas com a omissão de algum. Afirmarei, sim,\n' +
-          'que tamanha é a necessidade de virtude que o gênero humano experimenta por\n' +
-          'natureza, tão grande o amor à defesa da saúde comum, que essa força triunfa\n' +
-          'sempre sobre o ócio e a voluptuosidade.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Vitória naval sobre os cartagineses. Com efeito, munidos os navios romanos de pontes guarnecidas de arpões que se prendiam às galeras\n' +
-              'de Cartago, travou-se sobre o mar uma verdadeira batalha campal, saindo Roma vitoriosa. Para celebrar o triunfo de Duílio, ergue-se a\n' +
-              'famosa rostrata columna (coluna rostral)'
-          },
-          {
-            index: 2,
-            content: 'Atílio Regulo, tendo caído em poder dos cartagineses, foi por estes enviado a Roma, a fim de propor ao Senado uma troca de prisioneiros.\n' +
-              'Evitou, porém, que o Senado aceitasse a proposta e, malgrado as súplicas de sua mulher Márcia e dos seus filhos, voltou a Cartago e foi\n' +
-              'supliciado.'
-          },
-          {
-            index: 3,
-            content: 'Cônsul romano no ano 251 a.C, vencedor dos cartagineses na Sicília\'.'
-          },
-          {
-            index: 4,
-            content: 'Quinto Fábio Máximo, cognominado o Cunctator (o Contemporizador), soube, com sua tática prudente, sustar os progressos de Aníbal.'
-          },
-          {
-            index: 5,
-            content: 'Marco Cláudio Marcelo, que, durante a segunda guerra púnica, tomou Siracusa.'
-          },
-          {
-            index: 6,
-            content: 'Públio Cornélio Cipião, o Africano, que se distinguiu na segunda guerra púnica e venceu Aníbal em Zama. Seu neto adotivo Cipião\n' +
-              'Emiliano, filho de Paulo Emílio, que foi o segundo de nome Africano, foi o destruidor de Cartago no ano 146 a.C.'
-          },
-          {
-            index: 7,
-            content: 'Catão, o Antigo ou o Censor, célebre pela austeridade dos seus princípios e ao qual se atribui a frase famosa: Delenda Carthago!\n' +
-              '("Destrua-se Cartago !")'
-          },
-          {
-            index: 8,
-            content: 'Antiga cidade do Lácio.'
-          }
-        ]
-      },
-      {
-        text: 'II. Mas não é bastante ter uma arte qualquer sem praticá-la. Uma arte\n' +
-          'qualquer, pelo menos, mesmo quando não se pratique, pode ser considerada como\n' +
-          'ciência; mas a virtude afirma-se por completo na prática, e seu melhor uso consiste\n' +
-          'em governar a República e converter em obras as palavras que se ouvem nas\n' +
-          'escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que\n' +
-          'não o tenham confirmado e exposto aqueles pelos quais se prescreve o direito da\n' +
-          'República. De onde procede a piedade? De quem a religião? De onde o direito das\n' +
-          'gentes? E o que se chama civil, de onde? De onde a justiça, a fé, a eqüidade, o\n' +
-          'pudor, a continência, o horror ao que é infame e o amor ao que é louvável e\n' +
-          'honesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses\n' +
-          'princípios pela educação, os confirmaram pelos costumes e os sancionaram com as\n' +
-          'leis. Perguntando-se a Xenócrates,<sup><a href="#footnotes">9</a></sup>\n' +
-          ' filósofo insigne, que conseguiam seus\n' +
-          'discípulos, respondeu: "Fazer espontaneamente o que se lhes obrigaria a fazer pelas\n' +
-          'leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei,\n' +
-          'às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível\n' +
-          'aos próprios doutores. Onde se poderá encontrar discurso de tanto valor que se\n' +
-          'possa antepor a uma boa organização do Estado, do direito público e dos\n' +
-          'costumes? Assim, julgo preferíveis as cidades magnas e dominadoras, como as\n' +
-          'denomina Ênio<sup><a href="#footnotes">10</a></sup>\n' +
-          ' aos castelos e praças fortes; creio, igualmente, que aos que\n' +
-          'governam a República com sua autoridade se deve antepor a sabedoria dos peritos\n' +
-          'em negócios públicos. Já que nos inclinamos a aumentar a herança da humanidade;\n' +
-          'já que para isso se encaminham nossos estudos e trabalhos, estimulados pela\n' +
-          'própria natureza, e mais, para tornar mais poderosa e opulenta a vida do homem,\n' +
-          'sigamos o caminho que os melhores empreenderam, e não escutemos as vozes e sinais que nos chamam por detrás e a que os nossos predecessores fecharam os\n' +
-          'ouvidos.',
-        footnote: [
-          {
-            index: 9,
-            content: 'Filósofo grego, discípulo de Platão, cujas doutrinas se esforçou por conciliar com as de Pitágoras.'
-          },
-          {
-            index: 10,
-            content: 'Um dos mais antigos poetas latinos, grego de nascimento (240-169 a.C).'
-          }
-        ]
-      },
-      {
-        text: 'III. A essas razões tão certas e evidentes se opõem, entre os que argumentam\n' +
-          'em contrário, em primeiro lugar, os trabalhos que acarreta a defesa da República,\n' +
-          'impedimento insignificante para o homem ativo e vigilante, e desprezível não só em\n' +
-          'coisa de tanta importância como também nas de menos interesse, nos estudos, nos\n' +
-          'assuntos comuns e nos negócios ordinários. Acrescenta-se o perigo de perder a\n' +
-          'vida; opõe-se o temor à morte, torpe e vergonhoso para o varão íntegro, habituado\n' +
-          'a considerar mais miserável consumir-se pela natureza e pela senectude do que dar\n' +
-          'valorosamente à pátria, num momento determinado, o que cedo ou tarde terá de\n' +
-          'devolver à natureza.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'É nesse lugar que se julgam fortes e vitoriosos os adversários, ao alegarem as\n' +
-          'ingratidões e injustiças sofridas pelos mais preclaros varões. Aqui apresentam\n' +
-          'exemplos tomados dos gregos: Milcíades,<sup><a href="#footnotes">11</a></sup>\n' +
-          ' dominador e vencedor dos persas, não\n' +
-          'curado ainda dos ferimentos que recebera lutando corpo-a-corpo em preclara\n' +
-          'vitória, perdeu a vida, que salvara das armas inimigas, nas masmorras da cidade; e\n' +
-          'Temístocles<sup><a href="#footnotes">12</a></sup>' +
-          ' proscrito da pátria que lhe devolvia a liberdade, buscou asilo não nos\n' +
-          'portos da Grécia por ele salvos mas entre os bárbaros que em outros tempos\n' +
-          'hostilizara. Não são, certamente, poucos os exemplos da volubilidade e crueldade\n' +
-          'dos atenienses para com seus mais preclaros varões; exemplos que, repetindo-se\n' +
-          'freqüentemente entre eles, não falta quem assegure que tenham passado para a\n' +
-          'nossa cidade. Recordam-se, a esse propósito, ora o desterro de Camilo,<sup><a href="#footnotes">13</a></sup>\n' +
-          ' ora a\n' +
-          'desdita de Aala,<sup><a href="#footnotes">14</a></sup>\n' +
-          ' a inveja de Nasica,<sup><a href="#footnotes">15</a></sup>\n' +
-          ' ora o ostracismo de Lenas,<sup><a href="#footnotes">16</a></sup>\n' +
-          ' ou a\n' +
-          'condenação de Opímio,<sup><a href="#footnotes">17</a></sup>\n' +
-          ' ou a fuga de Metelo, ora o doloroso assassínio de C.\n' +
-          'Mário,<sup><a href="#footnotes">18</a></sup>\n' +
-          ' a morte dos chefes, ora outras muitas desditas que pouco depois se sucederam. Não deixam de citar meu próprio nome. E creio mesmo que,\n' +
-          'imaginando dever a meus riscos e conselhos a conservação de sua vida e do seu\n' +
-          'repouso, amantes e ternos, de meus males se queixam. É estranho que se admirem\n' +
-          'nos sacrifícios pela pátria aqueles que a ambição ou a curiosidade leva aos mares.',
-        footnote: [
-          {
-            index: 11,
-            content: 'General ateniense, vencedor dos persas na batalha de Maratona'
-          },
-          {
-            index: 12,
-            content: 'General ateniense, adversário de Aristides. Acusado de peculato, foi exilado e retirou-se para a Pérsia, onde morreu.'
-          },
-          {
-            index: 13,
-            content: 'Tribuno e ditador romano, que mereceu, pelos seus serviços, o título de segundo fundador de Roma.'
-          },
-
-          {
-            index: 14,
-            content: 'Servílio Aala, que matou Espúrio Mélio.'
-          },
-          {
-            index: 15,
-            content: 'Cipião Nasica, primo do primeiro Africano, inimigo implacável de Tibério Graco.'
-          },
-          {
-            index: 16,
-            content: 'Um dos membros da família Popólia.'
-          },
-          {
-            index: 17,
-            content: 'Opímio Nepote, cônsul que provocou a morte de Caio Graco.'
-          },
-
-          {
-            index: 18,
-            content: 'Caio Mário, cônsul romano, vencedor dos Cimbros, rival de Sila.'
-          }
-        ]
-      },
-      {
-        text: 'IV. Quando jurei, ao deixar o Consulado, na assembléia do povo romano,\n' +
-          'que repetiu meu juramento, que eu salvara a pátria, senti a recompensa das\n' +
-          'inquietações e cuidados que me produziam as injúrias. Por mais que minhas\n' +
-          'desditas tivessem mais de honras do que de trabalhos, e não tanto de inquietação\n' +
-          'como de glória, maior alegria recebi pelos votos dos bons do que dor pela alegria\n' +
-          'dos maus. Mas, se tivesse acontecido outra coisa, do que me poderia queixar? Nada\n' +
-          'para mim seria imprevisto nem grave que não esperasse por meus feitos. Ainda\n' +
-          'mesmo que fosse lícito colher o maior fruto do ócio pelo doce e variado dos\n' +
-          'estudos a que me consagro desde a infância, e ainda mesmo que, sobrevindo algum\n' +
-          'desastre geral, minha condição não devesse ser pior, mas a mesma dos outros, não\n' +
-          'vacilaria em arrostar as maiores tormentas e as próprias inundações fluviais pela\n' +
-          'conservação dos cidadãos, julgando sacrificar meu bem-estar em arras da\n' +
-          'tranqüilidade comum. A pátria não nos gerou nem educou sem esperança de\n' +
-          'recompensa de nossa parte, e só para nossa comodidade e para procurar retiro\n' +
-          'pacífico para a nossa incúria e lugar tranqüilo para o nosso ócio, mas para\n' +
-          'aproveitar, em sua própria utilidade, as mais numerosas e melhores faculdades das\n' +
-          'nossas almas, do nosso engenho, deixando somente o que a ela possa sobrar para\n' +
-          'nosso uso privado.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'V. Na verdade, não devemos ouvir os subterfúgios que empregam os que\n' +
-          'pretendem gozar facilmente de uma vida ociosa, embora digam que acarreta miséria\n' +
-          'e perigo auxiliar a República, rodeada de pessoas incapazes de realizar o bem, com\n' +
-          'as quais a comparação é humilhante, em cujo combate há risco, principalmente\n' +
-          'diante da multidão revoltada, pelo que não é prudente tomar as rédeas quando não\n' +
-          'se podem conter os ímpetos desordenados do populacho, nem é generoso expor-se,\n' +
-          'na luta com adversários impuros, a injúrias ou ultrajes que a sensatez não tolera;\n' +
-          'como se os homens de grande virtude, animosos e dotados de espírito vigoroso,\n' +
-          'pudessem ambicionar o poder com um objetivo mais legítimo que o de sacudir o\n' +
-          'jugo dos maus, evitando que estes despedacem a República, que um dia os homens\n' +
-          'honestos poderiam desejar, mas então inutilmente, erguer de suas ruínas.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'VI. Quem pode demonstrar a isenção que nega ao sábio toda participação\n' +
-          'dos negócios públicos, exceto nos casos em que o tempo ou a necessidade o\n' +
-          'obrigue? A quem pode sobrevir maior necessidade do que a mim, na qual nada teria\n' +
-          'podido fazer, mesmo não sendo cônsul? Como o poderia eu ter sido sem ter feito\n' +
-          'esta carreira desde a minha infância, pela qual teria de chegar, de cavaleiro, a esta\n' +
-          'suprema honra? Não está em nossas mãos servir à República quando a vontade o\n' +
-          'ordena e de improviso, mesmo quando ela corra grave risco, se não nos tivermos\n' +
-          'colocado antes em condições favoráveis. E, em geral, o que mais estranho nos\n' +
-          'discursos dos sábios é que os que negam ser possível governar uma nave num mar\n' +
-          'tranqüilo, porque nunca procuraram saber fazê-lo, se julguem capazes de tomar o\n' +
-          'leme quando sobrevém a borrasca. Assim costumam falar e disso se gabam com\n' +
-          'não pouca freqüência; esquecendo os meios de constituir solidamente um\n' +
-          'Estado, atribuem tal conhecimento não aos homens doutos e eminentes mas\n' +
-          'aos experimentados nessa modalidade de conhecimento. Como poderão cumprir a\n' +
-          'promessa de auxiliar a República em transes difíceis, quando ignoram o que é mais\n' +
-          'fácil: governar o Estado em tempo de bonança? Realmente, os sábios não\n' +
-          'costumam, por vontade própria, descer aos negócios públicos, e nem sempre\n' +
-          'admitem esse encargo; mas também julgo perigoso descuidar arbitrariamente o\n' +
-          'conhecimento dos negócios públicos sem se preparar para qualquer eventualidade e\n' +
-          'desconhecendo o que pode ocorrer.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'VII. Se me estendi tanto em considerações sobre esse ponto, é porque este\n' +
-          'livro é uma discussão empreendida e seguida por mim a respeito do Estado; e, para\n' +
-          'não frustrá-la, tive primeiro de combater as dúvidas e desânimos que nos afastam\n' +
-          'dos negócios públicos. Se houver alguém a quem decida a autoridade dos filósofos,\n' +
-          'escolha com cuidado e escute aqueles cuja autoridade e cuja glória são reconhecidas\n' +
-          'pelos homens mais doutos, aos quais estimo, mesmo quando não tenham dirigido a\n' +
-          'nave do Estado, porque em compensação muito indagaram e escreveram a respeito\n' +
-          'dessas questões, desempenhando uma espécie de magistratura. Os sete varões que\n' +
-          'os gregos chamaram de sábios foram versados na administração pública; e,\n' +
-          'realmente, em nada se aproxima tanto o nume humano do divino como ao fundar\n' +
-          'novas nações ou conservar as já fundadas.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'VIII. Pelo que me respeita, a mim que consegui alcançar digna reputação na\n' +
-          'gestão dos negócios e encontrar felicidade para explicar os fundamentos das coisas\n' +
-          'civis, posso, com minha experiência, discernir e mostrar que os meus antecessores\n' +
-          '— alguns versados nas discussões — não desempenharam nenhum cargo prático, e\n' +
-          'outros, práticos nas gestões públicas, eram rudes em oratória. Não é minha\n' +
-          'intenção instituir novas regras, de minha própria invenção, mas repetir as opiniões\n' +
-          'dos preclaros e sábios varões de que se guarda memória em nossa idade e na nossa\n' +
-          'República; ainda adolescente, pudemos apreciá-las dos lábios de P. Rutílio Rufo,<sup><a href="#footnotes">19</a></sup> \n' +
-          '\n' +
-          'em Esmirna, que nos referiu uma controvérsia de muitos dias, e na qual julgo não\n' +
-          'estar omitindo ponto algum de interesse que se possa relacionar com este grande\n' +
-          'assunto.',
-        footnote: [
-          {
-            index: 19,
-            content: 'Cônsul ao tempo de Sila, reputado o mais virtuoso do seu século'
-          },
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '<i>Tradução e notas de Amador Cisneiros</i>',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'A Ela',
-    author: 'Machado de Assis',
-    section: 'Conto',
-    img: 'machado2',
-    imgIndex: '6',
-    titleURL: 'a-ela',
-    authorURL: 'machado-de-assis',
-    sectionURL: 'conto',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<br>Quem és tu que me atormentas <br>' +
-          'Com teus prazenteiros sorrisos? <br>' +
-          'Com teus prazenteiros sorrisos? <br>' +
-          'Quem és tu que me apontas <br>' +
-          'As portas dos paraísos? <br>' +
-          '<br>' +
-          'Imagem do céu és tu? <br>' +
-          'És filha da divindade? <br>' +
-          'Ou vens prender em teus cabelos <br>' +
-          'A minha liberdade?<br>',
-        footnote: []
-      },
-      {
-        text: '<br><br>',
-        footnote: []
-      },
-      {
-        text: '“Vê V. Exa., Sr. presidente, que nesse tempo, o nobre deputado era inimigo de todas as leis\n' +
-          'opressoras. A assembléia tem visto como ele trata as leis do metro.”',
-        footnote: []
-      },
-      {
-        text: 'Todo o resto do discurso foi assim. A minoria protestou. Luís Tinoco fez-se de todas as cores, e a\n' +
-          'sessão acabou em risada. No dia seguinte os jornais amigos de Luís Tinoco agradeceram ao\n' +
-          'adversário deste o triunfo que lhe proporcionou mostrando à província “uma antiga e brilhante face do\n' +
-          'talento do ilustre deputado”. Os que indecorosamente riram dos versos, foram condenados com estas\n' +
-          'poucas linhas: “Há dias um deputado governista disse que a situação era uma caravana de homens\n' +
-          'honestos e bons. É caravana, não há dúvida; vimos ontem os seus camelos”.',
-        footnote: []
-      },
-      {
-        text: 'Nem por isso, Luís Tinoco ficou mais consolado. As cartas ao Dr. Lemos começaram a escassear, até\n' +
-          'que de todo cessaram de aparecer. Decorreram assim silenciosos uns três anos, ao cabo dos quais o\n' +
-          'Dr. Lemos foi nomeado não sei para que cargo na província onde se achava Luís Tinoco. Partiu.\n' +
-          'Apenas empossado do cargo, tratou de procurar o ex-poeta, e pouco tempo gastou recebendo logo um\n' +
-          'convite dele para ir a um estabelecimento rural onde se achava.',
-        footnote: []
-      },
-      {
-        text: '– Há de me chamar ingrato, não? disse Luís Tinoco, apenas viu assomar à porta de casa o\n' +
-          'Dr. Lemos. Mas não sou; contava ir vê-lo daqui a um ano; e se lhe não escrevi... Mas que tem doutor?\n' +
-          'está espantado?',
-        footnote: []
-      },
-      {
-        text: 'O Dr. Lemos estava efetivamente pasmado a olhar para a figura de Luís Tinoco. Era aquele o poeta\n' +
-          'dos Goivos e Camélias, o eloqüente deputado, o fogoso publicista? O que ele tinha diante de si era um\n' +
-          'honrado e pacato lavrador, ar e maneiras rústicas, sem o menor vestígio das atitudes melancólicas do\n' +
-          'poeta, do gesto arrebatado do trbuno, - uma transformação, uma criatura muito outra e muito melhor.\n' +
-          'Riram-se ambos, um da mudança, outro do espanto, pedindo o Dr. Lemos a Luís Tinoco lhe dissesse\n' +
-          'se era certo haver deixado a política, ou se aquilo eram apenas umas férias para renovar a alma.',
-        footnote: []
-      },
-      {
-        text: '– Tudo lhe explicarei, doutor, mas há de ser depois de ter examinado a minha casa e\n' +
-          'minha roça, depois de lhe apresentar minha mulher e meus filhos...',
-        footnote: []
-      },
-      {
-        text: '– Casado?',
-        footnote: []
-      },
-      {
-        text: '– Há vinte meses.',
-        footnote: []
-      },
-      {
-        text: '– E não me disse nada!',
-        footnote: []
-      },
-      {
-        text: '– Ia este ano à corte e esperava surpreendê-lo... Que duas criancinhas as minhas... lindas\n' +
-          'como dois anjos. Saem à mãe, que é a flor da província. Oxalá pareçam também com ela nas\n' +
-          'qualidades de dona de casa; que atividade! que economia!...',
-        footnote: []
-      },
-      {
-        text: 'Feita a apresentação, beijadas as crianças, examinado tudo, Luís Tinoco declarou ao Dr. Lemos que' +
-          'definitivamente deixara a política.',
-        footnote: []
-      },
-      {
-        text: '– De vez?',
-        footnote: []
-      },
-      {
-        text: '– De vez.',
-        footnote: []
-      },
-      {
-        text: '– Mas que motivo? desgostos, naturalmente.',
-        footnote: []
-      },
-      {
-        text: '– Não; descobri que não era fadado para grandes destinos. Um dia leram-me na\n' +
-          'assembléia alguns versos meus. Reconheci então quanto eram pífios os tais versos; e podendo vir\n' +
-          'mais tarde a olhar com a mesma lástima e igual arrependimento para as minhas obras políticas,\n' +
-          'arrepiei carreira e deixei a vida pública. Uma noite de reflexão e nada mais.',
-        footnote: []
-      },
-      {
-        text: '– Pois teve ânimo?...',
-        footnote: []
-      },
-      {
-        text: '– Tive, meu amigo, tive ânimo de pisar terreno sólido, em vez de patinhar nas ilusões dos\n' +
-          'primeiros dias. Eu era um ridículo poeta e talvez ainda mais ridículo orador. Minha vocação era esta.\n' +
-          'Com poucos anos mais estou rico. Ande agora beber o café que nos espera e feche a boca, que as\n' +
-          'moscas andam no ar.',
-        footnote: []
-      }
-    ]
-  },
-  {
-    title: 'Imagens e Símbolos III',
-    author: 'Mircea Eliade',
-    section: 'A Imagem do Mundo',
-    img: 'mirceaEliade',
-    imgIndex: '3',
-    titleURL: 'imagens-e-simbolos',
-    authorURL: 'mircea-eliade',
-    sectionURL: 'a-imagem-do-mundo',
-    content: 'Dos símbolos põe um  problema de pesadas  consequências;  certas  zonasdo  inconsciente  individual  ou  coletivo  serão  ou  não  dominadas tambémpelologos,ou estaremos perante manifestações de um transconsciente?Este  problema  não  poderia  ser  resolvido  unicamente  pela  psicologia  deprofundidade,   pois   os   simbolismos   que   decifram   estaúltima   sãoconstituídos  na  maior  parte  do  tempo,  por  fragmentos  dispersos  e  pormanifestações de uma psiqué em crise, se não em regressão patológica.Para  surpreender  as  verdadeiras  estruturas  e  funções  dos  símbolos,  épreciso   que   nos   dirijamos   ao   inesgotável   repertório   da   história   dasreligiões.   Mas,   ainda   aqui   é   preciso   saber   escolher   pois   os   nossosdocumentos apresentam frequentemente formas decadentes, aberrantesou  francamente  medíocres.  Se  se  quiser  chegar  a  uma  compreensãoadequada  do  simbolismo  religioso  arcaico  é-se  obrigado  a  fazer  umaselecção,  do  mesmo  modo  que,  para  se  ter  ideia  de  uma  literaturaestrangeira,  não  se  consideram  ao acaso  os primeiros dez  ou  cem  livrosque se encontram na primeira biblioteca pública. Deve esperar-se que oshistoriadores das religiões façam um dia o trabalho de hierarquização dosseus documentos, tendo em conta o seu valor e o seu estado, tal como osseus colegas, os historiadores das literaturas. Mas, mesmo assim, estamosapenas no princípio.Aimagemdo mundoAs  sociedades  arcaicas  e  tradicionais  concebem  o  mundo  em  seuredor com um microcosmos. Nos limites deste mundo fechado, começa odomínio do desconhecido,  do  não-formado. De um  lado existe o  espaçocosmisado, portanto habitado e organizado—de outro lado, no exteriordeste   espaço   familiar,   existe   a   região   desconhecida   e   terrível   dosdemónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,a  morte,  a  noite.  Esta  imagem  de  um  microcosmomundo  habitado,rodeado  de  regiões  desérticas  assimiladas  ao  caos  ou   ao  reino  dos\n' +
-      'mortos,  sobreviveu  mesmo  nas  civilizações  muito  evoluídas,  com  as  daChina,  da  Mesopotâmia  ou  do  Egipto.  De  fato,  um  grande  número  detextos  assimila  os  adversários,  prontos  a  atacar  o  território  nacional,  àslarvas, aos demónios ou às forças do caos. Assim, os adversários do Faraóeram  considerados  como  «filhos  da  ruína,  dos  lobos,  dos  cães»,  etc.  OFaraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto osseus  inimigoseram  identificados  com  este  dragão  mítico2.  Pelo  fato  deatacarem e porem em perigo o equilíbrio e a própriavida da cidade (ouide  qualquer  outro  território  habitado  e  organizado),  os  inimigos  sãoassimilados  às  forças  demoníacas,  pois  eles  esforçam-se  por  reintegrareste microcosmos no estado caótico, ou seja suprimi-lo. A destruição deuma   ordem   estabelecida,a   abolição   de   uma   imagem   arquetípica,equivalia a uma regressão para o caos, para o pré-formal, para o estadonão  diferenciado  que  precedia  a  cosmogonia.  Notemos  que  as  mesmasimagens são ainda utilizadas nos nossos dias quando se trata de formularos    perigos    que    ameaçam    um    certo    tipo    de    civilização:    fala-senomeadamente   de   «caos»,   de   «desordem»,   das   «trevas»   em   quemergulhará o «nosso mundo». Todas estas expressões, como bem se vê,significam a abolição de uma ordem, de um Cosmos, de uma estrutura, ea re-imersão num estado fluido, amorfo, caótico enfim.A  concepção  do  adversário  sob  a  forma  de  um  ser  demoníaco,verdadeira encarnação idas forças do mal, sobreviveu igualmente até aosnossos dias. A psicanálise destas imagens míticas que ainda hoje animamomundo moderno, mostrar-nos-á talvez em que medida projetamos nos«inimigos» os nossos próprios desejos de destruição. Mas este problemaultrapassa a nossa competência. O que queremos trazer à luz é o fato de,para   o   mundo   arcaico   em   geral,   os   inimigos   queameaçavam   omicrocosmos serem perigosos não tanto como seres humanos (em si) masporque encarnavam as forças hostis e destruidoras. É muito provável queas defesas dos lugares habitados e das cidades tenham começado por serdefesas mágicas; pois estas defesas—fossos, labirintos, muralhas, ',
-    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
-      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
-      'Portugal',
-    paragraphs: [
-      {
-        text: 'As sociedades arcaicas e tradicionais concebem o mundo em seu\n' +
-          'redor com um microcosmos. Nos limites deste mundo fechado, começa o\n' +
-          'domínio do desconhecido, do não-formado. De um lado existe o espaço\n' +
-          'cosmisado, portanto habitado e organizado — de outro lado, no exterior\n' +
-          'deste espaço familiar, existe a região desconhecida e terrível dos\n' +
-          'demónios, das larvas, dos mortos, dos estrangeiros; numa palavra: o caos,\n' +
-          'a morte, a noite. Esta imagem de um microcosmomundo habitado,\n' +
-          'rodeado de regiões desérticas assimiladas ao caos ou ao reino dos mortos, sobreviveu mesmo nas civilizações muito evoluídas, com as da\n' +
-          'China, da Mesopotâmia ou do Egipto. De fato, um grande número de\n' +
-          'textos assimila os adversários, prontos a atacar o território nacional, às\n' +
-          'larvas, aos demónios ou às forças do caos. Assim, os adversários do Faraó\n' +
-          'eram considerados como «filhos da ruína, dos lobos, dos cães», etc. O\n' +
-          'Faraó era assimilado ao deus Ré, vencedor do dragão Apófis enquanto os\n' +
-          'seus inimigos eram identificados com este dragão mítico <sup><a href="#footnotes">1</a></sup>. Pelo fato de\n' +
-          'atacarem e porem em perigo o equilíbrio e a própria vida da cidade (ou\n' +
-          'ide qualquer outro território habitado e organizado), os inimigos são\n' +
-          'assimilados às forças demoníacas, pois eles esforçam-se por reintegrar\n' +
-          'este microcosmos no estado caótico, ou seja suprimi-lo. A destruição de\n' +
-          'uma ordem estabelecida, a abolição de uma imagem arquetípica,\n' +
-          'equivalia a uma regressão para o caos, para o pré-formal, para o estado\n' +
-          'não diferenciado que precedia a cosmogonia. Notemos que as mesmas\n' +
-          'imagens são ainda utilizadas nos nossos dias quando se trata de formular\n' +
-          'os perigos que ameaçam um certo tipo de civilização: fala-se\n' +
-          'nomeadamente de «caos», de «desordem», das «trevas» em que\n' +
-          'mergulhará o «nosso mundo». Todas estas expressões, como bem se vê,\n' +
-          'significam a abolição de uma ordem, de um Cosmos, de uma estrutura, e\n' +
-          'a re-imersão num estado fluido, amorfo, caótico enfim.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Ver o nosso livro Le Mythe de l\'Éternel Retour: Archétypes et Répétition\n' +
-              '(Gallimard, Paris, 1949), pp. 68 sq.'
-          }
-        ]
-      },
-      {
-        text: 'A concepção do adversário sob a forma de um ser demoníaco,\n' +
-          'verdadeira encarnação idas forças do mal, sobreviveu igualmente até aos\n' +
-          'nossos dias. A psicanálise destas imagens míticas que ainda hoje animam\n' +
-          'o mundo moderno, mostrar-nos-á talvez em que medida projetamos nos\n' +
-          '«inimigos» os nossos próprios desejos de destruição. Mas este problema\n' +
-          'ultrapassa a nossa competência. O que queremos trazer à luz é o fato de,\n' +
-          'para o mundo arcaico em geral, os inimigos que ameaçavam o\n' +
-          'microcosmos serem perigosos não tanto como seres humanos (em si) mas\n' +
-          'porque encarnavam as forças hostis e destruidoras. É muito provável que\n' +
-          'as defesas dos lugares habitados e das cidades tenham começado por ser\n' +
-          'defesas mágicas; pois estas defesas — fossos, labirintos, muralhas, etc. — eram dispostas mais para impedir a invasão dos espíritos maus do que o\n' +
-          'ataque dos humanos<sup><a href="#footnotes">2</a></sup>. Mesmo muito mais tarde na história, na Idade\n' +
-          'Média, por exemplo, os muros das cidades eram consagrados ritualmente\n' +
-          'como uma defesa contra o Demónio, a doença e a morte. Além do mais, o\n' +
-          'simbolismo arcaico não encontra qualquer dificuldade em assimilar o\n' +
-          'inimigo humano ao Demónio ou à Morte. Afinal o resultado dos seus\n' +
-          'ataques, quer sejam demoníacos, quer militares, é sempre o mesmo: a\n' +
-          'ruína, a desintegração, a morte.',
-        footnote: [
-          {
-            index: 2,
-            content: 'Cf. W. J. Knight, Cumaean Gates (Oxford, 1936); Karl Kerényi, Labyrinth-Studien (Amsterdam-Leipzig, 1941, Albae Vigilae, Heft XV).'
-          }
-        ]
-      },
-      {
-        text: 'Todo o microcosmos, toda a região habitada, tem aquilo a que\n' +
-          'poderia chamar-se um «Centro», isto é um lugar sagrado por excelência. É\n' +
-          'aí, nesse Centro, que o sagrado se manifesta de uma maneira total, quer\n' +
-          'sob a forma de hierofanias elementares — como entre os «primitivos» (os\n' +
-          'centros totémicos, por exemplo, as cavernas onde se enterram os\n' +
-          '<i>tchuringas</i>, etc.) — quer sob a forma mais evoluída das epifanias diretas\n' +
-          'dos deuses, como nas civilizações tradicionais. Mas não se deve encarar\n' +
-          'este simbolismo do Centro com as suas implicações geométricas do\n' +
-          'espírito científico ocidental. Para cada um destes microcosmos podem\n' +
-          'existir vários «centros». Como não tardaremos a ver, todas as civilizações\n' +
-          'orientais — Mesopotâmia, índia, China, etc. — conhecem um número\n' +
-          'ilimitado de «Centros». Melhor ainda: cada um destes «Centros» é\n' +
-          'considerado e mesmo designado literalmente por «Centro do Mundo».\n' +
-          'Como se trata de um <i>espaço sagrado</i>, que é dado por uma hierofania ou\n' +
-          'construído ritualmente, e não de um espaço profano, homogéneo,\n' +
-          'geométrico, a pluralidade dos «Centros da Terra» no interior de uma só\n' +
-          'região habitada não oferece qualquer dificuldade<sup><a href="#footnotes">3</a></sup>. Estamos em presença\n' +
-          'de uma geografia sagrada e mítica, a única efetivamente <i>real</i> e não de\n' +
-          'uma geografia profana, «objetiva», de certo modo abstrata e não\n' +
-          'essencial, construção teórica de um espaço e de um mundo que não se\n' +
-          'habita e que portanto, não se conhece.',
-        footnote: [
-          {
-            index: 3,
-            content: 'Nosso Traité d\'Histoire des Religions (Payot, Paris, 1949), pp. 315 sq.'
-          }
-        ]
-      },
-      {
-        text: 'Na geografia mítica, o espaço sagrado é o espaço <i>real</i> por excelência, pois, tal como se provou recentemente<sup><a href="#footnotes">4</a></sup>, para o mundo arcaico o mito é\n' +
-          'real porque ele relata as manifestações da verdadeira realidade: o\n' +
-          '<i>sagrado</i>. É em tal espaço que se está diretamente em contato com o\n' +
-          'sagrado — seja este materializado em certos objetos (<i>tchuringas</i>,\n' +
-          'representações da divindade, etc.) ou manifestado nos símbolos hierocósmicos\n' +
-          '(Pilar do Mundo, Árvore Cósmica, etc.). Nas culturas que\n' +
-          'conhecem a concepção das três regiões cósmicas — Céu, Terra, Inferno—\n' +
-          'o «centro» constitui o ponto de intersecção destas regiões. É aqui que se\n' +
-          'torna possível uma ruptura de nível e, ao mesmo tempo, uma\n' +
-          'comunicação entre estas três regiões. Temos motivos para crer que a\n' +
-          'imagem de três níveis cósmicos é bastante arcaica; ela encontra-se, por\n' +
-          'exemplo, nos pigmeus Semang da península de Malaca: no centro do\n' +
-          'Mundo ergue-se um enorme rochedo, Batu-Ribn; debaixo dele encontrase\n' +
-          'o Inferno. Outrora de Batu-Ribn elevava-se um trono em direcção ao Céu\n' +
-          '<sup><a href="#footnotes">5</a></sup>. O inferno, no centro da terra e a «porta» do Céu encontram-se pois\n' +
-          'no mesmo eixo, e por este eixo se efetuava a passagem de uma região\n' +
-          'cósmica para outra. Hesitar-se-ia em crer na autenticidade desta teoria\n' +
-          'cosmológica entre os pigmeus Semang se não tivessemos bases para\n' +
-          'admitir que a mesma teoria tinha sido já esboçada na época pré-histórica<sup><a href="#footnotes">6</a></sup>.\n' +
-          'Os Semang dizem que <i>antigamente</i> um tronco de árvore ligava\n' +
-          'o cume da Montanha Cósmica, o Centro do Mundo, com o Céu. É uma\n' +
-          'alusão a um tema mítico extremamente difundido: outrora, as\n' +
-          'comunicações com o Céu e as relações com a divindade eram fáceis e\n' +
-          '«naturais»; em consequência de uma falta ritual, estas comunicações\n' +
-          'foram interrompidas e os deuses retiraram-se mais para o alto nos céus. Só os curandeiros, os Xamãs, os padres e os heróis ou os soberanos\n' +
-          'conseguem restabelecer, de modo passageiro e unicamente para seu\n' +
-          'próprio uso, as comunicações com o Céu<sup><a href="#footnotes">7</a></sup>. O mito de um paraíso\n' +
-          'primordial perdido por causa de uma determinada falta é extremamente\n' +
-          'importante — mas, se bem que de certo modo se relacione com o nosso\n' +
-          'assunto, não o podemos discutir agora.',
-        footnote: [
-          {
-            index: 4,
-            content: 'Cf. . R. Pettazzoni, Miti e Leggende, I (Torino, 1948), p. v; id., Veritá del Mito\n' +
-              '(Studi e Materiali di Storia delle Religioni, vol. XXI, 1947-1948, pp. 104-116); G.\n' +
-              'van der Leeuw, Die Bedeutung der Mythen (Festschrift für Alfred Bertholet,\n' +
-              'Tübingen, 1949, pp. 287-293); M. Elíade, Traité d\'Histoire des Religions, pp. 350\n' +
-              'sq.'
-          },
-          {
-            index: 5,
-            content: 'P. Schebesta, Les Pygmées (trad. fr., Paris, 1940), pp. 156 sq.'
-          },
-          {
-            index: 6,
-            content: 'Cf. por exemplo, W. Gaerte, Kosmische Vorstellungen im Bilde prähistorisher\n' +
-              'Zeit: Erdberg, Himmelsberg, Erdnabel und Welttenströme (Anthropos, IX, 1914,\n' +
-              'pp. 956-979).'
-          },
-          {
-            index: 7,
-            content: 'Cf. nosso Chamanisme et les techniques archaïques de l\'extase (Payot, 1951).'
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Da Tranquilidade da Alma',
-    author: 'Sêneca',
-    section: 'Sereno a Sêneca',
-    img: 'seneca',
-    imgIndex: '5',
-    titleURL: 'da-tranquilidade-da-alma',
-    authorURL: 'seneca',
-    sectionURL: 'sereno-a-seneca',
-    content: '1.  Observando-me  atentamente,  descobri  em  mim,  ó  Sêneca,  certos  defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam nas  regiões  mais  profundas;  outros,  enfim,  que  não  são  contínuos,  mas  que  reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os mais desagradáveis de todos. Eles lembram aqueles inimigos que nos rodeiam para nos  assaltar  no  momento  propício  e  com  os  quais  não  se  sabe  nunca  se  se  deve  estar em pé de guerra, ou se se pode contar em um período de paz. 2.   No   entanto,   a   disposição   na   qual   eu   me   surpreendo   o   mais   freqüentemente  (pois,  por  que  não  me  confessarei  a  ti,  como  a  um  médico?)  é  de  não  estar  nem  francamente  liberto  de  minhas  crenças  e  repugnâncias  de  outrora,  nem novamente sob seu domínio. Se o estado no qual estou não é o pior que possa existir, é, em todo caso, o mais lamentável e o mais bizarro: não estou nem doente nem são. 3. Não me digas que todas as virtudes são fracas nos seus inícios e que com o  tempo  elas  tomam  consistência  e  força.  Também  não  ignoro  que  todos  os  benefícios  que  visam  ao  exterior,  como  o  brilho  de  uma  dignidade,  a  glória  da  1Sêneca imagina que o amigo Aneu Sereno (do qual bem pouco conhecemos: a ele o filósofo dedicou três obras — A Perseverança do Sábio, Da Tranqüilidade da Alma, O Lazer — para convertê-lo do epicurismo ao estoicismo) lhe apresente algumas perguntas. Na verdade, Sêneca não responde exatamente às perguntas e dúvidas do amigo, mas de modo geral estas páginas se colocam entre as mais brilhantes e vivazes do escritor romano."\n' +
-      'eloqüência  e  todos  aqueles  que  dependem  do  favor  público,  têm  necessidade  de  duração  para  crescerem:  as  virtudes  precisam  de  tempo  para  amadurecer,  e  as  qualidades  que  nos  permitem  seduzir  graças  a  um  simples  verniz  esperam  que  o  correr  dos  anos  lhes  acentue  gradualmente  as  cores.  Mas  temo  que  o  hábito  que  fortalece  todas  as  coisas  possa  consolidar  em  mim  esta  fraqueza:  tanto  no  mal  como no bem, um contato prolongado nos faz tomar o gosto. 4.  Em  que  consiste  esta  enfermidade  de  uma  alma  irresoluta,  que  não  se  inclina deliberadamente nem à virtude nem ao vício? Eu não saberei dizê-lo numa palavra,  mas  posso  explicá-lo  pormenorizadamente.  Indicar-te-ei  o  que  sinto:  tu  acharás o nome da doença. 5. Tenho um profundo amor à simplicidade, e o confesso: o que amo não é nenhum  leito  faustosamente  preparado,  não  são  de  modo  algum  roupas  que  se  tiram  do  fundo  de  um  baú,  que  se  torturam  debaixo  de  pesos  e  de  inúmeros  parafusos,  para  obrigá-las  a  ficarem  com  lustro,272F2 mas  um  costume  simples  e  grosseiro que se conserva sem cuidado e que se usa sem escrúpulo. 6.  O  que  eu  amo  não  é  uma  alimentação  que  muitos  escravos  preparam  e  olham comer, que se encomenda não sei quantos dias antes e que é apresentada por não sei quantos braços: são pratos fáceis de achar e de preparar, que não têm nada de  requintado,  nem  de  raro;  relativamente  aos  quais  se  tem  certeza  de  que  não  faltarão  em  nenhuma  parte,  que  não  pesam  nem  à  bolsa  nem  ao  estômago  e  que  não tornam a sair de nenhum modo por onde eles entrarem.273F37.  O  que  eu  amo  é  um  servo  simplesmente  vestido,  um  pequeno  escravo  desajeitado,  é  a  maciça  baixela  de  meu  pai,  homem  rústico,  cuja  argentaria  não  trazia  nem  gravações,  nem  mesmo  o  nome  do  artífice;  é  uma  mesa  que  não  deslumbra pelas suas cores marmóreas e que não seja conhecida de toda cidade por ter  pertencido  sucessivamente  a  toda  uma  série  de  amadores,  mas  que  seja  de  uso  cômodo e diante da qual não se vejam os  olhos  dos  convivas  nem  arregalarem  de  prazer nem de ciúmes',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<center>SERENO A SÊNECA<sup><a href="#footnotes">1</a></sup></center><br>',
-        footnote: [
-          {
-            index: 1,
-            content: 'Sêneca imagina que o amigo Aneu Sereno (do qual bem pouco conhecemos: a ele o filósofo dedicou três obras — A Perseverança do\n' +
-              'Sábio, Da Tranqüilidade da Alma, 0 Lazer — para convertê-lo do epicurismo ao estoicismo) lhe apresente algumas perguntas. Na verdade,\n' +
-              'Sêneca não responde exatamente às perguntas e dúvidas do amigo, mas de modo geral estas páginas se colocam entre as mais brilhantes e\n' +
-              'vivazes do escritor romano."'
-          }
-        ]
-      },
-      {
-        text: '<center><b>I</b></center>',
-        footnote: []
-      },
-      {
-        text: '1. Observando-me atentamente, descobri em mim, ó Sêneca, certos\n' +
-          'defeitos tão visíveis que eu os poderia tocar com o dedo; outros que se dissimulam\n' +
-          'nas regiões mais profundas; outros, enfim, que não são contínuos, mas que\n' +
-          'reaparecem somente a intervalos. Eu não hesito em dizer que estes últimos são os\n' +
-          'mais desagradáveis de todos. Eles lembram aqueles inimigos que nos rodeiam para\n' +
-          'nos assaltar no momento propício e com os quais não se sabe nunca se se deve\n' +
-          'estar em pé de guerra, ou se se pode contar em um período de paz.',
-        footnote: []
-      },
-      {
-        text: '2. No entanto, a disposição na qual eu me surpreendo o mais\n' +
-          'freqüentemente (pois, por que não me confessarei a ti, como a um médico?) é de\n' +
-          'não estar nem francamente liberto de minhas crenças e repugnâncias de outrora,\n' +
-          'nem novamente sob seu domínio. Se o estado no qual estou não é o pior que possa\n' +
-          'existir, é, em todo caso, o mais lamentável e o mais bizarro: não estou nem doente\n' +
-          'nem são.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '3. Não me digas que todas as virtudes são fracas nos seus inícios e que com\n' +
-          'o tempo elas tomam consistência e força. Também não ignoro que todos os\n' +
-          'benefícios que visam ao exterior, como o brilho de uma dignidade, a glória da eloqüência e todos aqueles que dependem do favor público, têm necessidade de\n' +
-          'duração para crescerem: as virtudes precisam de tempo para amadurecer, e as\n' +
-          'qualidades que nos permitem seduzir graças a um simples verniz esperam que o\n' +
-          'correr dos anos lhes acentue gradualmente as cores. Mas temo que o hábito que\n' +
-          'fortalece todas as coisas possa consolidar em mim esta fraqueza: tanto no mal\n' +
-          'como no bem, um contato prolongado nos faz tomar o gosto.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '4. Em que consiste esta enfermidade de uma alma irresoluta, que não se\n' +
-          'inclina deliberadamente nem à virtude nem ao vício? Eu não saberei dizê-lo numa\n' +
-          'palavra, mas posso explicá-lo pormenorizadamente. Indicar-te-ei o que sinto: tu\n' +
-          'acharás o nome da doença.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '5. Tenho um profundo amor à simplicidade, e o confesso: o que amo não é\n' +
-          'nenhum leito faustosamente preparado, não são de modo algum roupas que se\n' +
-          'tiram do fundo de um baú, que se torturam debaixo de pesos e de inúmeros\n' +
-          'parafusos, para obrigá-las a ficarem com lustro<sup><a href="#footnotes">2</a></sup>' +
-          ' mas um costume simples e\n' +
-          'grosseiro que se conserva sem cuidado e que se usa sem escrúpulo.',
-        footnote: [
-          {
-            index: 2,
-            content: 'Prensas com manivelas ("prela") para conservar as pregas.'
-          }
-        ]
-      },
-      {
-        text: '6. O que eu amo não é uma alimentação que muitos escravos preparam e\n' +
-          'olham comer, que se encomenda não sei quantos dias antes e que é apresentada por\n' +
-          'não sei quantos braços: são pratos fáceis de achar e de preparar, que não têm nada\n' +
-          'de requintado, nem de raro; relativamente aos quais se tem certeza de que não\n' +
-          'faltarão em nenhuma parte, que não pesam nem à bolsa nem ao estômago e que\n' +
-          'não tornam a sair de nenhum modo por onde eles entrarem<sup><a href="#footnotes">3</a></sup>.',
-        footnote: [
-          {
-            index: 3,
-            content: 'Conforme o bem conhecido costume romano: vomitar para comer ainda...'
-          }
-        ]
-      },
-      {
-        text: '7. O que eu amo é um servo simplesmente vestido, um pequeno escravo\n' +
-          'desajeitado, é a maciça baixela de meu pai, homem rústico, cuja argentaria não\n' +
-          'trazia nem gravações, nem mesmo o nome do artífice; é uma mesa que não\n' +
-          'deslumbra pelas suas cores marmóreas e que não seja conhecida de toda cidade por\n' +
-          'ter pertencido sucessivamente a toda uma série de amadores, mas que seja de uso\n' +
-          'cômodo e diante da qual não se vejam os olhos dos convivas nem arregalarem de\n' +
-          'prazer nem de ciúmes.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '8. E, quando estou bem acostumado a essa maneira de viver, eis que me\n' +
-          'deixo fascinar pela pompa de algum <i>paedagogium</i><sup><a href="#footnotes">4</a></sup>,' +
-          ' pelo espetáculo de escravos mais\n' +
-          'cuidadosamente vestidos e guarnecidos de ouro que para um desfile público, e de\n' +
-          'um batalhão de criados resplandecentes. Igualmente me fascina uma casa onde\n' +
-          'tudo, até o solo que se pisa, é precioso, onde a riqueza é tão pródiga nos menores\n' +
-          'recantos, que mesmo os tetos reluzem, e onde uma multidão de cortesãos se\n' +
-          'oprime ao redor das fortunas que se desperdiçam. E que dizer daquelas águas\n' +
-          'límpidas e transparentes, que correm ao redor das salas de festa; e das próprias\n' +
-          'festas dignas de sua decoração?',
-        footnote: [
-          {
-            index: 4,
-            content: 'Escola para as pajens, nas casas dos ricos romanos.'
-          }
-        ]
-      },
-      {
-        text: '9. Posso dizer que o luxo, ao sair de uma longa e ingrata temperança, me\n' +
-          'envolve de repente com seu brilho e me rodeia com seu tumulto, e sinto meus\n' +
-          'olhares vacilarem: eu o suporto menos facilmente à vista do que no pensamento; e\n' +
-          'retorno de lá não corrompido mas desencorajado: não mais sustento a cabeça alta\n' +
-          'no meio de meus pobres móveis, sinto pungir-me uma dor secreta e me ponho a\n' +
-          'duvidar sobre se todas aquelas suntuosidades não valem que as prefiramos. Nada\n' +
-          'há em tudo isto que mude meus sentimentos, mas não deixa de haver algo\n' +
-          'suscetível de abalá-los.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '10. Resolvi seguir a varonil energia de nossos preceitos e introduzir-me na\n' +
-          'vida pública. Agradam-me as dignidades e os fasces: não certamente que a púrpura\n' +
-          'ou as varas do litor me seduzam, mas para estar na possibilidade de melhor servir\n' +
-          'meus amigos e meus próximos e todos os meus concidadãos e finalmente a\n' +
-          'humanidade inteira: com um ardor de noviço, inclino-me a seguir Zenão, Crisipo e\n' +
-          'Cleanto<sup><a href="#footnotes">5</a></sup>,' +
-          ' nenhum dos quais, para falar a verdade, tomou parte nos negócios\n' +
-          'públicos, mas dos quais muitos se tornaram discípulos.',
-        footnote: [
-          {
-            index: 5,
-            content: 'Filósofos gregos: Zenão (325-246 a.C.) fundou a doutrina do estoicismo, que foi continuada por seu discípulo Cleanto (331-233 a.C.) e\n' +
-              'sistematizada por Crisipo (278-204 a.C).'
-          }
-        ]
-      },
-      {
-        text: '11. Minha alma, que não está habituada a choques, padece com a menor\n' +
-          'humilhação; ao sofrer alguma injúria (como é comum encontrar em toda a\n' +
-          'existência humana) ou alguma contrariedade, bagatelas, que me têm tomado mais tempo do que elas valem a pena, volto-me à ociosidade e, como os animais, por\n' +
-          'mais cansados que estejam, acelero o passo ao retornar ao lar.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '12. Decido, então, encerrar-me em casa: que ninguém me roube um dia, pois\n' +
-          'jamais ele me indenizaria de uma tal perda; que minha alma não se incline a não ser\n' +
-          'para si mesma, que não sonhe a não ser consigo; que não se ocupe de nada que a\n' +
-          'distraia, de nada que a submeta ao julgamento de outrem. Apreciemos uma\n' +
-          'tranqüilidade que seja estranha a todas as preocupações públicas ou particulares.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '13. Mas, desde que uma nobre leitura me exaltou o espírito e que grandes\n' +
-          'exemplos me estimularam, não peço mais nada que saltar no fórum para emprestar\n' +
-          'a um o apoio de minha palavra, a outro o de uma atividade que poderá não servir\n' +
-          'de nada, mas que se esforçará, ao menos, por ser útil para abater em pleno fórum o\n' +
-          'orgulho de alguns audaciosos, que o sucesso torna insolentes.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '14. Em literatura, por Hércules, estou bem advertido de que não se deve ter\n' +
-          'em vista senão as idéias e não se deve falar a não ser para exprimi-las: é preciso\n' +
-          'subordinar a forma ao pensamento, de maneira que este, qualquer caminho que ele\n' +
-          'tome, veja as palavras seguirem sem esforço. Para que serve compor obras eternas?\n' +
-          'Por que querer que a posteridade pronuncie teu nome? Tu nasceste para morrer:\n' +
-          'existe menos pretensão em se fazer ocultar em silêncio<sup><a href="#footnotes">6</a></sup>.' +
-          ' Escreve, pois, para ocupar\n' +
-          'teu tempo, escreve para ter proveito e não para tua glorificação, num estilo\n' +
-          'desprovido de brilho: inútil esforçar-se mais que de ordinário, quando se trabalha\n' +
-          'para viver.',
-        footnote: [
-          {
-            index: 6,
-            content: 'Ao pé da letra: "Em se fazer sepultar com funerais sem fausto".'
-          }
-        ]
-      },
-      {
-        text: '15. Sim, mas desde que meu espírito se eleva para concepções um pouco\n' +
-          'generosas, eis que ele apura seu estilo e aspira dar à forma a mesma elevação que ao\n' +
-          'sentimento, e minha linguagem tenta igualar a nobreza de meu pensamento.\n' +
-          'Esquecendo, então, meus princípios e os conselhos de um gosto mais sóbrio,\n' +
-          'lanço-me numa sublimidade de estilo e não sou mais eu que falo pela minha boca.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '16. Para abreviar esta enumeração, eu torno a encontrar sempre em mim esta\n' +
-          'fraqueza de uma alma cheia de boas intenções, e temo cair nela ou, o que seria mais angustioso, ficar perpetuamente suspenso à beira deste abismo; e me pergunto se\n' +
-          'meu caso não seria por acaso mais grave do que ele me parece: pois temos os olhos\n' +
-          'indulgentes quando se trata de nossa pessoa e o amor-próprio obscurece sempre\n' +
-          'nossos julgamentos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '17. Creio que há muitos homens que poderiam ter-se elevado à sabedoria se\n' +
-          'não se tivessem julgado filhos da fortuna, se não tivessem fingido ignorar algumas\n' +
-          'de suas imperfeições e não tivessem tido os olhos fechados diante dos outros; pois\n' +
-          'não se deve imaginar que nossa própria adulação nos seja menos funesta que a de\n' +
-          'outrem. Quem ousa dizer a si mesmo a verdade? Qual é o homem que, no meio de\n' +
-          'uma multidão de cortesãos que o adulam, não exagera ainda mais as lisonjas que lhe\n' +
-          'dirigem?',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '18. Assim, pois, eu te suplico, se conheces um remédio capaz de deter as\n' +
-          'indecisões que me agitam, não me julgues indigno de te dever a tranqüilidade. Sei\n' +
-          'que esta inconstância da alma não tem nada de muito perigoso e que ela não\n' +
-          'acarreta nenhuma perturbação profunda; e para empregar uma comparação que te\n' +
-          'faça compreender do que me queixo: a tempestade não mais me agita, mas não\n' +
-          'sinto menos enjôo. Liberta-me, pois, deste mal e vem em auxílio de um\n' +
-          'desventurado que ainda sofre à vista da terra.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Imagens e Símbolos IV',
-    author: 'Mircea Eliade',
-    section: 'Simbolismo de Centro',
-    img: 'mirceaEliade',
-    imgIndex: '3',
-    titleURL: 'imagens-e-simbolos',
-    authorURL: 'mircea-eliade',
-    sectionURL: 'simbolismo-de-centro',
-    content: 'Voltemos  pois  à  imagem  das  três  regiões  cósmicas  ligadas,  num«Centro»  por  um  eixo.  É  sobretudo  nas  civilizações  palco-orientais  queencontramos esta imagem arquetípica. O nome dos santuários de Nippur,Larsa e Sippar eraDur-an-ki,«ligação entre o céu e a terra». Mas é aindana Babilónia que se faz a ligação entre a Terra e as regiões inferiores, poisa  cidade  fora  edificada  sobrebâb-apsi,a  «Porta  deapsû»,designandoapsû   as   águas   do   caos   antes  da   Criação.   Encontramos   esta   mesmatradição    entra    os    hebreus.    O    rochedo    de    Jerusalém    penetravaprofundamente nas águas subterrâneas(tehôm).Diz-se na Mishna que oTemplo   se   encontra   precisamente   em   cima   detehôm(equivalentehebraico deapsû).E, ainda como na Babilónia, havia a «porta deapsû»:orochedo do Templo de Jerusalém fechava a «boca dotehôm».Encontram-se   tradições   similares   no   mundo   indo-europeu.   Nos   Romanos,   porexemplo, omundusconstitui o ponto de encontro das regiões inferiores edo  mundo  terrestre.  O  templo  itálico  era  a  zonade  intersecção  dosmundos superior (divino), terrestre e subterrâneo (infernal; cf.Le Mythede l\'Eternel Retour,pp. 32sq.).',
-    disclaimer: 'Direitos de reprodução e adaptação reservados para a língua portuguesa\n' +
-      'por Editora Arcádía, S.A.R.L., Campo de Santa Clara, 160-D, 1100 Lisboa-\n' +
-      'Portugal',
-    paragraphs: [
-      {
-        text: 'Voltemos pois à imagem das três regiões cósmicas ligadas, num\n' +
-          '«Centro» por um eixo. É sobretudo nas civilizações palco-orientais que\n' +
-          'encontramos esta imagem arquetípica. O nome dos santuários de Nippur,\n' +
-          'Larsa e Sippar era <i>Dur-an-ki</i>, «ligação entre o céu e a terra». Mas é ainda\n' +
-          'na Babilónia que se faz a ligação entre a Terra e as regiões inferiores, pois\n' +
-          'a cidade fora edificada sobre <i>bâb-apsi</i>, a «Porta de <i>apsû</i>», designando\n' +
-          'apsû as águas do caos antes da Criação. Encontramos esta mesma\n' +
-          'tradição entra os hebreus. O rochedo de Jerusalém penetrava\n' +
-          'profundamente nas águas subterrâneas (<i>tehôm</i>). Diz-se na Mishna que o\n' +
-          'Templo se encontra precisamente em cima de tehôm (equivalente\n' +
-          'hebraico de <i>apsû</i>). E, ainda como na Babilónia, havia a «porta de <i>apsû</i>»: o\n' +
-          'rochedo do Templo de Jerusalém fechava a «boca do <i>tehôm</i>». Encontramse\n' +
-          'tradições similares no mundo indo-europeu. Nos Romanos, por\n' +
-          'exemplo, o mundus constitui o ponto de encontro das regiões inferiores e\n' +
-          'do mundo terrestre. O templo itálico era a zona de intersecção dos\n' +
-          'mundos superior (divino), terrestre e subterrâneo (infernal; cf. <i>Le Mythe\n' +
-          'de l\'Eternel Retour, pp. 32 sq.</i>).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'De fato, toda a cidade oriental se encontrava no centro do mundo.\n' +
-          'Babilónia era uma <i>Bâbilâni</i>, uma «porta dos deuses», pois era aí que os deuses desciam à terra. A capital do soberano chinês perfeito encontravase\n' +
-          'junto da Árvore miraculosa «<i>Mastro erguido</i>», <i>Kien-mou</i>, no ponto\n' +
-          'onde se entrecruzavam as três zonas cósmicas: Céu, Terra e Inferno. E\n' +
-          'poder-se-ia continuar a acumular exemplos indefinidamente. Todas estas\n' +
-          '\'cidades, templos ou palácios considerados como Centros do Mundo, não\n' +
-          'são mais do que réplicas infinitamente multiplicadas de uma imagem\n' +
-          'arcaica: a Montanha Cósmica, a Arvore do Mundo ou o Pilar central que\n' +
-          'sustém os níveis cósmicos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'O símbolo de uma Montanha, de uma Árvore ou de um Pilar situados\n' +
-          'no Centro do Mundo, está extremamente difundido. Recordemos o\n' +
-          'Monte Meru da tradição índia, Haraberazaiti dos iranianos, Himingbjõr\n' +
-          'dos Germânicos, o «Monte dos Países» da tradição mesopotâmica, o\n' +
-          'Monte Thabor, na Palestina, (que poderia significar <i>tabbur</i> ou seja\n' +
-          '«umbigo da terra», o Gólgota que, para os cristãos, se encontra no centro\n' +
-          'do mundo, etc. (cf. <i>Traité, pp 321 sq.; Le Mythe de l\'Éternel Retour, pp. 30\n' +
-          'sq</i>.) Pelo fato de o território, a cidade, o templo ou o palácio real se\n' +
-          'encontrarem no «Centro do Mundo», isto é no cume da Montanha\n' +
-          'Cósmica, aqueles eram considerados como o lugar mais alto do mundo, o\n' +
-          'único que não fora submergido pelo dilúvio. «A terra de Israel não foi\n' +
-          'submergida pelo dilúvio», diz um texto rabínico. E, segundo a tradição\n' +
-          'islâmica, o lugar mais elevado da terra é a Kâ\'aba, porque «a estrela polar\n' +
-          'prova que ela se encontra na direcção do centro do Céu» (textos do\n' +
-          '<i>Mythe de l\'Éternel Retour, pp. 33</i>). O nome das torres e dos templos\n' +
-          'sagrados da Babilónia testemunha a sua assimilação à Montanha Cósmica,\n' +
-          'quer dizer ao Centro do Mundo: «Monte da Casa», «Casa do Monte de\n' +
-          'todas as terras», «Monte das tempestades», «Ligação entre o Céu e a\n' +
-          'Terra», etc. A <i>ziqqurar</i> era, a bem dizer, uma montanha cósmica, isto é,\n' +
-          'uma imagem simbólica do Cosmos: os sete andares representavam os\n' +
-          'sete céus planetários; subindo-os o padre atingia o topo do Universo. Este\n' +
-          'mesmo simbolismo está na base da construção do templo de Barabudur:\n' +
-          'este é edificado como uma montanha artificial. A sua ascensão equivale a\n' +
-          'uma viagem ao Centro do Mundo; ao atingir o terraço superior o\n' +
-          'peregrino realiza uma ruptura de nível; ele transcende o espaço profano e\n' +
-          'penetra numa «região pura». Estamos em presença de um «rito do centro» (textos em <i>Traité, pp. 323 sq.</i>).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'O topo da Montanha Cósmica não é apenas o ponto mais alto da\n' +
-          'Terra; ele é o umbigo da Terra, o ponto onde começou a criação. «O\n' +
-          'Santíssimo criou o mundo como um embrião», afirma um texto rabínico.\n' +
-          '«Tal como o embrião cresce a partir do umbigo, também Deus começou a\n' +
-          'criar o mundo pelo umbigo e daí ele expandiu-se em todas as direções.»\n' +
-          '«O mundo foi criado começando por Sião», diz um outro texto. O mesmo\n' +
-          'simbolismo aparece na Índia antiga: no <i>Rig Veda</i>, o Universo é concebido\n' +
-          'como adquirindo a sua extensão a partir de um ponto central (cf. <i>Traité,\n' +
-          'p. 324; Le Mythe, p. 36</i>).',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'A criação do homem, réplica da cosmologia, teve semelhantemente\n' +
-          'lugar num ponto central, no Centro do Mundo. Segundo a tradição\n' +
-          'mesopotâmica, o homem foi feito no «umbigo da terra», no mesmo lugar\n' +
-          'onde se encontra também <i>Dur-an-ki</i>, o «laço entre o Céu e a Terra».\n' +
-          'Ohrmazd cria o homem primordial, Gajômard, no centro do Mundo. O\n' +
-          'Paraíso onde Adão foi criado a partir do barro encontra-se, bem\n' +
-          'entendido, no Centro do Cosmos. O Paraíso era o «umbigo da Terra», e,\n' +
-          'segundo uma tradição síria, ficava «numa montanha mais alta ido que\n' +
-          'todas as outras». De acordo com o livro sírio <i>A caverna dos Tesouros</i>,\n' +
-          'Adão foi criado no Centro da Terra, no próprio local onde devia erguer-se\n' +
-          'mais tarde a Cruz de Jesus. As mesmas tradições foram conservadas pelo\n' +
-          'judaismo. O apocalipse judaico e o midrash precisam que Adão foi criado\n' +
-          'em Jerusalém. Tendo Adão sido enterrado no mesmo local onde fora\n' +
-          'criado, ou seja no centro do mundo, sobre o Gólgota, também o sangue\n' +
-          'do Senhor o redimiu (ver <i>Traité, pp. 323 sq.; Le Mythe, pp. 32 sq.</i>). A\n' +
-          'variante mais difundida do simbolismo do Centro é a Árvore Cósmica que\n' +
-          'se encontra no meio do Universo e que sustenta, como um eixo, os três\n' +
-          'Mundos. A Índia de Veda, a China antiga, a mitologia germânica tal como\n' +
-          'as religiões «primitivas» conhecem, sob formas diferentes, esta Árvore\n' +
-          'Cósmica, cujas raízes mergulham até aos Infernos e cujos ramos tocam o\n' +
-          'Céu. Nas mitologias centrais e norte-asiáticas, os seus sete ou nove ramos\n' +
-          'simbolizam os 7 ou 9 níveis celestes, ou seja os sete céus planetários. Não\n' +
-          'é esta a ocasião para nos alongarmos acerca do simbolismo complexo da Árvore do Mundo<sup><a href="#footnotes">1</a></sup>. O que nos interessa, é o seu papel nos «ritos do\n' +
-          'centro». Em geral pode dizer-se que a maioria das árvores sagradas e\n' +
-          'rituais que encontramos na história das religiões não passa de réplica, de\n' +
-          'cópia imperfeita desse arquétipo exemplar: a Árvore do Mundo. Quer\n' +
-          'dizer, supõe-se que todas as árvores sagradas se encontram no Centro do\n' +
-          'Mundo e todas as árvores rituais ou postes, que se consagram antes ou\n' +
-          'durante qualquer cerimónia religiosa, são como que magicamente\n' +
-          'projetados no Centro doMundo. Contentemo-nos com alguns exemplos.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Cf. nosso Traité pp. 236 sq.; Le Chamanisme, pp. 244 sq.; sobre o simbolismo cristão\n' +
-              'da Cruz = Árvore Cósmica, ver H. de Lubac, Aspets da Boudhisme (Paris, 1951),\n' +
-              'pp. 61 sq.'
-          }
-        ]
-      },
-      {
-        text: 'Na índia védica o poste sacrificial (<i>yûpa</i>) é feito de uma árvore que é\n' +
-          'assimilada à Árvore Universal. Enquanto se abate, o padre sacrificador\n' +
-          'dirige-lhe estas palavras: «Com o teu cimo não rasgues o Céu, com o teu\n' +
-          'centro não firas a atmosfera...» Vê-se bem que nos encontramos aqui\n' +
-          'perante a Árvore do Mundo. Da madeira dessa árvore faz-se o poste\n' +
-          'sacrificial e este torna-se uma espécie de pilar cósmico: «Ergue-te, oh\n' +
-          'Senhor da floresta ao topo da Terral», assim invoca o <i>Rig Veda, III, 8, 3</i>.\n' +
-          '«Com o teu cimo suportas o Céu, com a tua parte média enches os ares,\n' +
-          'com o teu pé seguras a Terra», proclama o <i>Çatapatha Brâhmana, III, 7, 1,\n' +
-          '4</i>.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'A instalação e a consagração do poste sacrificial constituem um rito\n' +
-          'do Centro. Assimilado à Árvore do Mundo o poste transforma-se por seu\n' +
-          'turno no eixo que liga as três regiões cósmicas. A comunicação entre o\n' +
-          'Céu e a Terra torna-se possível por meio deste pilar. E, de fato, o\n' +
-          'sacrificador sobe ao Céu, só ou com a mulher, neste poste transformado\n' +
-          'ritualmente no próprio Eixo do Mundo. Colocando uma escada, o\n' +
-          'sacrificador dirige-se à mulher: «Vem, subamos ao Céu!» «A mulher\n' +
-          'responde: subamos!» (<i>Çat. Br.</i>, V, 2, 1, 9). E começam a subir a escada. No\n' +
-          'topo e tocando o capitel, o sacrificador exclama: «Chegámos ao Céu!\n' +
-          '(<i>Taittiriya Samhitâ, Çat. Br.</i>, etc.). Ou, escalando os degraus do poste,\n' +
-          'estende as mãos (como uma ave estende as asas) e, chegado ao cimo\n' +
-          'exclama: «Atingi o Céu, os deuses: tornei-me imortal!» (<i>Taittiriya Samhitâ, 1, 7, 9</i>). «Na verdade, diz ainda o <i>Taittiriya Samhitâ</i> (VI, 6, 4, 2), o\n' +
-          'sacrificador faz uma escada e uma ponte para atingir o mundo celeste.»',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'O ponto ou a escada entre o Céu e a Terra eram possíveis porque se\n' +
-          'elevavam num Centro do Mundo. Exatamente como a escada vista em\n' +
-          'sonhos por Jacob e que tocava no Céu. E «os anjos de Deus subiam e\n' +
-          'desciam ao longo dessa escada» (Génesis, 28, 11 sq.). O rito índio faz\n' +
-          'também alusão à imortalidade que se obtém por se ter subido ao Céu.\n' +
-          'Como veremos dentro em pouco, uma quantidade de outras abordagens\n' +
-          'rituais de um Centro equivalem a uma conquista da imortalidade.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'A assimilação da árvore ritual à Árvore Cósmica é ainda mais\n' +
-          'transparente no Xamanismo central e norte-asiático. A escalada desta\n' +
-          'árvore para o Xamã tártaro simboliza a sua ascensão ao Céu.\n' +
-          'Efetivamente fazem-se na árvore 7 ou 9 entalhes e subindo por eles o\n' +
-          'xamã declara pertinentemente que subiu ao Céu. Descreve à assistência\n' +
-          'tudo o que vê em cada um dos níveis celestes que atravessa. No sexto céu\n' +
-          'venera a Lua, no sétimo o Sol. Finalmente no nono prosterna-se perante\n' +
-          'Bai Ulgän, o Ser Supremo, e oferece-lhe a alma do cavalo sacrificado<sup><a href="#footnotes">2</a></sup>.',
-        footnote: [
-          {
-            index: 2,
-            content: 'Cf. materiais e bibliografia no nosso livro Le Chamanisme, pp. 171 sq.'
-          }
-        ]
-      },
-      {
-        text: 'A árvore xamânica é apenas uma réplica da Árvore do Mundo, que se\n' +
-          'eleva no meio do Universo e no cimo da qual se encontra o Deus Supremo\n' +
-          'ou o deus solarizado. Os 7 ou 9 entalhes na árvore Xamânica simbolizam\n' +
-          'os 7 ou 9 ramos da Árvore Cósmica, ou seja os 7 ou 9 céus. O xamã sentese,\n' +
-          'aliás, solidário com esta Árvore do Mundo através de outras relações\n' +
-          'místicas. Nos seus sonhos iniciáticos presume-se que o futuro xamã se\n' +
-          'aproXima da Árvore Cósmica e recebe da mão do próprio Deus três ramos\n' +
-          'dessa Árvore que lhe servirão de caixas para os seus tambores<sup><a href="#footnotes">3</a></sup>. É\n' +
-          'conhecido o papel fundamental desempenhado pelo tambor durante as\n' +
-          'sessões Xamânicas; é sobretudo com o auxílio dos tambores que os xamãs\n' +
-          'atingem o êxtase. Ora, se nos lembrarmos que o <i>tambor é feito da própria madeira da Árvore do Mundo</i>, compreende-se o simbolismo e o valor\n' +
-          'religioso dos sons do tambor xamânico: é que <i>percutindo-o o xamã sentese\n' +
-          'projetado, em êxtase, para junto da Árvore do Mundo</i><sup><a href="#footnotes">4</a></sup>. Estamos\n' +
-          'perante uma viagem mística ao «Centro» e, em seguida, ao mais alto Céu.\n' +
-          'Assim, <i>quer trepando à bétula cerimonial com 7 ou 9 entalhes, quer\n' +
-          'tocando tambor, o xamã inicia a sua viagem ao Céu</i>. Mas ele não pode\n' +
-          'obter a ruptura de níveis cósmicos que lhe permitirá a ascensão ou o voo\n' +
-          'extático através dos Céus, senão porque se supõe estar no próprio Centro\n' +
-          'do mundo; pois, como já vimos, é só num tal Centro que se torna possível\n' +
-          'a comunicação entre a Terra, o Céu e o Inferno<sup><a href="#footnotes">5</a></sup>.',
-        footnote: [
-          {
-            index: 3,
-            content: 'A. A. Popov, Tavgijcy. Materialy po etnografii avamskich i vedeevskich tavgicev\n' +
-              '(Moska-Leningrad, 1936), pp. 84 sq.; ver Le Chamanisme et les techniques\n' +
-              'archaiques de l\'extase, pp. 160 sq.'
-          },
-          {
-            index: 4,
-            content: 'Cf. E. Emsheimer, Schamanentrommel und Trommelbaum (Ethnos, vol. IV, 1946, pp. 166-181).'
-          },
-          {
-            index: 5,
-            content: 'A ascensão iniciática de uma árvore cerimonial encontra-se também no\n' +
-              'xamanismo indonésio, sul-americano (Araucan) e norte-americano (Pomo), cf.\n' +
-              'Le Chamanisme, pp. 122 sq., 125 sq.'
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Em Frontispício',
-    author: 'Bruno Tolentino',
-    section: 'Poema',
-    img: 'brunoTolentino',
-    imgIndex: '12',
-    titleURL: 'em-frontispicio',
-    authorURL: 'bruno-tolentino',
-    sectionURL: 'poema',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<br> “Eu vos compensarei pelos anos que o gafanhoto comeu…”\n' +
-          '<br>' +
-          '(Joel, 2: 25)',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '<br>' +
-          'O Senhor prometera nos compensar os anos\n' +
-          '<br>' +
-          'que a legião dos gafanhotos devorara,\n' +
-          '<br>' +
-          'meu coração, mas a promessa era tão rara\n' +
-          '<br>' +
-          'que achei mais natural vê-Lo mudar de planos',
-        footnote: []
-      },
-      {
-        text: '<br>' +
-          'que afinal ocupar-Se de assuntos tão mundanos.\n' +
-          '<br>' +
-          'Assombra-me, portanto, ver uma luz tão clara\n' +
-          '<br>' +
-          'fecundar-me as cantigas, coração meu — repara\n' +
-          '<br>' +
-          'como crescem espigas entre escombros humanos…',
-        footnote: []
-      },
-      {
-        text: '<br>' +
-          'Naturalmente, quem sou eu para que Deus\n' +
-          '<br>' +
-          'cumprisse em minha vida promessa tão perfeita,\n' +
-          '<br>' +
-          'e no entanto hei-Lo arando, limpando os olhos meus,',
-        footnote: []
-      },
-      {
-        text: '<br>' +
-          'fazendo-os ver que, no trigal em que se deita\n' +
-          '<br>' +
-          'a luz dourada e musical, se algo perdeu-se\n' +
-          '<br>' +
-          'foi como o grão — entre a seara e a colheita.',
-        footnote: []
-      },
-      {
-        text: '<br><br>' +
-          '<i>Retirado de <a href="https://www.jornalopcao.com.br/opcao-cultural/crivo/os-10-melhores-poemas-de-bruno-tolentino-98945/">Os Dez Melhores Poemas de Bruno Tolentino</a></i>',
-        footnote: []
-      }
-    ]
-  },
-  {
-    title: 'Meditações',
-    author: 'Marco Aurélio',
-    section: 'Livro I',
-    img: 'marcoAurelio',
-    imgIndex: '2',
-    titleURL: 'meditacoes',
-    authorURL: 'marco-aurelio',
-    sectionURL: 'livro-I',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '1. De Vero, meu avô, a honradez e serenidade.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '2. Da reputação e memória de meu genitor <sup><a href="#footnotes">1</a></sup> a discrição e varonilidade.',
-        footnote: [
-          {
-            index: 1,
-            content: 'Ânio Vero.'
-          }
-        ]
-      },
-      {
-        text: '3. De minha mãe<sup><a href="#footnotes">2</a></sup>' +
-          ' a religiosidade, a generosidade e a abstenção não só de\n' +
-          'praticar o mal mas até de se demorar em semelhante pensamento; ainda, a singeleza\n' +
-          'do passadio e a distância do teor de vida dos ricos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '4. De meu bisavô, o ter em casa mestres excelentes, em vez de freqüentar\n' +
-          'escolas públicas, e compreender que a instrução requer se despenda largamente.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '5. De meu aio, o não me haver tornado partidário dos Verdes ou dos Azuis<sup><a href="#footnotes">3</a></sup>,\n' +
-          'nem dos Palmulários ou dos Escutários<sup><a href="#footnotes">4</a></sup>;\n' +
-          'o aturar fadigas e precisar de pouco; o\n' +
-          'executar eu próprio minhas tarefas, o não ser intrometido e a repulsa a intrigas.',
-        footnote: [
-          {
-            index: 3,
-            content: 'Facções de cocheiros no circo.'
-          },
-          {
-            index: 4,
-            content: 'Facções de gladiadores.'
-          }
-        ]
-      },
-      {
-        text: '6. De Diogneto<sup><a href="#footnotes">5</a></sup>,' +
-          'o descaso das futilidades; o não crer no que dizem os\n' +
-          'milagreiros e charlatães sobre encantamentos, expulsão de demônios e quejandas\n' +
-          'imposturas; o não criar codornizes nem me entregar a paixões dessa espécie; o\n' +
-          'suportar franquezas; o familiarizar-me com a Filosofia e ouvir as lições,\n' +
-          'primeiramente, de Báquio, depois, de Tândasis e Marciano; o ter escrito diálogos na\n' +
-          'infância; o ter desejado o catre, o pelego e todas as outras simplicidades da\n' +
-          'educação helênica.',
-        footnote: [
-          {
-            index: 5,
-            content: 'Erudito e pintor.'
-          }
-        ]
-      },
-      {
-        text: '7. De Rústico<sup><a href="#footnotes">6</a></sup>, ' +
-          'a compreensão de que devia corrigir e cultivar o meu caráter;\n' +
-          'o não me entregar à paixão da sofistica, nem compor tratados teóricos, redigir\n' +
-          'arengas de exortação ou exibir-me, para suscitar admirações, como pessoa operosa\n' +
-          'e benfazeja; a abstenção da retórica, da poesia, do preciosismo; o não andar de toga\n' +
-          'em casa, nem alimentar vaidades que tais; o usar de simplicidade nas minhas cartas,\n' +
-          'como ele na que mandou de Sinoessa a minha mãe; a presteza em responder ao\n' +
-          'apelo de reconciliação dos que se irritaram comigo e me ofenderam, tão logo de si\n' +
-          'mesmos queiram voltar às boas; o ler acuradamente, não me satisfazendo com uma\n' +
-          'vista d\'olhos superficial; o não assentir precipitadamente às indiscrições; o conhecer\n' +
-          'os comentários de Epicteto<sup><a href="#footnotes">7</a></sup>,\n' +
-          ' que me emprestou de sua biblioteca.',
-        footnote: [
-          {
-            index: 6,
-            content: 'Filósofo da escola estóica, conselheiro de Marco Aurélio.'
-          },
-          {
-            index: 7,
-            content: 'Uma das maiores figuras da filosofia antiga. Viveu no começo da era cristã, de 40 a 125. Nascido na Frígia, de família servil, foi levado\n' +
-              'para Roma no tempo de Nero; ali recebeu de seu amo a liberdade e estudou com Musônio, adepto do estoicismo. Quando Domiciano\n' +
-              'expulsou da Itália os filósofos, passou-se para Nicópolis, no Epiro, e ali ensinou Filosofia. Conhecemos os seus ensinamentos graças ao\n' +
-              'historiador Arriano, seu discípulo, que registrou o pensamento e as máximas do mestre em duas obras, Entretenimentos e Manual,\n' +
-              'consideradas as obras capitais da escola estóica. Sua influência, profunda no ocaso do paganismo, estendeu-se através da era cristã.'
-          }
-        ]
-      },
-      {
-        text: '8. De Apolônio<sup><a href="#footnotes">8</a></sup>,' +
-          ' a independência, a decisão sem longos debates nem\n' +
-          'recurso à sorte dos lados; o não me orientar, sequer por instantes, senão pela razão;\n' +
-          'o não me alterar nos sofrimentos agudos, na perda dum filho, nas doenças\n' +
-          'prolongadas; o ter visto com meus olhos, num exemplo vivo, que o rigor extremo\n' +
-          'se compadece com a benignidade; o não ser irritadiço nas explicações; o ter visto\n' +
-          'um homem que manifestamente reputava como o menor de seus dotes o tirocínio\n' +
-          'e facilidade em transmitir os princípios doutrinários; o ter aprendido como receber\n' +
-          'as assim consideradas gentilezas dos amigos, sem render-me a elas nem desdenhálas\n' +
-          'indelicadamente.',
-        footnote: [
-          {
-            index: 8,
-            content: 'Obscuro mestre de filosofia estóica.'
-          }
-        ]
-      },
-      {
-        text: '9. De Sexto<sup><a href="#footnotes">9</a></sup>,' +
-          'a benevolência; o exemplo de casa regida pela tradição; a\n' +
-          'concepção de como viver segundo a natureza; a gravidade não afetada; a solicitude\n' +
-          'atenta para com os amigos; a tolerância para com os ignorantes e para com os que\n' +
-          'opinam sem maduro exame; a boa harmonia com todos, tanto que seu convívio\n' +
-          'agradava mais que qualquer blandícia, apesar de infundir, ao mesmo tempo, o\n' +
-          'máximo respeito para com sua pessoa; o atinar arguta e metodicamente com as normas necessárias à vida e ordená-las; o jamais mostrar nem aparência de cólera\n' +
-          'ou qualquer outra emoção, mas ser ao mesmo tempo muito sereno e muito\n' +
-          'afetuoso; o elogiar sem espalha-fato; a erudição vasta <i>sem</i> alarde.',
-        footnote: [
-          {
-            index: 9,
-            content: 'to de Queronéia, filósofo estóico, sobrinho de Plutarco.'
-          }
-        ]
-      },
-      {
-        text: '10. De Alexandre, o gramático, o não criticar,-o não vituperar quem profere\n' +
-          'algum barbarismo, solecismo ou cacofonia, mas aduzir aquela única expressão que\n' +
-          'devia ser dita, jeitosamente, em forma quer de resposta, quer de confirmação ou\n' +
-          'debate do assunto mesmo, e não de seu enunciado, quer ainda dalguma outra\n' +
-          'semelhante sugestão casual adequada.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '11. De Frontão<sup><a href="#footnotes">10</a></sup>,' +
-          'o notar quanta inveja, doblez e hipocrisia há nos tiranos e\n' +
-          'que esses chamados em Roma patrícios quase sempre são de certo modo bem\n' +
-          'falhos de afeição.',
-        footnote: [
-          {
-            index: 10,
-            content: 'Marco Cornélio Frontão, natural da Numídia (100 a 175 A.D.), preceptor de Marco Aurélio, seu conselheiro e amigo, a quem o\n' +
-              'imperador votava respeito e carinho, como se vê na volumosa correspondência que trocaram. Compôs modelos de eloqüência, à maneira\n' +
-              'dos retores gregos. Gozava de grande reputação e sua casa era freqüentada pelos expoentes da cultura contemporânea em Roma. Seu\n' +
-              'mérito real, porém, é diminuto; sobressaía na mediocridade geral.'
-          }
-        ]
-      },
-      {
-        text: '12. De Alexandre, o platônico, o não dizer ou escrever, amiúde e sem\n' +
-          'necessidade, que estou ocupado, nem me subtrair assim constantemente aos\n' +
-          'deveres sociais para com os de minha convivência, a pretexto de fainas prementes.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '13. De Catulo, o não desdenhar as queixas dum amigo, embora porventura\n' +
-          'infundadas, e tratar, ao contrário, de restaurar o bom entendimento habitual; o\n' +
-          'louvar os mestres com ardor, como se recorda de Domício e Atenódoto; e o amor\n' +
-          'verdadeiro para com os filhos.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '14. De meu irmão Severo<sup><a href="#footnotes">11</a></sup>,' +
-          'o amor à família, à verdade e à justiça; o ter\n' +
-          'conhecido por seu intermédio a Tráseas, Helvídio, Catão, Dião, Bruto; a concepção\n' +
-          'dum poder régio que acima de tudo respeite a liberdade dos súditos; dele, ainda, o\n' +
-          'culto da Filosofia, constante e sem desfalecimento; a beneficência e a liberalidade\n' +
-          'copiosa; o bem esperar da afeição dos amigos e confiar nela; a franqueza para com\n' +
-          'aqueles a quem acaso censurava e o não precisarem os seus amigos conjeturar o\n' +
-          'que ele desejava ou não desejava, por ser patente.\'',
-        footnote: [
-          {
-            index: 11,
-            content: 'Cláudio Severo; cultivou a Filosofia peripatética. Não era, realmente, irmão de Marco Aurélio, mas consogro.'
-          }
-        ]
-      },
-      {
-        text: '15. De Máximo<sup><a href="#footnotes">12</a></sup>,' +
-          'o domínio de si mesmo e o não titubear em matéria\n' +
-          'nenhuma; a fortaleza nas vicissitudes, notadamente nas enfermidades; a feliz fusão\n' +
-          'da doçura e da imponência em seu caráter; o cumprimento de suas obrigações sem\n' +
-          'queixas; o crerem todos que ele pensava como dizia e não havia maldade em seus\n' +
-          'atos; a ausência de espantos e de medos; o jamais açodar-se ou demorar,\n' +
-          'embaraçar-se, descoroçoar, ou gargalhar e em seguida entregar-se a cóleras ou\n' +
-          'suspeitas; a beneficência, a indulgência e a lealdade; o dar antes a impressão de não\n' +
-          'entortado que de endireitado; que ninguém jamais se imaginaria menosprezado por\n' +
-          'ele, nem ousaria acreditar-se superior a ele.',
-        footnote: [
-          {
-            index: 12,
-            content: 'Cláudio Máximo, adepto do estoicismo.'
-          }
-        ]
-      },
-      {
-        text: '16. De meu pai<sup><a href="#footnotes">13</a></sup>,' +
-          'a placidez e a firmeza inabalável nas decisões, fundadas em\n' +
-          'exames acurados; a indiferença para com a vaidade de supostas honrarias; o amor\n' +
-          'ao trabalho e a perseverança; o escutar as pessoas capazes de alguma contribuição\n' +
-          'para o bem comum; a inflexibilidade no aquinhoar cada um segundo seu mérito; a\n' +
-          'experiência de quando apertar e quando afrouxar; o ter posto fim à pederastia; a\n' +
-          'afabilidade; o consentir aos amigos nem sempre jantar em sua companhia nem\n' +
-          'acompanhá-lo obrigatoriamente nas viagens; o não o acharem mudado os que se\n' +
-          'houvessem afastado por algum dever; o exame acurado nas deliberações em\n' +
-          'comum e a persistência, sem abandonar as pesquisas e contentar-se com as idéias\n' +
-          'óbvias; a conservação das amizades, sem enfado nem exagerado apego; a autosuficiência\n' +
-          'em tudo e a serenidade; a longa previsão e o arranjo prévio das\n' +
-          'minúcias, sem teatralidade; o ter coibido as aclamações e toda bajulação de sua\n' +
-          'pessoa; a vigilância permanente dos interesses do Império; a administração das\n' +
-          'rendas do erário e a tolerância da crítica em alguns itens administrativos; o não ter\n' +
-          'superstições em relação aos deuses e, quanto aos homens, não ser bajulador das\n' +
-          'massas, blandicioso, populista, mas em tudo sóbrio, firme e nunca de mau gosto\n' +
-          'nem inovador; o uso dos bens que concorrem para a comodidade da vida e a sorte\n' +
-          'lhos proporcionara copiosamente — sem vaidade e ao mesmo tempo sem\n' +
-          'pretextos, de modo que, quando os havia, os fruía sem requintes e, quando carecia, passava sem eles; o não poderem chamá-lo intrujão, nem chocarreiro, nem pedante,\n' +
-          'e sim homem amadurecido, completo, inacessível à bajulação, capaz de gerir os\n' +
-          'seus interesses e os alheios; além disso, as atenções para com os filósofos autênticos\n' +
-          'e, em relação aos outros, sem todavia ofendê-los, o não se deixar conduzir por eles;\n' +
-          'ainda, a afabilidade, a amabilidade não fastidiosa; os cuidados comedidos com o seu\n' +
-          'corpo, que eram os de alguém não apegado à vida, sem tafularia nem desmazelo\n' +
-          'tampouco; contudo, dado o seu zelo de si mesmo, mínima era sua precisão de\n' +
-          'médicos-, poções ou emplastros; principalmente, a deferência votada, sem ciúmes,\n' +
-          'àqueles que tivessem adquirido algum talento, como a oratória, a ciência das leis ou\n' +
-          'costumes, ou outras disciplinas, e o interesse por que cada um deles gozasse de\n' +
-          'reputação na medida de seus méritos; seguindo em tudo o costume dos\n' +
-          'antepassados, o não demonstrar que o seu propósito era esse de preservar a\n' +
-          'tradição; também o não ser instável e irrequieto, mas demorar nos mesmos lugares\n' +
-          'e ocupações; o entregar-se às tarefas habituais logo após os acessos de dor de\n' +
-          'cabeça, refeito e em pleno vigor; o não ter muitos segredos, mas o menos possível e\n' +
-          'o mais raramente, e isso apenas em questões administrativas; a prudência e\n' +
-          'comedimento, tanto na celebração de festividades como na construção de obras, na\n' +
-          'liberalidade oficial e atos desse gênero, como homem que visava àquilo que era\n' +
-          'mister fazer e não à glória advinda das realizações; o não tomar banho em hora\n' +
-          'imprópria, não edificar apenas por gosto, não se preocupar com requintes à mesa,\n' +
-          'nem com o pano e cores da roupa, ou com os dotes físicos dos servos; a ordem\n' +
-          'dada em Lório que recolheu a maior parte das alfaias<sup><a href="#footnotes">14</a></sup>' +
-          ' da residência da beira-mar e\n' +
-          'das de Lanúvio; o modo como despachou o pedido do publicano de Túsculo e seu\n' +
-          'procedimento em casos semelhantes; nenhum ato cruel, nem indecoroso, nem\n' +
-          'violento, nem azo a dizerem alguma vez <i>chegou a suar</i>, mas o cálculo minudencioso\n' +
-          'de tudo, como se o tempo sobrasse, sem confusão, com ordem, solidez e coerência.\n' +
-          'A ele se ajustaria o que de Sócrates se lembra: podia tanto abster-se como gozar\n' +
-          'daqueles bens que a maioria, se lhe faltam, debilita-se, se os tem, a eles se rende. A força e firmeza, bem como a continência num caso e no outro, são próprias de\n' +
-          'homem dotado de alma equilibrada e invencível, como ele o foi na moléstia que o\n' +
-          'levou.',
-        footnote: [
-          {
-            index: 13,
-            content: 'Trata-se do pai adotivo, Antonino Pio, sucessor de Adriano como imperador, de 138 a 161. Outro perfil seu se encontra no Livro VI, n.°\n' +
-              '30.'
-          },
-          {
-            index: 14,
-            content: 'O texto aqui não faz sentido; a tradução é conjetura. O sujeito da oração, stolê, roupa, não poderia acomodar-se com o predicado;\n' +
-              'supus, em seu lugar, entolê, ordem; o objeto, alfaias, também é conjetura. Fique anotado aqui, valendo para outras passagens igualmente\n' +
-              'obscuras, que o texto nos chegou deploravelmente eivado de lacunas e corruptelas por vezes indecifráveis.'
-          }
-        ]
-      },
-      {
-        text: '17. Dos deuses, o ter bons avós, bons pais, uma boa irmã, bons mestres,\n' +
-          'bons familiares, parentes, amigos quase todos bons; o não ter cometido faltas para\n' +
-          'com nenhum deles, apesar de ter um temperamento que poderia eventualmente\n' +
-          'induzir-me a alguma; foi graça dos deuses não ter ocorrido conjuntura que me\n' +
-          'viesse a pôr à prova; o não ter sido educado em casa da amásia de meu avô por\n' +
-          'muito tempo; o ter preservado minha juventude e não ter usado a virilidade antes\n' +
-          'do tempo, tendo-o, ademais, ultrapassado; o ter estado sob as ordens do soberano,\n' +
-          'meu pai, que havia de extirpar em mim toda presunção e fazer-me compreender\n' +
-          'que é possível viver na corte sem necessitar de guarda pessoal, nem de roupagens\n' +
-          'aparatosas, nem lampadários, nem estátuas e objetos desse gênero igualmente\n' +
-          'faustosos, mas limitando-se quase ao teor de um simples particular, sem por isso\n' +
-          'rebaixar-se nem desleixar o cumprimento dos deveres de imperador em relação aos\n' +
-          'interesses do Estado; o deparar um irmão capaz, por seu caráter, de incentivar-me\n' +
-          'no cuidado de mim próprio, encantando-me, ao mesmo tempo, com sua deferência\n' +
-          'e estima; não ter tido filhos estúpidos nem deformes; o não me haver avançado\n' +
-          'excessivamente na oratória, na poética e nas demais disciplinas em que me pudera,\n' +
-          'talvez, deter, caso sentisse que progredia sem esforço; o ter-me antecipado em\n' +
-          'conferir a meus aios dignidades a que pareciam aspirar, sem me fiar da esperança de\n' +
-          'fazê-lo mais tarde, pois ainda eram moços; o ter conhecido a Apolônio, Rústico e\n' +
-          'Máximo; o ter feito, com clareza e amiúde, a idéia do que é a vida segundo a\n' +
-          'natureza, e assim, no que depende dos deuses, de suas comunicações, assistência e\n' +
-          'inspiração, nada daí por diante impede que eu viva segundo a natureza e, das\n' +
-          'minhas deficiências nesse ideal, o culpado sou eu por não atentar nos avisos, para\n' +
-          'não dizer nas lições dos deuses; o ter meu físico resistido tão longamente à vida que\n' +
-          'levo; o não ter tido contato com Benedita nem com Teódoto e o ter-me curado\n' +
-          'também das paixões amorosas concebidas ao depois; nas minhas freqüentes\n' +
-          'irritações contra Rústico, nada mais ter feito que me houvesse de pesar; o haver\n' +
-          'morado comigo, ao menos em seus últimos anos de vida, minha mãe, que havia de\n' +
-          'morrer ainda jovem; nas ocasiões em que desejei acudir alguém em aperturas, ou\n' +
-          'que me pedia por alguma outra razão, o nunca me responderem que não havia\n' +
-          'recursos donde tirar; o não ocorrer a mim próprio igual precisão de pedir\n' +
-          'emprestado a outrem; o ser minha mulher<sup><a href="#footnotes">15</a></sup>' +
-          'o que é, tão obediente, tão afetuosa,\n' +
-          'tão simples; o dispor de aios proficientes para meus filhos; a inspiração, em sonhos,\n' +
-          'de remédios, sobretudo para não escarrar sangue e não ter vertigens, e como que\n' +
-          'um oráculo, em Caieta, a esse respeito; quando aspirei à Filosofia, o não ter\n' +
-          'deparado um sofista, nem me sentar a analisar autores ou silogismos, ou aplicar-me\n' +
-          'ao estudo dos fenômenos celestes. Tudo isso, com efeito, devo aos deuses\n' +
-          'protetores e à Fortuna.',
-        footnote: [
-          {
-            index: 15,
-            content: 'Faustina, filha de Antonino. Essa opinião não foi partilhada por alguns historiadores, quiçá malignos.'
-          }
-        ]
-      },
-      {
-        text: 'No país dos Quados, à margem do Grã<sup><a href="#footnotes">16</a></sup>.',
-        footnote: [
-          {
-            index: 16,
-            content: 'Povo germânico, que se havia sublevado, no território atualmente da Tchecoslováquia. Este primeiro livro, aparentemente, foi composto\n' +
-              'depois dos outros, servindo de introdução. As reflexões filosóficas começam realmente no segundo.'
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Não sei quantas almas tenho',
-    author: 'Fernando Pessoa',
-    section: 'Poema',
-    img: 'fernandoPessoa',
-    imgIndex: '9',
-    titleURL: 'nao-sei-quantas-almas-tenho',
-    authorURL: 'fernando-pessoa',
-    sectionURL: 'poema',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: '<br> Não sei quantas almas tenho.' +
-          '<br>' +
-          'Cada momento mudei.' +
-          '<br>' +
-          'Continuamente me estranho.\n' +
-          '<br>' +
-          'Nunca me vi nem achei.\n' +
-          '<br>' +
-          'De tanto ser, só tenho alma.\n' +
-          '<br>' +
-          'Quem tem alma não tem calma.\n' +
-          '<br>' +
-          'Quem vê é só o que vê,\n' +
-          '<br>' +
-          'Quem sente não é quem é,\n' +
-          '<p>',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: '<br> Atento ao que sou e vejo,\n' +
-          '<br>' +
-          'Torno-me eles e não eu.\n' +
-          '<br>' +
-          'Cada meu sonho ou desejo\n' +
-          '<br>' +
-          'É do que nasce e não meu.\n' +
-          '<br>' +
-          'Sou minha própria paisagem,\n' +
-          '<br>' +
-          'Assisto à minha passagem,\n' +
-          '<br>' +
-          'Diverso, móbil e só,\n' +
-          '<br>' +
-          'Não sei sentir-me onde estou.',
-        footnote: []
-      },
-      {
-        text: '<br> Por isso, alheio, vou lendo\n' +
-          '<br>' +
-          'Como páginas, meu ser\n' +
-          '<br>' +
-          'O que segue não prevendo,\n' +
-          '<br>' +
-          'O que passou a esquecer.\n' +
-          '<br>' +
-          'Noto à margem do que li\n' +
-          '<br>' +
-          'O que julguei que senti.\n' +
-          '<br>' +
-          'Releio e digo: «Fui eu?»\n' +
-          '<br>' +
-          'Deus sabe, porque o escreveu.',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Meditações',
     author: 'Marco Aurélio',
     section: 'Livro II',
@@ -11611,7 +12336,7 @@ export default [
     title: 'Relíquias de Casa Velha',
     author: 'Machado de Assis',
     section: 'Evolução',
-    img: 'machado',
+    img: 'machado3',
     imgIndex: '6',
     titleURL: 'reliquias-de-casa-velha',
     authorURL: 'machado-de-assis',
@@ -11926,431 +12651,6 @@ export default [
     ]
   },
   {
-    title: 'Schopenhauer',
-    author: 'Thomas Mann',
-    section: 'Seção II',
-    img: 'thomasMann',
-    imgIndex: '7',
-    titleURL: 'schopenhauer',
-    authorURL: 'thomas-mann',
-    sectionURL: 'secao-II',
-    content: '',
-    disclaimer: '',
-    paragraphs: [
-      {
-        text: 'De maneira geral, que é a ética? É a ciência das ações dos homens, a\n' +
-          'ciência do bem e do mal. Ciência? A vontade cega, sem razão nem senso,\n' +
-          'poderia receber ensinamento? Evidentemente, não se poderia ensinar a\n' +
-          'virtude, assim como não se poderia formar um artista explicando-se-lhe o que\n' +
-          'constitui o estado estético, nem se poderia levar um homem a praticar o bem e\n' +
-          'a evitar o mal com o explicar-se-lhe o sentido e significação de um e outro.',
-        footnote: [
-          {
-            index: '',
-            content: ''
-          }
-        ]
-      },
-      {
-        text: 'Verdadeiramente nenhuma prescrição havia a fazer à vontade: seria\n' +
-          'livre, absoluta e todo-poderosa. A liberdade encontrar-se-ia mesmo <i>unicamente</i>\n' +
-          'nela, existiria exclusivamente no transcendente, jamais no empírico,\n' +
-          'na objetivação da vontade, que repousaria no espaço, no tempo e na\n' +
-          'causalidade, no mundo. Aqui, tudo estaria submetido à inflexível causalidade,\n' +
-          'ligado e determinado como causa e efeito; a liberdade encontrar-se-ia para\n' +
-          'além das aparências fenomenais, como a vontade, mas lá estaria presente e\n' +
-          'com poder absoluto, lá estaria a liberdade da vontade. Como acontece\n' +
-          'freqüentemente, a "sã razão humana" enganava-se inteiramente quanto à liberdade,\n' +
-          'que não estaria no ato, mas no <i>ser</i>, não no "operari", mas no "esse"; no\n' +
-          'ato, é verdade, reinariam, pois, inelutàvelmente a necessidade e o\n' +
-          'determinismo, mas o ser continuaria originalmente e metafìsicamente livre.\n' +
-          'Certo, o homem que tivesse cometido um ato culposo deveria necessàriamente,\n' +
-          'na qualidade de caráter empírico, sob a influência de móveis\n' +
-          'determinados, agir assim, mas teria podido <i>ser outro</i>, e mesmo o remorso, a\n' +
-          'angústia da consciência visariam o ser, não o ato.',
-        footnote: []
-      },
-      {
-        text: 'Cruel e duro pensamento, insultante, desapiedado, arrogante! Aceitá-lo\n' +
-          'repugna ao nosso sentimento, e eis que nosso sentimento apela para sua\n' +
-          'mística. A verdade mística, na qual se funda, longe de deixar cair no olvido o\n' +
-          'par de conceitos culpa-mérito, ao contrário, equivale a espantoso\n' +
-          'aprofundamento. Por isso, é verdade, ambos escapam à esfera moral\n' +
-          'concebida em estreito sentido. Mas os espíritos aristocráticos, precisamente os\n' +
-          'que não faziam grande caso da "justiça", sempre se inclinaram a privar a\n' +
-          'moralidade da culpa e do mérito. Goethe fala complacentemente de "méritos\n' +
-          'inatos", o que é uma reunião de palavras deveras absurda do duplo ponto de\n' +
-          'vista da lógica e de moral. Porque o "mérito" é inteiramente e por natureza um\n' +
-          'conceito moral, e o que é inato, como a beleza, a inteligência, a distinção, o\n' +
-          'talento, ou conferindo-lhe o valor do destino, a <i>felicidade</i>, nada disso\n' +
-          'logicamente pode ser mérito. Para que aqui se pudesse falar de mérito, fora\n' +
-          'preciso que tudo isso fosse resultado de livre escolha, a expressão duma\n' +
-          'vontade colocada ante os fenômenos, e é precisamente o que Schopenhauer\n' +
-          'afirma quando declara, com dureza aristocrática, que, feliz ou infeliz, cada um\n' +
-          'sempre recebe apenas o que lhe é devido.Mas a aristocrática aceitação da\n' +
-          'injustiça e da diversidade no destino dos homens não demora a se resolver em\n' +
-          'uma igualdade, a mais determinada e a mais democrática de toda.s, pelo\n' +
-          'simples fato de que o raciocínio reduz a desigualdade e a diferença e mesmo a\n' +
-          '<i>disparidade</i> a uma ilusão. Para designar esta ilusão, serve-se Schopenhauer\n' +
-          'dum nome emprestado à sabedoria hindu, que ele admira muito, dada a\n' +
-          'concordância dela com a sua própria visão do mundo; chama-a "o véu de\n' +
-          'Meia". Mas já muito antes, segunda o costume dos sábios ocidentais, tinha-se\n' +
-          'expressado em latim; esta grande ilusão que representa. a injusta desigualdade\n' +
-          'das fortunas, dos caracteres, das situações e dos destinos repousa no\n' +
-          '"principium individuationis". Diferença e injustiça não são mais do que as\n' +
-          'conseqüências que a multiplicidade no seio do tempo e do espaço implica,\n' +
-          'mas aquela que não é mais que aparência, \'é a representação que nós, seres\n' +
-          'individuais, graças à organização de nossa inteligência, podemos ter dum\n' +
-          'mundo que, em sua vera realidade, é a objetivação da vontade de viver una e\n' +
-          'única no todo e nas partes, em mim e em ti. Mas aquilo, o indivíduo, que tem\n' +
-          'o sentimento de sua unicidade em face do mundo, não o reconhece. . E como\n' +
-          'poderia reconhecê-lo se as condições de seu conhecimento, o "véu de Maia",\n' +
-          'que envolve seu olhar e o mundo, o impedem de contemplar a verdade? Não\n' +
-          'vê ele a essência das coisas, que é una, mas suas aparências fenomenais,\n' +
-          'separadas, diferentes, e mais ainda, opostas: alegria e tormento, carrasco e\n' +
-          'vítima, vida contente aqui, e ali lamentável. Dizes sim a um, especialmente\n' +
-          'por tua própria conta, e repudias ao outro, sobretudo no que te diz respeito. A\n' +
-          'vontade, que é tua origem e tua essência, faz-te aspirar à felicidade, às alegrias\n' +
-          'e aos prazeres da vida; estendes para ela as mãos, apertaas com força contra\n' +
-          'teu peito; e esquece-te de que, admitindo assim a vontade, admites também todos\n' +
-          'os tormentos do mundo e os apertas contra ti. O que, ao mesmo tempo, tu\n' +
-          'fazes de mau, o mal que cometes, tua revolta contra a injustiça da vida, e\n' +
-          'também a inveja, a aspiração e o desejo, a tua cobiça do mundo, tudo isso\n' +
-          'provém da ilusão da multiplicidade, deste erro, que tu não és o mundo e o\n' +
-          'mundo não é tu. Sim, tudo isso vem desta diferença entre "eu" e "tu", que não\n' +
-          'é mais que uma ilusão, a ilusão de Maia.Vem daí igualmente teu medo da,\n' +
-          'morte. A morte não é mais que a supressão dum erro, dum descaminho,\n' +
-          'porque cada individuação é um descaminho. Não é mais que o\n' +
-          'desaparecimento duma parede imaginária que separa o resto do mundo o eu,\n' +
-          'em que tu te achas encerrado. Crês que, à. tua morte, este resto do mundo\n' +
-          'continuará a existir, ao passo que tu - horrível pensamento! - não existirás\n' +
-          'mais. Ora, eu te digo: .êste mundo, que é tua representação, não será mais:\n' +
-          'mas tu (mais exatamente: aquilo que, em ti, teme a morte, que não a quer,\n' +
-          'porque é a vontade de viver), tu permanecerás, viverás, porque a vontade, que\n' +
-          'é a tua substância, poderá sempre encontrar o caminho da vida. Não te\n' +
-          'pertence toda a eternidade? E com a vida, que para esta não é mais que um\n' +
-          'tempo, quando, na verdade, ela é contínua presença, de novo o tempo te será\n' +
-          'dado em partilha. À tua vontade está assegurada a vida, com todas as suas\n' +
-          'alegrias e todos os seus tormentos, durante o tempo que ela a quiser. Melhor\n' +
-          'seria para ti que ela não a quisesse. Esperando, vives tal qual és. Vês e amas,\n' +
-          'olhas e desejas, cobiças a imagem que te é estranha, tão estranha, tão outra,\n' +
-          'diferente de ti sofres por isso, queres atraí-Ia a ti, em ti, ser ela. Mas ser uma\n' +
-          'coisa não é vê-Ia; para isso muito falta; é incomparavelmente mais penoso e\n' +
-          'mais lamentável. O desejo é um logro causado pela representação. Tu és dado\n' +
-          'a ti mesmo, teu corpo te é dado a princípio como representação, assim como\n' +
-          'tudo o resto do mundo, mas ao mesmo tempo como vontade, e é a única coisa\n' +
-          'no mundo que te foi dada também como vontade. Tudo o mais não é para ti\n' +
-          'senão representação. O mundo inteiro parece-te um bailado, um espetáculo, ao\n' +
-          'qual o teu primeiro e natural julgamento está longe de atribuir tamanha\n' +
-          'realidade quanto a ti, o espectador; estás longe de torná-lo tão a sério quanta a\n' +
-          'ti, no mesmo grau e com o mesmo sentido. Ao Eu, escravo do princípio de\n' +
-          'individuação, envolto no véu de Maia, todos os outros seres aparecem como\n' +
-          'máscara e fantasmas, aos quais não está absolutamente em condições de\n' +
-          'atribuir uma existência tão importante e tão séria quanto a tua mesma. Só tu\n' +
-          'importas, não é? Único ser real. Tu és o centro do mundo, e tudo conspira para\n' +
-          'teu bem-estar, para, no máximo possível, afastar de ti os sofrimentos da vida,\n' +
-          'para te procurar profusão de felicidades. O que aos outros acontece é duma\n' +
-          'importância incomparavelmente menor, não te faz bem nem mal.Tal é o ponto\n' +
-          'de vista do egoísmo natural, inteiro e inteiramente cego, o aprisionamento sem\n' +
-          'remissão no princípio de individuação. Penetrar com o olhar esse princípio,\n' +
-          'penetrar por intuição seu caráter enganador, que vela a verdade, pressentir\n' +
-          'confusamente que não há diferença entre Eu e Tu, ter o sentimento de que por\n' +
-          'tudo e em todos os seres não há mais que uma só e mesma vontade, é o\n' +
-          'começo e a essência de toda ética. O mau é aquele que, desde que nenhuma\n' +
-          'força exterior o impeça, comete o mal, isto é, um homem que não se contenta\n' +
-          'com afirmar a vontade de viver tal qual aparece em seu corpo, mas, além\n' +
-          'disso, nega a que aparece nos outros e se esforça por aniquilar-lhes a\n' +
-          'existência, desde que entrave o caminho aos esforços de sua própria vontade.\n' +
-          'No caráter mau exprime-se uma vontade imperiosa, que ultrapassa a afirmação\n' +
-          'de seu próprio corpo, mas, sobretudo, uma profunda impotência do\n' +
-          'conhecimento para se libertar das aparências assim como do princípio de\n' +
-          'individuação, a ponto de se manter duro como o ferro na diferença que este\n' +
-          'princípio estabelece entre sua própria pessoa e todas as outras; é precisamente\n' +
-          'porque considera a essência das outras inteiramente estranha à sua, separada\n' +
-          'dela por um abismo, e porque nelas não vê, no sentido literal da palavra, mais\n' +
-          'que máscaras vazias, atribuindo-se, com a mais profunda convicção, a única\n' +
-          'realidade que exista.',
-        footnote: []
-      },
-      {
-        text: 'A bondade é positiva. Faz obra de amor. Age, assim, por uma razão que\n' +
-          'sente profundamente: se não o fizesse, julgar-se-ia semelhante a um homem\n' +
-          'que jejuasse hoje a fim de ter amanhã mais do que pode consumir. É\n' +
-          'exatamente assim que pensaria o "homem de bem", se deixasse os outros na\n' +
-          'indigência, enquanto ele próprio vivesse na abastança. Para ele, o véu de Maia\n' +
-          'tornou-se transparente; desapareceu a grande ilusão que dá à vontade dispersa\n' +
-          'nos fenômenos a aparência de gozar aqui e sofrer ali, quando é sempre a\n' +
-          'mesma vontade e o mesmo tormento que ela causa e sofre ao mesmo tempo. 0\n' +
-          'amor e a bondade são compaixão, nascida do conhecimento do "<i>Tat twan asi</i>\n' +
-          '", do "Isto, és tu", do gesto que levanta o véu de Maia. Já o dissera Spinoza :\n' +
-          '"<i>Benevolentia nihil aliud est, quam cupiditas ex commiseratio orta</i>", "a\n' +
-          'bondade não é mais que o amor nascido da compaixão". Mas daí resulta\n' +
-          'claramente que, se a justiça se ergue até à vontade, pode esta por sua vez se\n' +
-          'alçar ainda, não somente até ao amor mais desinteressado e ao mais generoso\n' +
-          'sacrifício, mas na verdade, até à santidade. Porque, quando um homem chegou\n' +
-          'a tal conhecimento do amor, considera o sofrimento de tudo que vive como o\n' +
-          'seu e se apropria da dor do mundo inteiro. Vê o Todo. a vida, contradição\n' +
-          'interna da vontade e sofrimento que não cessa. a humanidade sofredora, a\n' +
-          'animalidade sofredora, e o conhecimento da coisa em si torna-se para êle um\n' +
-          'alívio do querer. Nele, a vontade se desviara da vida, porque, já que a sua\n' +
-          'compaixão refletida o obriga a negá-la, como poderia aprovar ainda.\n' +
-          'compreendendo aí a si próprio, o querer viver, de que a vida é a obra, a\n' +
-          'expressão e o espelho? A resolução que. chegado a tal compreensão, toma um\n' +
-          'homem é a da renúncia, da resignação, da suprema impassibilidade. Nele se\n' +
-          'realiza a passagem da virtude para o nobre paradoxo da ascese, um grande paradoxo,\n' +
-          'na verdade; porque acontece então que uma individuação da vontade\n' +
-          'renega o ser que nela aparece e que se exprime por seu corpo, que seus atos\n' +
-          'desmentem sua aparência e entram em luta aberta com ela. O asceta recusa-se\n' +
-          'a satisfazer o sexo: sua castidade é o signo de que, com a vida desse corpo, a\n' +
-          'vontade, de que ele é a manifestação, igualmente se anula. Como definir o\n' +
-          'santo? Aquele que não faz nada de tudo que deseja e faz tudo que não deseja.\n' +
-          'Ora, a castidade ascética, tornada regra geral, acarretaria o fim da espécie\n' +
-          'humana. Mas, dada a estreita ligação de todas as manifestações da vontade, a\n' +
-          'mais alta de todas, o homem, em sua queda, arrastará também seu débil\n' +
-          'reflexo, a animalidade, e, como assim todo conhecimento se suprimiria, o\n' +
-          'mundo inteiro - pois sem sujeito não há objeto - por si mesmo cairia no Nada.\n' +
-          'O homem é, em potência, o salvador da natureza. É por isso que Angelus\n' +
-          'Silesius, o místico, exclama',
-        footnote: []
-      },
-      {
-        text: '<i>Homem! Todas as coisas te amam e correm para ti:\n' +
-          'Tudo corre para ti para chegar a Deus.</i>',
-        footnote: []
-      },
-      {
-        text: 'Por paradoxal que possa parecer, malgrado toda a sua misantropia e\n' +
-          'todas as suas palavras e queixas sobre o estado de corrupção da vida em geral,\n' +
-          'como sobre o caráter grotesco do gênio humano em particular, apesar do\n' +
-          'desespero que o acabrunha quando vê a miserável companhia em que caímos\n' +
-          'pelo fato de termos nascido homens, Schopenhauer tem, no entanto, e culto do\n' +
-          'homem, tal como o concebe. Enche-se de altiva veneração humana em\n' +
-          'presença deste "coroamento da criação" que, para ele, como para o autor da\n' +
-          'Gênese, significa o homem, a mais alta e a mais adiantada objetivação da\n' +
-          'vontade. Esta mais importante forma de seu humanisno caminha inteiramente\n' +
-          'a par com seu ceticismo político, sua oposição à Revolução, e tacitamente\n' +
-          'concorda com eles. Para ele, o homem é venerável, porque é o ser capaz de\n' +
-          'conhecer. Certo, todo conhecimento, em princípio, se submete à vontade, pois\n' +
-          'dela emerge, como a cabeça do tronco. I: nos animais jamais se pode suprimir\n' +
-          'esta sujeição da inteligência. Veja-se, porém, somente a diferença entre o\n' +
-          'homem e o animal, no que respeita à situação da cabeça em relação ao tronco.\n' +
-          'Nos animais inferiores, ambos se fundem e, em tortos, a cabeça se volta para a\n' +
-          'terra, onde se encontrará os objetos do querer; nos próprios animais superiores,\n' +
-          'a cabeça e o tronco são ainda muito mais unidos que no homem, em\n' +
-          'quem a cabaça (aqui Schopenhauer diz o "chefe" e não a ca beça aparece\n' +
-          'superposta livremente a ele e trazida por ele, <i>sem estar a seu serviço</i>. "O Apelo\n' +
-          'de Belvedere representa no mais alto grau es ta superioridade do homem: a\n' +
-          'cabeça do Deus das Musas, cujo olhar vai longe, ergue-se tão livremente sobre\n' +
-          'os ombros que parece ter-se escapado do corpo e ter-se libertado do cuidado\n' +
-          'de servi-lo".',
-        footnote: []
-      },
-      {
-        text: 'Podem-se fazer mais humanas associações de idéias? Não é em vão\n' +
-          'que Schopenhauer vê a dignidade do homem na estátua do Deus das Musas. É\n' +
-          'uma visão profunda e particular, unindo a arte, o conhecimento e a <i>dignidade\n' +
-          'do sofrimento</i> humano, que se revela nesta imagem; é um <i>humanismo\n' +
-          'pessimista</i> que, pois o humanismo tem essencialmente a colaboração dum\n' +
-          'otimismo de retórica, representa qualquer coisa inteiramente nova e, ouso\n' +
-          'afirmá-lo, uma visão de futuro fecunda no domínio das convicções. No\n' +
-          'homem, suprema objetivação da vontade, este humanismo é iluminado pelo\n' +
-          'reais claro conhecimento; mas, à medida que o conhecimento atinge maior\n' +
-          'nitidez, que a consciência se eleva, também o sofrimento cresce e este, por sua\n' +
-          'vez, em graus diferentes segundo os indivíduos; é no homem de gênio que se\n' +
-          'eleva mais alto. "O que determina a hierarquia é a aptidão para sofrer\n' +
-          'profundamente" - escreveu Nietzsche, seguindo sem reserva e até o fim o\n' +
-          'aristocratismo do sofrimento de Schopenhauer, doutrina segundo a qual a\n' +
-          'vocação do homem e do gênio, sua mais alta distinção e seu enobrecimento é\n' +
-          'o sofrimento. Resultam desta vocação as duas grandes possibilidades que o\n' +
-          'humanismo de Schopenhauer consigna ao homem; chamam-se <i>arte</i> e\n' +
-          '<i>santidade</i>. Puramente humana é a possibilidade do estado estético,\n' +
-          'contemplação das Idéias libertada da vontade; humana e unicamente humana é\n' +
-          'a possibilidade duma redenção definitiva, quando a vontade de viver se nega a\n' +
-          'si mesma para se elevar mais alto que o artista, até à santidade ascética. Ao\n' +
-          'homem é outorgada a possibilidade da correção, que anula o grande erro e\n' +
-          'engano do ser: intuição suprema, que lhe ocorre quando chama a si todo o\n' +
-          'sofrimento do mundo e quando pode conduzi-lo à resignação é à inversão da\n' +
-          'vontade. Assim, o homem é a esperança secreta do mundo e de todas as\n' +
-          'criaturas; é para ele que, por assim dizer, todos os seres correm, cheio, de\n' +
-          'confiança; é para ele que todos levam os olhares, como para o seu possível\n' +
-          'redentor e salvador.',
-        footnote: []
-      },
-      {
-        text: 'Concepção de grande beleza mística, em que se exprime um respeito\n' +
-          'humano pela, missão do homem, prevalece sobre a. misantropia de Schopenhauer,\n' +
-          'sobre todo o seu desgosto dos homens, e os retifica. É o que me\n' +
-          'importa: a união do pessimismo e do humanismo, a experiência espiritual, que\n' +
-          'revela a Schopenhauer que se pode admitir a um sem excluir ao outro e que se\n' +
-          'pode ser pessimista sem necessidade de ser bem falante ou um lisonjeador da\n' +
-          'humanidade.',
-        footnote: []
-      },
-      {
-        text: 'O que nos põe em guarda, quando tentados a tomar ao pé da letra o\n' +
-          'humanismo de Schopenhauer é sua concepção apolínea e clássica da vontade;\n' +
-          'o que, antes, no seu caso, como em tantos outros, nos força a estabelecer\n' +
-          'distinção entre a opinião e o ser, a não confundir o homem com seus juízos, é\n' +
-          'seu "extremismo", a grotesca dualidade, a contradição interna de sua natureza,\n' +
-          'que se deve chamar romântica, no sentido mais pitoresco da palavra, e que da\n' +
-          'esfera de Goethe o afasta muito mais do que poderia ele ter consciência disso.',
-        footnote: []
-      },
-      {
-        text: 'Raramente haverá título mais expressivo, mais exaustivo que o de sua\n' +
-          'obra-prima, sua obra única no fundo, pois desenvolve seu único pensamento:\n' +
-          'porque tudo o mais, tudo o que ele escreveu durante os setenta e dois anos de\n' +
-          'sua vida, não foram mais que peças de confirmação obstinadamente reunidas,\n' +
-          'arrimos de reforço. "O mundo como vontade e representação": não é somente\n' +
-          'êste pensamento, condensado na, formula mais curta; é também o homem, o\n' +
-          'ser humano, a pessoa, a vida, o sofrimento. Nele, os impulsos da vontade,\n' +
-          'sobretudo os da sexualidade, devem ter sido particularmente fortes e\n' +
-          'perigosos, torturantes como as imagens mitológicas de que se serve para pintar\n' +
-          'a escravidão da vontade; sem dúvida, corresponderam elas _à sua violenta necessidade\n' +
-          'de conhecimento, à. sua espiritualidade clara e poderosa, mas\n' +
-          'opondo-se-lhes de maneira tal que o resultado, caricatural em alto grau, foram\n' +
-          'a dualidade radical e terrível e o despedaçamento da experiência, o mais\n' +
-          'profundo desejo de salvação, a negação espiritual da própria vida, a acusação\n' +
-          'contra seu Eu, mau, errado e culpado. Para Schopenhauer, o sexo é o "foco da\n' +
-          'vontade\'", em sua objetivação corporal o pólo oposto ao cérebro, que\n' +
-          'representa o conhecimento.. Se, visivelmente, tivessem as duas esperas um\n' +
-          'poder que de muito ultrapassasse o médio, os únicos beneficiados seriam a\n' +
-          'plenitude e a força de sua natureza considerada no totalidade; o que precisamente\n' +
-          'faz dele um pessimista e um negador do mundo são unicamente as\n' +
-          'relações entre as duas esferas, sua total oposição, que vai até à hostilidade, que\n' +
-          'tende à exclusão de uma delas e traz o sofrimento; essa relações, além disso,\n' +
-          'não impedem que se chame ao seu pessimismo o produto espiritual da\n' +
-          'plenitude e da força, mal compreendida. A dualidade de sua natureza, sensível\n' +
-          'aos antagonismos e aos conflitos, atormentada e violenta, fá-lo sentir o mundo\n' +
-          'a um tempo como instinto e espírito, paixão e conhecimento, "vontade" e\n' +
-          '"representação". Como não descobriu ele em sua arte, em seu gênio, a unidade\n' +
-          'deste mundo? Por que não comprendeu ele que o gênio não é de maneira\n' +
-          'alguma o silêncio da sensualidade e a ostentação da vontade, de que a arte\n' +
-          'seria a objetivação pelo espírito, mas a união e a interpenetração das duas\n' +
-          'esferas, união que encanta mais que, isoladamente, o sexo ou o espírito? 0\n' +
-          'estado de artista, de criador será, nele mesmo, mais que a sensualidade\n' +
-          'espiritualizada e o espírito tornado genial pelo sexo? Goethe viu e viveu tudo\n' +
-          'isso muito diferentemente que o pessimista Schopenhauer : de maneira mais\n' +
-          'feliz, mais sã, mais serena, "mais clássica", menos patológica - tomada a\n' +
-          'palavra não no sentido clínico, mas no espiritual - quero dizer, pois, menos\n' +
-          'romântica. Para ele, sexo e espírito, "a idéia e o amor" constituíam o mais\n' +
-          'poderoso e o mais nobre encanto da vida, e escrevia: "Porque a vida é o amor,\n' +
-          'a vida da vicia, é o espírito". Em Schopenhauer, ao contrário, o crescimento\n' +
-          'genial das datas esferas termina no ascetismo. Para ele, o sexo perturba\n' +
-          'diabolicamente a contemplarão pura e o conhecimento renega o sexo,\n' +
-          'ordenando-lhe: "Se teu olho te escandaliza, arranca-o". Conceber o\n' +
-          'conhecimento como a "paz dá alma", a arte como o apaziguamento, como o\n' +
-          'estado de contemplação "pura", que salva o homem, salvando-se pelo\n' +
-          'aniquilamento da vontade, e o artista comi o esboço do santo, que\n' +
-          'definitivamente se alforriou da vontade, tal é a idéia de Schopenhauer. Repitamo-\n' +
-          'lo ainda: na medida em que tendi para uma objetividade apolínea, esta\n' +
-          'concepção do espírito e da arte se encontra com a de Goethe, apresenta caráter\n' +
-          'clássico. Mas seu extremismo e seu ascetismo são nitidamente românticos,\n' +
-          'tomada esta palavra em sentido oposto ao do gosto de Goethe, que\n' +
-          'conhecemos melhor por suas atitudes a respeito de Kleist.',
-        footnote: []
-      },
-      {
-        text: 'No fundo, é certo, os termos duma alternativa como "clássico" e\n' +
-          '"romântico", não calham a Schopenhauer : nem um nem outro exprime toda\n' +
-          'sua alma, que não é contemporânea dos homens para os quais esses conceitos\n' +
-          'opostos representavam ainda um papel. Está muito mais perto de nós que os\n' +
-          'espíritos que se preocupavam com esta diferença e se classificavam segundo\n' +
-          'ela; a forma de espírito de Schopenhauer, a sensibilidade e o ardor excessivos\n' +
-          'de seu gênio, cujo dualismo é caricatural, são menos românticos que <i>modernos</i>;\n' +
-          'desejaria dizer muito com esta designação, mas relacionando-a totalmente\n' +
-          'com uma alma moderna, cujo calvário só é bastante visível neste século entre\n' +
-          'Goethe e Nietzsche. Dêsse ponto de vista, Schopenhauer toma lugar entre um\n' +
-          'e outro: mais moderno, mais doloroso, mais complicado que Goethe, mas\n' +
-          'muito mais "clássicos", mais robusto, mais são que Nietzsche, ele operou a\n' +
-          'transição; pode-se, pois, deduzir daí que o otimismo e o pessimismo, a\n' +
-          'afirmação ou a negação da vida nada têm a ver com a saúde e a doença. A saúde\n' +
-          'e a doença, se as considerarmos como juízo de valor, só com muita\n' +
-          'precaução podem ser aplicadas à espiritualidade humana, porque são conceitos\n' +
-          'biológicos e a natureza do homem não se reduz ao biológico.',
-        footnote: []
-      },
-      {
-        text: 'Schopenhauer, psicólogo da vontade, é o pai de toda a psicologia\n' +
-          'moderna, dele se vai, pelo radicalismo psicológico de Nietzsche, em linha reta\n' +
-          'a Freud, assim como àqueles que concluíram sua psicologia do inconsciente e\n' +
-          'a aplicaram às ciências do espírito. O anti-intelectualismo e o anti-socratismo\n' +
-          'de Nietzsche não são mais que a afirmação filosófica e a glorificação do\n' +
-          'primado da vontade, descoberta por Schopenhauer e da intuição pessimista\n' +
-          'que o fez designar um lugar secundário à inteligência, serva da vontade. Esta\n' +
-          'intuição, esta verificação - que não é precisamente humana no sentido clássico\n' +
-          '- de que a inteligência está simplesmente às ordens da vontade, para provê-Ia\n' +
-          'de motivos, freqüentemente muito pouco fundados e falaciosos para racionalizar\n' +
-          'os instintos, contém uma psicologia cética e pessimista, uma ciência da\n' +
-          'alma impiedosarnente lúcida que não somente preparou os caminhos ao que\n' +
-          'chamamos psicanálise, como já é esta própria psicanálise. No fundo, toda\n' +
-          'psicologia desmascara; é o olhar penetrante, irônico do naturalista, que penetra\n' +
-          'as relações enganadoras do espírito e do instinto. Isso corresponde perfeitamente\n' +
-          'à conivência mística da natureza nas <i>afinidades eletivas</i>, em que\n' +
-          'Goethe .faz Eduardo dizer, já enamorado, após seu primeiro encontre com\n' +
-          'Odila : "Ela tem muito espírito", e sua mulher lhe responde: "Muito espírito?\n' +
-          'Mas ela não abriu a boca!" Schopenhauer por certo gostou desta passagem. É\n' +
-          'uma amável ilustração, ainda classicamente serena, da frase em que declara\n' +
-          'que a gente não quer uma coisa porque a reconhece boa, mas que se julga boa\n' +
-          'porque se quer.',
-        footnote: []
-      },
-      {
-        text: 'A verdadeira razão que nos faz hoje retomar Schopenhauer e examinar\n' +
-          'sua concepção do mundo, o motivo que nos leva a evocar sua fisionomia\n' +
-          'espiritual, com tudo que ela lembra, diante de uma geração que não sabe\n' +
-          'grande coisa. dele, são as relações do pessimismo e da humanidade. É o desejo\n' +
-          'de transmitir aos homens do tempo presente, nos quais o sentimento de\n' +
-          'humanidade atravessa grave crise, a experiência pessoal da união particular\n' +
-          'contraída pela melancolia e pela altivez do homem nesta filosofia. O\n' +
-          'pessimismo de Schopenhauer é sua humanidade. Sua explicação do mundo\n' +
-          'pela vontade, sua intuição da onipotência dos instintos, o rebaixamento da razão\n' +
-          'outrora divina, do espírito, da inteligência, reduzida a não ser mais que o\n' +
-          'instrumento da vida que quer afirmar-se, tudo isso é anticlássico e, em\n' +
-          'essência, inumano. Mas sua humanidade, sua espiritualidade residem\n' +
-          'precisamente no matiz pessimista de sua doutrina, que o leva a renegar o\n' +
-          'mundo e a pregar um ideal ascético; no fato de que êsse grande escritor,\n' +
-          'versado em sofrimento, cuja prosa é a da grande época de nossa civilização\n' +
-          'humanista, tirou o homem do elemento biológico e da natureza, fez de sua\n' +
-          'alma, que sente e conhece, o teatro da inversão do querer e viu nele o salvador\n' +
-          'possível de todas as criaturas.',
-        footnote: []
-      },
-      {
-        text: 'Em seu primeiro terço, o século XIX foi uma reação total contra o\n' +
-          'racionalismo e o intelectualismo clássicos; comprovou-se numa admiração do\n' +
-          'inconsciente, numa glorificação de instinto, que julgava dever à "vida" e que\n' +
-          'somente preparou assaz, para os, instintos maus, dias felizes... Freqüentemente\n' +
-          'o pessimismo consciente se mudou então em prazer de prejudicar, o reconhecimento\n' +
-          'de verdades amargas pelo espírita transformou-se em ódio e em\n' +
-          'despreza do próprio espírito e, sem a menor generosidade a seu respeito, a\n' +
-          'gente se pôs do lado da vida, isto é, do lado do mais forte; porque, se uma\n' +
-          'coisa é certa e provada, é exatamente esse fato de nada ter a vida a temer do\n' +
-          'espírito, e do conhecimento e que, na terra, o espírito. não a vida, tem o mínimo\n' +
-          'de força e a maior necessidade de proteção. Mas a própria\n' +
-          'anti-humanidade atual é, afinal, uma experiência humana, uma resposta unilateral\n' +
-          'aos eternos problemas da essência e destino do homem. Visivelmente\n' +
-          'ela precisa dum corretivo que restabeleça o equilíbrio, e eu creio que a\n' +
-          'filosofia evocada aqui pode hoje prestar bons serviços. Chamei Schopenhauer\n' +
-          'de “moderno"; deveria ter dito "futuro". Os elementos que compõem sua\n' +
-          'personalidade, sua harmonia claro-escura, a mistura de Voltaire e de Jacó\n' +
-          'Bõhme, o paradoxo de sua prosa clássica e clara, que revela o mais profundo,\n' +
-          'o mais noturno abismo, sua altiva misantropia, que jamais renega seu respeito\n' +
-          'pela idéia do homem, em suma, o que eu chamei sua humanidade pessimista,\n' +
-          'apareceme rico de futuro e promete talvez, à sua construção teórica, que\n' +
-          'esteve na moda e foi célebre, caindo depois em semi-esquecimento, uma ação\n' +
-          'nova, profunda e fecunda, sobre os homens. Sua sensualidade espiritual, sua\n' +
-          'doutrina - que era vida - segundo a qual conhecimento, pensamento, filosofia\n' +
-          'não são apenas ocupação de cabeça, mas do homem inteiro - coração e\n' +
-          'sentidos, corpo e alma - em uma palavra, o que dele faz um artista, tudo isso\n' +
-          'pode ajudar a produzir-se uma humanidade que ultrapassa a aridez da razão e\n' +
-          'deificação do instinto. Porque sempre, companheiro do homem na jornada que\n' +
-          'penosamente o conduz a si mesmo, a arte atinge primeiro o objetivo.',
-        footnote: []
-      }
-    ]
-  },
-  {
     title: 'Imagens e Símbolos V',
     author: 'Mircea Eliade',
     section: 'Simbolismo da Ascenção',
@@ -12560,7 +12860,7 @@ export default [
     title: 'A Inglezinha Barcelos',
     author: 'Machado de Assis',
     section: 'Conto',
-    img: 'machado2',
+    img: 'machado',
     imgIndex: '6',
     titleURL: 'a-inglezinha-barcelos',
     authorURL: 'machado-de-assis',
@@ -12754,7 +13054,7 @@ export default [
     title: 'Spell',
     author: 'Fernando Pessoa',
     section: 'Poema',
-    img: 'fernandoPessoa',
+    img: 'fernandoPessoa2',
     imgIndex: '9',
     titleURL: 'spell',
     authorURL: 'fernando-pessoa',
@@ -12819,7 +13119,7 @@ export default [
     title: 'A Metamorfose',
     author: 'Franz Kafka',
     section: 'Capítulo II',
-    img: 'kafka',
+    img: 'kafka2',
     imgIndex: '11',
     titleURL: 'a-metamorfose',
     authorURL: 'franz-kafka',
@@ -14565,6 +14865,353 @@ export default [
       {
         text: '<center>FIM</center>',
         footnote: []
+      }
+    ]
+  },
+  {
+    title: 'Da República',
+    author: 'Marco Túlio Cícero',
+    section: 'Excerto',
+    img: 'cicero',
+    imgIndex: '1',
+    titleURL: 'da-republica',
+    authorURL: 'marco-tulio-cicero',
+    sectionURL: 'excerto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<center>LIVRO PRIMEIRO</center>',
+        footnote: []
+      },
+      {
+        text: 'I. Sem o amor pátrio, não teriam Duílio<sup><a href="#footnotes">1</a></sup>' +
+          ', Atílio<sup><a href="#footnotes">2</a></sup>' +
+          ' e Metelo<sup><a href="#footnotes">3</a></sup>' +
+          ' libertado Roma\n' +
+          'do terror de Cartago; sem ele, não teriam os dois Cipiões apagado o incêndio da\n' +
+          'segunda guerra púnica, e, quando seu incremento foi ainda maior, não o teria\n' +
+          'debilitado Quinto Máximo,<sup><a href="#footnotes">4</a></sup>\n' +
+          ' nem extinguido M. Marcelo,<sup><a href="#footnotes">5</a></sup>\n' +
+          ' nem impelido P.\n' +
+          'Africano<sup><a href="#footnotes">6</a></sup>\n' +
+          ' às próprias muralhas inimigas. Certamente Catão,<sup><a href="#footnotes">7</a></sup>\n' +
+          ' homem cuja família\n' +
+          'era desconhecida e de quem, não obstante, todos os que estudam as mesmas\n' +
+          'verdades invejam a glória que alcançou com sua virtude e trabalho, podia ser lícito\n' +
+          'deleitar-se ociosamente no saudável e próximo sítio de Túsculo<sup><a href="#footnotes">8</a></sup>\n' +
+          '. Mas o homem\n' +
+          'veemente prefere, embora seja chamado de louco e a necessidade não o obrigue,\n' +
+          'arrostar as tempestades públicas entre suas ondas, até sucumbir decrépito, a viver\n' +
+          'no ócio prazenteiro e na tranqüilidade. Deixo de nomear os inúmeros varões que\n' +
+          'salvaram a República, e passo em silêncio aqueles de quem se conserva recente memória, temeroso de suscitar queixas com a omissão de algum. Afirmarei, sim,\n' +
+          'que tamanha é a necessidade de virtude que o gênero humano experimenta por\n' +
+          'natureza, tão grande o amor à defesa da saúde comum, que essa força triunfa\n' +
+          'sempre sobre o ócio e a voluptuosidade.',
+        footnote: [
+          {
+            index: 1,
+            content: 'Vitória naval sobre os cartagineses. Com efeito, munidos os navios romanos de pontes guarnecidas de arpões que se prendiam às galeras\n' +
+              'de Cartago, travou-se sobre o mar uma verdadeira batalha campal, saindo Roma vitoriosa. Para celebrar o triunfo de Duílio, ergue-se a\n' +
+              'famosa rostrata columna (coluna rostral)'
+          },
+          {
+            index: 2,
+            content: 'Atílio Regulo, tendo caído em poder dos cartagineses, foi por estes enviado a Roma, a fim de propor ao Senado uma troca de prisioneiros.\n' +
+              'Evitou, porém, que o Senado aceitasse a proposta e, malgrado as súplicas de sua mulher Márcia e dos seus filhos, voltou a Cartago e foi\n' +
+              'supliciado.'
+          },
+          {
+            index: 3,
+            content: 'Cônsul romano no ano 251 a.C, vencedor dos cartagineses na Sicília\'.'
+          },
+          {
+            index: 4,
+            content: 'Quinto Fábio Máximo, cognominado o Cunctator (o Contemporizador), soube, com sua tática prudente, sustar os progressos de Aníbal.'
+          },
+          {
+            index: 5,
+            content: 'Marco Cláudio Marcelo, que, durante a segunda guerra púnica, tomou Siracusa.'
+          },
+          {
+            index: 6,
+            content: 'Públio Cornélio Cipião, o Africano, que se distinguiu na segunda guerra púnica e venceu Aníbal em Zama. Seu neto adotivo Cipião\n' +
+              'Emiliano, filho de Paulo Emílio, que foi o segundo de nome Africano, foi o destruidor de Cartago no ano 146 a.C.'
+          },
+          {
+            index: 7,
+            content: 'Catão, o Antigo ou o Censor, célebre pela austeridade dos seus princípios e ao qual se atribui a frase famosa: Delenda Carthago!\n' +
+              '("Destrua-se Cartago !")'
+          },
+          {
+            index: 8,
+            content: 'Antiga cidade do Lácio.'
+          }
+        ]
+      },
+      {
+        text: 'II. Mas não é bastante ter uma arte qualquer sem praticá-la. Uma arte\n' +
+          'qualquer, pelo menos, mesmo quando não se pratique, pode ser considerada como\n' +
+          'ciência; mas a virtude afirma-se por completo na prática, e seu melhor uso consiste\n' +
+          'em governar a República e converter em obras as palavras que se ouvem nas\n' +
+          'escolas. Nada se diz, entre os filósofos, que seja reputado como são e honesto, que\n' +
+          'não o tenham confirmado e exposto aqueles pelos quais se prescreve o direito da\n' +
+          'República. De onde procede a piedade? De quem a religião? De onde o direito das\n' +
+          'gentes? E o que se chama civil, de onde? De onde a justiça, a fé, a eqüidade, o\n' +
+          'pudor, a continência, o horror ao que é infame e o amor ao que é louvável e\n' +
+          'honesto? De onde a força nos trabalhos e perigos? Daqueles que, informando esses\n' +
+          'princípios pela educação, os confirmaram pelos costumes e os sancionaram com as\n' +
+          'leis. Perguntando-se a Xenócrates,<sup><a href="#footnotes">9</a></sup>\n' +
+          ' filósofo insigne, que conseguiam seus\n' +
+          'discípulos, respondeu: "Fazer espontaneamente o que se lhes obrigaria a fazer pelas\n' +
+          'leis". Logo, o cidadão que obriga todos os outros, com as penas e o império da lei,\n' +
+          'às mesmas coisas a que a poucos persuadem os discursos dos filósofos, é preferível\n' +
+          'aos próprios doutores. Onde se poderá encontrar discurso de tanto valor que se\n' +
+          'possa antepor a uma boa organização do Estado, do direito público e dos\n' +
+          'costumes? Assim, julgo preferíveis as cidades magnas e dominadoras, como as\n' +
+          'denomina Ênio<sup><a href="#footnotes">10</a></sup>\n' +
+          ' aos castelos e praças fortes; creio, igualmente, que aos que\n' +
+          'governam a República com sua autoridade se deve antepor a sabedoria dos peritos\n' +
+          'em negócios públicos. Já que nos inclinamos a aumentar a herança da humanidade;\n' +
+          'já que para isso se encaminham nossos estudos e trabalhos, estimulados pela\n' +
+          'própria natureza, e mais, para tornar mais poderosa e opulenta a vida do homem,\n' +
+          'sigamos o caminho que os melhores empreenderam, e não escutemos as vozes e sinais que nos chamam por detrás e a que os nossos predecessores fecharam os\n' +
+          'ouvidos.',
+        footnote: [
+          {
+            index: 9,
+            content: 'Filósofo grego, discípulo de Platão, cujas doutrinas se esforçou por conciliar com as de Pitágoras.'
+          },
+          {
+            index: 10,
+            content: 'Um dos mais antigos poetas latinos, grego de nascimento (240-169 a.C).'
+          }
+        ]
+      },
+      {
+        text: 'III. A essas razões tão certas e evidentes se opõem, entre os que argumentam\n' +
+          'em contrário, em primeiro lugar, os trabalhos que acarreta a defesa da República,\n' +
+          'impedimento insignificante para o homem ativo e vigilante, e desprezível não só em\n' +
+          'coisa de tanta importância como também nas de menos interesse, nos estudos, nos\n' +
+          'assuntos comuns e nos negócios ordinários. Acrescenta-se o perigo de perder a\n' +
+          'vida; opõe-se o temor à morte, torpe e vergonhoso para o varão íntegro, habituado\n' +
+          'a considerar mais miserável consumir-se pela natureza e pela senectude do que dar\n' +
+          'valorosamente à pátria, num momento determinado, o que cedo ou tarde terá de\n' +
+          'devolver à natureza.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'É nesse lugar que se julgam fortes e vitoriosos os adversários, ao alegarem as\n' +
+          'ingratidões e injustiças sofridas pelos mais preclaros varões. Aqui apresentam\n' +
+          'exemplos tomados dos gregos: Milcíades,<sup><a href="#footnotes">11</a></sup>\n' +
+          ' dominador e vencedor dos persas, não\n' +
+          'curado ainda dos ferimentos que recebera lutando corpo-a-corpo em preclara\n' +
+          'vitória, perdeu a vida, que salvara das armas inimigas, nas masmorras da cidade; e\n' +
+          'Temístocles<sup><a href="#footnotes">12</a></sup>' +
+          ' proscrito da pátria que lhe devolvia a liberdade, buscou asilo não nos\n' +
+          'portos da Grécia por ele salvos mas entre os bárbaros que em outros tempos\n' +
+          'hostilizara. Não são, certamente, poucos os exemplos da volubilidade e crueldade\n' +
+          'dos atenienses para com seus mais preclaros varões; exemplos que, repetindo-se\n' +
+          'freqüentemente entre eles, não falta quem assegure que tenham passado para a\n' +
+          'nossa cidade. Recordam-se, a esse propósito, ora o desterro de Camilo,<sup><a href="#footnotes">13</a></sup>\n' +
+          ' ora a\n' +
+          'desdita de Aala,<sup><a href="#footnotes">14</a></sup>\n' +
+          ' a inveja de Nasica,<sup><a href="#footnotes">15</a></sup>\n' +
+          ' ora o ostracismo de Lenas,<sup><a href="#footnotes">16</a></sup>\n' +
+          ' ou a\n' +
+          'condenação de Opímio,<sup><a href="#footnotes">17</a></sup>\n' +
+          ' ou a fuga de Metelo, ora o doloroso assassínio de C.\n' +
+          'Mário,<sup><a href="#footnotes">18</a></sup>\n' +
+          ' a morte dos chefes, ora outras muitas desditas que pouco depois se sucederam. Não deixam de citar meu próprio nome. E creio mesmo que,\n' +
+          'imaginando dever a meus riscos e conselhos a conservação de sua vida e do seu\n' +
+          'repouso, amantes e ternos, de meus males se queixam. É estranho que se admirem\n' +
+          'nos sacrifícios pela pátria aqueles que a ambição ou a curiosidade leva aos mares.',
+        footnote: [
+          {
+            index: 11,
+            content: 'General ateniense, vencedor dos persas na batalha de Maratona'
+          },
+          {
+            index: 12,
+            content: 'General ateniense, adversário de Aristides. Acusado de peculato, foi exilado e retirou-se para a Pérsia, onde morreu.'
+          },
+          {
+            index: 13,
+            content: 'Tribuno e ditador romano, que mereceu, pelos seus serviços, o título de segundo fundador de Roma.'
+          },
+
+          {
+            index: 14,
+            content: 'Servílio Aala, que matou Espúrio Mélio.'
+          },
+          {
+            index: 15,
+            content: 'Cipião Nasica, primo do primeiro Africano, inimigo implacável de Tibério Graco.'
+          },
+          {
+            index: 16,
+            content: 'Um dos membros da família Popólia.'
+          },
+          {
+            index: 17,
+            content: 'Opímio Nepote, cônsul que provocou a morte de Caio Graco.'
+          },
+
+          {
+            index: 18,
+            content: 'Caio Mário, cônsul romano, vencedor dos Cimbros, rival de Sila.'
+          }
+        ]
+      },
+      {
+        text: 'IV. Quando jurei, ao deixar o Consulado, na assembléia do povo romano,\n' +
+          'que repetiu meu juramento, que eu salvara a pátria, senti a recompensa das\n' +
+          'inquietações e cuidados que me produziam as injúrias. Por mais que minhas\n' +
+          'desditas tivessem mais de honras do que de trabalhos, e não tanto de inquietação\n' +
+          'como de glória, maior alegria recebi pelos votos dos bons do que dor pela alegria\n' +
+          'dos maus. Mas, se tivesse acontecido outra coisa, do que me poderia queixar? Nada\n' +
+          'para mim seria imprevisto nem grave que não esperasse por meus feitos. Ainda\n' +
+          'mesmo que fosse lícito colher o maior fruto do ócio pelo doce e variado dos\n' +
+          'estudos a que me consagro desde a infância, e ainda mesmo que, sobrevindo algum\n' +
+          'desastre geral, minha condição não devesse ser pior, mas a mesma dos outros, não\n' +
+          'vacilaria em arrostar as maiores tormentas e as próprias inundações fluviais pela\n' +
+          'conservação dos cidadãos, julgando sacrificar meu bem-estar em arras da\n' +
+          'tranqüilidade comum. A pátria não nos gerou nem educou sem esperança de\n' +
+          'recompensa de nossa parte, e só para nossa comodidade e para procurar retiro\n' +
+          'pacífico para a nossa incúria e lugar tranqüilo para o nosso ócio, mas para\n' +
+          'aproveitar, em sua própria utilidade, as mais numerosas e melhores faculdades das\n' +
+          'nossas almas, do nosso engenho, deixando somente o que a ela possa sobrar para\n' +
+          'nosso uso privado.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'V. Na verdade, não devemos ouvir os subterfúgios que empregam os que\n' +
+          'pretendem gozar facilmente de uma vida ociosa, embora digam que acarreta miséria\n' +
+          'e perigo auxiliar a República, rodeada de pessoas incapazes de realizar o bem, com\n' +
+          'as quais a comparação é humilhante, em cujo combate há risco, principalmente\n' +
+          'diante da multidão revoltada, pelo que não é prudente tomar as rédeas quando não\n' +
+          'se podem conter os ímpetos desordenados do populacho, nem é generoso expor-se,\n' +
+          'na luta com adversários impuros, a injúrias ou ultrajes que a sensatez não tolera;\n' +
+          'como se os homens de grande virtude, animosos e dotados de espírito vigoroso,\n' +
+          'pudessem ambicionar o poder com um objetivo mais legítimo que o de sacudir o\n' +
+          'jugo dos maus, evitando que estes despedacem a República, que um dia os homens\n' +
+          'honestos poderiam desejar, mas então inutilmente, erguer de suas ruínas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'VI. Quem pode demonstrar a isenção que nega ao sábio toda participação\n' +
+          'dos negócios públicos, exceto nos casos em que o tempo ou a necessidade o\n' +
+          'obrigue? A quem pode sobrevir maior necessidade do que a mim, na qual nada teria\n' +
+          'podido fazer, mesmo não sendo cônsul? Como o poderia eu ter sido sem ter feito\n' +
+          'esta carreira desde a minha infância, pela qual teria de chegar, de cavaleiro, a esta\n' +
+          'suprema honra? Não está em nossas mãos servir à República quando a vontade o\n' +
+          'ordena e de improviso, mesmo quando ela corra grave risco, se não nos tivermos\n' +
+          'colocado antes em condições favoráveis. E, em geral, o que mais estranho nos\n' +
+          'discursos dos sábios é que os que negam ser possível governar uma nave num mar\n' +
+          'tranqüilo, porque nunca procuraram saber fazê-lo, se julguem capazes de tomar o\n' +
+          'leme quando sobrevém a borrasca. Assim costumam falar e disso se gabam com\n' +
+          'não pouca freqüência; esquecendo os meios de constituir solidamente um\n' +
+          'Estado, atribuem tal conhecimento não aos homens doutos e eminentes mas\n' +
+          'aos experimentados nessa modalidade de conhecimento. Como poderão cumprir a\n' +
+          'promessa de auxiliar a República em transes difíceis, quando ignoram o que é mais\n' +
+          'fácil: governar o Estado em tempo de bonança? Realmente, os sábios não\n' +
+          'costumam, por vontade própria, descer aos negócios públicos, e nem sempre\n' +
+          'admitem esse encargo; mas também julgo perigoso descuidar arbitrariamente o\n' +
+          'conhecimento dos negócios públicos sem se preparar para qualquer eventualidade e\n' +
+          'desconhecendo o que pode ocorrer.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'VII. Se me estendi tanto em considerações sobre esse ponto, é porque este\n' +
+          'livro é uma discussão empreendida e seguida por mim a respeito do Estado; e, para\n' +
+          'não frustrá-la, tive primeiro de combater as dúvidas e desânimos que nos afastam\n' +
+          'dos negócios públicos. Se houver alguém a quem decida a autoridade dos filósofos,\n' +
+          'escolha com cuidado e escute aqueles cuja autoridade e cuja glória são reconhecidas\n' +
+          'pelos homens mais doutos, aos quais estimo, mesmo quando não tenham dirigido a\n' +
+          'nave do Estado, porque em compensação muito indagaram e escreveram a respeito\n' +
+          'dessas questões, desempenhando uma espécie de magistratura. Os sete varões que\n' +
+          'os gregos chamaram de sábios foram versados na administração pública; e,\n' +
+          'realmente, em nada se aproxima tanto o nume humano do divino como ao fundar\n' +
+          'novas nações ou conservar as já fundadas.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'VIII. Pelo que me respeita, a mim que consegui alcançar digna reputação na\n' +
+          'gestão dos negócios e encontrar felicidade para explicar os fundamentos das coisas\n' +
+          'civis, posso, com minha experiência, discernir e mostrar que os meus antecessores\n' +
+          '— alguns versados nas discussões — não desempenharam nenhum cargo prático, e\n' +
+          'outros, práticos nas gestões públicas, eram rudes em oratória. Não é minha\n' +
+          'intenção instituir novas regras, de minha própria invenção, mas repetir as opiniões\n' +
+          'dos preclaros e sábios varões de que se guarda memória em nossa idade e na nossa\n' +
+          'República; ainda adolescente, pudemos apreciá-las dos lábios de P. Rutílio Rufo,<sup><a href="#footnotes">19</a></sup> \n' +
+          '\n' +
+          'em Esmirna, que nos referiu uma controvérsia de muitos dias, e na qual julgo não\n' +
+          'estar omitindo ponto algum de interesse que se possa relacionar com este grande\n' +
+          'assunto.',
+        footnote: [
+          {
+            index: 19,
+            content: 'Cônsul ao tempo de Sila, reputado o mais virtuoso do seu século'
+          },
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '<i>Tradução e notas de Amador Cisneiros</i>',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
       }
     ]
   }
