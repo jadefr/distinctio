@@ -61,7 +61,7 @@
 
         <!-- Side Text -->
         <section id="side-text">
-          <p>Coletânea de textos de grandes autores apresentados com a coloração sépia e de forma agradável</p>
+          <p>Seleção de textos de grandes autores apresentados em coloração sépia</p>
           <p id="disclaimer">Textos retirados do <a href="http://www.dominiopublico.gov.br/">Domínio Público</a> e <a href="https://www.netmundi.org/">NetMundi</a> </p>
         </section>
       </main>
