@@ -13782,12 +13782,12 @@ export default [
   },
   {
     document: {
-      title: 'A Inglezinha Barcelos',
+      title: 'A Inglesinha Barcelos',
       author: 'Machado de Assis',
       section: 'Conto',
       img: 'machado',
       imgIndex: '6',
-      titleURL: 'a-inglezinha-barcelos',
+      titleURL: 'a-inglesinha-barcelos',
       authorURL: 'machado-de-assis',
       sectionURL: 'conto',
       content: '',
