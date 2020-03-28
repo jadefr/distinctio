@@ -12496,6 +12496,665 @@ export default [
     ]
   },
   {
+    title: 'A Metamorfose',
+    author: 'Franz Kafka',
+    section: 'Capítulo II',
+    img: 'kafka',
+    imgIndex: '11',
+    titleURL: 'a-metamorfose',
+    authorURL: 'franz-kafka',
+    sectionURL: 'capitulo-II',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'Foi apenas ao anoitecer que Gregório acordou do seu sono profundo, que\n' +
+          'mais parecera um desmaio. Ainda que nada o tivesse feito, de certo teria acordado\n' +
+          'pouco mais tarde por si só, visto que se sentia suficientemente descansado e bem\n' +
+          'dormido, mas parecia-lhe ter sido despertado por um andar cauteloso e pelo fechar\n' +
+          'da porta que dava para o vestíbulo. Os postes da rua projetavam aqui e além um\n' +
+          'reflexo pálido, no tecto e na parte superior dos móveis, mas ali em baixo, no local\n' +
+          'onde se encontrava, estava escuro. Lentamente, experimentando de modo\n' +
+          'desajeitado as antenas, cuja utilidade começava pela primeira vez a apreciar,\n' +
+          'arrastou-se até à porta, para ver o que acontecera. Sentia todo o flanco esquerdo\n' +
+          'convertido numa única cicatriz, comprida e incomodamente repuxada, e tinha\n' +
+          'efetivamente de coxear sobre as duas filas de pernas. Uma delas ficara gravemente\n' +
+          'atingida pelos acontecimentos dessa manhã — era quase um milagre ter sido\n' +
+          'afetada apenas uma e arrastava-se, inútil, atrás de si.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: 'Só depois de chegar à porta percebeu o que o tinha atraído para ela: o cheiro\n' +
+          'da comida. Com efeito, tinham lá posto uma tigela de leite dentro do qual flutuavam\n' +
+          'pedacinhos de pão. Quase desatou a rir de contentamento, porque sentia ainda\n' +
+          'mais fome que de manhã, e imediatamente enfiou a cabeça no leite, quase\n' +
+          'mergulhando também os olhos.Depressa, a retirou, desanimado: além de ter\n' +
+          'dificuldade em comer, por causa do flanco esquerdo magoado, que o obrigava a\n' +
+          'ingerir a comida à força de sacudidelas, recorrendo a todo o corpo, não gostava do\n' +
+          'leite, conquanto tivesse sido a sua bebida preferida e fosse certamente essa a razão\n' +
+          'que levara a irmã a pôr-lhe ali, Efetivamente, foi quase com repulsa que se afastou\n' +
+          'da tigela e se arrastou até meio do quarto.',
+        footnote: []
+      },
+      {
+        text: 'Através da fenda da porta, verificou que tinham acendido o gás na sala de\n' +
+          'estar. Embora àquela hora o pai costumasse ler o jornal em voz alta para a mãe e\n' +
+          'eventualmente também para a irmã, nada se ouvia. Bom, talvez o pai tivesse\n' +
+          'recentemente perdido o hábito de ler em voz alta, hábito esse que a irmã tantas\n' +
+          'vezes mencionara em conversa e por carta. Mas por todo o lado reinava o mesmo\n' +
+          'silêncio, embora por certo estivesse alguém em casa. Que vida sossegada a minha\n' +
+          'família tem levado! , disse Gregório, de si para si. Imóvel, a fitar a escuridão, sentiu\n' +
+          'naquele momento um grande orgulho por ter sido capaz de proporcionar aos pais e\n' +
+          'à irmã uma tal vida numa casa tão boa. Mas que sucederia se toda a calma, conforto\n' +
+          'e satisfação acabas sem em catástrofe? Tentando não se perder em pensamentos,\n' +
+          'Gregório refugiou-se no exercício físico e começou a rastejar para um lado e para o\n' +
+          'outro, ao longo do quarto.',
+        footnote: []
+      },
+      {
+        text: 'A certa altura, durante o longo fim de tarde, viu as portas laterais abrir-se\n' +
+          'ligeiramente e ser novamente fechada; mais tarde, sucedeu o mesmo com a porta\n' +
+          'do outro lado. Alguém pretendera entrar e mudara de idéias. Gregório resolveu\n' +
+          'postar-se ao pé da porta que dava para a sala de estar, decidido a persuadir\n' +
+          'qualquer visitante indeciso a entrar ou, pelo menos, a descobrir quem poderia ser.\n' +
+          'Mas esperou em vão, pois ninguém tornou a abrir a porta. De manhã cedo, quando\n' +
+          'todas as portas estavam fechadas à chave, todos tinham querido entrar; agora, que\n' +
+          'ele tinha aberto uma porta e a outra fora aparentemente aberta durante o dia,\n' +
+          'ninguém entrava e até as chaves tinham sido transferidas para o lado de fora das\n' +
+          'portas.',
+        footnote: []
+      },
+      {
+        text: 'Só muito tarde apagaram o gás na sala; Gregório tinha quase a certeza de\n' +
+          'que os pais e a irmã tinham ficado acordados até então, pois ouvia-os afastarem-se,\n' +
+          'caminhando nos bicos dos pés. Não era nada provável que alguém viesse visitá-lo até à manhã seguinte, de modo que tinha tempo de sobra para meditar sobre a\n' +
+          'maneira de reorganizar a sua vida. O enorme quarto vazio dentro do qual era\n' +
+          'obrigado a permanecer deitado no chão enchia-o de uma apreensão cuja causa não\n' +
+          'conseguia descobrir, pois havia cinco anos que o habitava. Meio inconscientemente,\n' +
+          'não sem uma leve sensação de vergonha, meteu-se debaixo do sofá, onde\n' +
+          'imediatamente se sentiu bem, embora ficasse com o dorso um tanto comprimido e\n' +
+          'não lhe fosse possível levantar a cabeça, lamentando apenas que o corpo fosse\n' +
+          'largo de mais para caber totalmente debaixo do sofá.',
+        footnote: []
+      },
+      {
+        text: 'Ali passou toda a noite, grande parte da qual mergulhado num leve torpor, do\n' +
+          'qual a fome constantemente o despertava com um sobressalto, preocupando-se\n' +
+          'ocasionalmente com a sua sorte e alimentando vagas esperanças, que levavam\n' +
+          'todas à mesma conclusão: devia deixar-se estar e, usando de paciência e do mais\n' +
+          'profundo respeito, auxiliar a família a suportar os incômodos que estava destinado a\n' +
+          'causar-lhes nas condições presentes.',
+        footnote: []
+      },
+      {
+        text: 'De manhã bem cedo, Gregório teve ocasião de pôr à prova o valor das suas\n' +
+          'recentes resoluções, dado que a irmã, quase totalmente vestida, abriu a porta que\n' +
+          'dava para o vestíbulo e espreitou para dentro do quarto. Não o viu imediatamente,\n' +
+          'mas, ao apercebê-lo debaixo do sofá — que diabo, tinha de estar em qualquer sítio,\n' +
+          'não havia de ter-se sumido, pois não? — ficou de tal modo assustada que fugiu\n' +
+          'precipitadamente, batendo com a porta. Mas, teria que arrependida desse\n' +
+          'comportamento, tornou a abrir a porta e entrou nos bicos dos pés, como se\n' +
+          'estivesse de visita a um inválido ou a um estranho. Gregório estendeu a cabeça para\n' +
+          'fora do sofá e ficou a observá-la. Notaria a irmã que ele deixara o leite intacto, não\n' +
+          'por falta de fome, e traria qualquer outra comida que lhe agradasse mais ao\n' +
+          'paladar? Se ela o não fizesse de moto próprio, Gregório preferiria morrer de fome a\n' +
+          'chamar-lhe a atenção para o acontecimento, muito embora sentisse um irreprimível\n' +
+          'desejo de saltar do seu refúgio debaixo do sofá e rojar-se-lhe aos pés, pedindo de\n' +
+          'comer. A irmã notou imediatamente, com surpresa, que a tigela estava ainda cheia,\n' +
+          'à exceção de uma pequena porção de leite derramado em tomo dela; ergueu logo a\n' +
+          'tigela, não diretamente com as mãos, é certo, mas sim com um pano, e levou-a.\n' +
+          'Gregório sentia uma enorme curiosidade de saber o que traria ela em sua\n' +
+          'substituição, multiplicando conjecturas. Não poderia de modo algum adivinhar o que\n' +
+          'a irmã, em toda a sua bondade, fez a seguir. Para descobrir do que gostaria ele,\n' +
+          'trouxe-lhe toda uma quantidade de alimentos, sobre um pedaço velho de jornal.\n' +
+          'Eram hortaliças velhas e meio podres, ossos do jantar da noite anterior, cobertos de\n' +
+          'um molho branco solidificado; uvas e amêndoas, era um pedaço de queijo que\n' +
+          'Gregório dois dias antes teria considerado intragável, era uma côdea de pão duro,\n' +
+          'um pão com manteiga sem sal e outro com manteiga salgada. Além disso, tornou a\n' +
+          'pôr no chão a mesma tigela, dentro da qual deixou água, e que pelos vistos ficaria\n' +
+          'reservada para seu exclusivo uso. Depois, cheia de tacto, percebendo que Gregório\n' +
+          'não comeria na sua presença, afastou-se rapidamente e deu mesmo volta chave,\n' +
+          'dando-lhe a entender que podia ficar completamente à vontade. Todas as pernas de\n' +
+          'Gregório se precipitaram em direção à comida. As feridas deviam estar\n' +
+          'completamente curadas, além de tudo, porque não sentia qualquer incapacidade, o\n' +
+          'que o espantou e o fez lembrar-se de que havia mais de um mês tinha feito um\n' +
+          'golpe num dedo com uma faca e ainda dois dias antes lhe doía a ferida.',
+        footnote: []
+      },
+      {
+        text: '— Estarei agora menos sensível?, pensou, ao mesmo tempo que sugava\n' +
+          'vorazmente o queijo, que, de toda a comida, era a que mais forte e imediatamente o\n' +
+          'atraía. Pedaço a pedaço, com lágrimas de satisfação nos olhos, devorou rapidamente o queijo, as hortaliças e o molho; por outro lado, a comida fresca não\n' +
+          'tinha atrativos para si; não podia sequer suportar-lhe o cheiro, que o obrigava até a\n' +
+          'arrastar para uma certa distância os pedaços que eram capazes de comer. Tinha\n' +
+          'acabado de comer havia bastante tempo e estava apenas preguiçosamente quieto\n' +
+          'no mesmo local, quando a irmã rodou lentamente a chave como que a fazer-lhe sinal\n' +
+          'para se retirar. Isto fê-lo levantar de súbito, embora estivesse quase adormecido, e\n' +
+          'precipitar-se novamente para debaixo do sofá. Foi-lhe necessária uma considerável\n' +
+          'dose de autodomínio para permanecer ali debaixo, dado que a pesada refeição lhe\n' +
+          'tinha feito inchar um tanto o corpo e estava tão comprido que mal podia respirar,\n' +
+          'Atacado de pequenos surtos de sufocação, sentia os olhos saírem um bocado para\n' +
+          'fora da cabeça ao observar a irmã, que de nada suspeitava, varrendo não apenas os\n' +
+          'restos do que comera, mas também as coisas em que não tocara, como se não\n' +
+          'fossem de utilidade fosse para quem fosse, e metendo-as, apressadamente, com a\n' +
+          'pá, num balde, que cobriu com uma tampa de madeira e retirou do quarto. Mal a\n' +
+          'irmã virou costas, Gregório saiu de baixo do sofá, dilatando e esticando o corpo.',
+        footnote: []
+      },
+      {
+        text: 'Assim era Gregório alimentado, uma vez de manhã cedo, enquanto os pais e\n' +
+          'a criada estavam ainda a dormir, e outra vez depois de terem todos almoçado, pois\n' +
+          'os pais faziam uma curta sesta e a irmã podia mandar a criada fazer um ou outro\n' +
+          'recado. Não que eles desejassem que ele morresse de fome, claro está, mas talvez\n' +
+          'porque não pudessem suportar saber mais sobre as suas refeições do que aquilo\n' +
+          'que sabiam pela boca da irmã, e talvez ainda porque a irmã os quisesse poupar a\n' +
+          'todas as preocupações, por mais pequenas que fossem, visto o que eles tinham de\n' +
+          'suportar ser mais do que suficiente. Uma coisa que Gregório nunca pôde descobrir\n' +
+          'foi que pretexto tinha sido utilizado para se libertarem do médico e do serralheiro na\n' +
+          'primeira manhã, já que, como ninguém compreendia o que ele dizia, nunca lhes\n' +
+          'passara pela cabeça, nem sequer à irmã, que ele pudesse percebê-los; assim,\n' +
+          'sempre que a irmã ia ao seu quarto, Gregório contentava-se em ouvi-la soltar um ou\n' +
+          'outro suspiro ou exprimir uma ou outra invocação aos seus santos. Mais tarde,\n' +
+          'quando se acostumou um pouco mais à situação — é claro que nunca poderia\n' +
+          'acostumar-se inteiramente —, fazia por vezes uma observação que revelava uma\n' +
+          'certa simpatia, ou que como tal podia ser interpretada. — Bom, hoje ele gostou do\n' +
+          'jantar — disse enquanto Gregório tinha consumido boa parte da comida; quando ele\n' +
+          'não comia, o que ia acontecendo com freqüência cada vez maior, dizia, quase com\n' +
+          'tristeza: — Hoje tornou a deixar tudo.',
+        footnote: []
+      },
+      {
+        text: 'Embora não pudesse manter-se diretamente a par do que ia acontecendo,\n' +
+          'Gregório apanhava, muitas conversas nas salas contíguas e, assim que elas se\n' +
+          'tornavam audíveis, corria para a porta em questão, colando-se todo a ela. Durante\n' +
+          'os primeiros dias, especialmente, não havia conversa alguma que se lhe não\n' +
+          'referisse de certo modo, ainda que indiretamente. Durante dois dias houve\n' +
+          'deliberações familiares sobre o que devia fazer-se; mas o assunto era igualmente\n' +
+          'discutido fora das refeições visto que estavam sempre, pelo menos, dois membros\n' +
+          'da família em casa: ninguém queria ficar lá sozinho e deixá-la sem ninguém estava\n' +
+          'inteiramente fora da questão. Logo nos primeiros dias, a criada, cujo verdadeiro\n' +
+          'conhecimento da situação não era para Gregório perfeitamente claro, caíra de\n' +
+          'joelhos diante da mãe, suplicando-lhe que a deixasse ir embora. Quando saiu, um\n' +
+          'quarto de hora mais tarde, agradeceu de lágrimas nos olhos o favor de ter sido\n' +
+          'dispensada, como se fosse a maior graça que pudesse ser-lhe concedida e, sem\n' +
+          'que ninguém lho sugerisse, prestou um solene juramento de que nunca contaria a\n' +
+          'ninguém o que se passara.',
+        footnote: []
+      },
+      {
+        text: 'Agora a irmã era também obrigada a cozinhar para ajudar a mãe. É certo que\n' +
+          'não era trabalho de monta, pois pouco se comia naquela casa. Gregório ouvia\n' +
+          'constantemente um dos membros da família a insistir com outro para que comesse e\n' +
+          'a receber invariavelmente a resposta: Não, muito obrigado, estou satisfeito, ou coisa\n' +
+          'semelhante. Talvez não bebessem, sequer. Muitas vezes a irmã perguntava ao pai\n' +
+          'se não queria cerveja e oferecia-se amavelmente para lha ir comprar; se ele não\n' +
+          'respondia, dava a entender que podia pedir à porteira que fosse buscá-la, para que\n' +
+          'ele não se sentisse em dívida, mas nessa altura o pai retorquia com um rotundo:\n' +
+          'Não! e ficava o assunto arrumado.',
+        footnote: []
+      },
+      {
+        text: 'Logo no primeiro dia, o pai explicara a situação financeira e as perspectivas\n' +
+          'da família a mãe e a irmã. De quando em quando, erguia-se da cadeira para ir\n' +
+          'buscar qualquer recibo ou apontamento a um pequeno cofre que tinha conseguido\n' +
+          'salvar do colapso financeiro em que mergulhara cinco anos atrás. Ouviam-no abrir a\n' +
+          'complicada fechadura e a remexer em papéis, depois a fechá-la novamente. Tais\n' +
+          'informações do pai foram às primeiras notícias agradáveis que Gregório teve desde\n' +
+          'o início do cativeiro. Sempre julgara que o pai tinha perdido tudo, ou, pelo menos, o\n' +
+          'pai nunca dissera nada em contrário e é evidente que Gregório nunca lho perguntara\n' +
+          'diretamente. Na altura em que a ruína tinha desabado sobre o pai, o único desejo de\n' +
+          'Gregório era fazer todos os possíveis para que a família se esquecesse com a maior\n' +
+          'rapidez de tal catástrofe, que mergulhara todos no mais completo desespero. Assim,\n' +
+          'começara a trabalhar com invulgar ardor e, quase de um dia para outro, passou de\n' +
+          'simples empregado de escritório a caixeiro-viajante, com oportunidades conseguiu\n' +
+          'entre melhores de ganhar bem, êxito esse que depressa se converteu em metal\n' +
+          'sonante que depositava na mesa, ante a surpresa e a alegria da família. Tinha sido\n' +
+          'uma época feliz, que nunca viria a ser igualada, embora mais tarde Gregório\n' +
+          'ganhasse o suficiente para sustentar inteiramente a casa. Tinham-se, pura e\n' +
+          'simplesmente, habituado ao acontecimento, tanto a família corno ele próprio: ele\n' +
+          'dava o dinheiro de boa vontade e eles aceitavam-no com gratidão, mas não havia\n' +
+          'qualquer efusão de sentimentos. Só com a irmã mantivera uma certa intimidade,\n' +
+          'alimentando a secreta esperança de poder mandá-la para o Conservatório no ano\n' +
+          'seguinte, apesar das grandes despesas que isso acarretaria, às quais de qualquer\n' +
+          'maneira haveria de fazer face, já que ela, ao contrário de Gregório, gostava imenso\n' +
+          'de música e tocava violino de tal modo que comovia quantos a ouviam. Durante os\n' +
+          'breves dias que passava em casa, falava muitas vezes do Conservatório nas\n' +
+          'conversas com a irmã, mas sempre apenas como um belo sonho irrealizável; quanto\n' +
+          'aos pais, procuravam até evitar essas inocentes referências à questão. Gregório\n' +
+          'tomara a firme decisão de levar a idéia avante e tencionava anunciar solenemente o\n' +
+          'acontecimento no dia de Natal.',
+        footnote: []
+      },
+      {
+        text: 'Essas eram as idéias — completamente fúteis, na sua atual situação — que\n' +
+          'lhe povoavam a mente enquanto se mantinha ereto, encostado à porta, à escuta.\n' +
+          'Por vezes, o cansaço obrigava-o a interrompê-la, limitando-se então a encostar a\n' +
+          'cabeça à porta, mas imediatamente obrigado a endireitar-se de novo, pois até o leve\n' +
+          'ruído que fazia ao mexer a cabeça era audível na sala ao lado e fazia parar todas as\n' +
+          'conversas. Que estará ele a fazer agora, perguntou o pai decorridos alguns\n' +
+          'instantes, virando-se decerto para a porta; só então ressuscitava gradualmente a\n' +
+          'conversa antes interrompida.',
+        footnote: []
+      },
+      {
+        text: 'Dado que o pai se tomava repetitivo nas explicações — por um lado, devido\n' +
+          'ao acontecimento de há muito não se encarregar de tais assuntos; por outro, graças\n' +
+          'à circunstância de a mãe nem sempre perceber tudo à primeira — , Gregório ficou\n' +
+          'por fim a saber que um certo número de investimentos, poucos, é certo, tinham escapado à ruína e tinham até aumentado ligeiramente, pois, entretanto, ninguém\n' +
+          'tocara nos dividendos. Além disso, nem todo o dinheiro dos ordenados mensais de\n' +
+          'Gregório - de que guardava para si apenas uma pequena parte — tinha sido gasto, o\n' +
+          'que originara economias que constituíam um pequeno capital. Do outro lado da\n' +
+          'porta, Gregório acenava ansiosamente com a cabeça, satisfeito perante aquela\n' +
+          'demonstração de inesperado espírito de poupança e previsão. A verdade é que,\n' +
+          'com aquele dinheiro suplementar, podia ter pago uma porção maior da dívida do pai\n' +
+          'ao patrão, apressando assim o dia em que poderia deixar o emprego, mas sem\n' +
+          'dúvida o pai fizera muito melhor assim.',
+        footnote: []
+      },
+      {
+        text: 'Apesar de tudo, aquele capital não era de modo nenhum suficiente para que a\n' +
+          'família vivesse dos juros. Talvez o pudessem fazer durante um ano ou dois, quando\n' +
+          'muito. Era, pura e simplesmente, uma quantia que urgia deixar de parte para\n' +
+          'qualquer emergência. Quanto ao dinheiro para fazer face às despesas normais,\n' +
+          'havia que ganhá-lo. o pai era ainda saudável, mas estava velho e não trabalhava\n' +
+          'havia cinco anos, pelo que não era de esperar que fizesse grande coisa. Ao longo\n' +
+          'desses cinco anos, os primeiros anos de lazer de uma vida de trabalho, ainda que\n' +
+          'mal sucedido, tinha engordado e tornara-se um tanto lento. Quanto à velha mãe,\n' +
+          'como poderia ganhar a vida com aquela asma, que até o simples andar agravava,\n' +
+          'obrigando-a muitas vezes a deixar-se cair num sofá, a arquejar junto de uma janela\n' +
+          'aberta? E seria então justo encarregar do sustento da casa a irmã, ainda uma\n' +
+          'criança com os seus dezessete anos e cuja vida tinha até aí sido tão agradável e se\n' +
+          'resumia a vestir-se bem, dormir bastante tempo, ajudar a cuidar da casa, ir de vez\n' +
+          'em quando a diversões modestas e, sobretudo, tocar violino? A principio, sempre\n' +
+          'que ouvia menções à necessidade de ganhar dinheiro, Gregório afastava-se da\n' +
+          'porta e deixava-se cair no fresco sofá de couro ao lado dela, rubro de vergonha e\n' +
+          'desespero.',
+        footnote: []
+      },
+      {
+        text: 'Muitas vezes ali se deixava estar durante toda a noite, sem dormir a esfregarse\n' +
+          'no couro, durante horas a fio. Quando não, reunia a coragem necessária para se\n' +
+          'entregar ao violento esforço de empurrar uma cadeira de braços para junto da\n' +
+          'janela, trepava para o peitoril e, arrimando-se à cadeira, encostava-se às vidraças,\n' +
+          'certamente obedecendo a qualquer reminiscência da sensação de liberdade que\n' +
+          'sempre experimentava ao ver à janela. De fato, dia após dia, até as coisas que\n' +
+          'estavam relativamente pouco afastadas se tornavam pouco nítidas; o hospital do\n' +
+          'outro lado da rua, que antigamente odiava por ter sempre à frente dos olhos, ficava\n' +
+          'agora bastante para além do seu alcance visual e, se não soubesse que vivia ali,\n' +
+          'numa rua sossegada, de qualquer maneira, uma rua de cidade, bem poderia julgar\n' +
+          'que a janela dava para um terreno deserto onde o cinzento do céu e da terra se\n' +
+          'fundiam indistintamente. Esperta como era, a irmã só precisou ver duas vezes a\n' +
+          'cadeira junto da janela: a partir de então, sempre que acabava de arrumar o quarto,\n' +
+          'tornava a colocar a cadeira no mesmo, sítio e até deixava as portadas interiores da\n' +
+          'janela abertas.',
+        footnote: []
+      },
+      {
+        text: 'Se ao menos pudesse falar com ela e agradecer-lhe tudo o que fazia por ele,\n' +
+          'suportaria melhor os seus cuidados; mas naquelas condições, sentia-se oprimido. É\n' +
+          'certo que ela tentava fazer, o mais despreocupadamente possível, tudo o que lhe\n' +
+          'fosse desagradável, o que, com o correr do tempo, cada vez o conseguia melhor,\n' +
+          'mas também Gregório, aos poucos, se ia apercebendo mais lucidamente da\n' +
+          'situação. Bastava a maneira de ela entrar para o angustiar. Mal penetrava no quarto,\n' +
+          'corria para a janela, sem sequer dar-se ao trabalho de fechar a porta atrás de si,\n' +
+          'apesar do cuidado que costumam ter em ocultar aos outros a visão de Gregório, e,\n' +
+          'como se estivesse pontos de sufocar, abria precipitadamente a janela e ali ficava a apanhar ar durante um minuto, por mais frio que fizesse, respirando profundamente.\n' +
+          'Duas vezes por dia, incomodava Gregório com a sua ruidosa precipitação, que o\n' +
+          'fazia refugiar-se, a tremer, debaixo do sofá, durante todo o tempo, ciente de que a\n' +
+          'irmã certamente o pouparia a tal incômodo se lhe fosse possível permanecer na sua\n' +
+          'presença sem abrir a janela.',
+        footnote: []
+      },
+      {
+        text: 'Certa vez, coisa de um mês após a metamorfose de Gregório, quando já não\n' +
+          'havia por certo motivo para assustar-se com o seu aspecto, apareceu ligeiramente\n' +
+          'mais cedo do que era habitual e deu com ele a ver à janela, imóvel, numa posição\n' +
+          'em que parecia um espectro. Gregório não se surpreenderia se ela não entrasse\n' +
+          'pura e simplesmente, pois não podia abrir imediatamente a janela enquanto ele ali\n' +
+          'estivesse, mas ela não só evitou entrar como deu um salto para trás, diria que\n' +
+          'alarmada, e bateu com a porta em retirada. Um estranho que observasse a cena\n' +
+          'julgaria com certeza que Gregório a esperava para lhe morder. É claro que\n' +
+          'imediatamente se escondeu debaixo do sofá, mas ela só voltou ao meio-dia com um\n' +
+          'ar bastante mais perturbado do que era vulgar. Este acontecimento revelou a\n' +
+          'Gregório a repulsa que o seu aspecto provocava ainda à irmã e o esforço que devia\n' +
+          'custar-lhe não desatar a correr mal via a pequena porção do seu corpo que aparecia\n' +
+          'sob o sofá. Nestas condições, decidiu um dia poupá-la a tal visão e, à custa de\n' +
+          'quatro horas de trabalho, pôs um lençol pelas costas e dirigiu-se para o sofá,\n' +
+          'dispondo-o de modo a ocultar-lhe totalmente o corpo, mesmo que a irmã se\n' +
+          'baixasse para espreitar. Se ela achasse desnecessário o lençol, decerto o tiraria do\n' +
+          'sofá, visto ser evidente que aquela forma de ocultação e confinamento em nada\n' +
+          'contribuíam para o conforto de Gregório; neste instante, ela deixou o lençol onde\n' +
+          'estava e ele teve mesmo a impressão de surpreender-lhe um olhar de gratidão, ao\n' +
+          'levantar cuidadosamente uma ponta do lençol para ver qual a reação da irmã àquela\n' +
+          'nova disposição.',
+        footnote: []
+      },
+      {
+        text: 'Durante os primeiros quinze dias, os pais não conseguiram reunir a coragem\n' +
+          'necessária para entrarem no quarto de Gregório, que freqüentemente os ouvia\n' +
+          'elogiarem a atividade da irmã, que anteriormente costumavam repreender, por a\n' +
+          'considerarem, até certo ponto, uma lia inútil. Agora, era freqüente esperarem ambos\n' +
+          'à porta, enquanto a irmã procedia à limpeza do quarto, perguntando-lhe logo que\n' +
+          'saía como corriam as coisas lá dentro, o que tinha Gregório comido, como se\n' +
+          'comportara desta vez e se porventura não melhorara um pouco. A mãe, essa,\n' +
+          'começou relativamente cedo a pretender visitá-lo, mas o pai e a irmã tentaram logo\n' +
+          'dissuadi-la, contrapondo argumentos que Gregório escutava atentamente, e que ela\n' +
+          'aceitou totalmente. Mais tarde, só conseguiam removê-la pela forca e, quando ela\n' +
+          'exclamava, a chorar: Deixem-me ir ver o Gregório, o meu pobre filho! Não percebem\n' +
+          'que tenho de ir vê-lo, Gregório pensava que talvez fosse bom que ela lá fosse, não\n' +
+          'todos os dias, claro, mas talvez uma vez por semana; no fim de contas, ela havia de\n' +
+          'compreender, muito melhor que a irmã, que não passava de uma criança, apesar\n' +
+          'dos esforços que fazia e aos quais talvez se tivesse entregado por mera consciência\n' +
+          'infantil.',
+        footnote: []
+      },
+      {
+        text: 'O desejo que Gregório sentia de ver a mãe não tardou em ser satisfeito.\n' +
+          'Durante o dia evitava mostrar-se à janela, por consideração para com os pais, mas\n' +
+          'os poucos metros quadrados de chão de que dispunha não davam para grandes\n' +
+          'passeios, nem lhe seria possível passar toda a noite imóvel; por outro lado, perdia\n' +
+          'rapidamente todo e qualquer gosto pela comida.Para se distrair, adquirira o hábito\n' +
+          'de se arrastar ao longo das paredes e do tecto.Gostava particularmente de manterse\n' +
+          'suspenso do tecto, coisa muito melhor do que estar no chão: a respiração\n' +
+          'tornava-se-lhe mais livre, o corpo oscilava e coleava suavemente e, quase beatificamente absorvido por tal suspensão, chegava a deixar-se cair ao chão.\n' +
+          'Possuindo melhor coordenação dos movimentos do corpo, nem uma queda daquela\n' +
+          'altura tinha conseqüências. A irmã notara imediatamente esta nova distração de\n' +
+          'Gregório, visto que ele deixava atrás de si, ao deslocar-se, marcas da substância\n' +
+          'pegajosa das extremidades das pernas, e meteu-se-lhe na cabeça arranjar-lhe a\n' +
+          'maior porção de espaço livre possível para os passeios, retirando as peças de\n' +
+          'mobiliário que constituíssem obstáculos para o irmão, especialmente a cômoda e a\n' +
+          'secretária.A tarefa era demasiado pesada para si e, se não se atrevia a pedir ajuda\n' +
+          'ao pai, estava fora de questão recorrer à criada, uma menina de dezesseis anos que\n' +
+          'havia tido a coragem de ficar após a partida da cozinheira, visto que a moça tinha\n' +
+          'pedido o especial favor de manter a porta da cozinha fechada à chave e abri-la\n' +
+          'apenas quando expressamente a chamavam. Deste modo, só lhe restava apelar\n' +
+          'para a mãe numa altura em que o pai não estivesse em casa. A mãe anuiu-se, entre\n' +
+          'exclamações de ávida satisfação, que diminuíram junto à porta do quarto de\n' +
+          'Gregório. É claro que a irmã entrou primeiro, para verificar se estava tudo em ordem\n' +
+          'antes de deixar a mãe entrar. Gregório puxou precipitadamente o lençol para baixo e\n' +
+          'dobrou-o mais, de maneira a parecer que tinha sido acidentalmente atirado para\n' +
+          'cima do sofá. Desta vez não deitou a cabeça de fora para espreitar, renunciando ao\n' +
+          'prazer de ver a mãe pela satisfação de ela ter decidido afinal visitá-lo.',
+        footnote: []
+      },
+      {
+        text: '— Entre, que ele não está à vista - disse a irmã, certamente guiando-a pela\n' +
+          'mão.',
+        footnote: []
+      },
+      {
+        text: 'Gregório ouvia agora as duas mulheres a esforçarem-se por deslocar a\n' +
+          'pesada cômoda e a irmã a chamar a si a maior parte do trabalho, sem dar ouvidos\n' +
+          'às admoestações da mãe, receosa de que a filha estivesse a fazer esforços\n' +
+          'demasiados. A manobra foi demorada. Passado, pelo menos, um quarto de hora de\n' +
+          'tentativas, a mãe objetou que o melhor seria deixar a cômoda onde estava, em\n' +
+          'primeiro lugar, porque era pesada de mais e nunca conseguiriam deslocá-la antes\n' +
+          'da chegada do pai e, se ficasse no meio do quarto, como estava, só dificultaria os\n' +
+          'movimentos de Gregório; em segundo lugar, nem sequer havia a certeza de que a\n' +
+          'remoção da mobília lhe prestasse um serviço. Tinha a impressão do contrário; a\n' +
+          'visão das paredes nuas deprimia-a, e era natural que sucedesse o mesmo a\n' +
+          'Gregório, dado que estava habituado à mobília havia muito tempo e a sua ausência\n' +
+          'poderia fazê-lo sentir-se só.',
+        footnote: []
+      },
+      {
+        text: '— Não é verdade — disse em voz baixa, aliás pouco mais que murmurara,\n' +
+          'durante todo o tempo, como se quisesse evitar que Gregório, cuja localização exata\n' +
+          'desconhecia, lhe reconhecesse sequer o tom de voz, pois estava convencida de que\n' +
+          'ele não percebia as palavras —, não é verdade que, retirando-lhe a mobília, lhe\n' +
+          'mostramos não ter já qualquer esperança de que ele se cure e que o abandonamos\n' +
+          'impiedosamente à sua sorte? Acho que o melhor é deixar o quarto exatamente como\n' +
+          'sempre esteve, para que ele, quando voltar para nós, encontre tudo na mesma e\n' +
+          'esqueça com mais facilidade o que aconteceu entretanto.',
+        footnote: []
+      },
+      {
+        text: 'Ao ouvir as palavras da mãe, Gregório apercebeu-se de que a falta de\n' +
+          'conversação direta com qualquer ser humano, durante os dois últimos meses, aliada\n' +
+          'à monotonia da vida em família, lhe deviam ter perturbado o espírito; se assim não\n' +
+          'fosse, não teria genuinamente ansiado pela retirada da mobília do quarto. Quereria,\n' +
+          'efetivamente, que o quarto acolhedor, tão confortavelmente equipado com a velha mobília da família, se transformasse numa caverna nua onde decerto poderia\n' +
+          'arrastar-se livremente em todas as direções, à custa do simultâneo abandono de\n' +
+          'qualquer reminiscência do seu passado humano? Sentia-se tão perto desse\n' +
+          'esquecimento total que só a voz da mãe, que há tanto tempo não ouvia, não lhe\n' +
+          'permitira mergulhar completamente nele. Nada devia ser retirado do quarto. Era\n' +
+          'preciso que ficasse tudo como estava, pois não podia renunciar à influência positiva\n' +
+          'da mobília, no estado de espírito em que se encontrava, e, mesmo que o mobiliário\n' +
+          'lhe perturbasse as voltas sem sentido, isso não redundava em prejuízo, mas sim em\n' +
+          'vantagem.',
+        footnote: []
+      },
+      {
+        text: 'Infelizmente a irmã era de opinião contrária; habituara-se, e não sem motivos,\n' +
+          'a considerar-se uma autoridade no que respeitava a Gregório, em contradição com\n' +
+          'os pais, de modo que a presente opinião da mãe era suficiente para a decidir a\n' +
+          'retirar, não só a cômoda e a secretária, mas toda a mobília, à exceção do\n' +
+          'indispensável sofá. É certo que esta decisão não era conseqüência da simples\n' +
+          'teimosia infantil nem da autoconfiança que recentemente adquirira, tão inesperada\n' +
+          'como penosamente; tinha, efetivamente, percebido que Gregório precisava de uma\n' +
+          'porção de espaço para vaguear e, tanto quanto lhe era dado observar, Gregório\n' +
+          'nunca usara sequer a mobília. Outro fator terá porventura sido igualmente o\n' +
+          'temperamento entusiástico de qualquer menina adolescente, que tende a\n' +
+          'manifestar-se em todas as ocasiões possíveis e que agora levava Grete a exagerar\n' +
+          'o drama da situação do irmão, a fim de poder auxiliá-lo mais ainda. Num quarto onde\n' +
+          'Gregório reinasse rodeado de paredes nuas, havia fortes probabilidades de ninguém\n' +
+          'alguma vez entrar, a não ser ela.',
+        footnote: []
+      },
+      {
+        text: 'Assim, não se deixou dissuadir pela mãe, que parecia cada vez menos à\n' +
+          'vontade no quarto, estado de espírito que só contribuía para sentir-se mais insegura.\n' +
+          'Rapidamente reduzida ao silêncio, limitou-se, pois, a ajudar a filha a retirar a\n' +
+          'cômoda, na medida do possível. Ora, sem a cômoda podia Gregório muito bem\n' +
+          'passar, mas era forçoso que conservasse a secretária. Logo que as mulheres\n' +
+          'removeram a cômoda, à força de arquejantes arrancos, Gregório pôs a cabeça de\n' +
+          'fora, para ver como poderia intervir da maneira mais delicada e cuidadosa. Quis o\n' +
+          'destino que fosse a mãe a primeira a regressar, enquanto Grete, no quarto contíguo,\n' +
+          'tentava deslocar sozinha a cômoda, evidentemente debalde. Como a mãe não\n' +
+          'estava habituada ao seu aspecto, era provável que sofresse um grande choque ao\n' +
+          'vê-lo. Receando que tal acontecesse, Gregório recuou precipitadamente para a\n' +
+          'outra extremidade do sofá, mas não conseguiu evitar que o lençol se agitasse\n' +
+          'ligeiramente. Esse movimento foi o bastante para alertar a mãe, que ficou imóvel por\n' +
+          'um instante e em seguida se refugiou junto de Grete.',
+        footnote: []
+      },
+      {
+        text: 'Embora Gregório tentasse convencer-se de que nada de anormal se passava,\n' +
+          'que se tratava apenas de uma mudança de algumas peças de mobiliário, acabou\n' +
+          'por reconhecer que as idas e vindas das mulheres, os sons momentâneos que\n' +
+          'produziam e o arrastar de móveis o afetavam como se tratasse de uma indisposição\n' +
+          'que viesse de todos os lados ao mesmo tempo e, por mais que encolhesse a cabeça\n' +
+          'e as pernas e se acachapasse no chão, viu-se perante a certeza de que não poderia\n' +
+          'continuar a suportar tudo aquilo por muito tempo. Tiravam-lhe tudo do quarto,\n' +
+          'privavam-no de tudo o que lhe agradava: a cômoda onde guardava a serra de\n' +
+          'recorte e as outras ferramentas tinha sido retirada, e agora tentavam remover a\n' +
+          'secretária, que quase parecia colada ao chão, na qual fizera todos os trabalhos de\n' +
+          'casa quando freqüentara a escola comercial, e, antes disso, o liceu e, pois era, até a\n' +
+          'escola primária... Não conseguia deter-se a analisar as boas intenções das duas\n' +
+          'mulheres, cuja existência quase tinha esquecido nessa altura, visto estarem tão exaustas que se dedicavam ao trabalho em silêncio, ouvindo-se apenas o pesado\n' +
+          'arrastar dos pés de ambas.',
+        footnote: []
+      },
+      {
+        text: 'Nestas condições, apressou-se a sair do esconderijo, ao mesmo tempo que\n' +
+          'as mulheres, no quarto ao lado, se apoiavam na secretária, tomando fôlego. Quatro\n' +
+          'vezes mudou de direção, pois não sabia o que salvar primeiro. De repente, avistou\n' +
+          'na parede oposta, totalmente liberta de mobiliário, a figura da mulher envolta em\n' +
+          'peles; trepou rapidamente pela parede e colou-se ao vidro da moldura, que\n' +
+          'constituía uma superfície à qual o seu corpo aderia bem e que lhe refrescava\n' +
+          'agradavelmente o ventre escaldante. Pelo menos o quadro, que o corpo de Gregório\n' +
+          'ocultava totalmente, ninguém havia de retirar. Voltou a cabeça para a porta da sala\n' +
+          'de estar, a fim de poder observar as mulheres quando regressassem.',
+        footnote: []
+      },
+      {
+        text: 'Pouco tinham descansado, visto que regressavam nesse momento, a mãe\n' +
+          'quase apoiada a Grete, que lhe passara o braço em torno da cintura.',
+        footnote: []
+      },
+      {
+        text: '— Bem, que havemos de tirar agora? perguntou Grete, olhando em volta.',
+        footnote: []
+      },
+      {
+        text: 'Foi então que deparou com Gregório. Manteve a compostura, provavelmente\n' +
+          'em atenção à mãe, e inclinou a cabeça para ela, a fim de evitar que levantasse a\n' +
+          'vista. Ao mesmo tempo, perguntou-lhe, em voz trêmula e desabrida:',
+        footnote: []
+      },
+      {
+        text: '— Não será melhor voltarmos um instante ao refeitório?',
+        footnote: []
+      },
+      {
+        text: 'Gregório adivinhou facilmente as intenções de Grete: queria pôr a mãe a\n' +
+          'salvo e enxotá-lo seguidamente da parede. Muito bem, ela que experimentasse!\n' +
+          'Agarraria ao quadro e não cederia. Preferia avançar sobre o rosto de Grete.',
+        footnote: []
+      },
+      {
+        text: 'Mas as palavras de Grete não haviam logrado senão desassossegar a mãe,\n' +
+          'que deu um passo para o lado e encarou o enorme vulto castanho no florido papel\n' +
+          'da parede. Antes de tomar perfeita consciência de que se tratava de Gregório, gritou\n' +
+          'roucamente:',
+        footnote: []
+      },
+      {
+        text: '— Ai, meu Deus! Ai, meu Deus!- e deixou-se desmaiar de braços abertos no\n' +
+          'sofá, não dando mais sinal de vida.',
+        footnote: []
+      },
+      {
+        text: '— Gregório! - gritou a irmã, fitando-o com um punho cerrado erguido na sua\n' +
+          'direção. Era a primeira vez que se lhe dirigia diretamente depois da metamorfose.\n' +
+          'Correu à sala contígua em busca de um frasco de sais para reanimar a mãe.\n' +
+          'Gregório quis igualmente ajudar, pois havia tempo para salvar o quadro, mas teve de\n' +
+          'fazer grande esforço para se descolar do vidro. Ao consegui-lo, correu atrás da irmã\n' +
+          'para a sala contígua, como se pudesse aconselhá-la, a exemplo do que costumava\n' +
+          'fazer, mas não teve outro remédio senão deixar-se ficar desamparadamente atrás\n' +
+          'dela. Grete remexia por entre vários frascos e, ao virar-se, entrou em pânico ante a\n' +
+          'visão de Gregório. Um dos frascos caiu ao chão, partindo-se. Ao saltar, um caco\n' +
+          'cortou o focinho de Gregório, ao mesmo tempo que uma droga corrosiva lhe\n' +
+          'salpicava o corpo. Sem mais detenças, Grete agarrou em todos os frascos que lhe\n' +
+          'era possível transportar e correu para a mãe, fechando violentamente a porta com o\n' +
+          'pé. Gregório via-se assim separado da mãe, que talvez estivesse à beira da morte,\n' +
+          'por sua culpa. Não se atrevia a abrir a porta, receando assustar Grete, que tinha de\n' +
+          'cuidar da mãe. Só lhe restava esperar. Consumido pelo remorso e cuidado,\n' +
+          'começou a andar para um lado e para o outro, trepando tudo, paredes, mobília e\n' +
+          'tecto. Finalmente, acossado pelo desespero, viu a sala a andar à roda e caiu no\n' +
+          'meio da grande mesa.',
+        footnote: []
+      },
+      {
+        text: 'Decorridos alguns instantes, Gregório estava ainda impotentemente deitado\n' +
+          'na mesa, cercado pelo silêncio, que constituía talvez um bom sintoma. Depois soou\n' +
+          'a campainha da porta. A criada estava certamente fechada na cozinha e tinha que\n' +
+          'ser Grete a abrir a porta. Era o pai.',
+        footnote: []
+      },
+      {
+        text: '— Que aconteceu? — foram as suas primeiras palavras. A expressão de\n' +
+          'Grete deve ter sido suficientemente elucidativa. Respondeu em voz abafada,\n' +
+          'aparentemente com a cabeça oculta no peito:',
+        footnote: []
+      },
+      {
+        text: '— A mãe teve um desmaio, mas está melhor. Foi o Gregório que se soltou.',
+        footnote: []
+      },
+      {
+        text: '— Bem me parecia — replicou o pai. — Eu bem vos avisei, mas vocês, as\n' +
+          'mulheres, nunca ligam.',
+        footnote: []
+      },
+      {
+        text: 'Era evidente para Gregório que o pai tinha interpretado da pior maneira\n' +
+          'possível a explicação demasiado curta de Grete e imaginava Gregório culpado de\n' +
+          'qualquer ato violento. Urgia, portanto, deixar o pai acalmar-se, visto que não tinha\n' +
+          'tempo nem processo de dar explicações. Precipitou-se assim para a porta do quarto\n' +
+          'e comprimiu-se contra ela, para que o pai visse, ao passar do vestíbulo, que o filho\n' +
+          'tinha tido a louvável intenção de regressar imediatamente ao quarto e que, por\n' +
+          'conseguinte, não era preciso obrigá-lo a recolher-se ali, pois desapareceria num\n' +
+          'ápice, se simplesmente a porta estivesse aberta.',
+        footnote: []
+      },
+      {
+        text: 'O pai não estava em estado de espírito que lhe permitisse essas\n' +
+          'substituições. Mal o avistou, gritou um Ali simultaneamente irado e exultante.\n' +
+          'Gregório afastou a cabeça da porta e virou-a para o pai. Para dizer a verdade, não\n' +
+          'era o pai que imaginara; tinha de admitir que ultimamente se deixara absorver de tal\n' +
+          'modo pela diversão de caminhar pelo tecto que não dava a atenção de outros\n' +
+          'tempos ao que se passava no resto da casa, embora fosse obrigação sua estar\n' +
+          'preparado para certas alterações. Mas, ao mesmo tempo, seria aquele realmente o\n' +
+          'seu pai? Seria o mesmo homem que costumava ver pesadamente deitado na cama\n' +
+          'quando partia para cada viagem? Que o cumprimentava quando ele voltava, à noite,\n' +
+          'deitado, de pijama, numa cadeira de braços? Que não conseguia ter-se de pé e se\n' +
+          'limitava a erguer os braços para o saudar? Que, nas raras vezes em que saía com o\n' +
+          'resto da família, um ou dois domingos por ano, nas férias, caminhava entre Gregório\n' +
+          'e a mãe; andavam bem devagar, o pai ainda mais vagarosamente do que eles,\n' +
+          'atabafado dentro do velho sobretudo, arrastando-se laboriosamente com o auxílio da\n' +
+          'bengala, que pousava cautelosamente em cada degrau e que, sempre que tinha\n' +
+          'alguma coisa para dizer, quase sempre era obrigado a parar e a juntá-los todos à\n' +
+          'sua volta?',
+        footnote: []
+      },
+      {
+        text: 'Agora estava ali de pé firme, envergando urna bela farda azul de botões\n' +
+          'dourados, das que os contínuos dos bancos usam; o vigoroso duplo queixo\n' +
+          'espetava-se para fora da dura gola alta do casaco e, sob as espessas sobrancelhas,\n' +
+          'brilhavam-lhe os olhos pretos, vívidos e penetrantes. Os cabelos brancos outrora\n' +
+          'emaranhados dividiam-se agora, bem lisos, para um e outro lado de uma risca ao\n' +
+          'meio, impecavelmente traçada. Lançou vigorosamente o boné, que tinha bordado o\n' +
+          'monograma de qualquer banco, para cima de um sofá, no outro extremo da sala e,\n' +
+          'corri as largas abas do casaco, avançou ameaçadoramente para Gregório.\n' +
+          'Provavelmente, nem ele próprio sabia o que ia fazer, mas, fosse corno fosse, ergueu\n' +
+          'o pé a uma altura pouco natural, aterrando Gregório ante o tamanho descomunal\n' +
+          'das solas dos sapatos. Mas Gregório não podia arriscar-se a enfrentá-lo, pois desde\n' +
+          'o primeiro dia da sua nova vida se tinha apercebido de que o pai considerava que só\n' +
+          'se podia lidar com ele adotando as mais violentas medidas. Nestas condições, desatou a fugir do pai, parando quando ele parava e precipitando-se novamente em frente ao menor movimento do pai.',
+        footnote: []
+      },
+      {
+        text: 'Foi assim que deram várias voltas ao quarto, sem que nada de definido\n' +
+          'sucedesse; aliás, tudo aquilo estava longe de assemelhar-se sequer a uma\n' +
+          'perseguição, dada a lentidão com que se processava. Gregório resolveu manter-se\n' +
+          'no chão, não fosse o pai interpretar como manifestação declarada de perversidade\n' +
+          'qualquer excursão pelas paredes ou pelo tecto. Apesar disso, não podia suportar\n' +
+          'aquela corrida por muito mais tempo, uma vez que, por cada passada do pai, era\n' +
+          'obrigado a empenhar-se em toda uma série de movimentos e, da mesma maneira\n' +
+          'que na vida anterior nunca tivera uns pulmões famosos, começava a perder o fôlego.\n' +
+          'Prosseguia ofegante, tentando concentrar todas as energias na fuga, mal mantendo\n' +
+          'os olhos abertos, tão apatetado que não conseguia sequer imaginar qualquer\n' +
+          'processo de escapar a não ser continuar em frente, quase esquecendo que podia\n' +
+          'utilizar as paredes, repletas de mobílias ricamente talhadas, cheias de saliências e\n' +
+          'reentrâncias. De súbito, sentiu embater perto de si e rolar à sua frente qualquer\n' +
+          'coisa que fora violentamente arremessada. Era uma maçã, à qual logo outra se\n' +
+          'seguiu.Gregório deteve-se, assaltado pelo pânico. De nada servia continuar a fugir,\n' +
+          'uma vez que o pai resolvera bombardeá-lo. Tinha enchido os bolsos de maçãs, que\n' +
+          'tirara da fruteira do aparador, e atirava-lhas uma a uma, sem grandes preocupações\n' +
+          'de pontaria. As pequenas maçãs vermelhas rebolavam no chão como que\n' +
+          'magnetizadas e engatilhadas umas nas outras. Uma delas, arremessada sem\n' +
+          'grande força, roçou o dorso de Gregório e ressaltou sem causar-lhe dano. A que se\n' +
+          'seguiu, penetrou-lhe nas costas.Gregório tentou arrastar-se para a frente, como se,\n' +
+          'fazendo-o, pudesse deixar para trás a incrível dor que repentinamente sentiu, mas\n' +
+          'sentia-se pregado ao chão e só conseguiu acaçapar-se, completamente\n' +
+          'desorientado. Num último olhar, antes de perder a consciência, viu a porta abrir-se\n' +
+          'de repente e a mãe entrar de roldão à frente da filha, em trajos mais pequenas, pois\n' +
+          'Grete tinha-a libertado da roupa para lhe permitir melhor respiração e reanimá-la. Viu\n' +
+          'ainda a mãe correr para o pai, deixando cair no chão as saias de baixo, uma após\n' +
+          'outra, tropeçar nelas e cair nos braços do pai, em completa união com ele nesse\n' +
+          'instante, a vista de Gregório começou a falhar, enclavinhando-lhe as mãos em redor\n' +
+          'do pescoço e pedindo-lhe que poupasse a vida ao filho.',
+        footnote: []
+      }
+    ]
+  },
+  {
     title: 'Da Tranquilidade da Alma',
     author: 'Sêneca',
     section: 'Sêneca a Sereno',
@@ -12847,6 +13506,33 @@ export default [
       },
       {
         text: 'E cravou o punhal no coração.',
+        footnote: []
+      }
+    ]
+  },
+  {
+    title: 'A Metamorfose',
+    author: 'Franz Kafka',
+    section: 'Capítulo III',
+    img: 'kafka',
+    imgIndex: '11',
+    titleURL: 'a-metamorfose',
+    authorURL: 'franz-kafka',
+    sectionURL: 'capitulo-III',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '',
         footnote: []
       }
     ]
