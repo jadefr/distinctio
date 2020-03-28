@@ -9001,7 +9001,7 @@ export default [
     title: 'A Carteira',
     author: 'Machado de Assis',
     section: 'Conto',
-    img: 'machado',
+    img: 'machado2',
     imgIndex: '6',
     titleURL: 'a-carteira',
     authorURL: 'machado-de-assis',
@@ -9587,6 +9587,132 @@ export default [
             content: ''
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'A Ela',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado2',
+    imgIndex: '6',
+    titleURL: 'a-ela',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: '<br>Quem és tu que me atormentas <br>' +
+          'Com teus prazenteiros sorrisos? <br>' +
+          'Com teus prazenteiros sorrisos? <br>' +
+          'Quem és tu que me apontas <br>' +
+          'As portas dos paraísos? <br>' +
+          '<br>' +
+          'Imagem do céu és tu? <br>' +
+          'És filha da divindade? <br>' +
+          'Ou vens prender em teus cabelos <br>' +
+          'A minha liberdade?<br>',
+        footnote: []
+      },
+      {
+        text: '<br><br>',
+        footnote: []
+      },
+      {
+        text: '“Vê V. Exa., Sr. presidente, que nesse tempo, o nobre deputado era inimigo de todas as leis\n' +
+          'opressoras. A assembléia tem visto como ele trata as leis do metro.”',
+        footnote: []
+      },
+      {
+        text: 'Todo o resto do discurso foi assim. A minoria protestou. Luís Tinoco fez-se de todas as cores, e a\n' +
+          'sessão acabou em risada. No dia seguinte os jornais amigos de Luís Tinoco agradeceram ao\n' +
+          'adversário deste o triunfo que lhe proporcionou mostrando à província “uma antiga e brilhante face do\n' +
+          'talento do ilustre deputado”. Os que indecorosamente riram dos versos, foram condenados com estas\n' +
+          'poucas linhas: “Há dias um deputado governista disse que a situação era uma caravana de homens\n' +
+          'honestos e bons. É caravana, não há dúvida; vimos ontem os seus camelos”.',
+        footnote: []
+      },
+      {
+        text: 'Nem por isso, Luís Tinoco ficou mais consolado. As cartas ao Dr. Lemos começaram a escassear, até\n' +
+          'que de todo cessaram de aparecer. Decorreram assim silenciosos uns três anos, ao cabo dos quais o\n' +
+          'Dr. Lemos foi nomeado não sei para que cargo na província onde se achava Luís Tinoco. Partiu.\n' +
+          'Apenas empossado do cargo, tratou de procurar o ex-poeta, e pouco tempo gastou recebendo logo um\n' +
+          'convite dele para ir a um estabelecimento rural onde se achava.',
+        footnote: []
+      },
+      {
+        text: '– Há de me chamar ingrato, não? disse Luís Tinoco, apenas viu assomar à porta de casa o\n' +
+          'Dr. Lemos. Mas não sou; contava ir vê-lo daqui a um ano; e se lhe não escrevi... Mas que tem doutor?\n' +
+          'está espantado?',
+        footnote: []
+      },
+      {
+        text: 'O Dr. Lemos estava efetivamente pasmado a olhar para a figura de Luís Tinoco. Era aquele o poeta\n' +
+          'dos Goivos e Camélias, o eloqüente deputado, o fogoso publicista? O que ele tinha diante de si era um\n' +
+          'honrado e pacato lavrador, ar e maneiras rústicas, sem o menor vestígio das atitudes melancólicas do\n' +
+          'poeta, do gesto arrebatado do trbuno, - uma transformação, uma criatura muito outra e muito melhor.\n' +
+          'Riram-se ambos, um da mudança, outro do espanto, pedindo o Dr. Lemos a Luís Tinoco lhe dissesse\n' +
+          'se era certo haver deixado a política, ou se aquilo eram apenas umas férias para renovar a alma.',
+        footnote: []
+      },
+      {
+        text: '– Tudo lhe explicarei, doutor, mas há de ser depois de ter examinado a minha casa e\n' +
+          'minha roça, depois de lhe apresentar minha mulher e meus filhos...',
+        footnote: []
+      },
+      {
+        text: '– Casado?',
+        footnote: []
+      },
+      {
+        text: '– Há vinte meses.',
+        footnote: []
+      },
+      {
+        text: '– E não me disse nada!',
+        footnote: []
+      },
+      {
+        text: '– Ia este ano à corte e esperava surpreendê-lo... Que duas criancinhas as minhas... lindas\n' +
+          'como dois anjos. Saem à mãe, que é a flor da província. Oxalá pareçam também com ela nas\n' +
+          'qualidades de dona de casa; que atividade! que economia!...',
+        footnote: []
+      },
+      {
+        text: 'Feita a apresentação, beijadas as crianças, examinado tudo, Luís Tinoco declarou ao Dr. Lemos que' +
+          'definitivamente deixara a política.',
+        footnote: []
+      },
+      {
+        text: '– De vez?',
+        footnote: []
+      },
+      {
+        text: '– De vez.',
+        footnote: []
+      },
+      {
+        text: '– Mas que motivo? desgostos, naturalmente.',
+        footnote: []
+      },
+      {
+        text: '– Não; descobri que não era fadado para grandes destinos. Um dia leram-me na\n' +
+          'assembléia alguns versos meus. Reconheci então quanto eram pífios os tais versos; e podendo vir\n' +
+          'mais tarde a olhar com a mesma lástima e igual arrependimento para as minhas obras políticas,\n' +
+          'arrepiei carreira e deixei a vida pública. Uma noite de reflexão e nada mais.',
+        footnote: []
+      },
+      {
+        text: '– Pois teve ânimo?...',
+        footnote: []
+      },
+      {
+        text: '– Tive, meu amigo, tive ânimo de pisar terreno sólido, em vez de patinhar nas ilusões dos\n' +
+          'primeiros dias. Eu era um ridículo poeta e talvez ainda mais ridículo orador. Minha vocação era esta.\n' +
+          'Com poucos anos mais estou rico. Ande agora beber o café que nos espera e feche a boca, que as\n' +
+          'moscas andam no ar.',
+        footnote: []
       }
     ]
   },
@@ -12427,6 +12553,200 @@ export default [
             content: ''
           }
         ]
+      }
+    ]
+  },
+  {
+    title: 'A Inglezinha Barcelos',
+    author: 'Machado de Assis',
+    section: 'Conto',
+    img: 'machado2',
+    imgIndex: '6',
+    titleURL: 'a-inglezinha-barcelos',
+    authorURL: 'machado-de-assis',
+    sectionURL: 'conto',
+    content: '',
+    disclaimer: '',
+    paragraphs: [
+      {
+        text: 'Eram trintonas. Cândida era casada, Joaninha solteira. Antes deste dia de março de\n' +
+          '1886, viram-se pela primeira vez em 1874, em casa de uma professora de piano. Quase\n' +
+          'iguais de feições, que eram miúdas, meãs de estatura, ambas claras, ambas alegres,\n' +
+          'havia entre elas a diferença dos olhos; os de Cândida eram pretos, os de Joaninha azuis.\n' +
+          'Esta cor era o encanto da mãe de Joaninha, viúva do capitão Barcelos, que lhe chamava\n' +
+          'por isso “. — Como vai a sua inglesa? perguntavam-lhe as pessoas que a queriam\n' +
+          'lisonjear. E a boa senhora ria-se d’água, Joaninha não viu morte física nem moral; não\n' +
+          'achou meio de fugir a este mundo, e contentou-se com ele. Da crise, porém, nasceu uma\n' +
+          'situação moral nova. Joaninha conformou-se com o celibato, abriu mão de esperanças\n' +
+          'inúteis, compreendeu que estragara a vida por suas próprias mãos.',
+        footnote: [
+          {
+            index: '',
+            content: ''
+          }
+        ]
+      },
+      {
+        text: '— Acabou-se a inglesinha Barcelos, disse consigo, resoluta.',
+        footnote: []
+      },
+      {
+        text: 'E de fato, a transformação foi completa. Joaninha recolheu-se a si mesma e não quis\n' +
+          'saber de namoros. Tal foi a mudança que a própria mãe deu por ela, ao cabo de alguns\n' +
+          'meses. Supôs que ninguém já aparecia; mas em breve reparou que ela própria não saía à\n' +
+          'porta do castelo para ver se vinha alguém. Ficou triste, o desejo de vê-la casada não\n' +
+          'chegaria a cumprir-se. Não viu remédio próximo nem remoto; era viver e morrer, e deixála\n' +
+          'neste mundo, entregue aos lances da fortuna.',
+        footnote: []
+      },
+      {
+        text: 'Ninguém mais falou na inglesinha Barcelos. A namoradeira passou de moda. Alguns\n' +
+          'rapazes ainda lhe deitavam os olhos; a figura da moça não perdera a graça dos\n' +
+          'dezessete anos, mas nem passava disso, nem ela os animava a mais. Joaninha fez-se\n' +
+          'devota. Começou a ir à igreja mais vezes que dantes; à missa ou só orar. A mãe não lhe\n' +
+          'negava nada.',
+        footnote: []
+      },
+      {
+        text: '— Talvez pense em pegar-se com Deus, dizia ela consigo; há de ser alguma promessa.\n' +
+          'Foi por esse tempo que lhe apareceu um namorado, o único que verdadeiramente a\n' +
+          'amou, e queria desposá-la; mas tal foi a sorte da moça, ou o seu desazo, que não chegou\n' +
+          'a falar-lhe nunca. Era um guarda-livros, Arsênio Caldas, que a encontrou uma vez na\n' +
+          'igreja de S. Francisco de Paula, onde fora ouvir uma missa de sétimo dia. Joaninha\n' +
+          'estava apenas orando. Caldas viu-a ir de altar em altar, ajoelhando-se diante de cada um,\n' +
+          'e achou-lhe um ar de tristeza que lhe entrou na alma. Os guarda-livros, geralmente, não\n' +
+          'são romanescos, mas este Caldas era-o, tinha até composto, entre dezesseis e vinte\n' +
+          'anos, quando era simples ajudante de escrita, alguns versos tristes e lacrimosos, e um\n' +
+          'breve poema sobre a origem da lua. A lua era uma concha, que perdera a pérola, e todos\n' +
+          'os meses abria-se toda para receber a pérola; mas a pérola não vinha, porque Deus, que\n' +
+          'a achara linda, tinha feito dela uma lágrima. Que lágrima? A que ela verteu um dia, por\n' +
+          'não vê-lo a ele. Que ele e que ela? Ninguém; uma dessas paixões vagas, que atravessam\n' +
+          'a adolescência, como ensaios de outras mais fixas e concretas. A concepção, entretanto,\n' +
+          'dava idéia da alma do rapaz, e a imaginação, se não extraordinária, mal se podia crer que\n' +
+          'viçasse entre o diário e a razão.',
+        footnote: []
+      },
+      {
+        text: 'Com efeito, este Caldas era sentimental. Não era bonito, nem feio, não tinha expressão.\n' +
+          'Sem relações, tímido, vivia com os livros durante o dia, e à noite ia ao teatro ou a algum\n' +
+          'bilhar ou botequim. Via passar mulheres; no teatro, não deixava de as esperar no saguão;\n' +
+          'depois ia tomar chá, dormia e sonhava com elas. Às vezes, tentava algum soneto,\n' +
+          'celebrando os braços de uma, os olhos de outra, chamando-lhes nomes bonitos, deusas,\n' +
+          'rainhas, anjos, santas, mas ficava nisso.',
+        footnote: []
+      },
+      {
+        text: 'Contava trinta e um anos, quando sucedeu ver a inglesinha Barcelos na igreja de S. Francisco. Talvez não fizesse nada, se não fosse a circunstância já dita de vê-la rezar a\n' +
+          'todos os altares. Imaginou logo, não devoção nem promessa, mas uma alma\n' +
+          'desesperada e solitária. A situação moral, se tal era, parecia-se com a dele; não foi\n' +
+          'preciso mais para que se inclinasse à moça, e a acompanhasse até Catumbi. A visão\n' +
+          'tornou com ele, sentou-se à escrivaninha, aninhou-se entre o deve e o há de haver, como\n' +
+          'uma rosa caída em moita de ervas bravias. Não é minha esta comparação; é do próprio\n' +
+          'Caldas, que nessa mesma noite tentou um soneto. A inspiração não acudiu ao chamado,\n' +
+          'mas a imagem da moça de Catumbi dormiu com ele e acordou com ele.',
+        footnote: []
+      },
+      {
+        text: 'Daí em diante, o pobre Caldas freqüentou o bairro. Ia e vinha, passava muitas vezes,\n' +
+          'espreitava a hora em que pudesse ver Joaninha, às tardes. Joaninha aparecia à janela;\n' +
+          'mas, além de não ser já tão assídua como antes, era voluntariamente alheia à menor\n' +
+          'sombra de homem. Não fitava nenhum; não dava sequer um desses olhares que não\n' +
+          'custam nada e não deixam nada. Fizera-se uma espécie de freira leiga.',
+        footnote: []
+      },
+      {
+        text: '— Creio que ela hoje me viu, pensava consigo o guarda-livros, uma tarde, em que ele,\n' +
+          'como de uso, passara por baixo das janelas, levantando muito a cabeça.',
+        footnote: []
+      },
+      {
+        text: 'A verdade é que ela tinha os olhos na erva que crescia à beira da calçada, e o Caldas,\n' +
+          'que ia passando, naturalmente entrou no campo da visão da moça; mas tão depressa ela\n' +
+          'o viu, levantou os olhos e estendeu-os à chaminé da casa fronteira. Caldas, porém,\n' +
+          'edificou sobre essa probabilidade um mundo de esperanças. Casariam talvez naquele\n' +
+          'mesmo ano. Não, ainda não; faltavam-lhe meios. Um ano depois. Até lá dar-lhe-iam\n' +
+          'interesse na casa. A casa era boa e próspera. Vieram cálculos de lucro. A contabilidade\n' +
+          'deu o braço à imaginação, e disseram muitas coisas bonitas uma à outra; algarismos e\n' +
+          'suspiros trabalharam em comum, tais como se fossem do mesmo oficio.\n' +
+          'Mas o olhar não se repetiu naqueles dias próximos, e o desespero entrou na alma do\n' +
+          'guarda-livros.',
+        footnote: []
+      },
+      {
+        text: 'A situação moral deste agravou-se. Os versos entraram a cair entre as contas, e os\n' +
+          'dinheiros entrados nos livros da casa mais pareciam sonetos que dinheiro. Não é que o\n' +
+          'guarda-livros os escriturasse em verso; mas alternava as inspirações com os\n' +
+          'lançamentos, e o patrão, um dia, foi achar entre duas páginas de um livro um soneto\n' +
+          'imitado de Bocage. O patrão não conhecia esse poeta nem outro, mas conhecia versos e\n' +
+          'sabia muito bem que não havia entre os seus devedores nenhum\n' +
+          'Lírio do céu, lírio caído em terra.',
+        footnote: []
+      },
+      {
+        text: 'Perdoou o caso, mas entrou a observar o empregado. Este, por sua desgraça, ia de mal a\n' +
+          'pior. Um dia, quando menos esperava, disse-lhe o patrão que procurasse outra casa. Não\n' +
+          'lhe deu razões; o pobre-diabo, aliás tímido, tinha certo orgulho que lhe não permitiu ficar\n' +
+          'mais tempo e saiu logo.',
+        footnote: []
+      },
+      {
+        text: 'Não há mau poeta, nem guarda-livros relaxado que não possa amar deveras; nem ruins\n' +
+          'versos tiraram jamais a sinceridade de um sentimento ou o fizeram menos forte. A paixão\n' +
+          'deste pobre moço desculpará os seus desazos comerciais e poéticos. Ela o levou por\n' +
+          'descaminhos inesperados; fê-lo passar crises tristíssimas. Tarde achou um mau emprego.\n' +
+          'A necessidade fê-lo menos assíduo em Catumbi. Os empréstimos eram poucos e\n' +
+          'escassos; por muito que ele cortasse a comida (morava com um amigo, por favor), não\n' +
+          'lhe davam sempre para os colarinhos imaculados, nem as calças são eternas. Mas essas\n' +
+          'ausências longas não tiveram o condão de abafar ou atenuar um sentimento que, por\n' +
+          'outro lado, não era alimentado pela moça; novo emprego melhorou um tanto a situação\n' +
+          'do namorado. Voltou a ir lá mais vezes. Era fim do verão, as tardes tendiam a diminuir, e\n' +
+          'pouco tempo lhe restaria delas para dar um pulo a Catumbi. Com o inverno cessaram os\n' +
+          'passeios; Caldas desforrava-se aos domingos.\n',
+        footnote: []
+      },
+      {
+        text: 'Não me pergunteis se tentou escrever a Joaninha; tentou, mas as cartas ficavam-lhe na\n' +
+          'algibeira; eram depois reduzidas a verso, para suprir as lacunas da inspiração. Recorreu\n' +
+          'aos bilhetes misteriosos, nos jornais, com alusões à moça de Catumbi, marcando dia e\n' +
+          'hora em que ela o veria passar. Joaninha parece que não lia jornais, ou não dava com os\n' +
+          'bilhetes. Um dia, por acaso, sucedeu achá-la à janela. Sucedeu também que ela\n' +
+          'sustentasse o olhar dele. Eram velhos costumes, jeitos de outro tempo, que os olhos não haviam perdido; a verdade é que ela não o viu. A ilusão, porém, foi imensa, e o pobre\n' +
+          'Caldas achou naquele movimento inconsciente da moça uma adesão, um convite, um\n' +
+          'perdão, quando menos, e do perdão à cumplicidade bem podia não ir mais que um passo.\n' +
+          'Assim correram dias e dias, semanas e semanas. No fim do ano, Caldas achou a porta\n' +
+          'fechada. Cuidou que ela se houvesse mudado e indagou pela vizinhança. Soube que não;\n' +
+          'uma pessoa de amizade ou ainda parenta, levara a família para um sítio no interior.',
+        footnote: []
+      },
+      {
+        text: '— Por muito tempo?',
+        footnote: []
+      },
+      {
+        text: '— Foram passar o verão.',
+        footnote: []
+      },
+      {
+        text: 'Caldas esperou que o verão acabasse. O verão não andou mais depressa que de\n' +
+          'costume; quando começou o outono, Caldas foi um dia ao bairro e achou a porta aberta.\n' +
+          'Não viu a moça, e achou esquisito que não regressava de lá, como antes, comido de\n' +
+          'desespero. Pôde ir ao teatro, pôde ir cear. Entrando em casa, recapitulou os longos\n' +
+          'meses de paixão não correspondida, pensou nas fomes passadas para poder atar uma\n' +
+          'gravata nova, chegou a recordar alguma coisa parecida com lágrimas. Foram porventura\n' +
+          'os seus melhores versos. Vexou-se desses, como já se vexara dos outros. Quis voltar a\n' +
+          'Catumbi, no domingo próximo, mas a história não guardou a causa que impediu esse\n' +
+          'projeto. Só guardou que ele tornou a ir ao teatro e a cear.',
+        footnote: []
+      },
+      {
+        text: 'Um mês depois, como passasse pela Rua da Quitanda, viu paradas duas senhoras,\n' +
+          'diante de uma loja de fazendas. Era a inglesinha Barcelos e a mãe. Caldas chegou a\n' +
+          'parar um pouco adiante; não sentiu o alvoroço antigo, mas gostou de vê-la. Joaninha e a\n' +
+          'mãe entraram na loja; ele passou pela porta, olhou sem parar e foi adiante. Tinha de estar\n' +
+          'na praça às duas horas e faltavam cinco minutos. Joaninha não suspeitou sequer que ali\n' +
+          'passara o único homem a quem não correspondeu, e o único que verdadeiramente a\n' +
+          'amou.',
+        footnote: []
       }
     ]
   },
