@@ -16,7 +16,6 @@
       </header>
 
       <main>
-
         <!-- List card -->
         <section id="card">
           <ul>
