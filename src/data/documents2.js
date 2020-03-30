@@ -7177,7 +7177,7 @@ export default [
     document: {
       title: 'Macbeth',
       author: 'William Shakespeare',
-      section: 'Ato-I',
+      section: 'Ato I',
       img: 'shakespeare',
       imgIndex: '5',
       titleURL: 'macbeth',

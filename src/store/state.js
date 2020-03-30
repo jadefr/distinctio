@@ -1,5 +1,4 @@
 import documents2 from '@/data/documents2'
-import cards from '@/data/cards'
 import aristotle from '@/assets/img/aristotle.jpg'
 import cicero from '@/assets/img/cicero.jpg'
 import marcoAurelio from '@/assets/img/marcoAurelio.jpg'
@@ -24,6 +23,5 @@ import shakespeare from '@/assets/img/shakespeare.jpg'
 
 export default {
   documents2,
-  cards,
   imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, mirceaEliade2, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, fernandoPessoa2, monteiroLobato, kafka, kafka2, brunoTolentino, machado2, machado3, augustoAnjos, oscarWilde, shakespeare]
 }
