@@ -50,5 +50,5 @@ Galeria de textos antigos responsiva e com o fundo em sépia.
 
 ## Arquitetura
 
-![Image of architecture](https://raw.githubusercontent.com/jadefr/distinctio/master/src/assets/img/distinctio.png)
+![Image of architecture](https://raw.githubusercontent.com/jadefr/ontology-testing/master/distinctio.png)
 
