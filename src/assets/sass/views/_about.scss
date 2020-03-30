@@ -6,9 +6,9 @@
 .header-icons {
   margin-left: 1em;
   margin-top: 1em;
-   @include mobile {
-     margin-bottom: 1em;
-   }
+  @include mobile {
+    margin-bottom: 1em;
+  }
 }
 
 header {
@@ -24,6 +24,7 @@ header {
     }
   }
 }
+
 .text {
   margin: 10%;
   text-align: justify;
@@ -33,6 +34,11 @@ header {
     margin: 6%;
     text-align: left;
     font-size: 1.3rem;
+  }
+
+  .green-text {
+    color: color(green-bg-spot);
+    font-weight: bold;
   }
 
   .highlight-paragraph {
@@ -45,6 +51,10 @@ header {
     }
   }
 
+  .highlight-second-paragraph {
+    color: color(brown);
+    font-weight: bolder;
+  }
 
   a {
     text-decoration: none;
@@ -81,15 +91,6 @@ header {
         }
       }
 
-      .highlight {
-        color: color(green-switch);
-        font-weight: bolder;
-
-        @include mobile {
-          font-weight: 100;
-        }
-      }
-
       .bullet {
         font-size: 1.8rem;
         font-weight: bolder;
@@ -97,7 +98,6 @@ header {
         @include mobile {
           font-size: 1.5rem;
         }
-
       }
 
       .answer {
@@ -112,9 +112,13 @@ header {
           text-align: center;
         }
       }
+
+      .bullet-second {
+        font-weight: bolder;
+        padding-right: 1rem;
+      }
     }
   }
-
 
   #footnote {
     font-size: 1.2rem;
@@ -124,7 +128,7 @@ header {
       margin-top: 0.6rem;
     }
 
-    #asterisk{
+    #asterisk {
       color: color(brown);
     }
   }
@@ -133,8 +137,8 @@ header {
     margin-top: 3rem;
     text-align: center;
 
-    #green-text {
-      color: color(green-bg-spot);
+    .green-text {
+      font-weight: normal;
     }
   }
 }
