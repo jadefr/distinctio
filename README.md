@@ -1,6 +1,8 @@
 # distinctio
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
+http://distinctio.jadeferreira.com.br/
+
 ## Atributos
 * UX agradável
   * textos de boa readability
