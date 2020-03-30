@@ -15,6 +15,7 @@
           <b-nav-item href="/guia-de-uso">Guia de Uso</b-nav-item>
           <!-- Navbar dropdowns -->
           <b-nav-item-dropdown text="Autores" right>
+            <!-- NavigationItems Component -->
             <NavigationItems
               v-for="(obj, key) in uniqueElements" :key="key"
                 :author-u-r-l="obj[0]"

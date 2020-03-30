@@ -44,7 +44,7 @@
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
-              <strong><a href="/galeria/thomas-mann/">Shakespeare</a></strong>
+              <strong><a href="/galeria/william-shakespeare/">Shakespeare</a></strong>
             </li>
             <li>
               <b-icon icon="circle-fill" class="circle-icon"></b-icon>
