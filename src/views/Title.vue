@@ -1,8 +1,5 @@
 <template>
   <div>
-<!--    <MenuItem-->
-<!--      :input="input"-->
-<!--    />-->
     <GalleryItem
       :input="input"
     />
@@ -10,12 +7,10 @@
 </template>
 
 <script>
-// import MenuItem from '@/components/MenuItem'
 import GalleryItem from '@/components/GalleryItem'
 
 export default {
   components: {
-    // MenuItem
     GalleryItem
   },
   data () {

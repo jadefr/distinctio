@@ -7465,7 +7465,7 @@ export default [
           footnote: []
         },
         {
-          text: '<i>(Entram Macbeth e Banquo.))</i>',
+          text: '<i>(Entram Macbeth e Banquo.)</i>',
           footnote: []
         },
         {
@@ -7628,7 +7628,7 @@ export default [
         },
         {
           text: 'MACBETH <i>(à parte)</i> - Duas verdades foram ditas, prólogo feliz do ato elevado, cujo tema é\n' +
-            'simplesmente real. - Muito obrigado. senhores. <i>(A parte.)</i> Essa solicitação tão sobrenatural pode ser boa,\n' +
+            'simplesmente real. - Muito obrigado. senhores. <i>(À parte.)</i> Essa solicitação tão sobrenatural pode ser boa,\n' +
             'como pode ser má... Se não for boa, por que me deu as arras de bom êxito, relatando a verdade? Sou o\n' +
             'thane de Cawdor. Sendo boa, por que causa ceder à sugestão, cuja figura pavorosa os cabelos me arripia,\n' +
             'fazendo que me bata nas costelas o coração tão firme, contra as normas da natureza? O medo que\n' +

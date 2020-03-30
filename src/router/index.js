@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import GalleryView from '../views/GalleryView.vue'
+import Gallery from '../views/Gallery.vue'
 import Document from '../views/Document.vue'
 import Author from '../views/Author.vue'
 import Title from '../views/Title.vue'
@@ -17,8 +17,8 @@ const routes = [
   },
   {
     path: '/galeria',
-    name: 'GalleryView',
-    component: GalleryView
+    name: 'Gallery',
+    component: Gallery
   },
   {
     path: '/galeria/:authorURL/:titleURL/:sectionURL',
