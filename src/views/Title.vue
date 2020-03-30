@@ -1,17 +1,22 @@
 <template>
   <div>
-    <MenuItem
+<!--    <MenuItem-->
+<!--      :input="input"-->
+<!--    />-->
+    <GalleryItem
       :input="input"
     />
   </div>
 </template>
 
 <script>
-import MenuItem from '@/components/MenuItem'
+// import MenuItem from '@/components/MenuItem'
+import GalleryItem from '@/components/GalleryItem'
 
 export default {
   components: {
-    MenuItem
+    // MenuItem
+    GalleryItem
   },
   data () {
     return {

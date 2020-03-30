@@ -34,9 +34,9 @@ export default {
     Card,
     NavBar
   },
-  // props: [
-  //   'input'
-  // ],
+  props: [
+    'input'
+  ],
   data () {
     return {
       goTo: '',
@@ -63,29 +63,30 @@ export default {
   },
   created () {
     /* gallery */
+    this.goTo = ''
     for (let i = 0; i < this.documents2.length; i++) {
       this.document.push(this.documents2[i].document)
     }
     /* authorURL */
-    // if (this.input === 'authorURL') {
-    //   this.goTo = 'galeria'
-    //   this.document.length = 0
-    //   for (let i = 0; i < this.documents2.length; i++) {
-    //     if (this.$route.params.authorURL === this.documents2[i].document.authorURL) {
-    //       this.document.push(this.documents2[i].document)
-    //     }
-    //   }
-    // }
+    if (this.input === 'authorURL') {
+      this.goTo = 'galeria'
+      this.document.length = 0
+      for (let i = 0; i < this.documents2.length; i++) {
+        if (this.$route.params.authorURL === this.documents2[i].document.authorURL) {
+          this.document.push(this.documents2[i].document)
+        }
+      }
+    }
     /* titleURL */
-    // if (this.input === 'titleURL') {
-    //   this.goTo = 'galeria'
-    //   this.document.length = 0
-    //   for (let i = 0; i < this.documents2.length; i++) {
-    //     if (this.$route.params.titleURL === this.documents2[i].document.titleURL) {
-    //       this.document.push(this.documents2[i].document)
-    //     }
-    //   }
-    // }
+    if (this.input === 'titleURL') {
+      this.goTo = 'galeria'
+      this.document.length = 0
+      for (let i = 0; i < this.documents2.length; i++) {
+        if (this.$route.params.titleURL === this.documents2[i].document.titleURL) {
+          this.document.push(this.documents2[i].document)
+        }
+      }
+    }
   }
 }
 </script>
