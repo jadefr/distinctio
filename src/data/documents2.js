@@ -6082,37 +6082,56 @@ export default [
         },
         {
           text: '<br>' +
-            'Mas canta, canta agora\n' +
             'como a fonte borbulha, como a agulha\n' +
+            '<br>' +
             'atravessa o bordado,\n' +
+            '<br>' +
             'canta como essa luz pousa ao teu lado\n' +
+            '<br>' +
             'e te penetra e tece a nova aurora,\n' +
+            '<br>' +
             'a nova Primavera e a tessitura\n' +
+            '<br>' +
             'do ramo que obedece e se oferece\n' +
+            '<br>' +
             'para o mistério e pela criatura.',
           footnote: []
         },
         {
           text: '<br>' +
             'Canta a alucinação,\n' +
+            '<br>' +
             'o toque enfim possível dessa mão\n' +
+            '<br>' +
             'que há de colher para perder e ter\n' +
+            '<br>' +
             'o infinito que nasce do deserto\n' +
+            '<br>' +
             'e a semente que morre se socorre\n' +
+            '<br>' +
             'tudo o que no estertor tentava ser.',
           footnote: []
         },
         {
           text: '<br>' +
             'Canta a canção do lírio e do alecrim,\n' +
+            '<br>' +
             'essa canção que és e que na treva,\n' +
+            '<br>' +
             'na escuridão da carne, andava perto\n' +
+            '<br>' +
             'da imensidade que te invade. E assim\n' +
+            '<br>' +
             'como o imenso te ampara,\n' +
+            '<br>' +
             'ó voz tão clara\n' +
+            '<br>' +
             'que consolas e elevas,\n' +
+            '<br>' +
             'vem, desperta,\n' +
+ '<br>' +
             'matriz da eternidade e d’O sem-fim,\n' +
+            '<br>' +
             'ó mãe de Deus, canta e roga por mim.',
           footnote: []
         },
