@@ -11,7 +11,7 @@ http://distinctio.jadeferreira.com.br/
   * barra de progresso no topo dos textos
   * armazenamento da altura em que se parou de ler o texto
 
-* Altamente escalonável
+* Altamente escalável
   * a adição ou remoção de textos é feita de forma extremamente fácil
   
 * Responsivo
