@@ -13529,7 +13529,7 @@ export default [
             'alguns apontamentos, trechos de relatórios, livros de economia política, alguns\n' +
             'com páginas marcadas, por meio de tiras de papel rubricadas assim: — <i>Câmbio,\n' +
             'Taxa das terras, Questão dos cereais em Inglaterra, Opinião de Stuart Mill, Erro\n' +
-            'de Thiers sobre caminhos de ferro,</i> etc. Era sincero, minucioso e cálido. Falavame\n' +
+            'de Thiers sobre caminhos de ferro,</i> etc. Era sincero, minucioso e cálido. Falava-me\n' +
             'daquelas coisas, como se acabasse de as descobrir, expondo-me tudo, <i>ab\n' +
             'ovo</i>; tinha a peito mostrar aos homens práticos da Câmara que também ele era\n' +
             'prático. Em seguida, perguntou-me pela empresa; disse-lhe o que havia.',
@@ -13541,6 +13541,10 @@ export default [
         },
         {
           text: '— E os capitalistas ingleses?',
+          footnote: []
+        },
+        {
+          text: '— Que tem?',
           footnote: []
         },
         {
