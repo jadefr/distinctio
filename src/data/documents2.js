@@ -16175,5 +16175,378 @@ export default [
         }
       ]
     }
+  },
+  {
+    document: {
+      title: 'Macbeth',
+      author: 'William Shakespeare',
+      section: 'Ato II',
+      img: 'shakespeare',
+      imgIndex: '5',
+      titleURL: 'macbeth',
+      authorURL: 'william-shakespeare',
+      sectionURL: 'ato-II',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>Cena I</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: '<i>Inverness. Pátio no interior do castelo. Entram Banquo e Fleance, precedidos de um criado com uma\n' +
+            'tocha.</i>',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Quanto da noite já será, menino?',
+          footnote: []
+        },
+        {
+          text: 'FLEANCE - Não ouvi bater horas, mas a lua já se escondeu.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Ela se esconde às doze.',
+          footnote: []
+        },
+        {
+          text: 'FLEANCE - Penso, senhor, que será mais do que isso.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Toma aqui minha espada. Há economia no céu; todas as luzes se apagaram. Fica também\n' +
+            'com isto. Em mim se exerce uma pressão pesada como chumbo. No entretanto, quisera não dormir.\n' +
+            'Detende em mim, poderes criadores, os pensamentos maus que a natureza permite aos que repousam.\n<br>' +
+            '<i>(Entra Macbeth, acompanhado de criado, com uma tocha.)</i><br>' +
+            'Quem vem lá?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um amigo.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Como, senhor! Ainda estais de pé? O rei já foi deitar-se; revelava insólita alegria, tendo\n' +
+            'enchido de grossos cabedais vossos celeiros. Saúda vossa esposa, oferecendo-lhe este diamante, como à\n' +
+            'mais bondosa das hospedeiras. Foi-se para o quarto com um contentamento sem limites.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Tomada de surpresa, nossa boa vontade se mostrou serva da falta. Se não, teria inteira\n' +
+            'liberdade.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Tudo vai bem. Sonhei na última noite com as três irmãs fatais. Muito verídicas com relação\n' +
+            'a vós se revelaram.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não penso nelas; no entretanto, quando tivermos alguma hora favorável dedicaremos a\n' +
+            'isso umas palavras, se o tempo vos sobrar.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Com todo o gosto.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Se no tempo oportuno concordardes com meu modo de ver, ganhareis honra.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Se não vier a perdê-la no propósito de fazê-la aumentar, puro deixando-me o coração e\n' +
+            'límpida a obediência, ouvir-vos-ei de grado.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Bom repouso até esse dia.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Muito agradecido, meu senhor; iguais votos vos dirijo.\n<br>' +
+            '<i>(Saem Banquo e Fleance.)</i>',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vai dizer à senhora que me faça sinal com o sino, quando estiver pronta minha bebida.\n' +
+            'Depois disso, deita-te.<br>' +
+            '<i>(Sai o criado.)</i><br>' +
+            'Será um punhal que vejo em minha frente com o cabo a oferecer-se-me? Peguemo-lo. Não te apanhei\n' +
+            'ainda; no entretanto, vejo-te sempre. Não serás sensível, visão funesta, ao tato como à vista? Ou de um\n' +
+            'punhal não passas, simplesmente, do pensamento, uma criação fictícia, procedente do cérebro\n' +
+            'escaldante? Percebo-te, no entanto, e tão palpável como este que ora empunho. Mostras-me a estrada que\n' +
+            'seguir eu devo e o instrumento que a usar serei forçado. Se meus olhos joguete não se mostram de meus\n' +
+            'outros sentidos, sobrepujam todos eles. Ainda te percebo, manchado o cabo e a lâmina de gotas de\n' +
+            'sangue que antes não estava neles. Não existe tal coisa; é o sanguinário projeto que a meus olhos toma\n' +
+            'forma. Em metade do mundo, neste instante, parece estar sem vida a natureza; os sonhos maus iludem\n' +
+            'sob as pálpebras o sono bem velado; feiticeiras o rito exercem singular da pálida Hécate; o esquálido\n' +
+            'assassino, posto de alerta pela sua sentinela, o lobo, cujo uivar lhe serve de horas, com passo de ladrão e\n' +
+            'o andar furtivo de Tarquínio, da meta se aproxima, tal qual fantasma. Ó terra forte e sólida, não ouças o\n' +
+            'barulho de meus passos, seja qual for a direção que tomem, porque as próprias pedrinhas não propalem\n' +
+            'para onde eu vou e dissipar não façam o horror desta hora que tão bem lhe fica. Eu ameaço; ele vive;\n' +
+            'congelada pelo meu sopro a ação se torna em nada.<br>' +
+            '<i>(O sino soa.)</i><br>' +
+            'Já vou; está feito. O sino me convida. Duncan, não ouças; é um chamado eterno que para o céu te leva ou\n' +
+            'para o inferno.<br>' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena II</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Entra lady Macbeth.</i>',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - O que os embebedou me deu coragem: fogo me deu o que os deixou extintos.\n' +
+            'Ouvi! Silêncio! É o pio da coruja, sentinela fatal que augura a mais sinistra noite. Vai dar o golpe; a porta se acha aberta; o ressonar dos guardas embriagados zomba do ofício deles. Pus mistura na bebida de\n' +
+            'todos, de tal forma que a morte e a natureza neles lutam sobre se vão morrer ou ficar vivos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH <i>(dentro)</i> - Quem está aí? Olá!',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que pena! Temo, que acordassem e nada esteja feito. O que nos atrapalha é a\n' +
+            'tentativa, somente, não a ação. Ouvi! De jeito deixei os punhais deles; não podiam ficar despercebidos.\n' +
+            'Se não fosse parecer-se no sono com meu pai, eu própria o realizara. - Meu marido!\n' +
+            '<br><i>(Entra Macbeth.)</i>',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Realizei o ato. Ouviste algum barulho?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - O pio, apenas, da coruja, e o grito do grilo. Não falastes?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quando?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Agora.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quando eu descia?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Sim.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Escuta um pouco. Quem é que está naquele quarto ao lado?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Donalbain.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH (<i>Contemplando as mãos</i>) - Oh, que vista lastimável!',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - É um pensamento néscio dizer isso: "Que vista lastimável!"',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um, no sono, sorriu, e o outro gritou: "Ai! Assassínio!" E, com isso, acordaram.\n' +
+            'Escutando-os, me detive. Mas eles murmuraram orações, tão-somente, e dispuseram-se a dormir outra\n' +
+            'vez.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - No mesmo quarto se acham dois.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um gritou: "Deus nos ampare!" E "Amém" disse o outro, como se tivessem percebido as\n' +
+            'mãos sujas do carrasco. Ao escutar-lhe o temor, não pude dizer "Amém", quando eles murmuraram\n' +
+            '"Deus nos ampare".',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Não será prudente pensar tanto sobre isso.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Por que causa não pude, então, dizer "Amém?" De bênção tinha necessidade mui\n' +
+            'premente; mas na garganta o "Amém" ficou pegado.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Essas coisas não devem ser pensadas dessa maneira. E de deixar-nos loucos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Uma voz pareceu-me ouvir, aos gritos de: "Não durmais! Macbeth matou o sono!" o meigo\n' +
+            'sono, o sono que desata a emaranhada teia dos cuidados, que é o sepulcro da vida cotidiana, banho das\n' +
+            'lides dolorosas, bálsamo dos corações feridos, a outra forma da grande natureza, o mais possante pábulo\n' +
+            'do banquete da existência.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que pretendeis dizer?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Por toda a casa continuava a gritar: "Basta de sono! Não durmais! Glamis destruiu o sono!\n' +
+            'Por isso Cawdor já dormir não pode, Macbeth dormir não pode!"',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Quem gritava por esse modo? Ora, meu digno thane, relaxais vossas nobres\n' +
+            'energias considerando as coisas por maneira tão doentia. Arranjai um pouco de água, para das mãos\n' +
+            'tirardes todas essas testemunhas manchadas. Por que causa trouxestes os punhais de onde se achavam?\n' +
+            'Precisam ficar lá. Tomai a pô-los em seus lugares e sujai de sangue os criados que ainda dormem.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não; não volto. Tenho pavor só de pensar no feito; voltar a contemplá-lo me é impossível.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Oh! que vontade fraca! Dai-me as armas. Os mortos e os que dormem são pinturas,\n' +
+            'nada mais. É somente o olho da criança que tem medo do diabo desenhado. Se estiver a sangrar, deixarei\n' +
+            'tintos com isso o rosto de seus próprios criados, pois é preciso que pareça que eles o crime cometeram.\n' +
+            '(<i>Sai. Pancadas dentro.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Onde batem? Que se passa comigo, para um simples ruído apavorar-me? E aquelas mãos,\n' +
+            'ai! que os olhos me arrancam? Todo o oceano do potente Netuno poderia de tanto sangue a mão\n' +
+            'deixar-me limpa? Não; antes minha mão faria púrpura do mar universal, tornando rubro o que em si\n' +
+            'mesmo é verde.<br>' +
+            '(<i>Volta lady Macbeth.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - De vossa cor as mãos agora tenho; mas de possuir ficara envergonhada um coração\n' +
+            'tão branco.\n<br>' +
+            '(<i>Pancadas dentro.</i>)\n<br>' +
+            'Ouvi! Novas batidas. Ide logo vestir vosso roupão; se nos chamarem, não devemos mostrar que não\n' +
+            'dormimos. Não deveis entregar-vos a essas cismas tão miseravelmente.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Conhecer o que fiz... Melhor me fora se não me conhecesse.\n<br>' +
+            '(<i>Pancadas dentro.</i>)\n<br>' +
+            'Acordam Duncan batendo desse modo. Ah! se acordasses!\n<br>' +
+            '(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena III</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Pancadas dentro. Entra o porteiro.</i>',
+          footnote: []
+        },
+        {
+          text: 'PORTEIRO - Isso, sim, é que é bater! Quem fosse porteiro no inferno não faria outra coisa senão virar a\n' +
+            'chave.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em nome de Belzebu? Eis que chega um\n' +
+            'lavrador que se enforcou, na expectativa de uma boa colheita. Chegais na hora. Trazei boa carga de\n' +
+            'lenços, por isso que tereis de suar aqui a valer.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em\n' +
+            'nome do outro diabo? Por minha fé, é um sujeito de língua equívoca, que poderia jurar em qualquer um\n' +
+            'dos pratos da balança, contra o outro prato, que cometeu bastantes traições por amor de Deus, mas não\n' +
+            'pôde equivocar o céu. Oh! entrai, meu equivocador!<br> (<i>Pancadas dentro</i>.) Bate, bate, bate! Quem está ai?\n' +
+            'Por minha fé, é um alfaiate inglês que vem para cá por ter roubado uns calções franceses. Entrai, senhor\n' +
+            'alfaiate! Aqui podereis aquecer à vontade vosso ferro de engomar.<br> (<i>Pancadas dentro.</i>) Bate, bate! Não há\n' +
+            'sossego de jeito nenhum. Quem sois? Mas, para inferno, este lugar é muito frio. Não continuarei nele por\n' +
+            'mais tempo como porteiro do diabo. Tinha pensado em deixar entrar gente de todas as profissões, que vai\n' +
+            'para os fogos eternos pela estrada semeada de rosas.<br> (<i>Pancadas dentro.</i>) Um momento! Um momento! Por obséquio, não vos esqueçais do porteiro.<br>\n' +
+            '(<i>Abre o portão.</i>)<br>\n' +
+            '(<i>Entram Macduff e Lennox.</i>)',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        },
+        {
+          text: '',
+          footnote: []
+        }
+      ]
+    }
   }
 ]
