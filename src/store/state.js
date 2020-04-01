@@ -20,8 +20,12 @@ import machado3 from '@/assets/img/machado3.jpg'
 import augustoAnjos from '@/assets/img/augustoAnjos.jpg'
 import oscarWilde from '@/assets/img/oscarWilde.jpg'
 import shakespeare from '@/assets/img/shakespeare.jpg'
+import macbeth1 from '@/assets/img/macbeth1.jpg'
+import macbeth2 from '@/assets/img/macbeth2.jpg'
+import macbeth3 from '@/assets/img/macbeth3.jpg'
+import macbeth4 from '@/assets/img/macbeth4.jpg'
 
 export default {
   documents2,
-  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, mirceaEliade2, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, fernandoPessoa2, monteiroLobato, kafka, kafka2, brunoTolentino, machado2, machado3, augustoAnjos, oscarWilde, shakespeare]
+  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, mirceaEliade2, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, fernandoPessoa2, monteiroLobato, kafka, kafka2, brunoTolentino, machado2, machado3, augustoAnjos, oscarWilde, shakespeare, macbeth1, macbeth2, macbeth3, macbeth4]
 }

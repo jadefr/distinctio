@@ -7197,7 +7197,7 @@ export default [
       title: 'Macbeth',
       author: 'William Shakespeare',
       section: 'Ato I',
-      img: 'shakespeare',
+      img: 'macbeth1',
       imgIndex: '5',
       titleURL: 'macbeth',
       authorURL: 'william-shakespeare',
@@ -8905,6 +8905,73 @@ export default [
   },
   {
     document: {
+      title: 'Spell',
+      author: 'Fernando Pessoa',
+      section: 'Poema',
+      img: 'fernandoPessoa2',
+      imgIndex: '9',
+      titleURL: 'spell',
+      authorURL: 'fernando-pessoa',
+      sectionURL: 'poema',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br>' +
+            'From the moonlit brink of dreams\n' +
+            '<br>' +
+            '        I stretch foiled hands to thee,\n' +
+            '<br>' +
+            'O borne down other streams\n' +
+            '<br>' +
+            '        Than eye can think to see!\n' +
+            '<br>' +
+            'O crowned with spirit-beams!\n' +
+            '<br>' +
+            '        O veiled spirituality!',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text:
+            '<br>' +
+            'My dreams and thoughts abate\n' +
+            '<br>' +
+            '        Their pennons at thy feet,\n' +
+            '<br>' +
+            'O angel born too late\n' +
+            '<br>' +
+            '        For fallen men to meet!\n' +
+            '<br>' +
+            'In what new sensual state\n' +
+            '<br>' +
+            '        Could our twined lives feel sweet?',
+          footnote: []
+        },
+        {
+          text: '<br>' +
+            'What new emotion must\n' +
+            '<br>' +
+            '        I dream to think thee mine?\n' +
+            '<br>' +
+            'What purity of lust?\n' +
+            '<br>' +
+            '        O tendrilled as a vine\n' +
+            '<br>' +
+            'Around my caressed trust!\n' +
+            '<br>' +
+            '        O dream-pressed spirit-wine!',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
       title: 'O Colocador de Pronomes',
       author: 'Monteiro Lobato',
       section: 'Conto',
@@ -9556,6 +9623,680 @@ export default [
         },
         {
           text: '<i>Retirado de <a href="https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto">O Colocador de Pronomes</a></i>',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
+      title: 'Macbeth',
+      author: 'William Shakespeare',
+      section: 'Ato II',
+      img: 'macbeth2',
+      imgIndex: '5',
+      titleURL: 'macbeth',
+      authorURL: 'william-shakespeare',
+      sectionURL: 'ato-II',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>Cena I</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: '<i>Inverness. Pátio no interior do castelo. Entram Banquo e Fleance, precedidos de um criado com uma\n' +
+            'tocha.</i>',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Quanto da noite já será, menino?',
+          footnote: []
+        },
+        {
+          text: 'FLEANCE - Não ouvi bater horas, mas a lua já se escondeu.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Ela se esconde às doze.',
+          footnote: []
+        },
+        {
+          text: 'FLEANCE - Penso, senhor, que será mais do que isso.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Toma aqui minha espada. Há economia no céu; todas as luzes se apagaram. Fica também\n' +
+            'com isto. Em mim se exerce uma pressão pesada como chumbo. No entretanto, quisera não dormir.\n' +
+            'Detende em mim, poderes criadores, os pensamentos maus que a natureza permite aos que repousam.\n<br>' +
+            '<i>(Entra Macbeth, acompanhado de criado, com uma tocha.)</i><br>' +
+            'Quem vem lá?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um amigo.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Como, senhor! Ainda estais de pé? O rei já foi deitar-se; revelava insólita alegria, tendo\n' +
+            'enchido de grossos cabedais vossos celeiros. Saúda vossa esposa, oferecendo-lhe este diamante, como à\n' +
+            'mais bondosa das hospedeiras. Foi-se para o quarto com um contentamento sem limites.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Tomada de surpresa, nossa boa vontade se mostrou serva da falta. Se não, teria inteira\n' +
+            'liberdade.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Tudo vai bem. Sonhei na última noite com as três irmãs fatais. Muito verídicas com relação\n' +
+            'a vós se revelaram.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não penso nelas; no entretanto, quando tivermos alguma hora favorável dedicaremos a\n' +
+            'isso umas palavras, se o tempo vos sobrar.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Com todo o gosto.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Se no tempo oportuno concordardes com meu modo de ver, ganhareis honra.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Se não vier a perdê-la no propósito de fazê-la aumentar, puro deixando-me o coração e\n' +
+            'límpida a obediência, ouvir-vos-ei de grado.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Bom repouso até esse dia.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Muito agradecido, meu senhor; iguais votos vos dirijo.\n<br>' +
+            '<i>(Saem Banquo e Fleance.)</i>',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vai dizer à senhora que me faça sinal com o sino, quando estiver pronta minha bebida.\n' +
+            'Depois disso, deita-te.<br>' +
+            '<i>(Sai o criado.)</i><br>' +
+            'Será um punhal que vejo em minha frente com o cabo a oferecer-se-me? Peguemo-lo. Não te apanhei\n' +
+            'ainda; no entretanto, vejo-te sempre. Não serás sensível, visão funesta, ao tato como à vista? Ou de um\n' +
+            'punhal não passas, simplesmente, do pensamento, uma criação fictícia, procedente do cérebro\n' +
+            'escaldante? Percebo-te, no entanto, e tão palpável como este que ora empunho. Mostras-me a estrada que\n' +
+            'seguir eu devo e o instrumento que a usar serei forçado. Se meus olhos joguete não se mostram de meus\n' +
+            'outros sentidos, sobrepujam todos eles. Ainda te percebo, manchado o cabo e a lâmina de gotas de\n' +
+            'sangue que antes não estava neles. Não existe tal coisa; é o sanguinário projeto que a meus olhos toma\n' +
+            'forma. Em metade do mundo, neste instante, parece estar sem vida a natureza; os sonhos maus iludem\n' +
+            'sob as pálpebras o sono bem velado; feiticeiras o rito exercem singular da pálida Hécate; o esquálido\n' +
+            'assassino, posto de alerta pela sua sentinela, o lobo, cujo uivar lhe serve de horas, com passo de ladrão e\n' +
+            'o andar furtivo de Tarquínio, da meta se aproxima, tal qual fantasma. Ó terra forte e sólida, não ouças o\n' +
+            'barulho de meus passos, seja qual for a direção que tomem, porque as próprias pedrinhas não propalem\n' +
+            'para onde eu vou e dissipar não façam o horror desta hora que tão bem lhe fica. Eu ameaço; ele vive;\n' +
+            'congelada pelo meu sopro a ação se torna em nada.<br>' +
+            '<i>(O sino soa.)</i><br>' +
+            'Já vou; está feito. O sino me convida. Duncan, não ouças; é um chamado eterno que para o céu te leva ou\n' +
+            'para o inferno.<br>' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena II</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Entra lady Macbeth.</i>',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - O que os embebedou me deu coragem: fogo me deu o que os deixou extintos.\n' +
+            'Ouvi! Silêncio! É o pio da coruja, sentinela fatal que augura a mais sinistra noite. Vai dar o golpe; a porta se acha aberta; o ressonar dos guardas embriagados zomba do ofício deles. Pus mistura na bebida de\n' +
+            'todos, de tal forma que a morte e a natureza neles lutam sobre se vão morrer ou ficar vivos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH <i>(dentro)</i> - Quem está aí? Olá!',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que pena! Temo, que acordassem e nada esteja feito. O que nos atrapalha é a\n' +
+            'tentativa, somente, não a ação. Ouvi! De jeito deixei os punhais deles; não podiam ficar despercebidos.\n' +
+            'Se não fosse parecer-se no sono com meu pai, eu própria o realizara. - Meu marido!\n' +
+            '<br><i>(Entra Macbeth.)</i>',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Realizei o ato. Ouviste algum barulho?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - O pio, apenas, da coruja, e o grito do grilo. Não falastes?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quando?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Agora.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quando eu descia?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Sim.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Escuta um pouco. Quem é que está naquele quarto ao lado?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Donalbain.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH (<i>Contemplando as mãos</i>) - Oh, que vista lastimável!',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - É um pensamento néscio dizer isso: "Que vista lastimável!"',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um, no sono, sorriu, e o outro gritou: "Ai! Assassínio!" E, com isso, acordaram.\n' +
+            'Escutando-os, me detive. Mas eles murmuraram orações, tão-somente, e dispuseram-se a dormir outra\n' +
+            'vez.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - No mesmo quarto se acham dois.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Um gritou: "Deus nos ampare!" E "Amém" disse o outro, como se tivessem percebido as\n' +
+            'mãos sujas do carrasco. Ao escutar-lhe o temor, não pude dizer "Amém", quando eles murmuraram\n' +
+            '"Deus nos ampare".',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Não será prudente pensar tanto sobre isso.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Por que causa não pude, então, dizer "Amém?" De bênção tinha necessidade mui\n' +
+            'premente; mas na garganta o "Amém" ficou pegado.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Essas coisas não devem ser pensadas dessa maneira. E de deixar-nos loucos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Uma voz pareceu-me ouvir, aos gritos de: "Não durmais! Macbeth matou o sono!" o meigo\n' +
+            'sono, o sono que desata a emaranhada teia dos cuidados, que é o sepulcro da vida cotidiana, banho das\n' +
+            'lides dolorosas, bálsamo dos corações feridos, a outra forma da grande natureza, o mais possante pábulo\n' +
+            'do banquete da existência.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que pretendeis dizer?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Por toda a casa continuava a gritar: "Basta de sono! Não durmais! Glamis destruiu o sono!\n' +
+            'Por isso Cawdor já dormir não pode, Macbeth dormir não pode!"',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Quem gritava por esse modo? Ora, meu digno thane, relaxais vossas nobres\n' +
+            'energias considerando as coisas por maneira tão doentia. Arranjai um pouco de água, para das mãos\n' +
+            'tirardes todas essas testemunhas manchadas. Por que causa trouxestes os punhais de onde se achavam?\n' +
+            'Precisam ficar lá. Tomai a pô-los em seus lugares e sujai de sangue os criados que ainda dormem.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não; não volto. Tenho pavor só de pensar no feito; voltar a contemplá-lo me é impossível.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Oh! que vontade fraca! Dai-me as armas. Os mortos e os que dormem são pinturas,\n' +
+            'nada mais. É somente o olho da criança que tem medo do diabo desenhado. Se estiver a sangrar, deixarei\n' +
+            'tintos com isso o rosto de seus próprios criados, pois é preciso que pareça que eles o crime cometeram.\n' +
+            '(<i>Sai. Pancadas dentro.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Onde batem? Que se passa comigo, para um simples ruído apavorar-me? E aquelas mãos,\n' +
+            'ai! que os olhos me arrancam? Todo o oceano do potente Netuno poderia de tanto sangue a mão\n' +
+            'deixar-me limpa? Não; antes minha mão faria púrpura do mar universal, tornando rubro o que em si\n' +
+            'mesmo é verde.<br>' +
+            '(<i>Volta lady Macbeth.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - De vossa cor as mãos agora tenho; mas de possuir ficara envergonhada um coração\n' +
+            'tão branco.\n<br>' +
+            '(<i>Pancadas dentro.</i>)\n<br>' +
+            'Ouvi! Novas batidas. Ide logo vestir vosso roupão; se nos chamarem, não devemos mostrar que não\n' +
+            'dormimos. Não deveis entregar-vos a essas cismas tão miseravelmente.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Conhecer o que fiz... Melhor me fora se não me conhecesse.\n<br>' +
+            '(<i>Pancadas dentro.</i>)\n<br>' +
+            'Acordam Duncan batendo desse modo. Ah! se acordasses!\n<br>' +
+            '(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena III</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Pancadas dentro. Entra o porteiro.</i>',
+          footnote: []
+        },
+        {
+          text: 'PORTEIRO - Isso, sim, é que é bater! Quem fosse porteiro no inferno não faria outra coisa senão virar a\n' +
+            'chave.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em nome de Belzebu? Eis que chega um\n' +
+            'lavrador que se enforcou, na expectativa de uma boa colheita. Chegais na hora. Trazei boa carga de\n' +
+            'lenços, por isso que tereis de suar aqui a valer.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em\n' +
+            'nome do outro diabo? Por minha fé, é um sujeito de língua equívoca, que poderia jurar em qualquer um\n' +
+            'dos pratos da balança, contra o outro prato, que cometeu bastantes traições por amor de Deus, mas não\n' +
+            'pôde equivocar o céu. Oh! entrai, meu equivocador!<br> (<i>Pancadas dentro</i>.) Bate, bate, bate! Quem está ai?\n' +
+            'Por minha fé, é um alfaiate inglês que vem para cá por ter roubado uns calções franceses. Entrai, senhor\n' +
+            'alfaiate! Aqui podereis aquecer à vontade vosso ferro de engomar.<br> (<i>Pancadas dentro.</i>) Bate, bate! Não há\n' +
+            'sossego de jeito nenhum. Quem sois? Mas, para inferno, este lugar é muito frio. Não continuarei nele por\n' +
+            'mais tempo como porteiro do diabo. Tinha pensado em deixar entrar gente de todas as profissões, que vai\n' +
+            'para os fogos eternos pela estrada semeada de rosas.<br> (<i>Pancadas dentro.</i>) Um momento! Um momento! Por obséquio, não vos esqueçais do porteiro.<br>\n' +
+            '(<i>Abre o portão.</i>)<br>\n' +
+            '(<i>Entram Macduff e Lennox.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Fostes, amigo, vos deitar tão tarde para demorar tanto a levantar-vos?',
+          footnote: []
+        },
+        {
+          text: 'PORTEIRO - Em verdade, senhor, ficamos a beber até ao segundo canto do galo, e a bebida, senhor, é\n' +
+            'um grande provocador de três coisas.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Quais são as três coisas que a bebida provoca especial mente?',
+          footnote: []
+        },
+        {
+          text: 'PORTEIRO - Ora, senhor, nariz vermelho, sono e urinas. A lascívia, senhor, ela provoca e deixa sem\n' +
+            'efeito; provoca o desejo, mas impede a execução. Por isso pode-se dizer que a bebida usa de subterfúgios\n' +
+            'com a lascívia: ela a cria e a destrói; anima-a e desencoraja-a; fá-la ficar de pé e depois a obriga a não\n' +
+            'ficar de pé. Em resumo: leva-a a dormir com muita lábia e, lançando-lhe o desmentido, abandona-a a si\n' +
+            'mesma.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Penso que a bebida te lançou o desmentido esta noite.',
+          footnote: []
+        },
+        {
+          text: 'PORTEIRO - Foi isso mesmo, senhor, que ela fez comigo, pela garganta a dentro. Mas eu lhe dei o troco\n' +
+            'do desmentido; porque sendo, como penso ser, mais forte do que ela, embora por vezes ela me quisesse\n' +
+            'passar rasteira, acabei por jogá-la ao solo.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Teu senhor já se levantou?<br>\n' +
+            '(<i>Entra Macbeth.</i>)<br>\n' +
+            'O barulho acordou-o. Ei-lo que chega.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Nobre senhor, bom dia.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Para todos também bom dia.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - O rei, mui digno thane, já terá acordado?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não, ainda.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Pediu-me que o chamasse bem cedinho. Por pouco perdi a hora.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vou levar-vos até onde ele se encontra.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Sei que alegre vos deixa esse trabalho. Porém sempre será trabalho.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - O trabalho agradável é remédio da canseira. Eis a porta.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - A liberdade vou tomar de bater, pois a incumbência que recebi foi essa.<br>\n' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - O rei parte hoje?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Parte; assim decidiu.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - A noite toda foi desassossegada. Onde dormimos o vento derrubou a chaminé. Dizem que no\n' +
+            'ar se ouviram muitos prantos, gritos de morte estranhos, profecias, em terríveis acentos, de horrorosas\n' +
+            'devastações, confusos acidentes, ninhada destes tempos ominosos. Durante toda a noite a ave das trevas não deixou de piar. Dizem que a terra teve febre e tremeu.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Foi uma noite muito rude, em verdade.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Minha jovem memória não se lembra de outra igual.<br>\n' +
+            '(<i>Volta Macduff.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Horror, horror, horror! Não pode a língua, não pode o coração nem conceber-te nem dar-te\n' +
+            'nome algum.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH E LENNOX - Que aconteceu?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - A destruição concluiu sua obra-prima. Arrombou o sacrílego assassínio o templo ungido\n' +
+            'do Senhor, e a vida roubou do próprio altar.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Como dissestes? A vida?',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Pretendeis dizer que é a vida de Sua Majestade?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Ide até o quarto e a vista destruí ante outra Górgona. Quero ficar calado. Ide vós mesmos,\n' +
+            'para depois falardes.<br>\n' +
+            '(<i>Saem Macbeth e Lennox.</i>)<br>\n' +
+            'Despertai! Despertai! Traição e morte! Malcolm, Banquo, Donalbain, depressa, sacudi esse sono de\n' +
+            'penugem, simulacro da morte, e vinde a própria morte encarar. De pé! A imagem vede do grande\n' +
+            'julgamento. Malcolm! Banquo! Vinde como das tumbas, como espíritos, para ver este horror. Tocai o\n' +
+            'sino!<br>\n' +
+            '(<i>Soa o sino.</i>)<br>\n' +
+            '(<i>Entra lady Macbeth.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que aconteceu aqui, para que, tão medonha, uma trombeta desperte os moradores\n' +
+            'desta casa, para parlamentar? Falai! Falai!',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Ó gentil dama, não deveis ouvir-me no que tenho a dizer. Esse relato, repetido ao ouvido\n' +
+            'de uma dama, produziria a morte.<br>\n' +
+            '(<i>Entra Banquo.</i>)<br>\n' +
+            'Ó Banquo! Banquo! assassinado foi nosso real amo.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Ai! como? Em nossa casa?',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Oh! muito cruel, pouco importa onde fosse. Caro Duff, desmente-te a ti próprio, por\n' +
+            'obséquio, e dize que houve engano.<br>\n' +
+            '(<i>Voltam Macbeth e Lennox.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Se eu tivesse morrido uma hora, apenas, antes de isto se dar, teria tido uma vida\n' +
+            'abençoada. Doravante nada mais há de sério no universo. Tudo é farandolagem; a honra e a glória já não\n' +
+            'existem. Esgotado se acha o vinho da existência, só restando simples borra no fundo desta adega com\n' +
+            'que possa jactar-se.<br>\n' +
+            '(<i>Entram Malcolm e Donalbain.</i>)',
+          footnote: []
+        },
+        {
+          text: 'DONALBAIN - Que foi que aconteceu?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Como! Estais vivos e não sabeis o que houve? A fonte, a origem, o princípio secou de\n' +
+            'vosso sangue, a própria origem já parou de todo.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Vosso real pai se encontra assassinado.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Oh! E por quem?',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Ao que parece, foram seus próprios camareiros que o mataram. De sangue o rosto e as mãos\n' +
+            'tinham manchados, como os punhais que sem bainha achamos sobre seus travesseiros. De olhar fixo se\n' +
+            'achavam, como alheados. Não deviam ter-lhes confiado a vida de ninguém.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Agora me arrependo de os ter morto na minha indignação.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Por que o fizestes?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quem sábio pode ser e estupefacto, moderado e furioso, leal e neutro na mesma hora?\n' +
+            'Ninguém. A diligência do meu amor violento deixou longe a razão vagarosa. Neste ponto se achava\n' +
+            'Duncan, com sua cute branca acairelada pelo sangue de ouro; as feridas abertas pareciam brechas da\n' +
+            'natureza, adrede feitas para a entrada da ruína vastadora; além, os assassinos, embebidos da cor da\n' +
+            'profissão, monstruosamente recobertas de sangue as próprias armas... Quem poderia reprimir-se, tendo\n' +
+            'coração para amar e, nele, o brio de tornar conhecidos seus pendores?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Oh! Tirai-me daqui!',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Vede a senhora.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM (<i>à parte, a Donalbain</i>) - Por que ficamos mudos, se este caso de perto nos atinge mais que a\n' +
+            'todos?',
+          footnote: []
+        },
+        {
+          text: 'DONALBAIN (<i>à parte, a Malcolm</i>) - Por que falar aqui, onde o destino, a espiar de algum buraco,\n' +
+            'poderia lançar-se sobre nós? Fujamos; nossas lágrimas não estão bem preparadas.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM (<i>à parte, a Donalbain</i>) - Nem nossa grande dor para a vingança',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Socorrei a senhora.<br>\n' +
+            '(<i>Lady Macbeth é levada para fora.</i>)<br>\n' +
+            'E após agasalharmos a fraqueza, muito sensível a este tempo frio, reunamo-nos a fim de interrogarmos\n' +
+            'esta obra enormemente sanguinária, para com mais vagar a conhecermos. A dúvida e o receio nos\n' +
+            'abalam. Na grande mão de Deus ora me encontro, disposto a combater as não sabidas intenções da\n' +
+            'malícia criminosa.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Como eu.',
+          footnote: []
+        },
+        {
+          text: 'TODOS - Como nós todos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Com presteza viril nos aprontemos para em pouco nos reunirmos na sala.',
+          footnote: []
+        },
+        {
+          text: 'TODOS - Bem pensado.<br>\n' +
+            '(<i>Saem todos, com exceção de Malcolm e Donalbain.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Que pretendeis fazer? Não nos unamos com essa gente. É muito fácil para o homem\n' +
+            'fingido aparentar tristeza. Irei para a Inglaterra.',
+          footnote: []
+        },
+        {
+          text: 'DONALBAIN - E eu para a Irlanda. Separados, assim, nossos destinos cuidarão de nós dois com maior\n' +
+            'zelo. Os sorrisos aqui punhais escondem. Quanto mais perto o sangue dos parentes, maior é a afinidade\n' +
+            'sanguinária.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - A mortífera flecha disparada ainda não caiu; nosso caminho mas seguro é evitar-lhe a\n' +
+            'trajetória. A cavalo, portanto, sem perdermos tempo com despedidas delicadas. Saiamos de mansinho.\n' +
+            'Condenável não pode ser o roubo da prudência, quando não há nem rasto de demência.\n<br>' +
+            '(Saem.)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena IV</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Do lado de fora do castelo. Entram Ross e um velho.</i>',
+          footnote: []
+        },
+        {
+          text: 'O VELHO - Posso lembrar-me bem de setenta anos; nesse espaço de tempo vi terríveis horas e coisas por\n' +
+            'demais estranhas; mas esta noite triste deixa longe tudo quanto até agora eu conhecia.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Ó meu bom pai! O céu, como estás vendo, indignado com o jogo dos humanos, comina ameaças\n' +
+            'ao sanguíneo palco. Pelo relógio, é dia; no entretanto, atrasa a lâmpada ambulante a noite caliginosa. E\n' +
+            'tão potente a noite? É a vergonha do dia que permite que a treva cubra o rosto, assim, da terra, a que\n' +
+            'beijar devera a luz radiosa?',
+          footnote: []
+        },
+        {
+          text: 'O VELHO - É contra a natureza, tal como o ato que aqui foi perpetrado. Na passada terça-feira um falcão\n' +
+            'que se gloriava no remígio habitual, preado e morto foi por uma coruja caça-ratos.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - E os cavalos de Duncan - fato estranho por demais, porém certo - tão velozes e formosos,\n' +
+            'ornatos de sua raça, tornaram-se selvagens, as cocheiras arrebentaram, contra as ordens todas,\n' +
+            'puseram-se a correr, como querendo guerrear a humanidade.',
+          footnote: []
+        },
+        {
+          text: 'O VELHO - Dizem que eles se devoraram mutuamente.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - É certo; para perplexidade destes olhos, que tudo presenciaram. Aí vem vindo o bondoso\n' +
+            'Macduff.<br>\n' +
+            '(<i>Entra Macduff</i>)<br>\n' +
+            'Então, senhor, como vai indo o mundo?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Então não vedes?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Já se conhece o autor desse atentado mais do que sanguinário?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Os camareiros apunhalados por Macbeth.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Oh dia! E acaso a que vantagens aspiravam?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Estavam subornados; os dois filhos do rei, Malcolm e Donalbain, fugiram, o que faz cair\n' +
+            'neles a suspeita.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Sempre contrário à natureza! Ó fútil ambição que destróis as próprias fontes de tua vida! Assim,\n' +
+            'é bem possível que Macbeth suba ao trono.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Proclamado já foi, tendo ido agora para Scone, a fim de ser coroado.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - E que fizeram do cadáver de Duncan?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Foi levado para Kolmekill, sacra sepultura de seus antepassados e guarida de seus restos\n' +
+            'mortais.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Ireis a Scone?',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Não, primo; vou a Fife.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Pois eu vou.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Que tenhais festa alegre e sem fadiga, não vindo a lastimar a roupa antiga.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Adeus, pai.',
+          footnote: []
+        },
+        {
+          text: 'O VELHO - Deus vos proteja e a quantos sabem a arte de trazer o inimigo à boa parte.<br>\n' +
+            '(Saem.)',
           footnote: []
         }
       ]
@@ -11665,6 +12406,769 @@ export default [
             'Releio e digo: «Fui eu?»\n' +
             '<br>' +
             'Deus sabe, porque o escreveu.',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
+      title: 'Macbeth',
+      author: 'William Shakespeare',
+      section: 'Ato III',
+      img: 'macbeth3',
+      imgIndex: '5',
+      titleURL: 'macbeth',
+      authorURL: 'william-shakespeare',
+      sectionURL: 'ato-III',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>Cena I</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: '<i>Forres. Um quarto no palácio. Entra Banquo.</i>',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Tens tudo agora: és rei, Cawdor e Glamis, como as bruxas proféticas disseram. Mas temo\n' +
+            'que roubado ao jogo houvésseis. Mas foi dito também que não havia de ficar isso em tua descendência e\n' +
+            'que viria a ser raiz e tronco de numerosos reis. Se falam certo, como se deu, Macbeth, a teu respeito, por\n' +
+            'que - se tudo quanto te auguraram se tornou realidade - não hão de elas ser-me o mesmo que oráculo,\n' +
+            'deixando-me também esperançado? Mas, silêncio!<br>\n' +
+            '(<i>Fanfarra. Entram Macbeth, como rei; lady Macbeth, como rainha; Lennox, Ross, nobres, damas e\n' +
+            'pessoas do séqüito.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Eis nosso convidado principal.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Se olvidado ele houvesse sido, fora como um vazio em nossa grande festa, vindo\n' +
+            'tudo a falhar.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Uma solene ceia, senhor, daremos esta noite, esperando que nela tomeis parte.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Bastará que mo ordene Vossa Alteza, a quem me liga minha obediência, para sempre, por\n' +
+            'laços inquebráveis.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Viajareis esta tarde?',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Sim, milorde.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Se não, pedira vossos bons conselhos - que de peso são sempre e proveitosos - para a\n' +
+            'reunião que vamos ter agora. Nesse caso, amanhã vos ouviremos. Ides longe?',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - O suficiente, meu senhor, apenas para o tempo ocupar de agora à ceia. Se não se esforçar\n' +
+            'muito meu cavalo, à noite poderei pedir de empréstimo uma ou duas de suas horas foscas.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vinde sem falta para nossa festa.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Não faltarei, milorde.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Notícia já tivemos de que nossos sanguinários parentes se passaram para a Inglaterra e\n' +
+            'Irlanda, e que ainda negam o parricídio cruel, enchendo as ouças de todos com estranhas fantasias. Mas\n' +
+            'sobre isso, amanhã, já que teremos de tratar de um negócio de importância relativo ao Estado. Levais\n' +
+            'Fleance?',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Sim, meu senhor; o tempo nos reclama.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Desejo-vos cavalos de pés firmes e bem velozes, e ao costado deles vos recomendo.\n' +
+            'Adeus.<br>\n' +
+            '(<i>Sai Banquo.<i>)<br>\n' +
+            'Todos agora o tempo gastem como lhes parecer melhor, até às sete horas. Porque depois nos seja a\n' +
+            'sociedade muito mais agradável, até à ceia iremos ficar só. Até esse instante, que Deus seja convosco.<br>\n' +
+            '(<i>Saem todos, com exceção de Macbeth e um criado.<i>)<br>\n' +
+            'Olá, maroto, uma palavra! Aguardam nossas ordens aqueles indivíduos?',
+          footnote: []
+        },
+        {
+          text: 'CRIADO - Sim, milorde, no portão do palácio.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Ide buscá-los.<br>\n' +
+            '(<i>Sai o criado.<i>)<br>\n' +
+            'Ser rei assim, é nada; é necessário sê-lo com segurança. É muito grande nosso medo de Banquo; em sua\n' +
+            'postura soberana domina qualquer coisa que deve ser temido. E corajoso como poucos e à têmpera\n' +
+            'indomável do espírito une uma sabedoria que faz o valor no alvo acertar sempre. Tirante ele, não há\n' +
+            'pessoa alguma de quem eu tenha medo, e junto dele meu gênio se intimida, como dizem que com o de\n' +
+            'Marco Antônio acontecia, quando junto de César. Dirigiu-se corajoso às irmãs, interpelando-as quando o\n' +
+            'nome de rei elas me deram, forçando-as a falar-lhe a seu respeito, ao que elas, quais videntes, o saudaram\n' +
+            'como pai de uma série de monarcas. Na cabeça puseram-me a coroa sem frutos e nas mãos o cetro\n' +
+            'estéril, para que mo arrebate um punho estranho, pois para herdeiro nenhum filho tenho. Se for assim,\n' +
+            'para a posteridade de Banquo, tão-somente, sujei a alma; matei para eles o gracioso Duncan; por causa\n' +
+            'deles ódio pus no vaso da minha paz, havendo entregue a minha jóia eterna ao comum imigo do homem,\n' +
+            'para fazê-los reis, para dos filhos de Banquo fazer reis! Antes que venha isso a se dar, que à liça baixe o\n' +
+            'fado, para o combate eterno. Quem vem lá?<br>\n' +
+            '(<i>Entra o criado, com dois assassinos.<i>)<br>\n' +
+            'Fica na porta e espera até que eu chame.<br>\n' +
+            '(<i>Sai o criado.<i>)<br>\n' +
+            'Não foi ontem que juntos conversamos?',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Sim, com vossa licença, majestade.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Muito bem; refletistes no que eu disse? Sabeis, pois, que foi ele quem, até hoje, vos tem\n' +
+            'deixado em posição precária, o que pensáveis que era culpa minha. Tudo isso vos expus à farta em nossa\n' +
+            'última conferência; apresentei-vos as provas da maneira por que tendes sido prejudicados e burlados, os\n' +
+            'instrumentos, quem os manejava, e tudo o mais, que proclamar faria até mesmo meia alma ou tipo idiota:\n' +
+            '"Eis o que Banquo fez!"',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Sim, explicastes-nos.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Sim; mas fiz mais ainda, o que é o objeto desta nossa segunda conferência. Porventura a\n' +
+            'paciência predomina tanto em vós, que deixeis passar tudo isso? Tão religiosos sois, que poderíeis rezar\n' +
+            'pela prosperidade deste bom homem e dos seus, sendo verdade que sua mão pesada à sepultura vos fez\n' +
+            'vergar e para todo o sempre vos arruinou a casa?',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Somos homens, meu suserano.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Sim, passais por homens no catálogo, como os perdigueiros, os galgos e os mastins, alãos e\n' +
+            'gosos, molossos, braços, dogues e rafeiros também de cães, por junto, são chamados; mas distingue o\n' +
+            'registo o vagaroso, o veloz, o guardião, o de bom faro, cada um conforme as próprias qualidades que lhe\n' +
+            'haja dado a liberal natura e que um título à parte lhes granjeia na lista em que se encontram conglobados.\n' +
+            'Com os homens dá-se o mesmo. Assim, se tendes um lugar no registo, não sendo ele o mais mesquinho e\n' +
+            'vil da humanidade, falai, que então vos confiarei ao peito certo assunto, de cujo cumprimento resultará\n' +
+            'ficar vosso inimigo supresso para sempre e vós mais presos à nossa gratidão e nosso afeto, pois também\n' +
+            'se ressente nosso estado da vida dele, e só se refará se vier a falecer.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Meu suserano, sou um indivíduo que os maldosos golpes do mundo e seus\n' +
+            'embates irritado de tal modo deixaram, que faria não importa o que for para vexá-lo.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - E eu sou outro tão lasso de desastres, tão amassado pelo vil destino, que a\n' +
+            'vida arriscaria em qualquer lance, para de vez perdê-la ou endireitá-la.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Sabeis que Banquo foi vosso inimigo.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - É certo, meu senhor.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - E meu é ainda, em conflito a tal ponto sanguinário, que os minutos de toda a sua vida\n' +
+            'ferem de perto o coração da minha. É bem verdade que eu podia, às claras, varrê-lo para longe,\n' +
+            'reportando-me tão-só ao meu querer. Mas me contenho por causa de comuns amigos, cuja afeição não\n' +
+            'desejo ver perdida. Terei de lastimar, assim, a morte de quem eu derrubei. Esse o motivo de recorrer\n' +
+            'agora a vosso auxílio, pois me forçam razões de muito peso a evitar que se vulgue esse negócio.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Senhor, faremos quanto nos mandardes.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Embora nossas vidas...',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - A coragem transparece de vós. Dentro de uma hora, no máximo, hei de vos mostrar o\n' +
+            'ponto em que deveis ficar e a par vos ponho da ocasião mais propícia para a coisa, do momento\n' +
+            'adequado, pois que tudo precisará ser feito ainda esta noite, a uma certa distância do palácio, sem que\n' +
+            'vos esqueçais de que preciso ficar sem mancha nisso. Juntamente com ele - para que o trabalho saia sem\n' +
+            'o menor senão - Fleance, seu filho, que com ele também saiu de viagem e cujo afastamento não me\n' +
+            'importa menos do que o do pai, compartir deve também dessa hora negra. Tomai vossas resoluções à\n' +
+            'parte; já vos sigo.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Já resolvemos, meu senhor.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Em pouco vos chamarei; ficai dentro de casa<br>\n' +
+            '(<i>Saem os assassinos.</i>)<br>\n' +
+            'Está feito. Se há ponto em que se acoite, Banquo, tua alma no céu, será esta noite.<br>\n' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena II</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Outro quarto no palácio. Entram Lady Macbeth e um criado.</i>',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Banquo\n' +
+            'deixou o pátio?',
+          footnote: []
+        },
+        {
+          text: 'CRIADO - Deixou, senhora; mas retorna à noite.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Vai, dize ao rei que eu quero ter com ele uma conversa rápida.',
+          footnote: []
+        },
+        {
+          text: 'CRIADO - Isso mesmo, senhora, lhe direi.<br>\n' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Tudo é perdido, quando o desejo fica repartido. Toca ao morto decerto melhor sorte\n' +
+            'que a de alegrar-se assim quem lhe deu morte.<br> (<i>Entra Macbeth.</i>)<br> Então, marido, por que só ficardes,\n' +
+            'tendo por companhia as fantasias mais desconsoladoras e ocupando-vos com pensamentos que já\n' +
+            'deveriam ter morrido com quem se relacionam? O que não tem remédio, não devera ser pensado sequer.\n' +
+            'O que está feito, não está por fazer.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Nós só talhamos a serpe, sem matá-la. Em pouco tempo se refará e volta a ser o que era,\n' +
+            'ficando o nosso miserável ódio de novo exposto ao seu antigo dente. Que a estalar venham todas as\n' +
+            'junturas das coisas e a gemer ambos os mundos, antes de termos de tomar os nossos alimentos com medo\n' +
+            'e de dormirmos na aflição desses sonhos pavorosos que nos têm abalado as noites todas. Muito melhor\n' +
+            'nos fora estar com o morto que, para nossa própria paz, mandamos para o seio da paz, do que vivermos\n' +
+            'no banco de tormento de nossa alma, numa angústia sem fim. Duncan descansa no sepulcro; tranqüilo\n' +
+            'dorme, agora, depois das convulsões febris da vida. A traição lhe fez tudo o que podia; a perfídia\n' +
+            'doméstica, o veneno, o aço, a invasão de fora, nada pode, doravante, atingi-lo.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Caro esposo, saiamos. Alisai esse olhar crespo; sede claro e jovial com todos hoje.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Sê-lo-ei, amor; o mesmo vos desejo. A Banquo dedicai todas as vossas atenções,\n' +
+            'distinguindo-o dentre todos com palavras e olhares. Pouco firme é nossa situação, enquanto for preciso\n' +
+            'lavar nossas honras nessa corrente aduladora e as feições empregarmos como máscara do coração, que os\n' +
+            'traços lhe disfarce.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Precisais deixar isso.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Oh! tenho o espírito cheio de escorpiões, querida esposa! Sabeis que vivem Banquo e seu\n' +
+            'Fleance.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Mas eterna não é neles a cópia da natureza.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - É o que consola a gente; são vulneráveis. Fica, pois, alegre. Antes de completar o vôo em\n' +
+            'torno do convento o morcego e Hécate negra ter ordenado que o besouro córneo com seu zumbido surdo\n' +
+            'dê o toque sonolento da noite, será feito algo aqui de memória pavorosa.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - O que é que vai ser feito?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não macules tua inocência com saberes isso, minha pombinha, até saudares o ato. Vem,\n' +
+            'noite cega, tapa os olhos ternos do dia compassivo, e com sangrentas mãos e invisíveis rasga o grande\n' +
+            'pacto que me deixa tão pálido! Escurece; para a mata sombria voa a gralha. Vacila o claro agente, de\n' +
+            'fraqueza; mas a noite se atira para a presa. Admiras-te; mas fica sossegada, que o mal reforça a ação mal começada. Por favor, acompanha-me.\n' +
+            '<br>(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena III</center>',
+          footnote: []
+        },
+        {
+          text: '<i>O mesmo. Um parque com uma estrada que vai ter ao palácio. Entram três assassinos.</i>',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Quem te disse que viesses ter conosco?',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Não há razão de desconfiarmos, porque ele se acha a par de tudo quanto nos\n' +
+            'incumbiram, repetindo ponto por ponto as instruções.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Fica conosco. Ainda brilham no poente algumas riscas da luz solar. É a hora\n' +
+            'em que o viajante retardado esporeia a montaria para alcançar o desejado albergue, e de nós se aproxima\n' +
+            'o que esperamos.',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRO ASSASSINO - Silêncio! Ouço cavalos.',
+          footnote: []
+        },
+        {
+          text: 'BANQUO (<i>dentro</i>) - Uma luz, Aí! Tragam-nos luz! Olá!',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - É ele, não há dúvida. Os outros convidados já se encontram no pátio.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Seu cavalo fez um desvio.',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRO ASSASSINO - Quase de uma milha. Mas, como todos, ele comumente vai a pé deste ponto\n' +
+            'até o palácio.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Uma luz! Uma luz!',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRO ASSASSINO - É ele.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - É agora\n<br>' +
+            '(<i>Entram Banquo e Pleance, com uma tocha.</i>)',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Vai chover hoje à noite.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Então que caia.<br> (<i>Atiram-se sobre Banquo.</i>)',
+          footnote: []
+        },
+        {
+          text: 'BANQUO - Oh! traição! Foge, foge, bom Fleance! Podes vingar-me. Foge! Que bandido!<br>\n' +
+            '(<i>Morre.</i>)',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRO ASSASSINO - Quem apagou a luz?',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Não era o certo?',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRO ASSASSINO - Um, somente, caiu, o filho foi-se.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDO ASSASSINO - Metade, então, perdemos do trabalho.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRO ASSASSINO - Bem; mas vamos contar quanto foi feito.<br>\n' +
+            '(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena IV</center>',
+          footnote: []
+        },
+        {
+          text: '<i>Um salão do palácio. Mesa posta para banquete. Entram Macbeth, lady Macbeth, Ross, Lennox, nobres\n' +
+            'e pessoas do séqüito.</i>',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Conheceis vossos postos; assentai-vos. E de uma vez por todas: sois bem-vindos de todo\n' +
+            'coração.',
+          footnote: []
+        },
+        {
+          text: 'NOBRES - Agradecemos a Vossa Majestade.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Desejamos misturar-nos em vossa companhia, na qualidade de hóspede modesto. Nossa\n' +
+            'hospedeira fica no seu posto; mas no momento certo lhe daremos as boas-vindas.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Dai-a em meu nome, caro marido, a todos os amigos; pois diz-me o coração que\n' +
+            'são bem-vindos.<br>\n' +
+            '(<i>O primeiro assassino aparece à porta.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vê, todos eles agradecimentos de coração te enviam. Os dois lados estão iguais;\n' +
+            'sentar-me-ei no centro. Ficai alegres; logo beberemos uma rodada.<br>\n' +
+            '(<i>Aproxima-se da porta.</i>)<br>\n' +
+            'Sangue tens no rosto.',
+          footnote: []
+        },
+        {
+          text: 'ASSASSINO - Nesse caso, é de Banquo.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Antes por fora de ti que dentro dele. Liquidados?',
+          footnote: []
+        },
+        {
+          text: 'ASSASSINO - A garganta, senhor, tem ele aberta. Fiz-lhe isso.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - És o melhor dos cortadores de garganta. Porém será tão hábil quem tiver feito a Fleance a\n' +
+            'mesma coisa.',
+          footnote: []
+        },
+        {
+          text: 'ASSASSINO - Meu muito real senhor, Fleance escapou.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Volta-me, então, o acesso. Não fora isso, e eu estaria bom, firme qual rocha, inteiro como\n' +
+            'o mármore, tão largo, tão vasto e universal como o ar ambiente. Mas agora estou preso, barricado, metido\n' +
+            'num curral, atado ao poste do medo das angústias insolentes. Mas Banquo está seguro?',
+          footnote: []
+        },
+        {
+          text: 'ASSASSINO - Sim, milorde; no fundo de uma vala, tendo vinte feridas na cabeça, das quais uma\n' +
+            'qualquer já fora mais que suficiente.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Obrigado por isso. A velha serpe já se encontra vencida; o vermezinho que conseguiu fugir\n' +
+            'tem natureza para mais tarde produzir veneno, mas carece de dentes por enquanto. Vai-te logo; amanhã\n' +
+            'conversaremos.<br>\n' +
+            '(<i>Sai o assassino.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Meu real senhor, não animais os hóspedes. Fica estragada a festa, quando muitas e\n' +
+            'muitas vezes, enquanto ela dura, não afirmamos quanto nos é grata. Para comer, têm todos suas casas; o\n' +
+            'tempero melhor em casa alheia é sempre a cortesia, parecendo sem ela as reuniões lugar deserto.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Galante conselheira! Que à alegria da mesa a digestão venha associar-se. À saúde das\n' +
+            'duas!',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Vossa Alteza não quererá sentar-se?<br>\n' +
+            '(<i>Entra o fantasma de Banquo e se senta no lugar de Macbeth.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Nosso teto abrigaria agora as honras todas da nação, se a pessoa primorosa de Banquo aqui\n' +
+            'estivesse, a quem desejo antes ter de ralhar por faltazinha que lastimar qualquer desastre grave.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Sua ausência, senhor, manchou a promessa por ele feita. Queira Vossa Graça distinguir-nos com\n' +
+            'vossa real presença.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - A mesa está completa.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Aqui, milorde, há um lugar reservado.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Onde?',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Aqui mesmo, meu bom senhor. Que é que vos abala dessa maneira?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Qual de vós fez isso?',
+          footnote: []
+        },
+        {
+          text: 'NOBRES - Fez quê, meu bom senhor?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Dizer não podes que fui eu que fiz isso. Não sacudas para mim teu cabelo ensangüentado.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Levantai-vos, senhores; Sua Alteza está passando mal.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Ficai, amigos; meu marido é assim mesmo desde criança. Sentai-vos, por obséquio;\n' +
+            'o acesso passa. Se atenção lhe prestardes, insistente, podereis ofendê-lo, contribuindo para agravar o mal.\n' +
+            'Comei, portanto, sem olhardes para ele. - Não sois homem?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Sim, corajoso, que se atreveria a encarar o que espanta o próprio diabo.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Que matéria admirável! É o produto do medo, apenas; é o punhal aéreo que -\n' +
+            'dissestes - a Duncan vos levara. Esse olhar espantado, esses tremores que o verdadeiro medo parodiam,\n' +
+            'muito bem estariam numa história que uma mulher contasse ao pé do fogo com a aprovação da avó.\n' +
+            'Envergonhai-vos! Par que tantas caretas? Feita a conta, só olhais uma cadeira.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vede ali, por favor! Olhai! Olhai! Que me dissestes? Ora, que me importa. Se sacudir\n' +
+            'consegues a cabeça, é que podes falar. Se as sepulturas e as carneiras os mortos nos reenviam que nelas\n' +
+            'enterramos, das entranhas dos abutres faremos nossos túmulos.<br>\n' +
+            '(<i>O fantasma desaparece.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Quê! Desvirilizou-vos a loucura?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Tão certo como achar-me aqui, eu o vi.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Fora, fora! Que opróbrio!',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Derramado muito sangue já foi, nos velhos tempos, antes que a humana lei limpado\n' +
+            'houvesse o mundo dos pagãos, sim, e até mesmo depois têm sido perpetrados crimes terríveis de se\n' +
+            'ouvir. Já houve tempo em que, saltado o cérebro, morria de vez alguém e... tudo estava feito. Mas os\n' +
+            'mortos, agora, se levantam com vinte fatais golpes na cabeça e de nossas cadeiras nos empurram. E mais\n' +
+            'estranho do que o próprio crime.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Vossos nobres amigos, caro esposo, já sentem vossa a ausência.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - É que o esquecera... Caros amigos, não fiqueis pasmados. pois sofro há muito de uma\n' +
+            'doença estranha, que nada significa para quantos me conhecem de perto. Vinde; a todos, amizade e\n' +
+            'saúde. Vou sentar-me. Dai-me vinho. Bem cheio; beber quero à saúde e à alegria dos presentes e à do\n' +
+            'nosso querido amigo Banquo, que não está conosco. Oh! se estivesse! A todos! Ao ausente! Tudo a\n' +
+            'todos!',
+          footnote: []
+        },
+        {
+          text: 'TODOS - Com lealdade homenagem vos prestamos.<br>\n' +
+            '(<i>Volta ao fantasma.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Fora, fora de minha vista! Esconda-te a terra! Os ossos tens sem vida alguma; enregelado o\n' +
+            'sangue. Não tens vista nesses olhos que tanto resplandecem.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Não vejais, nobres pares, em tudo isso senão algo habitual. Não é outra coisa.\n' +
+            'Apenas nos estraga a festa de hoje.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - O que o homem ousa eu ouso. Tal qual híspido urso da Rússia vem para o meu lado,\n' +
+            'rinoceronte encouraçado, tigre da Hircânia. Assume qualquer forma, menos essa; nenhuma os nervos\n' +
+            'firmes conseguirá abalar-me. Ou torna à vida e, de espada na mão, me lança um repto para um lugar\n' +
+            'deserto. Acontecendo que a tremer eu me mostre, de menino me acoima ou rapariga. Pavorosa sombra,\n' +
+            'fora daqui! Caricatura fingida, fora! fora!<br>\n' +
+            '(<i>O fantasma desaparece.</i>)<br>\n' +
+            'Bem, agora que sumiste, me sinto outra vez homem. Por obséquio, sentai-vos.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Expulsastes a alegria, estragastes o convívio com esse desarranjo mais que insólito.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Podem dar-se tais coisas e envolver-nos como nuvem de Outono, sem que o espanto mais\n' +
+            'alto nos provoque? Assim, fazeis-me duvidar de mim próprio, quando vejo que encarais tais visões, sem\n' +
+            'que das faces se vos altere o natural rosado, enquanto eu fico pálido de medo.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Que visões, meu senhor?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Não, por obséquio, não lhe faleis. Está piorando muito. As perguntas o deixam\n' +
+            'mais furioso. Boa noite para todos. A saída não vos preocupe a ordem. Ide logo, sem outras cerimônias.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Boa noite; muitas melhoras para Sua Alteza.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Uma noite tranqüila para todos<br>\n' +
+            '(<i>Saem os nobres e as pessoas do séqüito.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Afirmam todos que isso chama sangue; o sangue chama sangue. As pedras podem\n' +
+            'mover-se, já foi visto, e falar a árvore. Os áugures e ocultas relações já conseguiram pela voz das gralhas,\n' +
+            'pegas e corvos descobrir os crimes de sangue mais ocultos. Em que ponto se encontra a noite?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - A competir com o dia, sem que se saiba qual vantagens tenha.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Que dizes de Macduff ter recusado nosso invite solene?',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Acaso enviastes-lhe, senhor, algum recado?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Casualmente soube disso; mas vou mandar-lhe um próprio. Não há ninguém em cuja casa\n' +
+            'eu deixe de ter algum espia. Amanhã mesmo, bem cedinho, vou ver as irmãs bruxas. Terão de falar mais\n' +
+            'alguma coisa, pois estou decidido a saber tudo pelos piores meios. Para minha salvação tudo tem de abrir\n' +
+            'caminho. A tal ponto atolado estou no sangue que, esteja onde estiver, tão imprudente será recuar como\n' +
+            'seguir à frente. Tenho em mente uma idéia pervertida, que urge concretizar numa investida.',
+          footnote: []
+        },
+        {
+          text: 'LADY MACBETH - Careceis do que à vida é grato: sono.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Vamos dormir; minha ilusão selvagem é muito nova; falta-lhe coragem. Somos moços\n' +
+            'demais.<br>\n' +
+            '(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena V</center>',
+          footnote: []
+        },
+        {
+          text: '<i>A charneca. Trovão. Entram as três bruxas, que encontram Hécate.</i>',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Hécate, que houve? Pareceis zangada.',
+          footnote: []
+        },
+        {
+          text: 'HÉCATE - Causa não tenho, feiticeiras? Qual a razão, bisbilhoteiras, de ser Macbeth neste negócio de\n' +
+            'morte e enigmas vosso sócio, enquanto eu, dona de vós todas, que apresto sempre as negras bodas, não\n' +
+            'fui chamada a tomar parte no brilho e glória de nossa arte? E o que é pior: quanto fizestes a tudo vos\n' +
+            'mostrando prestes, foi para um tipo truculento de mui grosseiro acabamento. que não vos tem nenhuma\n' +
+            'estima e só de egoísmo em tudo prima. Mas emendai-vos; e defronte do fundo charco do Aqueronte\n' +
+            'amanhã cedo ide encontrar-me, que ele em estado está de alarme, e para lá, quase sem tino, irá saber de\n' +
+            'seu destino. Vasos e encantos tende à mão; de tudo basta provisão. Para o ar me vou; na noite escura\n' +
+            'farei bem cedo uma ação dura. De uma grande obra a fantasia será completa enquanto é dia. Ora uma\n' +
+            'gota espessa e crua dos cornos pende ali da lua. Vou apanhá-la antes que caia, pois, destilada, de atalaia\n' +
+            'gênios porá de tanto alcance que, por sua força, ele se lance na destruição, à morte e ao fado a resistir\n' +
+            'qual renegado, pondo a esperança acima em tudo da própria graça e o medo agudo. Para os mortais a\n' +
+            'segurança é o imigo mor, que jamais cansa.<br>\n' +
+            '(<i>Canção dentro: "Vinde, vinde," etc.</i>)<br>\n' +
+            'Chamam-me; é meu espírito travesso que me aguarda das nuvens num cabeço.<br>\n' +
+            '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Apressemo-nos; ela volta logo.<br>\n' +
+            '(<i>Saem.</i>)',
+          footnote: []
+        },
+        {
+          text: '<br><center>Cena VI</center>',
+          footnote: []
+        },
+        {
+          text: '<i>Forres. Um quarto no palácio. Entram Lennox e outro nobre.</i>',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Meu discurso anterior só mui de leve tocou em vossos pensamentos, sendo-vos agora\n' +
+            'facultado interpretá-lo como vos aprouver. Direi somente que tudo se passou por modo estranho. Por\n' +
+            'Macbeth foi chorado o meigo Duncan. Que pena! Estava morto. Muito tarde saiu de casa o nosso bravo\n' +
+            'Banquo, que, podereis dizer, se assim quiserdes, Fleance matou, pois Fleance fugiu logo. É perigoso\n' +
+            'passear de noite. A quem não ocorreu o pensamento de quão monstruoso foi haver Malcolm e Donalbain\n' +
+            'o pai assassinado? Que ação maldita! E como entristecido deixou Macbeth! Pois ele, na mesma hora,\n' +
+            'arrebatado de um furor piedoso, em pedaços não fez os dois facínoras, servos do sono e escravos da bebida? Não foi nobre tudo isso? E foi prudente. Pais qualquer coração se tornaria por demais irritado,quando os homens negar ouvisse o fato. Assim, vos digo, soube fazer a coisa, como penso que se ele viera ter sob chave os filhos de Duncan - o que nunca, Deus louvado, chegará a conseguir - hão de ver amboso que é matar o pai. E o mesmo, Fleance. Mas, silêncio! Por causa de palavras um tanto livres e por terfaltado à festa do tirano, soube há pouco que em desgraça Macduff agora vive. Caro senhor, dizer-mepoderíeis em que lugar ele encontrou abrigo?',
+          footnote: []
+        },
+        {
+          text: 'NOBRE - Na corte da Inglaterra vive o filho de Duncan, cuja herança verdadeira o tirano retém, e é\n' +
+            'recebido pelo piedoso Eduardo com tal graça que a má vontade da fortuna em nada do alto respeito\n' +
+            'merecido o priva. Para lá foi Macduff, a fim de ao santo rei suplicar auxílio, no sentido de estimular\n' +
+            'Northumberland e o bravo Siward, e assim, com a ajuda desses nobres - confirmando lá do alto Deus\n' +
+            'tudo isso - possamos restituir a nossas mesas os alimentos, sono a nossas noites, livrar nossos festejos e\n' +
+            'banquetes das facas sanguinárias, homenagens da lei prestar e receber as honras a que temos direito,\n' +
+            'coisas essas que nos faltam de todo. Essa notícia exasperou o rei de tal maneira que aprontando se está\n' +
+            'para uma guerra.',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Mandou ele a Macduff algum recado?',
+          footnote: []
+        },
+        {
+          text: 'NOBRE - Mandou; porém o mensageiro turvo com um resoluto "Eu não, senhor!" as costas voltou-me\n' +
+            'decidido, resmungando, como quem diz: "Haveis de arrepender-vos do tempo que me impõe essa\n' +
+            'resposta".',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Que isso o ensine a ser cauto, conservando-se a distância que possa aconselhá-lo sua\n' +
+            'sabedoria. Se um santo anjo fosse à Inglaterra e desse o seu recado antes de ele chegar, para que pronta\n' +
+            'bênção se espalhe logo em nossa pátria que geme ao peso dessa mão maldita!',
+          footnote: []
+        },
+        {
+          text: 'NOBRE - Mandaria com ele minhas preces.<br>\n' +
+            '(<i>Saem.</i>)',
           footnote: []
         }
       ]
@@ -14001,73 +15505,6 @@ export default [
   },
   {
     document: {
-      title: 'Spell',
-      author: 'Fernando Pessoa',
-      section: 'Poema',
-      img: 'fernandoPessoa2',
-      imgIndex: '9',
-      titleURL: 'spell',
-      authorURL: 'fernando-pessoa',
-      sectionURL: 'poema',
-      content: '',
-      disclaimer: '',
-      paragraphs: [
-        {
-          text: '<br>' +
-            'From the moonlit brink of dreams\n' +
-            '<br>' +
-            '        I stretch foiled hands to thee,\n' +
-            '<br>' +
-            'O borne down other streams\n' +
-            '<br>' +
-            '        Than eye can think to see!\n' +
-            '<br>' +
-            'O crowned with spirit-beams!\n' +
-            '<br>' +
-            '        O veiled spirituality!',
-          footnote: [
-            {
-              index: '',
-              content: ''
-            }
-          ]
-        },
-        {
-          text:
-            '<br>' +
-            'My dreams and thoughts abate\n' +
-            '<br>' +
-            '        Their pennons at thy feet,\n' +
-            '<br>' +
-            'O angel born too late\n' +
-            '<br>' +
-            '        For fallen men to meet!\n' +
-            '<br>' +
-            'In what new sensual state\n' +
-            '<br>' +
-            '        Could our twined lives feel sweet?',
-          footnote: []
-        },
-        {
-          text: '<br>' +
-            'What new emotion must\n' +
-            '<br>' +
-            '        I dream to think thee mine?\n' +
-            '<br>' +
-            'What purity of lust?\n' +
-            '<br>' +
-            '        O tendrilled as a vine\n' +
-            '<br>' +
-            'Around my caressed trust!\n' +
-            '<br>' +
-            '        O dream-pressed spirit-wine!',
-          footnote: []
-        }
-      ]
-    }
-  },
-  {
-    document: {
       title: 'A Metamorfose',
       author: 'Franz Kafka',
       section: 'Capítulo II',
@@ -16180,12 +17617,12 @@ export default [
     document: {
       title: 'Macbeth',
       author: 'William Shakespeare',
-      section: 'Ato II',
-      img: 'shakespeare',
+      section: 'Ato IV',
+      img: 'macbeth4',
       imgIndex: '5',
       titleURL: 'macbeth',
       authorURL: 'william-shakespeare',
-      sectionURL: 'ato-II',
+      sectionURL: 'ato-IV',
       content: '',
       disclaimer: '',
       paragraphs: [
@@ -16199,103 +17636,276 @@ export default [
           ]
         },
         {
-          text: '<i>Inverness. Pátio no interior do castelo. Entram Banquo e Fleance, precedidos de um criado com uma\n' +
-            'tocha.</i>',
+          text: '<i>Uma caverna. No meio, um caldeirão a ferver. Trovão. Entram as três bruxas.</i>',
           footnote: []
         },
         {
-          text: 'BANQUO - Quanto da noite já será, menino?',
+          text: 'PRIMEIRA BRUXA - Gato malhado já miou três vezes.',
           footnote: []
         },
         {
-          text: 'FLEANCE - Não ouvi bater horas, mas a lua já se escondeu.',
+          text: 'SEGUNDA BRUXA - Três e mais uma já guinchou o ouriço.',
           footnote: []
         },
         {
-          text: 'BANQUO - Ela se esconde às doze.',
+          text: 'TERCEIRA BRUXA - A harpia já gritou: "É hora! É hora!',
           footnote: []
         },
         {
-          text: 'FLEANCE - Penso, senhor, que será mais do que isso.',
+          text: 'PRIMEIRA BRUXA - Atirai no caldeirão entranhas em podridão. Os sapos das pedras frias que durante\n' +
+            'trinta e um dias suaram seu bom bocado, jogai no pote encantado.',
           footnote: []
         },
         {
-          text: 'BANQUO - Toma aqui minha espada. Há economia no céu; todas as luzes se apagaram. Fica também\n' +
-            'com isto. Em mim se exerce uma pressão pesada como chumbo. No entretanto, quisera não dormir.\n' +
-            'Detende em mim, poderes criadores, os pensamentos maus que a natureza permite aos que repousam.\n<br>' +
-            '<i>(Entra Macbeth, acompanhado de criado, com uma tocha.)</i><br>' +
-            'Quem vem lá?',
+          text: 'TODAS - Mais dores para a barrela. mais fogo para a panela.',
           footnote: []
         },
         {
-          text: 'MACBETH - Um amigo.',
+          text: 'SEGUNDA BRUXA - Lombo de cobra novinha atirai no pote asinha, pé de sapo e lagartixa, de cão a\n' +
+            'língua que espicha, pêlos brandos de morcego, asa de bufo-sossego, de lagarto a perna fina, acúleo de colubrina jogai na sopa do mal nesta mistura infernal.',
           footnote: []
         },
         {
-          text: 'BANQUO - Como, senhor! Ainda estais de pé? O rei já foi deitar-se; revelava insólita alegria, tendo\n' +
-            'enchido de grossos cabedais vossos celeiros. Saúda vossa esposa, oferecendo-lhe este diamante, como à\n' +
-            'mais bondosa das hospedeiras. Foi-se para o quarto com um contentamento sem limites.',
+          text: 'TODAS - Mais dores para a barrela, mais fogo para a panela.',
           footnote: []
         },
         {
-          text: 'MACBETH - Tomada de surpresa, nossa boa vontade se mostrou serva da falta. Se não, teria inteira\n' +
-            'liberdade.',
+          text: 'TERCEIRA BRUXA - Três escamas de dragão, com bucho de tubarão que os mareantes intimida; cicuta\n' +
+            'à noite colhida, bofes de um judeu malvado, ramo de teixo tirado em noite de muito escuro; beiço de\n' +
+            'tártaro, o duro nariz de turco, o dedinho de uma criança sem linho que matado a mãe houvesse sem dizer\n' +
+            'nenhuma prece. Deixai bem forte a mistura; juntai do tigre a fressura, porque nosso caldeirão tenha caldo\n' +
+            'em profusão.',
           footnote: []
         },
         {
-          text: 'BANQUO - Tudo vai bem. Sonhei na última noite com as três irmãs fatais. Muito verídicas com relação\n' +
-            'a vós se revelaram.',
+          text: 'TODAS - Mais dores para a barrela, mais fogo para a panela.',
           footnote: []
         },
         {
-          text: 'MACBETH - Não penso nelas; no entretanto, quando tivermos alguma hora favorável dedicaremos a\n' +
-            'isso umas palavras, se o tempo vos sobrar.',
+          text: 'SEGUNDA BRUXA - Esfriai com sangue de mico que o encanto ficará rico.<br>\n' +
+            '(<i>Entra Hécate.</i>)',
           footnote: []
         },
         {
-          text: 'BANQUO - Com todo o gosto.',
+          text: 'HÉCATE - Muito bem feito; seu quinhão todas por isto ainda terão. Agora como elfos e fadas cantai à\n' +
+            'volta, de mãos dadas, para que o encanto se complete.<br>\n' +
+            '(<i>Música e a canção "Espíritos negros\' etc.</i>)',
           footnote: []
         },
         {
-          text: 'MACBETH - Se no tempo oportuno concordardes com meu modo de ver, ganhareis honra.',
+          text: 'SEGUNDA BRUXA - Meu dedão está coçando. Vem algum patife andando. Ferrolhos, fora! Estamos na\n' +
+            'hora.<br>\n' +
+            '(<i>Entra Macbeth</i>)',
           footnote: []
         },
         {
-          text: 'BANQUO - Se não vier a perdê-la no propósito de fazê-la aumentar, puro deixando-me o coração e\n' +
-            'límpida a obediência, ouvir-vos-ei de grado.',
+          text: 'MACBETH - Que fazeis, misteriosas e sombrias bruxas de meia-noite?',
           footnote: []
         },
         {
-          text: 'MACBETH - Bom repouso até esse dia.',
+          text: 'TODAS - Algo sem nome.',
           footnote: []
         },
         {
-          text: 'BANQUO - Muito agradecido, meu senhor; iguais votos vos dirijo.\n<br>' +
-            '<i>(Saem Banquo e Fleance.)</i>',
+          text: 'MACBETH - Conjuro-vos por vosso próprio ofício, seja qual for sua origem: respondei-me. Mesmo que\n' +
+            'os ventos a soltar viésseis, jogando-os contra as torres das igrejas; mesmo que as ondas escumantes\n' +
+            'venham a destruir os navios e a tragá-los; ainda que o trigo verde caia todo e as árvores se vejam\n' +
+            'derrubadas; embora o cimo dos castelos caia na cabeça dos guardas, e as pirâmides e os palácios os picos\n' +
+            'altanados nivelem com suas bases; muito embora venha a desmoronar todo o tesouro dos germes da\n' +
+            'natura, de tal modo que a própria destruição se mostre farta: respondei às perguntas que vos faço.',
           footnote: []
         },
         {
-          text: 'MACBETH - Vai dizer à senhora que me faça sinal com o sino, quando estiver pronta minha bebida.\n' +
-            'Depois disso, deita-te.<br>' +
-            '<i>(Sai o criado.)</i><br>' +
-            'Será um punhal que vejo em minha frente com o cabo a oferecer-se-me? Peguemo-lo. Não te apanhei\n' +
-            'ainda; no entretanto, vejo-te sempre. Não serás sensível, visão funesta, ao tato como à vista? Ou de um\n' +
-            'punhal não passas, simplesmente, do pensamento, uma criação fictícia, procedente do cérebro\n' +
-            'escaldante? Percebo-te, no entanto, e tão palpável como este que ora empunho. Mostras-me a estrada que\n' +
-            'seguir eu devo e o instrumento que a usar serei forçado. Se meus olhos joguete não se mostram de meus\n' +
-            'outros sentidos, sobrepujam todos eles. Ainda te percebo, manchado o cabo e a lâmina de gotas de\n' +
-            'sangue que antes não estava neles. Não existe tal coisa; é o sanguinário projeto que a meus olhos toma\n' +
-            'forma. Em metade do mundo, neste instante, parece estar sem vida a natureza; os sonhos maus iludem\n' +
-            'sob as pálpebras o sono bem velado; feiticeiras o rito exercem singular da pálida Hécate; o esquálido\n' +
-            'assassino, posto de alerta pela sua sentinela, o lobo, cujo uivar lhe serve de horas, com passo de ladrão e\n' +
-            'o andar furtivo de Tarquínio, da meta se aproxima, tal qual fantasma. Ó terra forte e sólida, não ouças o\n' +
-            'barulho de meus passos, seja qual for a direção que tomem, porque as próprias pedrinhas não propalem\n' +
-            'para onde eu vou e dissipar não façam o horror desta hora que tão bem lhe fica. Eu ameaço; ele vive;\n' +
-            'congelada pelo meu sopro a ação se torna em nada.<br>' +
-            '<i>(O sino soa.)</i><br>' +
-            'Já vou; está feito. O sino me convida. Duncan, não ouças; é um chamado eterno que para o céu te leva ou\n' +
-            'para o inferno.<br>' +
-            '(<i>Sai.</i>)',
+          text: 'PRIMEIRA BRUXA - Fala.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDA BRUXA - Pergunta.',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRA BRUXA - Vamos responder-te.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Que preferes: ouvir de nossas bocas ou da de nossos mestres?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Invocai-os; desejo vê-los',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Sangue de porca, então, nesse fogo atira, que comesse seus nove filhos, gordura\n' +
+            'de uma corda bem segura, de que pendesse, enforcado, um suicida amaldiçoado.',
+          footnote: []
+        },
+        {
+          text: 'TODAS - Mostra agora que és ousado.<br>\n' +
+            '(<i>Trovão. Primeira aparição: uma cabeça, armada de capacete.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Ouve-me, força ignota...',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Não prossigas. Sabe o que pensas. Ouve e nada digas.',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA APARIÇAO - Macbeth, Macbeth, Macbeth! Toma cuidado com Macduff, acautela-te com o\n' +
+            'thane de Fife! Desobriga-me; é o bastante.<br>\n' +
+            '(<i>Desce.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Quem quer que sejas, fico-te obrigado pela boa advertência. Isso concorda com meus\n' +
+            'receios. Mais uma palavra...',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Não aceita injunções. Eis que vem outro ainda mais forte que ele.<br>\n' +
+            '(<i>Trovões. Segunda aparição: uma criança ensangüentada.</i>)',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDA APARIÇÃO - Macbeth, Macbeth, Macbeth!',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Se três ouvidos tivesse, te ouviria.',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDA APARIÇAO - Sanguinário sê sempre, ousado e resoluto, e aprende a rir do homem, porque\n' +
+            'ninguém nascido de mulher poderá, em nenhum tempo, fazer mal a Macbeth.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Então, Macduff, podes viver. Por que de ti recear-me? Contudo, quero a segurança em\n' +
+            'dobro segurar, e penhor obter do fado. Vivo não ficarás, para que eu possa dizer que mente o medo de\n' +
+            'alma pálida e, apesar dos trovões, dormir tranquilo.<br>\n' +
+            '(<i>Trovão. Terceira aparição: uma criança coroada, com uma árvore na mão.</i>)<br>\n' +
+            'Quem é que surge como descendente de um soberano e na infantil cabeça traz o fecho e diadema do\n' +
+            'comando?',
+          footnote: []
+        },
+        {
+          text: 'TODAS - Escuta só; não fales.',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRA APARIÇAO - Veste a força do leão, sê orgulhoso e não te importes com quem quer que\n' +
+            'resmungue ou se rebele, ou contra ti conspire, pois vencido não há de ser Macbeth, enquanto o grande\n' +
+            'bosque de Birnam não subir contra ele ao alto Dunsinane.<br>\n' +
+            '(<i>Desce.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Jamais isso poderá dar-se, pois quem tem poderes para a floresta armar e dizer à árvore\n' +
+            'que liberte a raiz fixa na terra? Ótimo indício! Belo! Não eleves, rebelião, a cabeça sem que o bosque de\n' +
+            'Birnam se levante, e assim o nosso grande Macbeth há de chegar ao termo da natureza até ao alento\n' +
+            'extremo, segundo o mortal uso. Mas agita-me o coração esta fatal pergunta: Dizei-me - se vossa arte\n' +
+            'chega a tanto - alcançarão um dia os descendentes de Banquo o trono e o cetro deste reino?',
+          footnote: []
+        },
+        {
+          text: 'TODAS - Não queiras saber mais.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não; é preciso satisfazer-me. Se não me fizerdes esta vontade, apenas, que uma eterna\n' +
+            'maldição vos destrua. Saber quero. Par que este caldeirão está afundando? E que barulho é esse?',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - Vê!',
+          footnote: []
+        },
+        {
+          text: 'SEGUNDA BRUXA - Vê!',
+          footnote: []
+        },
+        {
+          text: 'TERCEIRA BRUXA - Vê!',
+          footnote: []
+        },
+        {
+          text: 'TODAS - Mostrai-vos como visão, angustiai-lhe o coração, aparecendo qual sombra, para sumir pela\n' +
+            'alfombra.',
+          footnote: []
+        },
+        {
+          text: '(<i>Aparece uma seqüência de oito reis, tendo o último um espelho na mão; segue-o o fantasma de\n' +
+            'Banquo.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Pareces muito o espírito de Banquo. Desce! Tua coroa cauteriza-me os olhos; teus cabelos\n' +
+            '- tu, uma outra fronte de ouro cingida - se parecem com os do primeiro, tal como o terceiro que se lhe\n' +
+            'segue. Bruxas repugnantes, por que me mostrais isto? Outro! É o quarto! Olhos, estarrecei. Como! esta\n' +
+            'linha se estenderá até ao fim do mundo? Mais um, ainda? o sétimo? Não quero ver mais nada; porém eis\n' +
+            'que surge o último com um espelho na mão, que muitos outros, ainda, me revelam. Uns distingo com\n' +
+            'duplo globo e cetro triplicado. Pavorosa visão! Agora vejo que é verdade, pois Banquo, recoberto de\n' +
+            'sangue, me sorri e mos indica, como se filhos dele fossem todos.<br>\n' +
+            '(<i>As visões desaparecem.</i>)<br>\n' +
+            'Como! É assim!',
+          footnote: []
+        },
+        {
+          text: 'PRIMEIRA BRUXA - É assim mesmo. Mas por que Macbeth treme do que vê? Manas, ele desvaria;\n' +
+            'infundamos-lhe alegria, revelando de nossa arte a mais sedutora parte. No ar porei muitos encantos.\n' +
+            'enchendo-o de sons e cantos, enquanto vós a rodada deixareis bem acabada, para que este rei potente\n' +
+            'conosco fique contente.<br>\n' +
+            '(<i>Música. As bruxas dançam, desaparecendo depois, com Hécate.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Onde estão? Já se foram? Que maldita se torne sempre esta hora perniciosa no calendário. -\n' +
+            'Entrai! Quem está aí?<br>\n' +
+            '(<i>Entra Lennox.</i>)',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Que quer Vossa Grandeza?',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Acaso vistes as irmãs feiticeiras?',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Não, milorde.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Infectado seja o ar em que cavalgam e maldito quem quer que lhes dê crédito. Há pouco\n' +
+            'ouvi barulho de cavalo. Chegou alguém?',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Sim; dois ou três correios, milorde, que a notícia vos trouxeram de que Macduff fugiu para a\n' +
+            'Inglaterra.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Para a Inglaterra!',
+          footnote: []
+        },
+        {
+          text: 'LENNOX - Sim, senhor bondoso.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Ó tempo! antecipaste-te a meus atos assustadores! Nunca alcançaremos a intenção fugitiva,\n' +
+            'se com ela não fizemos seguir o ato expedito. Doravante ser-me-ão os primogênitos do coração também\n' +
+            'os primogênitos do braço. E agora mesmo, porque fiquem coroadas as ações com os pensamentos, em\n' +
+            'prática ponhamos essa idéia. Vou surpreender o burgo de Macduff, de Fife apoderar-me, sua esposa\n' +
+            'passar à espada, os filhos e, assim, todas as almas desgraçadas de sua raça. Ameaças não farei qual um\n' +
+            'demente; dobra-se o ferro enquanto ele está quente. Basta de aparições. É os tais senhores, onde se\n' +
+            'encontram? Conduzi-me a eles.<br>\n' +
+            '(<i>Saem.</i>)',
           footnote: []
         },
         {
@@ -16303,548 +17913,544 @@ export default [
           footnote: []
         },
         {
-          text: '<i>O mesmo. Entra lady Macbeth.</i>',
+          text: '<i>Fife. Castelo de Macduff. Entram lady Macduff, seu filho e Ross.</i>',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - O que os embebedou me deu coragem: fogo me deu o que os deixou extintos.\n' +
-            'Ouvi! Silêncio! É o pio da coruja, sentinela fatal que augura a mais sinistra noite. Vai dar o golpe; a porta se acha aberta; o ressonar dos guardas embriagados zomba do ofício deles. Pus mistura na bebida de\n' +
-            'todos, de tal forma que a morte e a natureza neles lutam sobre se vão morrer ou ficar vivos.',
+          text: 'LADY MACDUFF - Que fez, para exilar-se assim de súbito?',
           footnote: []
         },
         {
-          text: 'MACBETH <i>(dentro)</i> - Quem está aí? Olá!',
+          text: 'ROSS - Precisais ser paciente, nobre dama.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Que pena! Temo, que acordassem e nada esteja feito. O que nos atrapalha é a\n' +
-            'tentativa, somente, não a ação. Ouvi! De jeito deixei os punhais deles; não podiam ficar despercebidos.\n' +
-            'Se não fosse parecer-se no sono com meu pai, eu própria o realizara. - Meu marido!\n' +
-            '<br><i>(Entra Macbeth.)</i>',
+          text: 'LADY MACDUFF - Ele o não foi. Loucura foi a fuga; quando não pelos atos, pelo medo nos mostramos\n' +
+            'traidores.',
           footnote: []
         },
         {
-          text: 'MACBETH - Realizei o ato. Ouviste algum barulho?',
+          text: 'ROSS - Não sabemos se o medo há nisso parte ou só prudência.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - O pio, apenas, da coruja, e o grito do grilo. Não falastes?',
+          text: 'LADY MACDUFF - Prudência? Abandonar a esposa e os filhos, a casa, as dignidades, numa parte de\n' +
+            'onde ele mesmo foge? Não nos ama; não possui coração. A carricinha - dos passarinhos o de menor porte\n' +
+            '- em defesa da prole no seu ninho briga com a coruja. O medo é tudo, nada o amor, e a prudência é coisa\n' +
+            'alguma numa fuga assim fora de propósito.',
           footnote: []
         },
         {
-          text: 'MACBETH - Quando?',
+          text: 'ROSS - Querida prima, sede moderada, por obséquio, pois vosso esposo é sábio, nobre, sensato e, mais\n' +
+            'do que nós todos, conhece as injunções do nosso tempo. Não me atrevo a falar mais claramente, mas\n' +
+            'cruel é o tempo em que traidores somos sem o sabermos, quando ouvimos boatos sobre o que receamos,\n' +
+            'sem sabermos o que nos faz ter medo, desgarrados vamos num mar violento e tempestuoso, sem direção\n' +
+            'alguma. Bem, despeço-me. Dentro de pouco aqui estarei de volta. As coisas, quando o ponto pior\n' +
+            'atingem, ou aí param, ou de novo sobem para onde antes estavam. Lindo primo, que Deus vos abençoe.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Agora.',
+          text: 'LADY MACDUFF - Ainda tem pai; no entanto, é como se já não tivesse.',
           footnote: []
         },
         {
-          text: 'MACBETH - Quando eu descia?',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Sim.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Escuta um pouco. Quem é que está naquele quarto ao lado?',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Donalbain.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH (<i>Contemplando as mãos</i>) - Oh, que vista lastimável!',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - É um pensamento néscio dizer isso: "Que vista lastimável!"',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Um, no sono, sorriu, e o outro gritou: "Ai! Assassínio!" E, com isso, acordaram.\n' +
-            'Escutando-os, me detive. Mas eles murmuraram orações, tão-somente, e dispuseram-se a dormir outra\n' +
-            'vez.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - No mesmo quarto se acham dois.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Um gritou: "Deus nos ampare!" E "Amém" disse o outro, como se tivessem percebido as\n' +
-            'mãos sujas do carrasco. Ao escutar-lhe o temor, não pude dizer "Amém", quando eles murmuraram\n' +
-            '"Deus nos ampare".',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Não será prudente pensar tanto sobre isso.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Por que causa não pude, então, dizer "Amém?" De bênção tinha necessidade mui\n' +
-            'premente; mas na garganta o "Amém" ficou pegado.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Essas coisas não devem ser pensadas dessa maneira. E de deixar-nos loucos.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Uma voz pareceu-me ouvir, aos gritos de: "Não durmais! Macbeth matou o sono!" o meigo\n' +
-            'sono, o sono que desata a emaranhada teia dos cuidados, que é o sepulcro da vida cotidiana, banho das\n' +
-            'lides dolorosas, bálsamo dos corações feridos, a outra forma da grande natureza, o mais possante pábulo\n' +
-            'do banquete da existência.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Que pretendeis dizer?',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Por toda a casa continuava a gritar: "Basta de sono! Não durmais! Glamis destruiu o sono!\n' +
-            'Por isso Cawdor já dormir não pode, Macbeth dormir não pode!"',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Quem gritava por esse modo? Ora, meu digno thane, relaxais vossas nobres\n' +
-            'energias considerando as coisas por maneira tão doentia. Arranjai um pouco de água, para das mãos\n' +
-            'tirardes todas essas testemunhas manchadas. Por que causa trouxestes os punhais de onde se achavam?\n' +
-            'Precisam ficar lá. Tomai a pô-los em seus lugares e sujai de sangue os criados que ainda dormem.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Não; não volto. Tenho pavor só de pensar no feito; voltar a contemplá-lo me é impossível.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Oh! que vontade fraca! Dai-me as armas. Os mortos e os que dormem são pinturas,\n' +
-            'nada mais. É somente o olho da criança que tem medo do diabo desenhado. Se estiver a sangrar, deixarei\n' +
-            'tintos com isso o rosto de seus próprios criados, pois é preciso que pareça que eles o crime cometeram.\n' +
-            '(<i>Sai. Pancadas dentro.</i>)',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Onde batem? Que se passa comigo, para um simples ruído apavorar-me? E aquelas mãos,\n' +
-            'ai! que os olhos me arrancam? Todo o oceano do potente Netuno poderia de tanto sangue a mão\n' +
-            'deixar-me limpa? Não; antes minha mão faria púrpura do mar universal, tornando rubro o que em si\n' +
-            'mesmo é verde.<br>' +
-            '(<i>Volta lady Macbeth.</i>)',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - De vossa cor as mãos agora tenho; mas de possuir ficara envergonhada um coração\n' +
-            'tão branco.\n<br>' +
-            '(<i>Pancadas dentro.</i>)\n<br>' +
-            'Ouvi! Novas batidas. Ide logo vestir vosso roupão; se nos chamarem, não devemos mostrar que não\n' +
-            'dormimos. Não deveis entregar-vos a essas cismas tão miseravelmente.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Conhecer o que fiz... Melhor me fora se não me conhecesse.\n<br>' +
-            '(<i>Pancadas dentro.</i>)\n<br>' +
-            'Acordam Duncan batendo desse modo. Ah! se acordasses!\n<br>' +
-            '(<i>Saem.</i>)',
-          footnote: []
-        },
-        {
-          text: '<br><center>Cena III</center>',
-          footnote: []
-        },
-        {
-          text: '<i>O mesmo. Pancadas dentro. Entra o porteiro.</i>',
-          footnote: []
-        },
-        {
-          text: 'PORTEIRO - Isso, sim, é que é bater! Quem fosse porteiro no inferno não faria outra coisa senão virar a\n' +
-            'chave.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em nome de Belzebu? Eis que chega um\n' +
-            'lavrador que se enforcou, na expectativa de uma boa colheita. Chegais na hora. Trazei boa carga de\n' +
-            'lenços, por isso que tereis de suar aqui a valer.<br> (<i>Pancadas dentro.</i>) Bate, bate, bate! Quem está aí, em\n' +
-            'nome do outro diabo? Por minha fé, é um sujeito de língua equívoca, que poderia jurar em qualquer um\n' +
-            'dos pratos da balança, contra o outro prato, que cometeu bastantes traições por amor de Deus, mas não\n' +
-            'pôde equivocar o céu. Oh! entrai, meu equivocador!<br> (<i>Pancadas dentro</i>.) Bate, bate, bate! Quem está ai?\n' +
-            'Por minha fé, é um alfaiate inglês que vem para cá por ter roubado uns calções franceses. Entrai, senhor\n' +
-            'alfaiate! Aqui podereis aquecer à vontade vosso ferro de engomar.<br> (<i>Pancadas dentro.</i>) Bate, bate! Não há\n' +
-            'sossego de jeito nenhum. Quem sois? Mas, para inferno, este lugar é muito frio. Não continuarei nele por\n' +
-            'mais tempo como porteiro do diabo. Tinha pensado em deixar entrar gente de todas as profissões, que vai\n' +
-            'para os fogos eternos pela estrada semeada de rosas.<br> (<i>Pancadas dentro.</i>) Um momento! Um momento! Por obséquio, não vos esqueçais do porteiro.<br>\n' +
-            '(<i>Abre o portão.</i>)<br>\n' +
-            '(<i>Entram Macduff e Lennox.</i>)',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Fostes, amigo, vos deitar tão tarde para demorar tanto a levantar-vos?',
-          footnote: []
-        },
-        {
-          text: 'PORTEIRO - Em verdade, senhor, ficamos a beber até ao segundo canto do galo, e a bebida, senhor, é\n' +
-            'um grande provocador de três coisas.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Quais são as três coisas que a bebida provoca especial mente?',
-          footnote: []
-        },
-        {
-          text: 'PORTEIRO - Ora, senhor, nariz vermelho, sono e urinas. A lascívia, senhor, ela provoca e deixa sem\n' +
-            'efeito; provoca o desejo, mas impede a execução. Por isso pode-se dizer que a bebida usa de subterfúgios\n' +
-            'com a lascívia: ela a cria e a destrói; anima-a e desencoraja-a; fá-la ficar de pé e depois a obriga a não\n' +
-            'ficar de pé. Em resumo: leva-a a dormir com muita lábia e, lançando-lhe o desmentido, abandona-a a si\n' +
-            'mesma.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Penso que a bebida te lançou o desmentido esta noite.',
-          footnote: []
-        },
-        {
-          text: 'PORTEIRO - Foi isso mesmo, senhor, que ela fez comigo, pela garganta a dentro. Mas eu lhe dei o troco\n' +
-            'do desmentido; porque sendo, como penso ser, mais forte do que ela, embora por vezes ela me quisesse\n' +
-            'passar rasteira, acabei por jogá-la ao solo.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Teu senhor já se levantou?<br>\n' +
-            '(<i>Entra Macbeth.</i>)<br>\n' +
-            'O barulho acordou-o. Ei-lo que chega.',
-          footnote: []
-        },
-        {
-          text: 'LENNOX - Nobre senhor, bom dia.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Para todos também bom dia.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - O rei, mui digno thane, já terá acordado?',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Não, ainda.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Pediu-me que o chamasse bem cedinho. Por pouco perdi a hora.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Vou levar-vos até onde ele se encontra.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - Sei que alegre vos deixa esse trabalho. Porém sempre será trabalho.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - O trabalho agradável é remédio da canseira. Eis a porta.',
-          footnote: []
-        },
-        {
-          text: 'MACDUFF - A liberdade vou tomar de bater, pois a incumbência que recebi foi essa.<br>\n' +
+          text: 'ROSS - Revelo-me insensato; se mais tempo ficasse aqui, podia desgraçar-me, sobre prejudicar-vos.\n' +
+            'Bem, despeço-me definitivamente.<br>\n' +
             '(<i>Sai.</i>)',
           footnote: []
         },
         {
-          text: 'LENNOX - O rei parte hoje?',
+          text: 'LADY MACDUFF - Olá, menino, vosso pai está morto. Que destino tereis agora? Como vivereis?',
           footnote: []
         },
         {
-          text: 'MACBETH - Parte; assim decidiu.',
+          text: 'O FILHO - Como os pássaros, mãe.',
           footnote: []
         },
         {
-          text: 'LENNOX - A noite toda foi desassossegada. Onde dormimos o vento derrubou a chaminé. Dizem que no\n' +
-            'ar se ouviram muitos prantos, gritos de morte estranhos, profecias, em terríveis acentos, de horrorosas\n' +
-            'devastações, confusos acidentes, ninhada destes tempos ominosos. Durante toda a noite a ave das trevas não deixou de piar. Dizem que a terra teve febre e tremeu.',
+          text: 'LADY MACDUFF - Como! De vermes e de mosquitos?',
           footnote: []
         },
         {
-          text: 'MACBETH - Foi uma noite muito rude, em verdade.',
+          text: 'O FILHO - Não; do que encontrar, foi o que eu quis dizer; como eles fazem.',
           footnote: []
         },
         {
-          text: 'LENNOX - Minha jovem memória não se lembra de outra igual.<br>\n' +
-            '(<i>Volta Macduff.</i>)',
+          text: 'LADY MACDUFF - Pobre bichinho! Nunca terás medo de laço, máquina e armadilha.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Horror, horror, horror! Não pode a língua, não pode o coração nem conceber-te nem dar-te\n' +
-            'nome algum.',
+          text: 'O FILHO - Medo por quê? Não foi tudo isso feito para os pássaros pobres. Ainda vive meu paizinho,\n' +
+            'apesar do que dissestes.',
           footnote: []
         },
         {
-          text: 'MACBETH E LENNOX - Que aconteceu?',
+          text: 'LADY MACDUFF - Não, morreu. Como vais fazer agora para arranjar um pai?',
           footnote: []
         },
         {
-          text: 'MACDUFF - A destruição concluiu sua obra-prima. Arrombou o sacrílego assassínio o templo ungido\n' +
-            'do Senhor, e a vida roubou do próprio altar.',
+          text: 'O FILHO - De que maneira fareis, também, para arranjar marido?',
           footnote: []
         },
         {
-          text: 'MACBETH - Como dissestes? A vida?',
+          text: 'O FILHO - Então os comprareis para vendê-los?',
           footnote: []
         },
         {
-          text: 'LENNOX - Pretendeis dizer que é a vida de Sua Majestade?',
+          text: 'LADY MACDUFF - Falas com muito espírito e, de fato, bastante para a idade.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Ide até o quarto e a vista destruí ante outra Górgona. Quero ficar calado. Ide vós mesmos,\n' +
-            'para depois falardes.<br>\n' +
-            '(<i>Saem Macbeth e Lennox.</i>)<br>\n' +
-            'Despertai! Despertai! Traição e morte! Malcolm, Banquo, Donalbain, depressa, sacudi esse sono de\n' +
-            'penugem, simulacro da morte, e vinde a própria morte encarar. De pé! A imagem vede do grande\n' +
-            'julgamento. Malcolm! Banquo! Vinde como das tumbas, como espíritos, para ver este horror. Tocai o\n' +
-            'sino!<br>\n' +
-            '(<i>Soa o sino.</i>)<br>\n' +
-            '(<i>Entra lady Macbeth.</i>)',
+          text: 'O FILHO - Mãe, meu pai foi um traidor?',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Que aconteceu aqui, para que, tão medonha, uma trombeta desperte os moradores\n' +
-            'desta casa, para parlamentar? Falai! Falai!',
+          text: 'LADY MACDUFF - Sim, é o que ele foi.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Ó gentil dama, não deveis ouvir-me no que tenho a dizer. Esse relato, repetido ao ouvido\n' +
-            'de uma dama, produziria a morte.<br>\n' +
-            '(<i>Entra Banquo.</i>)<br>\n' +
-            'Ó Banquo! Banquo! assassinado foi nosso real amo.',
+          text: 'O FILHO - Que é um traidor?',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Ai! como? Em nossa casa?',
+          text: 'LADY MACDUFF - Ora, é toda pessoa que jura e mente.',
           footnote: []
         },
         {
-          text: 'BANQUO - Oh! muito cruel, pouco importa onde fosse. Caro Duff, desmente-te a ti próprio, por\n' +
-            'obséquio, e dize que houve engano.<br>\n' +
-            '(<i>Voltam Macbeth e Lennox.</i>)',
+          text: 'O FILHO - Todos os que fazem isso são traidores?',
           footnote: []
         },
         {
-          text: 'MACBETH - Se eu tivesse morrido uma hora, apenas, antes de isto se dar, teria tido uma vida\n' +
-            'abençoada. Doravante nada mais há de sério no universo. Tudo é farandolagem; a honra e a glória já não\n' +
-            'existem. Esgotado se acha o vinho da existência, só restando simples borra no fundo desta adega com\n' +
-            'que possa jactar-se.<br>\n' +
-            '(<i>Entram Malcolm e Donalbain.</i>)',
+          text: 'LADY MACDUFF - Quem quer que assim proceda, é traidor e merece ser enforcado.',
           footnote: []
         },
         {
-          text: 'DONALBAIN - Que foi que aconteceu?',
+          text: 'O FILHO- E precisam ser enforcadas todas as pessoas que juram e mentem?',
           footnote: []
         },
         {
-          text: 'MACBETH - Como! Estais vivos e não sabeis o que houve? A fonte, a origem, o princípio secou de\n' +
-            'vosso sangue, a própria origem já parou de todo.',
+          text: 'LADY MACDUFF - Todas.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Vosso real pai se encontra assassinado.',
+          text: 'O FILHO - E quem é que as enforca?',
           footnote: []
         },
         {
-          text: 'MALCOLM - Oh! E por quem?',
+          text: 'O FILHO - Então os mentirosos e os que juram não passarão de grande tolos, pois há mentirosos e\n' +
+            'jurados bastantes para darem nos homens de bem e para os enforcarem.',
           footnote: []
         },
         {
-          text: 'LENNOX - Ao que parece, foram seus próprios camareiros que o mataram. De sangue o rosto e as mãos\n' +
-            'tinham manchados, como os punhais que sem bainha achamos sobre seus travesseiros. De olhar fixo se\n' +
-            'achavam, como alheados. Não deviam ter-lhes confiado a vida de ninguém.',
+          text: 'LADY MACDUFF - Que Deus te ajude agora, macaquinho. Mas, como farás para arranjar outro pai?',
           footnote: []
         },
         {
-          text: 'MACBETH - Agora me arrependo de os ter morto na minha indignação.',
+          text: 'O FILHO - Se ele tivesse morrido, haveríeis de chorar a morte dele. Se o não fizésseis, seria sinal certo\n' +
+            'de que eu logo iria ter novo pai.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Por que o fizestes?',
+          text: 'LADY MACDUFF - Pobre tagarela, como sabes falar!<br>(<i>Entra um mensageiro.</i>)',
           footnote: []
         },
         {
-          text: 'MACBETH - Quem sábio pode ser e estupefacto, moderado e furioso, leal e neutro na mesma hora?\n' +
-            'Ninguém. A diligência do meu amor violento deixou longe a razão vagarosa. Neste ponto se achava\n' +
-            'Duncan, com sua cute branca acairelada pelo sangue de ouro; as feridas abertas pareciam brechas da\n' +
-            'natureza, adrede feitas para a entrada da ruína vastadora; além, os assassinos, embebidos da cor da\n' +
-            'profissão, monstruosamente recobertas de sangue as próprias armas... Quem poderia reprimir-se, tendo\n' +
-            'coração para amar e, nele, o brio de tornar conhecidos seus pendores?',
+          text: 'MENSAGEIRO - Formosa dama, Deus vos abençoe. Não sabeis quem eu sou, conquanto eu saiba tudo o\n' +
+            'que se refere ao vosso estado. Temo que algum perigo esteja prestes a vos tocar. No caso de aceitardes o\n' +
+            'conselho de um homem tão singelo, não vos deixeis ser encontrada aqui. Fugi com vossos filhos. Estou\n' +
+            'certo de que, atemorizando-vos, procedo como selvagem; mas ser mais explícito fora crueldade bárbara,\n' +
+            'que muito perto de vós já se acha. O céu vos guarde. Não me atrevo a ficar aqui mais tempo.<br>\n' +
+            '(<i>Sai.</i>)',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Oh! Tirai-me daqui!',
+          text: 'LADY MACDUFF - Para onde hei de fugir? Nunca fiz mal. Mas agora me ocorre que me encontro neste\n' +
+            'mundo terreno, onde é louvável fazer o mal, às vezes, e, por vezes, o bem fazer é insânia perigosa. Par\n' +
+            'que valer-me, então, dessa defesa feminina, dizendo simplesmente que não fiz mal?<br>\n' +
+            '(<i>Entram assassinos.</i>)<br>\n' +
+            'Que caras serão essas?',
           footnote: []
         },
         {
-          text: 'MACDUFF - Vede a senhora.',
+          text: 'ASSASSINO - Onde está vosso esposo?',
           footnote: []
         },
         {
-          text: 'MALCOLM (<i>à parte, a Donalbain</i>) - Por que ficamos mudos, se este caso de perto nos atinge mais que a\n' +
-            'todos?',
+          text: 'LADY MACDUFF - Não há de estar, espero-o, em nenhum ponto tão profano que possa ser achado por\n' +
+            'tipos como tu.',
           footnote: []
         },
         {
-          text: 'DONALBAIN (<i>à parte, a Malcolm</i>) - Por que falar aqui, onde o destino, a espiar de algum buraco,\n' +
-            'poderia lançar-se sobre nós? Fujamos; nossas lágrimas não estão bem preparadas.',
+          text: 'ASSASSINO - É um traidor.',
           footnote: []
         },
         {
-          text: 'MALCOLM (<i>à parte, a Donalbain</i>) - Nem nossa grande dor para a vingança',
+          text: 'O FILHO - Mentes, peludo!',
           footnote: []
         },
         {
-          text: 'BANQUO - Socorrei a senhora.<br>\n' +
-            '(<i>Lady Macbeth é levada para fora.</i>)<br>\n' +
-            'E após agasalharmos a fraqueza, muito sensível a este tempo frio, reunamo-nos a fim de interrogarmos\n' +
-            'esta obra enormemente sanguinária, para com mais vagar a conhecermos. A dúvida e o receio nos\n' +
-            'abalam. Na grande mão de Deus ora me encontro, disposto a combater as não sabidas intenções da\n' +
-            'malícia criminosa.',
+          text: 'ASSASSINO - Como, espécie de Ovo? Filhinho da traição!<br>\n' +
+            '(<i>Apunhala-o.</i>)',
           footnote: []
         },
         {
-          text: 'MACDUFF - Como eu.',
+          text: 'O FILHO - Ele matou-me, mãe. Fugi, sem demora.<br>\n' +
+            '(<i>Morre.</i>)<br>\n' +
+            '(<i>Lady Macduff sai gritando "Assassínio!" perseguida pelos assassinos.</i>)',
           footnote: []
         },
         {
-          text: 'TODOS - Como nós todos.',
+          text: '<br><center>Cena I</center>',
           footnote: []
         },
         {
-          text: 'MACBETH - Com presteza viril nos aprontemos para em pouco nos reunirmos na sala.',
+          text: '<i>Inglaterra. Diante do palácio do rei. Entram Malcolm e Macduff</i>',
           footnote: []
         },
         {
-          text: 'TODOS - Bem pensado.<br>\n' +
-            '(<i>Saem todos, com exceção de Malcolm e Donalbain.</i>)',
+          text: 'MALCOLM - Busquemos uma sombra desolada para desafogar os tristes peitos, chorando seus pesares.',
           footnote: []
         },
         {
-          text: 'MALCOLM - Que pretendeis fazer? Não nos unamos com essa gente. É muito fácil para o homem\n' +
-            'fingido aparentar tristeza. Irei para a Inglaterra.',
+          text: 'MACDUFF - Não! Saquemos da espada cortadora e, como bravos, amparar procuremos nossa pátria que\n' +
+            'ameaça desabar. Novas viúvas, cada manhã, ululam; novos órfãos soluçam; novas dores no céu batem,\n' +
+            'que ressoa tal como se sofresse juntamente com a Escócia e as mesmas sílabas emitisse de dor.',
           footnote: []
         },
         {
-          text: 'DONALBAIN - E eu para a Irlanda. Separados, assim, nossos destinos cuidarão de nós dois com maior\n' +
-            'zelo. Os sorrisos aqui punhais escondem. Quanto mais perto o sangue dos parentes, maior é a afinidade\n' +
-            'sanguinária.',
+          text: 'MALCOLM - Chorar só hei de sobre o que creio; creio o que conheço, e assim que o tempo se mostrar\n' +
+            'amigo, estando em mim fazer alguma coisa tornando-se-me o tempo favorável, farei o que puder. O que\n' +
+            'dissestes, talvez seja verdade. Esse tirano, cujo nome, tão-só, nos deixa a língua coberta de feridas, como\n' +
+            'honesto já foi considerado. Vós o amastes. Atingido por ele ainda não fostes. Sou moço; mas por mim\n' +
+            'talvez pudésseis torná-lo vosso devedor. A astúcia manda sacrificar um cordeirinho pobre, inocente e\n' +
+            'fraco, para a cólera propiciar de um deus.',
           footnote: []
         },
         {
-          text: 'MALCOLM - A mortífera flecha disparada ainda não caiu; nosso caminho mas seguro é evitar-lhe a\n' +
-            'trajetória. A cavalo, portanto, sem perdermos tempo com despedidas delicadas. Saiamos de mansinho.\n' +
-            'Condenável não pode ser o roubo da prudência, quando não há nem rasto de demência.\n<br>' +
-            '(Saem.)',
+          text: 'MACDUFF - Não sou traidor.',
           footnote: []
         },
         {
-          text: '<br><center>Cena IV</center>',
+          text: 'MALCOLM - Mas traidor é Macbeth. Pode dobrar-se uma leal natureza e em tudo boa ante uma imperial\n' +
+            'ordem. Mas preciso que me perdoeis; modificar não posso com o pensamento o que realmente sois. Os\n' +
+            'anjos ainda brilham, muito embora tenha caído o mais brilhante deles. Se as feições da virtude os vícios\n' +
+            'todos a assumir viessem, ela nem por isso deixaria de ter o mesmo aspecto.',
           footnote: []
         },
         {
-          text: '<i>O mesmo. Do lado de fora do castelo. Entram Ross e um velho.</i>',
+          text: 'MACDUFF - Já perdi a esperança.',
           footnote: []
         },
         {
-          text: 'O VELHO - Posso lembrar-me bem de setenta anos; nesse espaço de tempo vi terríveis horas e coisas por\n' +
-            'demais estranhas; mas esta noite triste deixa longe tudo quanto até agora eu conhecia.',
+          text: 'MALCOLM - Porventura no mesmo ponto em que achar fui a dúvida. Par que razão deixastes, tão de\n' +
+            'súbito e sem vos despedir, a esposa e os filhos, esses caros penhores, elos fortes do verdadeiro amo?\n' +
+            'Nessas suspeitas não vejais, por obséquio, mancha alguma que vos possa atingir, mas tão-somente minha\n' +
+            'tranqüilidade. Mui sincero podereis ser, pense eu o que pensar.',
           footnote: []
         },
         {
-          text: 'ROSS - Ó meu bom pai! O céu, como estás vendo, indignado com o jogo dos humanos, comina ameaças\n' +
-            'ao sanguíneo palco. Pelo relógio, é dia; no entretanto, atrasa a lâmpada ambulante a noite caliginosa. E\n' +
-            'tão potente a noite? É a vergonha do dia que permite que a treva cubra o rosto, assim, da terra, a que\n' +
-            'beijar devera a luz radiosa?',
+          text: 'MACDUFF - Sangra, então, grande pátria. Poderosa tirania, reforça tua base, porque a virtude contra ti\n' +
+            'não se alça. Carrega o roubo, pois o teu direito já viste confirmado. Adeus, milorde; ser não quero o vilão\n' +
+            'que ora imaginas, nem por todas as terras que nas garras se encontram do tirano, acrescentadas das\n' +
+            'riquezas do Oriente.',
           footnote: []
         },
         {
-          text: 'O VELHO - É contra a natureza, tal como o ato que aqui foi perpetrado. Na passada terça-feira um falcão\n' +
-            'que se gloriava no remígio habitual, preado e morto foi por uma coruja caça-ratos.',
+          text: 'MALCOLM - Ofensa alguma desejara fazer-vos. Não por medo absoluto de vós assim me exprimo\n' +
+            'penso que nossa pátria sob o jugo sucumbe do tirano; chora e sangra, vendo aumentar-lhe cada dia as\n' +
+            'chagas uma ferida nova. Sei que muitas mãos se levantariam na defesa de meus direitos, e aqui mesmo\n' +
+            'acaba de ofertar-me a Inglaterra generosa alguns milhares delas. Mas, ao cabo, depois de haver pisado na\n' +
+            'cabeça do tirano, ou de tê-la em minha espada, ficará minha pátria desditosa com mais vícios do que\n' +
+            'antes, padecendo muito mais, por maneiras mais variadas do que nunca, debaixo do domínio de quem lhe suceder.',
           footnote: []
         },
         {
-          text: 'ROSS - E os cavalos de Duncan - fato estranho por demais, porém certo - tão velozes e formosos,\n' +
-            'ornatos de sua raça, tornaram-se selvagens, as cocheiras arrebentaram, contra as ordens todas,\n' +
-            'puseram-se a correr, como querendo guerrear a humanidade.',
+          text: 'MACDUFF - Quem será esse?',
           footnote: []
         },
         {
-          text: 'O VELHO - Dizem que eles se devoraram mutuamente.',
+          text: 'MALCOLM - Eu mesmo, é claro, em quem percebo vícios enxertados tão bem que, se algum dia a pegar\n' +
+            'vierem, até mesmo o negro Macbeth parecerá nitente neve, considerando-o nossa pobre pátria como um\n' +
+            'cordeiro, quando comparado com minha enormidade de defeitos.',
           footnote: []
         },
         {
-          text: 'ROSS - É certo; para perplexidade destes olhos, que tudo presenciaram. Aí vem vindo o bondoso\n' +
-            'Macduff.<br>\n' +
-            '(<i>Entra Macduff</i>)<br>\n' +
-            'Então, senhor, como vai indo o mundo?',
+          text: 'MACDUFF - Nem mesmo nas legiões do hórrido inferno poder-se-ia encontrar um mais completo\n' +
+            'demônio que a Macbeth no mal se iguale.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Então não vedes?',
+          text: 'MALCOLM - Concedo que ele seja sanguinário, lúbrico, falso, enganador, avaro, violento, malicioso e\n' +
+            'com os sentidos sempre vivos a todos os pecados que possam ser nomeados; porém fundo não tem, não\n' +
+            'pode ter, minha lascívia. Vossas esposas, vossas filhas, vossas matronas, vossas virgens jamais hão de\n' +
+            'deixar plena a cisterna de meus vícios, vindo a vencer minha avidez os óbices que ao meu desejo, acaso,\n' +
+            'se opuserem. Antes Macbeth que um rei com tais defeitos.',
           footnote: []
         },
         {
-          text: 'ROSS - Já se conhece o autor desse atentado mais do que sanguinário?',
+          text: 'MACDUFF - A licenciosidade é tirania da própria natureza, que bastantes tronos felizes já deixou vazios\n' +
+            'antes do tempo e ocasionou a queda de muitos reis. Mas não tenhais receio de vos apoderar do que já é\n' +
+            'vosso. Podereis expansão dar aos prazeres em toda plenitude, parecendo, no entanto, frio e, assim,\n' +
+            'burlando o mundo. Damas condescendentes não nos faltam. Não é possível que abrigueis abutre no\n' +
+            'íntimo, que devore quantas forem entregar-se à grandeza que pendida para elas perceberem.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Os camareiros apunhalados por Macbeth.',
+          text: 'MALCOLM' +
+            '- Além disso, de minha natureza mal formada nasce avareza tão descomedida que, vindo eu a reinar,\n' +
+            'darei a morte a muitos nobres, para despojá-los de suas propriedades; os tesouros deste cobiçarei; deste\n' +
+            'outro, a casa. Todo aumento de bens ser-me-á tempero para excitar-me a fome, de tal modo que farei\n' +
+            'suscitar brigas injustas entre os melhores e mais leais vassalos, para destruí-los e ficar com tudo.',
           footnote: []
         },
         {
-          text: 'ROSS - Oh dia! E acaso a que vantagens aspiravam?',
+          text: 'MACDUFF - A avareza penetra mais, emite raízes mais nocivas que a luxúria transitória do estio; foi o\n' +
+            'gládio que matou nossos reis. Mas pouco importa: nada temais; a Escócia tem recursos para saciar-vos só\n' +
+            'com o que for vosso. Tudo isso é suportável, que as virtudes contrabalançam tudo.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Estavam subornados; os dois filhos do rei, Malcolm e Donalbain, fugiram, o que faz cair\n' +
-            'neles a suspeita.',
+          text: 'MALCOLM - Mas é o que eu não possuo! As qualidades próprias de um rei: justiça, temperança,\n' +
+            'perseverança, devoção, piedade, coragem, destemor, magnificiência me são de todo estranhas, e eu me\n' +
+            'alegro com dividir os vícios em diversas variedades, a fim de praticá-los de todas as maneiras. Se\n' +
+            'estivesse em meu poder, atiraria logo no inferno o doce leite da concórdia, a paz universal deixara esfeita\n' +
+            'e confundira toda segurança que no mundo existisse.',
           footnote: []
         },
         {
-          text: 'ROSS - Sempre contrário à natureza! Ó fútil ambição que destróis as próprias fontes de tua vida! Assim,\n' +
-            'é bem possível que Macbeth suba ao trono.',
+          text: 'MACDUFF - Oh Escócia! Escócia!',
           footnote: []
         },
         {
-          text: 'MACDUFF - Proclamado já foi, tendo ido agora para Scone, a fim de ser coroado.',
+          text: 'MALCOLM - Se é digno de reinar um homem desses, falai, pois sou tudo isso que vos disse.',
           footnote: []
         },
         {
-          text: 'ROSS - E que fizeram do cadáver de Duncan?',
+          text: 'MACDUFF - Se é digno de reinar? Nem de viver. Ó povo miserável, governado por um monstro\n' +
+            'ilegítimo, de cetro cheio de sangue! Quando novamente poderás ver teus dias de saúde, se o herdeiro\n' +
+            'mais autêntico do trono, maldito se declara, blasfemando contra sua própria raça? Teu virtuoso pai foi\n' +
+            'um santo rei; a soberana que à luz te deu, vivendo mais de joelhos do que de pé, matava os dias todos de\n' +
+            'sua própria vida. Meus; os males que em tua própria cabeça despejaste me baniram da Escócia. Ó\n' +
+            'coração! tua esperança acaba neste ponto!',
           footnote: []
         },
         {
-          text: 'MACDUFF - Foi levado para Kolmekill, sacra sepultura de seus antepassados e guarida de seus restos\n' +
-            'mortais.',
+          text: 'MALCOLM - Macduff, essa emoção em tudo nobre, nascida da pureza, a negra dúvida me tirou da alma\n' +
+            'e, alfim, meus pensamentos reconciliou com tua fé sem jaça e tua probidade. O demoníaco Macbeth tem procurando por enredos desse gênero pôr-me ao seu alcance, ensinando-me, assim, a mais modestasabedoria a desconfiar da pressa crédula por demais. Mas que lá do alto juiz Deus seja entre nós doisagora, pois desde este momento sob a tua direção me coloco. Aqui renego minha autodetração e abjurotodos os vícios e defeitos que em mim próprio lançara há pouco, como incompatíveis com minhanatureza. Nunca tive contacto com mulher, não fui perjuro mal cobicei aquilo que é meu mesmo, jamaisquebrei qualquer promessa feita, demônio algum traí para seus próprios companheiros do inferno. Comoà vida, tenho amor à verdade. Minha estréia na mentira foi esta a meu respeito. O que eu realmente souse encontra à tua disposição e do meu pobre povo. Para auxiliá-lo aqui se achava há pouco, no instante dechegares, o ancião Siward com dez mil aguerridos combatentes, no ponto de partirem. Vamos juntos; queo favor da vitória corresponda à justiça de nossa discordância. Por que ficais calado?',
           footnote: []
         },
         {
-          text: 'ROSS - Ireis a Scone?',
+          text: 'MACDUFF - É mui difícil reconciliar eventos a um só tempo não gratos e agradáveis.<br>\n' +
+            '(<i>Entra um médico.</i>)',
           footnote: []
         },
         {
-          text: 'MACDUFF - Não, primo; vou a Fife.',
+          text: 'MALCOLM - Bem; voltaremos a falar sobre isso. Dizei-me, por obséquio: o rei vem vindo?',
           footnote: []
         },
         {
-          text: 'ROSS - Pois eu vou.',
+          text: 'O MÉDICO - Sim, senhor; numerosos desgraçados o auxílio dele aguardam, pois a doença de que\n' +
+            'padecem tem zombado da arte. Mas sua mão - tal é a santidade com que o céu a dotou - vai sãos\n' +
+            'deixá-los no instante de os tocar.',
           footnote: []
         },
         {
-          text: 'MACDUFF - Que tenhais festa alegre e sem fadiga, não vindo a lastimar a roupa antiga.',
+          text: 'MALCOLM - Agradecido, doutor, vos fico.<br>\n' +
+            '(<i>Sai o médico.</i>)',
           footnote: []
         },
         {
-          text: 'ROSS - Adeus, pai.',
+          text: 'MADCUFF - De que doença fala?',
           footnote: []
         },
         {
-          text: 'O VELHO - Deus vos proteja e a quantos sabem a arte de trazer o inimigo à boa parte.<br>\n' +
-            '(Saem.)',
+          text: 'MALCOLM - Chamam-lhe o mal. Miraculoso feito realiza este bom rei, já presenciado várias vezes por\n' +
+            'mim, desde que me acho no reino da Inglaterra. De que modo consegue o céu mover, só ele sabe. Mas\n' +
+            'pessoas tocadas de moléstias estranhas, cheias de úlceras, tristíssimo espetáculo a todos, desespero da\n' +
+            'medicina, sãs ele tem posto com lhes pôr ao pescoço uma áurea estampa, ao tempo em que murmura\n' +
+            'santas preces. Dizem também que aos reis seus sucessores transmitirá esse poder bendito de curas\n' +
+            'realizar. Mas além dessa virtude estranha, o dom possui celeste da profecia, sobre lhe cercarem o trono\n' +
+            'várias bênçãos que o declaram cheio de graças.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Olhai quem vem chegando!',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Um dos meus compatriotas; mas ainda não o conheço.<br>\n' +
+            '(<i>Entra Ross.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Sede aqui bem-vindo, meu sempre gentil primo',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Reconheço-o agora. Ó Deus bondoso, afasta em tempo tudo quanto estrangeiros nos tem\n' +
+            'feito.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Amém, senhor.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - A Escócia continua no mesmo lugar de antes?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Pobre pátria, revela medo até de conhecer-se. De nossa mãe não pode ser chamada, mas nossa\n' +
+            'sepultura, porque nela só ri ainda quem ignora tudo; os gritos e suspiros, os gemidos que os ares\n' +
+            'dilaceram, emitidos apenas são, sem serem percebidos. As mais violentas dores assemelham-se a emoção\n' +
+            'cotidiana; os dobres fúnebres passam despercebidos e as pessoas de bem fenecem antes de murcharem as flores do chapéu e a vida perdem sem virem a adoecer.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Oh! relação muito precisa e, no entretanto certa!',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Qual é a última dor?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - A que de vida tem uma hora faria ser vaiado quem viesse relatá-la; a cada instante nasce uma\n' +
+            'nova dor.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - E minha esposa, como ficou?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Ora, essa ficou bem.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - E meus filhos?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Também.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - A paz de todos não havia o tirano ainda assaltado?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Não; deixei-os em paz ao despedir-me.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Sede menos avaro de palavras. Que aconteceu?',
+          footnote: []
+        },
+        {
+          text: 'ROSS -No instante em que eu trazia para aqui essas novas que tão fundo pesavam sobre mim, soube do\n' +
+            'boato de que bastantes homens valorosos se tinham posto em campo, o de que logo me convenci ao ver\n' +
+            'os contingentes do tirano aprestados para a luta. Eis o momento de intervirmos. Vossos olhares, lá na\n' +
+            'Escócia, aprestariam soldados, levariam para a luta nossas mulheres, para porem termo à desgraça\n' +
+            'indizível.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Sirva a todos de consolo saber que já me encontro a caminho da Escócia. Dez mil homens\n' +
+            'cedeu-nos a Inglaterra, comandados pelo bondoso Siward. Mais completo guerreiro e mais idoso não se\n' +
+            'encontra em toda a Cristandade.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Ah! se eu pudesse dar-vos notícia tão reconfortante! Mas trouxe-vos palavras para serem uivadas\n' +
+            'no ar deserto, onde não possam ser percebidas por nenhum ouvido.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - A que dizem respeito? À causa pública? Ou trata-se, talvez, de sofrimento particular, que a\n' +
+            'um peito, apenas, toca?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Todas as almas nobres têm sua parte; mas a maior, decerto, vos pertence.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Se me pertence, não me priveis dela. Vamos; dai-ma depressa.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Que não fiquem vossos ouvidos para sempre odiando minha língua, por ter de molestá-los com\n' +
+            'os sons mais tristes que jamais ouviram.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Hum! Presumo o que seja.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Vosso burgo foi assaltado; vossa esposa e os filhos, mortos selvagemente. Relatar-vos como se\n' +
+            'deu, o mesmo fora ao monte de caças abatidas vosso corpo sem vida acrescentar.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Oh céu piedoso! Não, homem! Levantai vosso chapéu! Dai palavras à dor. Quando a\n' +
+            'tristeza perde a fala, sibila ao coração, provocando de pronto uma explosão.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Meus filhinhos também?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Esposa, filhos, criados, tudo o que acharam.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - E eu, ausente! Também minha mulher?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Já vo-lo disse.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Coragem! Aprestemos o remédio para essa dor mortal com prepararmos nossa vingança.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Ah! Ele não tem filhos! Todos os meus pequenos tão graciosos? Dissestes "todos?" Oh\n' +
+            'infernal abutre! Como! Todos? Os lindos pequerruchos juntamente com a mãe, num só mergulho?',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Como homem, resisti.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - É o que farei; mas preciso também sentir como homem. Não consigo esquecer que hajam\n' +
+            'vivido essas pessoas que tão caras me eram. O céu viu isso, sem que os amparasse? Depravado Macduff\n' +
+            'Por tua causa assassinados todos eles foram; por mim, que nada valho. Não por culpas próprias, mas\n' +
+            'pelas minhas, tão-somente, caiu a morte sobre as almas deles. Que o céu lhes dê sossego.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Que seja isso a pedra de amolar de vossa espada. Fazei que a dor se vos transforme em\n' +
+            'cólera; não emboteis o peito: enraivecei-o.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Como mulher, agora, poderia representar com os olhos e mostrar-me valente só com a\n' +
+            'língua. Ó céu bondoso! põe termo às dilações e, face a face com o demônio da Escócia me coloca,\n' +
+            'ficando ele ao alcance de meu gládio: vindo a escapar, que lhe perdoe o céu.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Viril é essa cantiga. Vamos, vamos procurar logo o rei. Prestes se encontram nossas\n' +
+            'forças; só falta despedirmo-nos. Macbeth está maduro para a queda, já tendo prestes os poderes do alto\n' +
+            'os instrumentos que hão de sacudi-lo. Criai coragem; não há noite fria, por mais longa que seja, sem seu\n' +
+            'dia.<br>\n' +
+            '(<i>Saem.</i>)',
           footnote: []
         }
       ]
@@ -16854,12 +18460,12 @@ export default [
     document: {
       title: 'Macbeth',
       author: 'William Shakespeare',
-      section: 'Ato III',
+      section: 'Ato V',
       img: 'shakespeare',
       imgIndex: '5',
       titleURL: 'macbeth',
       authorURL: 'william-shakespeare',
-      sectionURL: 'ato-III',
+      sectionURL: 'ato-V',
       content: '',
       disclaimer: '',
       paragraphs: [
@@ -16873,200 +18479,159 @@ export default [
           ]
         },
         {
-          text: '<i>Forres. Um quarto no palácio. Entra Banquo.</i>',
+          text: '<i>Dunsinane. Um quarto no castelo. Entram um médico e uma camareira.</i>',
           footnote: []
         },
         {
-          text: 'BANQUO - Tens tudo agora: és rei, Cawdor e Glamis, como as bruxas proféticas disseram. Mas temo\n' +
-            'que roubado ao jogo houvésseis. Mas foi dito também que não havia de ficar isso em tua descendência e\n' +
-            'que viria a ser raiz e tronco de numerosos reis. Se falam certo, como se deu, Macbeth, a teu respeito, por\n' +
-            'que - se tudo quanto te auguraram se tornou realidade - não hão de elas ser-me o mesmo que oráculo,\n' +
-            'deixando-me também esperançado? Mas, silêncio!<br>\n' +
-            '(<i>Fanfarra. Entram Macbeth, como rei; lady Macbeth, como rainha; Lennox, Ross, nobres, damas e\n' +
-            'pessoas do séqüito.</i>)',
+          text: 'O MÉDICO - Estive de vigília convosco durante duas noites consecutivas, mas não posso descobrir\n' +
+            'indício de verdade em tudo o que dissestes. Quando foi que ela andou como sonâmbula pela última vez?',
           footnote: []
         },
         {
-          text: 'MACBETH - Eis nosso convidado principal.',
+          text: 'A CAMAREIRA - Desde que Sua Majestade foi para a campanha eu a tenho visto levantar-se da cama,\n' +
+            'atirar sobre si o roupão de dormir, abrir a escrivaninha, tira uma folha de papel, dobrá-la, escrever\n' +
+            'alguma coisa, ler o que escreveu, selar depois a folha e voltar em seguida para a cama, fazendo tudo isso,\n' +
+            'no entanto, no mais profundo sono.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Se olvidado ele houvesse sido, fora como um vazio em nossa grande festa, vindo\n' +
-            'tudo a falhar.',
+          text: 'O MÉDICO - É indício de uma grande perturbação da natureza receber os benefícios do sono e executar,\n' +
+            'simultaneamente, os atos de vigília. Nessa inquietação do sono, além desses passeios e de ocupações\n' +
+            'concretas, não percebestes se, por vezes, ela dizia alguma coisa?',
           footnote: []
         },
         {
-          text: 'MACBETH - Uma solene ceia, senhor, daremos esta noite, esperando que nela tomeis parte.',
+          text: 'A CAMAREIRA - Ouvi coisas, senhor, que não me atrevo a repetir.',
           footnote: []
         },
         {
-          text: 'BANQUO - Bastará que mo ordene Vossa Alteza, a quem me liga minha obediência, para sempre, por\n' +
-            'laços inquebráveis.',
+          text: 'O MÉDICO - A mim podereis dizer o que ouvistes, sendo mesmo de vantagem que o façais.',
           footnote: []
         },
         {
-          text: 'MACBETH - Viajareis esta tarde?',
+          text: 'A CAMAREIRA - Nem a vós nem a ninguém, uma vez que não tenha testemunha para confirmar o que\n' +
+            'disser.<br>\n' +
+            '(<i>Entra Lady Macbeth, com uma vela.</i>)<br>\n' +
+            'Vede! Aí vem ela! É assim mesmo que sempre faz, e, por minha vida, a dormir profundamente.\n' +
+            'Observai-a; aproximai-vos dela um pouco.',
           footnote: []
         },
         {
-          text: 'BANQUO - Sim, milorde.',
+          text: 'O MÉDICO - Como conseguiu essa luz?',
           footnote: []
         },
         {
-          text: 'MACBETH - Se não, pedira vossos bons conselhos - que de peso são sempre e proveitosos - para a\n' +
-            'reunião que vamos ter agora. Nesse caso, amanhã vos ouviremos. Ides longe?',
+          text: 'A CAMAREIRA - Ora, estava perto dela. Tem sempre luz ao pé de si; são ordens expressas.',
           footnote: []
         },
         {
-          text: 'BANQUO - O suficiente, meu senhor, apenas para o tempo ocupar de agora à ceia. Se não se esforçar\n' +
-            'muito meu cavalo, à noite poderei pedir de empréstimo uma ou duas de suas horas foscas.',
+          text: 'O MÉDICO - Como vedes, está com os olhos bem abertos.',
           footnote: []
         },
         {
-          text: 'MACBETH - Vinde sem falta para nossa festa.',
+          text: 'A CAMAREIRA - É certo; mas os sentidos estão fechados.',
           footnote: []
         },
         {
-          text: 'BANQUO - Não faltarei, milorde.',
+          text: 'O MÉDICO - Que faz ela agora? Vede como esfrega as mãos.',
           footnote: []
         },
         {
-          text: 'MACBETH - Notícia já tivemos de que nossos sanguinários parentes se passaram para a Inglaterra e\n' +
-            'Irlanda, e que ainda negam o parricídio cruel, enchendo as ouças de todos com estranhas fantasias. Mas\n' +
-            'sobre isso, amanhã, já que teremos de tratar de um negócio de importância relativo ao Estado. Levais\n' +
-            'Fleance?',
+          text: 'A CAMAREIRA - É um gesto habitual nela, fazer como quem lava as mãos. Já a vi continuar desse jeito\n' +
+            'durante um quarto de hora.',
           footnote: []
         },
         {
-          text: 'BANQUO - Sim, meu senhor; o tempo nos reclama.',
+          text: 'LADY MACBETH - Aqui ainda há uma mancha.',
           footnote: []
         },
         {
-          text: 'MACBETH - Desejo-vos cavalos de pés firmes e bem velozes, e ao costado deles vos recomendo.\n' +
-            'Adeus.<br>\n' +
-            '(<i>Sai Banquo.<i>)<br>\n' +
-            'Todos agora o tempo gastem como lhes parecer melhor, até às sete horas. Porque depois nos seja a\n' +
-            'sociedade muito mais agradável, até à ceia iremos ficar só. Até esse instante, que Deus seja convosco.<br>\n' +
-            '(<i>Saem todos, com exceção de Macbeth e um criado.<i>)<br>\n' +
-            'Olá, maroto, uma palavra! Aguardam nossas ordens aqueles indivíduos?',
+          text: 'O MEDICO - Atenção! Está falando. Vou tomar nota do que ela disser, para reforçar a memória.',
           footnote: []
         },
         {
-          text: 'CRIADO - Sim, milorde, no portão do palácio.',
+          text: 'LADY MACBETH - Sai, mancha amaldiçoada! Sai! Estou mandando. Um dois... Sim, já é tempo de\n' +
+            'fazê-lo. O inferno é sombrio... Ora, marido! Ora! Um soldado ter modo? Por que termos medo de que\n' +
+            'alguém o venha a saber, se ninguém poderá pedir contas a nosso poder? Mas quem poderia imaginar que\n' +
+            'o velho tivesse tanto sangue no corpo?',
           footnote: []
         },
         {
-          text: 'MACBETH - Ide buscá-los.<br>\n' +
-            '(<i>Sai o criado.<i>)<br>\n' +
-            'Ser rei assim, é nada; é necessário sê-lo com segurança. É muito grande nosso medo de Banquo; em sua\n' +
-            'postura soberana domina qualquer coisa que deve ser temido. E corajoso como poucos e à têmpera\n' +
-            'indomável do espírito une uma sabedoria que faz o valor no alvo acertar sempre. Tirante ele, não há\n' +
-            'pessoa alguma de quem eu tenha medo, e junto dele meu gênio se intimida, como dizem que com o de\n' +
-            'Marco Antônio acontecia, quando junto de César. Dirigiu-se corajoso às irmãs, interpelando-as quando o\n' +
-            'nome de rei elas me deram, forçando-as a falar-lhe a seu respeito, ao que elas, quais videntes, o saudaram\n' +
-            'como pai de uma série de monarcas. Na cabeça puseram-me a coroa sem frutos e nas mãos o cetro\n' +
-            'estéril, para que mo arrebate um punho estranho, pois para herdeiro nenhum filho tenho. Se for assim,\n' +
-            'para a posteridade de Banquo, tão-somente, sujei a alma; matei para eles o gracioso Duncan; por causa\n' +
-            'deles ódio pus no vaso da minha paz, havendo entregue a minha jóia eterna ao comum imigo do homem,\n' +
-            'para fazê-los reis, para dos filhos de Banquo fazer reis! Antes que venha isso a se dar, que à liça baixe o\n' +
-            'fado, para o combate eterno. Quem vem lá?<br>\n' +
-            '(<i>Entra o criado, com dois assassinos.<i>)<br>\n' +
-            'Fica na porta e espera até que eu chame.<br>\n' +
-            '(<i>Sai o criado.<i>)<br>\n' +
-            'Não foi ontem que juntos conversamos?',
+          text: 'O MÉDICO - Ouvistes o que ela disse?',
           footnote: []
         },
         {
-          text: 'PRIMEIRO ASSASSINO - Sim, com vossa licença, majestade.',
+          text: 'LADY MACBETH - O thane de Fife tinha uma mulher. Onde se encontra ela agora? Como! Estas mãos\n' +
+            'nunca ficarão limpas? Basta, senhor; não falemos mais nisso. Estragais tudo com essa vacilação.',
           footnote: []
         },
         {
-          text: 'MACBETH - Muito bem; refletistes no que eu disse? Sabeis, pois, que foi ele quem, até hoje, vos tem\n' +
-            'deixado em posição precária, o que pensáveis que era culpa minha. Tudo isso vos expus à farta em nossa\n' +
-            'última conferência; apresentei-vos as provas da maneira por que tendes sido prejudicados e burlados, os\n' +
-            'instrumentos, quem os manejava, e tudo o mais, que proclamar faria até mesmo meia alma ou tipo idiota:\n' +
-            '"Eis o que Banquo fez!"',
+          text: 'O MÉDICO - Ide, ide! Ficastes sabendo mais do que seria conveniente.',
           footnote: []
         },
         {
-          text: 'PRIMEIRO ASSASSINO - Sim, explicastes-nos.',
+          text: 'A CAMAREIRA - Ela falou o que não devia, tenho certeza. Só Deus sabe o que ela sabe.',
           footnote: []
         },
         {
-          text: 'MACBETH - Sim; mas fiz mais ainda, o que é o objeto desta nossa segunda conferência. Porventura a\n' +
-            'paciência predomina tanto em vós, que deixeis passar tudo isso? Tão religiosos sois, que poderíeis rezar\n' +
-            'pela prosperidade deste bom homem e dos seus, sendo verdade que sua mão pesada à sepultura vos fez\n' +
-            'vergar e para todo o sempre vos arruinou a casa?',
+          text: 'LADY MACBETH - Aqui ainda há odor de sangue. Todo o perfume da Arábia não conseguiria deixar\n' +
+            'cheirosa esta mãozinha. Oh! Oh! Oh!',
           footnote: []
         },
         {
-          text: 'PRIMEIRO ASSASSINO - Somos homens, meu suserano.',
+          text: 'O MÉDICO - Que suspiro! Tem o coração por demais opresso.',
           footnote: []
         },
         {
-          text: 'MACBETH - Sim, passais por homens no catálogo, como os perdigueiros, os galgos e os mastins, alãos e\n' +
-            'gosos, molossos, braços, dogues e rafeiros também de cães, por junto, são chamados; mas distingue o\n' +
-            'registo o vagaroso, o veloz, o guardião, o de bom faro, cada um conforme as próprias qualidades que lhe\n' +
-            'haja dado a liberal natura e que um título à parte lhes granjeia na lista em que se encontram conglobados.\n' +
-            'Com os homens dá-se o mesmo. Assim, se tendes um lugar no registo, não sendo ele o mais mesquinho e\n' +
-            'vil da humanidade, falai, que então vos confiarei ao peito certo assunto, de cujo cumprimento resultará\n' +
-            'ficar vosso inimigo supresso para sempre e vós mais presos à nossa gratidão e nosso afeto, pois também\n' +
-            'se ressente nosso estado da vida dele, e só se refará se vier a falecer.',
+          text: 'A CAMAREIRA - Eu não quisera ter no peito um coração assim, nem pelas dignidades de todo o corpo.',
           footnote: []
         },
         {
-          text: 'SEGUNDO ASSASSINO - Meu suserano, sou um indivíduo que os maldosos golpes do mundo e seus\n' +
-            'embates irritado de tal modo deixaram, que faria não importa o que for para vexá-lo.',
+          text: 'O MÉDICO - Bem, bem, bem.',
           footnote: []
         },
         {
-          text: 'PRIMEIRO ASSASSINO - E eu sou outro tão lasso de desastres, tão amassado pelo vil destino, que a\n' +
-            'vida arriscaria em qualquer lance, para de vez perdê-la ou endireitá-la.',
+          text: 'A CAMAREIRA - Rogai a Deus, senhor, para que seja assim.',
           footnote: []
         },
         {
-          text: 'MACBETH - Sabeis que Banquo foi vosso inimigo.',
+          text: 'O MÉDICO - Esta doença ultrapassa minha arte. No entanto, conheci sonâmbulos que morreram santamente em suas camas.',
           footnote: []
         },
         {
-          text: 'SEGUNDO ASSASSINO - É certo, meu senhor.',
+          text: 'LADY MACBETH - Ide lavar as mãos; vesti vosso roupão de dormir. Não fiqueis assim tão pálido.\n' +
+            'Torno a dizer-vos que Banquo está enterrado; não poderá sair da sepultura.',
           footnote: []
         },
         {
-          text: 'MACBETH - E meu é ainda, em conflito a tal ponto sanguinário, que os minutos de toda a sua vida\n' +
-            'ferem de perto o coração da minha. É bem verdade que eu podia, às claras, varrê-lo para longe,\n' +
-            'reportando-me tão-só ao meu querer. Mas me contenho por causa de comuns amigos, cuja afeição não\n' +
-            'desejo ver perdida. Terei de lastimar, assim, a morte de quem eu derrubei. Esse o motivo de recorrer\n' +
-            'agora a vosso auxílio, pois me forçam razões de muito peso a evitar que se vulgue esse negócio.',
+          text: 'O MÉDICO - Também isso?',
           footnote: []
         },
         {
-          text: 'SEGUNDO ASSASSINO - Senhor, faremos quanto nos mandardes.',
-          footnote: []
-        },
-        {
-          text: 'PRIMEIRO ASSASSINO - Embora nossas vidas...',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - A coragem transparece de vós. Dentro de uma hora, no máximo, hei de vos mostrar o\n' +
-            'ponto em que deveis ficar e a par vos ponho da ocasião mais propícia para a coisa, do momento\n' +
-            'adequado, pois que tudo precisará ser feito ainda esta noite, a uma certa distância do palácio, sem que\n' +
-            'vos esqueçais de que preciso ficar sem mancha nisso. Juntamente com ele - para que o trabalho saia sem\n' +
-            'o menor senão - Fleance, seu filho, que com ele também saiu de viagem e cujo afastamento não me\n' +
-            'importa menos do que o do pai, compartir deve também dessa hora negra. Tomai vossas resoluções à\n' +
-            'parte; já vos sigo.',
-          footnote: []
-        },
-        {
-          text: 'SEGUNDO ASSASSINO - Já resolvemos, meu senhor.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Em pouco vos chamarei; ficai dentro de casa<br>\n' +
-            '(<i>Saem os assassinos.</i>)<br>\n' +
-            'Está feito. Se há ponto em que se acoite, Banquo, tua alma no céu, será esta noite.<br>\n' +
+          text: 'LADY MACBETH - Para o leito! Para o leito! Estão batendo no por tão. Vinde, vinde! Dai-me a mão. O\n' +
+            'que está feito não está por fazer. Para o leito, para o leito, para o leito!<br>\n' +
             '(<i>Sai.</i>)',
+          footnote: []
+        },
+        {
+          text: 'O MÉDICO - E agora, ela vai para o leito?',
+          footnote: []
+        },
+        {
+          text: 'A CAMAREIRA - Diretamente.',
+          footnote: []
+        },
+        {
+          text: 'O MÉDICO - Circulam por aí terríveis boatos. feitos contra a natura sempre engendram conseqüências\n' +
+            'doentias. As consciências manchadas descarregam seus segredos nos surdos travesseiros. Mais de padre\n' +
+            'tem ela precisão do que de médico. Deus, Deus que nos perdoe! Acompanhai-a. Deixai bem longe dela\n' +
+            'quanto possa causar-lhe qualquer dano. E ora, boa noite. Ela deixou-me o espírito confuso e a vista\n' +
+            'absorta com tamanho abuso. Penso, mas não me atrevo a dizer nada.',
+          footnote: []
+        },
+        {
+          text: 'A CAMAREIRA - Boa noite, bom doutor.<br>\n' +
+            '(<i>Saem.</i>)',
           footnote: []
         },
         {
@@ -17074,86 +18639,61 @@ export default [
           footnote: []
         },
         {
-          text: '<i>O mesmo. Outro quarto no palácio. Entram Lady Macbeth e um criado.</i>',
+          text: '<i>Planície perto de Dunsinane. Entram com bandeiras e tambores Menteith, Caithness, Angus, Lennox e\n' +
+            'soldados</i>',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Banquo\n' +
-            'deixou o pátio?',
+          text: 'MENTEITH - As forças da Inglaterra já estão perto. Trá-las Malcolm, seu velho tio Siward e o valente\n' +
+            'Macduff. Arde a vingança neles todos, pois uma causa dessas fará os próprios mortos levantarem-se para\n' +
+            'o combate atroz e sanguinário.',
           footnote: []
         },
         {
-          text: 'CRIADO - Deixou, senhora; mas retorna à noite.',
+          text: 'ANGUS - Decerto vamos encontrá-los perto da floresta de Birnam; vêm por lá.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Vai, dize ao rei que eu quero ter com ele uma conversa rápida.',
+          text: 'CAITHNESS - Alguém sabe informar se Donalbain vem com o irmão?',
           footnote: []
         },
         {
-          text: 'CRIADO - Isso mesmo, senhora, lhe direi.<br>\n' +
-            '(<i>Sai.</i>)',
+          text: 'LENNOX - Decerto não, senhor. Possuo a lista da nobreza toda; nela o filho se encontra do bom Siward\n' +
+            'e muitos outros moços ainda imberbes, que como homens estréiam.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Tudo é perdido, quando o desejo fica repartido. Toca ao morto decerto melhor sorte\n' +
-            'que a de alegrar-se assim quem lhe deu morte.<br> (<i>Entra Macbeth.</i>)<br> Então, marido, por que só ficardes,\n' +
-            'tendo por companhia as fantasias mais desconsoladoras e ocupando-vos com pensamentos que já\n' +
-            'deveriam ter morrido com quem se relacionam? O que não tem remédio, não devera ser pensado sequer.\n' +
-            'O que está feito, não está por fazer.',
+          text: 'MENTEITH - E, o tirano, que está fazendo?',
           footnote: []
         },
         {
-          text: 'MACBETH - Nós só talhamos a serpe, sem matá-la. Em pouco tempo se refará e volta a ser o que era,\n' +
-            'ficando o nosso miserável ódio de novo exposto ao seu antigo dente. Que a estalar venham todas as\n' +
-            'junturas das coisas e a gemer ambos os mundos, antes de termos de tomar os nossos alimentos com medo\n' +
-            'e de dormirmos na aflição desses sonhos pavorosos que nos têm abalado as noites todas. Muito melhor\n' +
-            'nos fora estar com o morto que, para nossa própria paz, mandamos para o seio da paz, do que vivermos\n' +
-            'no banco de tormento de nossa alma, numa angústia sem fim. Duncan descansa no sepulcro; tranqüilo\n' +
-            'dorme, agora, depois das convulsões febris da vida. A traição lhe fez tudo o que podia; a perfídia\n' +
-            'doméstica, o veneno, o aço, a invasão de fora, nada pode, doravante, atingi-lo.',
+          text: 'CAITHNESS - Alenta a resistência do grande Dunsinane. Alguns murmuram que ele está louco; outros,\n' +
+            'que o odeiam menos, o nome dão de fúria valorosa. Mas certo é que ele sua natureza desmanchada\n' +
+            'abarcar já não consegue no cinturão da regra.',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Caro esposo, saiamos. Alisai esse olhar crespo; sede claro e jovial com todos hoje.',
+          text: 'ANGUS - Ele ora sente como as mãos se lhe envisgam com seus crimes secretos. A toda hora uma\n' +
+            'revolta lhe exprobra a deslealdade. Seus soldados não os move o amor; ordens somente cumprem.\n' +
+            'Começou a notar que a dignidade do título de rei lhe envolve o corpo como faria a roupa de um gigante a\n' +
+            'um anão que a roubasse.',
           footnote: []
         },
         {
-          text: 'MACBETH - Sê-lo-ei, amor; o mesmo vos desejo. A Banquo dedicai todas as vossas atenções,\n' +
-            'distinguindo-o dentre todos com palavras e olhares. Pouco firme é nossa situação, enquanto for preciso\n' +
-            'lavar nossas honras nessa corrente aduladora e as feições empregarmos como máscara do coração, que os\n' +
-            'traços lhe disfarce.',
+          text: 'MENTEITH - Quem pudera censurar-lhe os sentidos, exaltados por tantos sobressaltos e recuos, quando\n' +
+            'tudo o que há nele se envergonha por nele se encontrar?',
           footnote: []
         },
         {
-          text: 'LADY MACBETH - Precisais deixar isso.',
+          text: 'CAITHNESS - Então sigamos para a frente; prestemos a obediência pelo dever imposta. Dirijamo-nos\n' +
+            'para o médico desta terra doente, e, para restaurarmos nossa pátria, derramemos com ele todo o sangue\n' +
+            'de nossas veias.',
           footnote: []
         },
         {
-          text: 'MACBETH - Oh! tenho o espírito cheio de escorpiões, querida esposa! Sabeis que vivem Banquo e seu\n' +
-            'Fleance.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - Mas eterna não é neles a cópia da natureza.',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - É o que consola a gente; são vulneráveis. Fica, pois, alegre. Antes de completar o vôo em\n' +
-            'torno do convento o morcego e Hécate negra ter ordenado que o besouro córneo com seu zumbido surdo\n' +
-            'dê o toque sonolento da noite, será feito algo aqui de memória pavorosa.',
-          footnote: []
-        },
-        {
-          text: 'LADY MACBETH - O que é que vai ser feito?',
-          footnote: []
-        },
-        {
-          text: 'MACBETH - Não macules tua inocência com saberes isso, minha pombinha, até saudares o ato. Vem,\n' +
-            'noite cega, tapa os olhos ternos do dia compassivo, e com sangrentas mãos e invisíveis rasga o grande\n' +
-            'pacto que me deixa tão pálido! Escurece; para a mata sombria voa a gralha. Vacila o claro agente, de\n' +
-            'fraqueza; mas a noite se atira para a presa. Admiras-te; mas fica sossegada, que o mal reforça a ação mal começada. Por favor, acompanha-me.\n' +
-            '<br>(<i>Saem.</i>)',
+          text: 'LENNOX - Ou somente quanto bastar para orvalhar a flor bendita e afogar a cizânia parasita.\n' +
+            'Marchemos para Birnam.<br>\n' +
+            '(<i>Saem marchando.</i>)',
           footnote: []
         },
         {
@@ -17161,251 +18701,470 @@ export default [
           footnote: []
         },
         {
-          text: '',
+          text: '<i>Dunsinane. Um quarto no castelo. Entram Macbeth, o médico e pessoas do séqüito</i>',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Deixai de me trazer essas notícias. Que fujam todos, pois enquanto a mata de Birnam não\n' +
+            'chegar a Dunsinane, não poderá manchar-me o frio medo. Que é o pequeno Malcolm? Porventura não\n' +
+            'nasceu de mulher? Ora, os espíritos que os processos mortais mui bem conhecem, a meu respeito assim\n' +
+            'se pronunciaram: "Nada temas, Macbeth, pois nenhum homem nascido de mulher pode vencer-te". Fugi,\n' +
+            'portanto, miseráveis thanes, e ide associar-vos aos ingleses lúbricos. Jamais se dobrará meu forte espírito\n' +
+            'sob o peso da dúvida, nem há de mostrar meu coração menor vontade.<br>\n' +
+            '(<i>Entra um criado.</i>)<br>\n' +
+            'Que o diabo te condene em negro, biltre de cara de coalhada. Onde encontraste essas feições de ganso?',
           footnote: []
         },
         {
-          text: '',
+          text: 'CRIADO - É que há dez mil...',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Gansos, vilão?',
           footnote: []
         },
         {
-          text: '',
+          text: 'CRIADO - Soldados, meu senhor.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Vai esfregar o rosto e de vermelho pintar o medo, fígado de lírio! Que soldados, poltrão?\n' +
+            'Morte de tua alma! Essas bochechas brancas como linho são ministro do medo. Que soldados, cara de\n' +
+            'leite?',
           footnote: []
         },
         {
-          text: '',
+          text: 'CRIADO - Não vos desagrade, os soldados ingleses.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH -Tira a tua cara daqui. Depressa!<br>\n' +
+            '(<i>Sai o criado.</i>)<br>\n' +
+            'Seyton! Dói-me demais o coração, quando contemplo... Seyton! torno a chamar... Essa batalha vai-me\n' +
+            'dar alegria para sempre ou tirar-me do trono neste instante. Já vivi muito; minha vida inclina-se para o\n' +
+            'Outono de folhas amarelas, e a nada do que deve vir no rasto da velhice: amor, honras, obediência,\n' +
+            'amigos, poderei eu aspirar. Em lugar disso, maldições, não ditas em voz alta, mas fundas; homenagens à\n' +
+            'flor da boca apenas, que, de grado o pobre coração contestaria, conquanto não se atreva... Seyton! digo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SEYTON - Que é o vosso prazer gracioso agora?',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Quais são as outras novidades?',
           footnote: []
         },
         {
-          text: '',
+          text: 'SEYTON - Quanto vos disseram, senhor, foi confirmado.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Hei de lutar até que me retalhem toda a carne dos ossos. Dai-me logo minha armadura.\n' +
+            'Vamos!',
           footnote: []
         },
         {
-          text: '',
+          text: 'SEYTON - Ainda é cedo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Quero vesti-la já. Mais cavaleiros mandai já limpar a redondeza. Dai-me a armadura.\n' +
+            'Como vai passando vossa doente, doutor?',
           footnote: []
         },
         {
-          text: '',
+          text: 'O MÉDICO - Não se acha doente, propriamente, senhor, mas perseguida por freqüentes visões que do\n' +
+            'repouso de todo a têm privado.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Cura-a disso. Não podes encontrar nenhum remédio para um cérebro doente, da memória\n' +
+            'tirar uma tristeza enraizada, delir da mente as dores aí escritas e com algum antídoto de oblívio doce e\n' +
+            'agradável aliviar o peito que opresso geme ao peso da matéria maldosa que comprime o coração?',
           footnote: []
         },
         {
-          text: '',
+          text: 'O' +
+            'MÉDICO - Para isso deve o doente achar os meios.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Então atira aos cães a medicina. Não quero saber dela. Vamos logo! Minha armadura!\n' +
+            'Dai-me o meu bastão. Seyton, manda sair... Doutor, os thanes fogem de mim. - Vamos! Mais pressa\n' +
+            'nisso! - Se examinar, doutor, pudesses a água do meu reino, encontrar a doença dele, restituir-lhe por\n' +
+            'meio de uma purga a saúde primeira, tão notória, aplaudir-te-ia que os próprios ecos aplaudissem de\n' +
+            'novo. - Fora! digo - Que ruibarbo, que sene ou droga drástica nos limpará desses ingleses todos? Já\n' +
+            'ouviste falar deles?',
           footnote: []
         },
         {
-          text: '',
+          text: 'O MÉDICO - Sim, bondoso senhor; vossos reais preparativos nos forçam a ouvir\n' +
+            'algo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Não hei de ter da morte medo inane, se Birnam não vier a Dunsinane.',
           footnote: []
         },
         {
-          text: '',
+          text: 'O MÉDICO (<i>à parte</i>) - E eu se longe estivesse neste dia, nenhum lucro a voltar me obrigaria.\n' +
+            '<br>(<i>Saem.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: '<br><center>Cena IV</center>',
           footnote: []
         },
         {
-          text: '',
+          text: '<i>Planície perto da mata de Dunsinane. Entram com tambores e bandeiras Malcolm, o velho Siward e seu\n' +
+            'filho, Macduff, Menteith, Caithness, Angus, Lennox, Ross e soldados, marchando.</i>',
           footnote: []
         },
         {
-          text: '',
+          text: 'MALCOLM - Primos, creio que o dia se aproxima de ficarem seguras nossas casas.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MENTEITH - Não o duvidamos.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SIWARD - Que floresta é esta?',
           footnote: []
         },
         {
-          text: '',
+          text: 'MENTEITH - É a floresta de Birnam.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MALCOLM - Que cada homem corte um galho e o carregue, pois, com isso, não só faremos sombra para\n' +
+            'as tropas, como a erro induziremos o inimigo no cômputo dos nossos.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SOLDADOS - Será feito.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SIWARD - Só o que ouvimos dizer é que o tirano, confiante sempre, em Dunsinane se acha, onde vai\n' +
+            'resistir ao nosso cerco.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MALCOLM - É nisso que depõe toda a esperança, pois sempre que ocasião se tem mostrado, todos o deixam, grandes e pequenos, só à força o servindo os que ainda restam, mas sem que o coração influanisso.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACDUFF - Que nosso justo juízo aguarde a marcha dos acontecimentos. Enquanto isso, em prática\n' +
+            'ponhamos toda a nossa ciência de bons soldados.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SIWARD - Está na hora de ficarmos sabendo com certeza quem tem a haver, quem fez maior despesa.\n' +
+            'Da mente nasce uma esperança inglória; mas dos golpes certeiros, a vitória, que é para onde marchamos.\n' +
+            '<br>(<i>Saem marchando.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: '<br><center>Cena V</center>',
           footnote: []
         },
         {
-          text: '',
+          text: '<i>Dunsinane. No interior do castelo. Entram com tambores e bandeiras Macbeth, Seyton e soldados.</i>',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Desfraldai as bandeiras nas muralhas de fora. A senha é sempre: "Aí vêm eles!" Nosso\n' +
+            'forte castelo ri de um cerco de brinquedo como este. Que aí fiquem, até que a fome e a peste os\n' +
+            'extermine. Se eles não se tivessem reforçado com os que do nosso lado estar deviam, barba com barba\n' +
+            'nós os enfrentáramos sem receio nenhum e os tocaríamos, vencidos, para casa.<br>\n' +
+            '(<i>Ouve-se dentro um grito de mulher.<i>)',
           footnote: []
         },
         {
-          text: '',
+          text: 'SEYTON - Um grito de mulher, meu bom senhor.<br>\n' +
+            '(<i>Sai.<i>)',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Quase esqueci que gosto tem o medo. Já houve tempo em que um só grito, à noite, gelados\n' +
+            'os sentidos me deixava, e a relação de qualquer fato horrendo eriçar os cabelos me fazia, como se vivos\n' +
+            'fossem. Entupi-me de tal modo com coisas pavorosas, que o horror, já agora familiar das minhas\n' +
+            'cogitações de morte, não consegue abalar-me no mínimo.<br>\n' +
+            '(<i>Volta Seyton.<i>)<br>\n' +
+            'Que houve?',
           footnote: []
         },
         {
-          text: '',
+          text: 'SEYTON - A rainha morreu, senhor.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Devia ter morrido mais tarde; então, houvera ocasião certa para tal palavra. O amanhã, o\n' +
+            'amanhã. Outro amanhã, dia a dia se escoam de mansinho, até que chegue, alfim, a última sílaba do livro\n' +
+            'da memória. Nossos ontens para os tolos a estrada deixam clara da empoeirada morte. Fora! apaga-te,\n' +
+            'candeia transitória! A vida é apenas uma sombra ambulante, um pobre cômico que se empavona e agita\n' +
+            'por uma hora no palco, sem que seja, após, ouvido; é uma história contada por idiotas, cheia de fúria e\n' +
+            'muita barulheira, que nada significa.<br>\n' +
+            '(<i>Entra um mensageiro.<i>)<br>\n' +
+            'Vens para usar a língua; fala logo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MENSAGEIRO - Meu gracioso senhor, desejara dizer-vos o que penso ter visto, mas não sei como\n' +
+            'expressar-me.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Muito bem; pois falai, caro senhor.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MENSAGEIRO - Quando estava de guarda na colina, olhei naturalmente para Birnam, tendo-me\n' +
+            'parecido que a floresta começava a mover-se.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Mentiroso lacaio!',
           footnote: []
         },
         {
-          text: '',
+          text: 'MENSAGEIRO - Que em mim caia vossa cólera, se não for mesmo assim, pois à distância de três milhas\n' +
+            'podeis vê-la avançando: uma floresta em movimento. É isso.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Se estiveres mentindo, no mais próximo galho serás dependurado vivo, até que a fome\n' +
+            'venha ressecar-te; se a verdade falaste, não me importa que comigo procedas de igual modo. De coragem\n' +
+            'revisto-me e começo a suspeitar do equívoco do demo que mente sob a capa da verdade. "Nada temas até\n' +
+            'que a Dunsinane chegue a mata de Birnam." E ora acontece que uma floresta vem a Dunsinane! Às\n' +
+            'armas, logo! Às armas! Para fora! Se o que ele disse é certo, é indiferente fugir daqui ou combater na\n' +
+            'frente. Começo a achar a luz do sol enjoada. Ah! se este mundo se acabasse em nada! Tocai o alarma!\n' +
+            'Abri-vos, sepultura! Posso morrer, mas dentro da armadura.<br>\n' +
+            '(<i>Saem.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: '<br><center>Cena VI</center>',
           footnote: []
         },
         {
-          text: '',
+          text: '<i>O mesmo. Uma planície diante do castelo. Entram com tambores e bandeiras Malcolm, o velho Siward,\n' +
+            'Macduff etc. e seu exército, com galhos de árvores.</i>',
           footnote: []
         },
         {
-          text: '',
+          text: 'MALCOLM - Eis-nos bastante perto; jogai fora vosso amparo de folhas e mostrai-vos como sois mesmo.\n' +
+            'Vós, meu digno tio, com vosso nobre filho, meu bom primo, comandareis nosso primeiro corpo. Nós e o\n' +
+            'digno Macduff encarregados ficaremos do mais, de acordo em tudo com nossas próprias ordens.',
           footnote: []
         },
         {
-          text: '',
+          text: 'SIWARD - Passai bem. Se hoje eu achar as forças do tirano, que a morrer venha, se não causar dano.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACDUFF - Tocai logo os clarins; soprai bem forte nesses arautos de sangueira e morte.\n' +
+            '<br>(<i>Saem.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: '<br><center>Cena VII</center>',
           footnote: []
         },
         {
-          text: '',
+          text: '<i>O mesmo. Outra parte da planície. Alarma. Entra Macbeth.</i>',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Amarraram-me ao poste; é-me impossível fugir, sendo preciso que, como urso, agüente o\n' +
+            'ataque deles. Onde se acha quem não houvesse de mulher nascido? Esse é que eu temer devo; mais\n' +
+            'ninguém.<br>\n' +
+            '(<i>Entra o jovem Siward.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: 'O JOVEM SIWARD - Teu nome?',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH -Terás medo só de ouvi-lo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'O JOVEM SIWARD - Não; ainda mesmo que mais quente fosse do que o de todos que no inferno se\n' +
+            'acham.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Então, Macbeth me chamo.',
           footnote: []
         },
         {
-          text: '',
+          text: 'O JOVEM SIWARD - O próprio diabo não poderia pronunciar um título que mais odioso fosse a meus\n' +
+            'ouvidos.',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Não; nem mais de temer.',
           footnote: []
         },
         {
-          text: '',
+          text: 'O JOVEM SIWARD - Mentes, tirano detestável. Com a ponta desta espada vou provar que mentiste.<br> (<i>Batem-se; o jovem Siward é morto.</i>)',
           footnote: []
         },
         {
-          text: '',
+          text: 'MACBETH - Tu nasceste de mulher. Para mim são como o vento golpes de quem teve esse nascimento.\n' +
+            '<br>(<i>Sai.)\n' +
+            '<br>(<i>Alarma. Entra Macduff)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Deste lado é o barulho. Mostra o rosto, tirano! Se não cais por minha espada, perseguido\n' +
+            'serei eternamente pelo fantasma de minha esposa e pelos de meus filhinhos caros. Impossível me será\n' +
+            'atacar esses coitados que trazem armas só pelo salário. Ou te encontro, Macbeth, ou na bainha reponho a\n' +
+            'espada, intacta e sem trabalho. Deves estar ali. Aquele estrépito quer anunciar alguém de grande fama.\n' +
+            'Faze que o encontre, ó Fado! Mais não peço.\n' +
+            '<br>(<i>Sai. Alarma.<i>)\n' +
+            '<br>(<i>Entram Malcolm e o velho Siward.<i>)',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Por aqui, meu senhor; sem resistência entregou-se o castelo. Estão lutando dos dois lados os\n' +
+            'homens do tirano. Os nobres thanes nesta guerra deram provas de alto valor. O próprio dia está a vosso\n' +
+            'favor; já quase nada resta para fazer.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Vimos de perto como o imigo lutava.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Eis o castelo, caro senhor, entrai.\n' +
+            '<br>(<i>Saem. Alarma.<i>)\n' +
+            '<br>(<i>Volta Macbeth.<i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Por que fazer como o romano bobo e o corpo atravessar com a própria espada? Enquanto\n' +
+            'vidas eu achar, os golpes serão para elas, não para o meu corpo.\n' +
+            '<br>(<i>Volta Macduff<i>)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Volta-te, cão do inferno!',
+          footnote: []
+        },
+        {
+          text: 'MACBETH -Dentre todos os homens só a ti tenho evitado. Retira-te; tenho a alma carregada por demais\n' +
+            'de teu sangue.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Não me sobram palavras; minha voz é minha espada, monstro mais sanguinário do que\n' +
+            'possa expressar a linguagem.\n' +
+            '<br>(<i>Batem-se.<i>)',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - É trabalho perdido o teu. Com mais facilidade poderias fender o ar impalpável com tua\n' +
+            'espada aguda do que sangue do meu corpo arrancar. Deixa que a lâmina caia sobre cimeiras vulneráveis.\n' +
+            'Ampara-me um encanto; a vida tenho assegurada contra qualquer homem nascido de mulher.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Perde a confiança em tal encantamento, e que o mau anjo a que serviste até hoje te declare\n' +
+            'que do ventre materno foi Macduff tirado antes do tempo.',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Maldita seja a língua que diz isso, pois com medo deixou a melhor parte de minha\n' +
+            'intrepidez, e que não sejam cridos jamais esses demônios falsos que nos enganam com palavras dobres e\n' +
+            'sustenta a promessa feita a nossos ouvidos, sem que a nossas esperanças intacta a deixem nunca. Não\n' +
+            'pretendo cruzar armas contigo.',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Então, entrega-te, covarde, e vive para te tornares espetáculo e assombro do universo. Como fazemos com esses monstros raros, teu retrato será posto num mastro, tendo em baixo a inscrição: "Eis o tirano!"',
+          footnote: []
+        },
+        {
+          text: 'MACBETH - Não me rendo; beijar não hei de a terra diante dos pés do juvenil Malcolm, nem de isca\n' +
+            'servirei para a canalha. Embora Birnam viesse a Dunsinane e tu, que me resistes, não tivesses nascido de\n' +
+            'mulher, vou tentar o último recurso. Ponho assim, em frente ao corpo, meu escudo guerreiro. Vem,\n' +
+            'Macduff! E que por todos seja amaldiçoado quem primeiro gritar: "Estou cansado!"\n' +
+            '<br>(<i>Saem, lutando.</i>)\n' +
+            '<br>(<i>Retirada. Voltam, com tambores e bandeiras, Malcolm, o velho Siward, Ross, thanes e soldados.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Desejara que salvos estivessem os amigos que faltam.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - E forçoso que alguém pereça. Mas, por quanto vejo, custou barato um dia tão glorioso.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Falta Macduff e vosso nobre filho.',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Vosso filho, senhor, pagou a dívida de soldado. Viveu até ser homem; logo que pôde comprovar\n' +
+            'a força no posto em que, sem vacilar, lutava, como homem pereceu.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Então, morreu?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Sim; seu corpo, também, já foi trazido do campo de batalha. Não podemos medir a causa de\n' +
+            'vosso alto luto pelo mérito dele, o que seria deixá-la sem limites.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Foi ferido na frente?',
+          footnote: []
+        },
+        {
+          text: 'ROSS - Sim, na frente.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Que soldado de Deus, então, se torne. Se tantos filhos eu tivesse quantos cabelos, não quisera\n' +
+            'mais bonita morte para nenhum. Esse é o seu dobre de finados.',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Merece maior luto; disso me incumbirei.',
+          footnote: []
+        },
+        {
+          text: 'SIWARD - Não; não merece. Dizem que morreu bem; pagou o escote. Assim, Deus o acompanhe. Mas\n' +
+            'diviso novo conforto que nos chega a tempo.\n' +
+            '<br>(<i>Volta Macduff, com a cabeça de Macbeth.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MACDUFF - Salve, rei! pois que o és. Olha onde se acha a cabeça maldita do tirano. O mundo já está\n' +
+            'livre. Ora te vejo cercado pelas jóias de teu reino, que saudação te enviam do imo peito e a cujas vozesassocio a minha: sê feliz, Rei da Escócia!',
+          footnote: []
+        },
+        {
+          text: 'TODOS - Sê feliz, Rei da Escócia!\n' +
+            '<br>(<i>Fanfarras.</i>)',
+          footnote: []
+        },
+        {
+          text: 'MALCOLM - Não deixaremos que se passe o tempo sem que com vosso amor justemos contas e, assim,\n' +
+            'fiquemos quites com vós todos. Meu thanes e parentes, sede condes de hoje em diante, os primeiros que\n' +
+            'na Escócia tal título recebem. Quanto resta para fazer e que será plantado, segundo as próprias condições\n' +
+            'do tempo: como o repatriamento dos amigos que para longe foram, porque às malhas fugissem da\n' +
+            'astuciosa tirania; o julgamento dos cruéis ministros do carniceiro morto e sua esposa tão infernal quanto\n' +
+            'ele e que, segundo consta, pôs termo à vida com violência, por suas próprias mãos: tudo isso e quanto\n' +
+            'mais ainda for preciso, pela graça da Graça a cabo havemos de levar na medida do tempo e do lugar. Convido-vos, assim, de mui bom grado, para que em Scone me vejais coroado. <br>(<i>Fanfarras. Saem.</i>)',
           footnote: []
         }
       ]
