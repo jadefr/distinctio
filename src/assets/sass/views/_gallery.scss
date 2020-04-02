@@ -44,9 +44,11 @@
   }
 
   .gallery-card {
-    z-index: 1;
-    padding-top: 7em;
-    //padding-top: 2em;
+    @include mobile {
+      z-index: 1;
+      padding-top: 6em;
+    }
+    padding-top: 2em;
     padding-left: 1em;
     padding-right: 1em;
   }

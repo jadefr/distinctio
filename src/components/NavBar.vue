@@ -92,15 +92,17 @@ export default {
   @import '../assets/sass/views/gallery';
 
   #gallery-navbar {
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    height: 6em;
-    transition: transform 300ms;
-    z-index: 10;
-    &.hide {
-      transform: translateY(-6em);
+    @include mobile {
+      position: fixed;
+      left: 0;
+      right: 0;
+      top: 0;
+      height: 5em;
+      transition: transform 300ms;
+      z-index: 10;
+      &.hide {
+        transform: translateY(-5em);
+      }
     }
   }
 </style>
