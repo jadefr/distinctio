@@ -250,11 +250,13 @@ body {
           color: color(brown-contrast);
           margin-right: 2em;
           padding-top: 2em;
+          font-size: 0.78rem;
+          line-height: 0.9rem;
         }
 
-        @include mini-mobile {
-          position: relative;
-        }
+        //@include mini-mobile {
+        //  position: relative;
+        //}
       }
     }
   }
