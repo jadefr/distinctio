@@ -65,8 +65,15 @@
         </section>
       </main>
 
-      <!-- Button -->
-      <a href="/galeria" class="btn">Galeria</a>
+      <!-- Bottom -->
+      <div class="bottom">
+        <!-- Button -->
+        <a href="/galeria" class="btn" id="btn">Galeria</a>
+        <!-- Credits -->
+        <div id="credits">
+          <p>Desenvolvido por <span><a href="https://jadeferreira.com.br/">Jade Ferreira</a></span></p>
+        </div>
+      </div>
 
     </div>
   </div>
