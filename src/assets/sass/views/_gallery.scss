@@ -44,7 +44,9 @@
   }
 
   .gallery-card {
-    padding-top: 2em;
+    z-index: 1;
+    padding-top: 7em;
+    //padding-top: 2em;
     padding-left: 1em;
     padding-right: 1em;
   }

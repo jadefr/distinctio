@@ -3,6 +3,7 @@
 
     <!-- NavBar -->
     <div id="gallery-navbar">
+
       <!-- Icon -->
       <div id="icon">
         <router-link :to="`/${goTo}`">
@@ -18,9 +19,9 @@
             <!-- NavigationItems Component -->
             <NavigationItems
               v-for="(obj, key) in uniqueElements" :key="key"
-                :author-u-r-l="obj[0]"
-                :author="obj[1]"
-              />
+              :author-u-r-l="obj[0]"
+              :author="obj[1]"
+            />
           </b-nav-item-dropdown>
         </b-navbar-nav>
       </b-navbar>
@@ -50,29 +51,37 @@ export default {
       'documents2'
     ])
   },
+  /* eslint-env jquery */
+  mounted: function () {
+    var lastScrollTop = 0
+    $(window).scroll(function() {
+      var st = $(this).scrollTop()
+      var banner = $('#gallery-navbar')
+      setTimeout(function() {
+        if (st > lastScrollTop) {
+          banner.addClass('hide')
+        } else {
+          banner.removeClass('hide')
+        }
+        lastScrollTop = st
+      }, 100)
+    })
+  },
   created () {
     const authorsURL = []
     const authors = []
     for (let i = 0; i < this.documents2.length; i++) {
       authorsURL.push(this.documents2[i].document.authorURL)
       authors.push(this.documents2[i].document.author)
-      // console.log(i + ' :: ' + this.documents2[i].document.authorURL + ' :: ' + this.documents2[i].document.author)
     }
     const unique = (value, index, self) => {
       return self.indexOf(value) === index
     }
     const uniqueAuthors = authors.filter(unique).sort()
-    // console.log(uniqueAuthors.length)
-    uniqueAuthors.forEach(value => console.log('author: ' + value))
-
     const uniqueAuthorsURL = authorsURL.filter(unique).sort()
-    // console.log(uniqueAuthorsURL.length)
-    uniqueAuthorsURL.forEach(value => console.log('authorURL: ' + value))
 
-    //
     for (let i = 0; i < uniqueAuthors.length; i++) {
       const array = [uniqueAuthorsURL[i], uniqueAuthors[i]]
-      // console.log(array)
       this.uniqueElements.push(array)
     }
   }
@@ -81,4 +90,17 @@ export default {
 
 <style lang="scss">
   @import '../assets/sass/views/gallery';
+
+  #gallery-navbar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 6em;
+    transition: transform 300ms;
+    z-index: 10;
+    &.hide {
+      transform: translateY(-6em);
+    }
+  }
 </style>
