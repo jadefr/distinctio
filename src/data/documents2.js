@@ -7970,10 +7970,10 @@ export default [
             'sentenças sanguinárias que, uma vez aprendidas, em tormento se viram do inventor. Essa justiça serena e\n' +
             'equilibrada a nossos lábios apresenta o conteúdo envenenado da taça que nós mesmos preparáramos. Ele\n' +
             'está aqui sob dupla salvaguarda. De início, sou parente dele e súdito, duas razões de força contra esse\n' +
-            'ato; depois, sou o hospedeiro, que devera fechar a porta a seus assaltadores, não levantar contra ele\n' +
+            'ato; depois, sou o hospedeiro, que deveria fechar a porta a seus assaltadores, não levantar contra ele\n' +
             'minha faca. Esse Duncan, por fim, tem revelado tão brandas qualidades de regente, seu alto ofício tem\n' +
             'exercitado por maneira tão pura que suas claras virtudes hão de reclamar, sem dúvida, contra o crime\n' +
-            'infernal de sua morte. E a piedade, tal como um recém-nado despido, cavalgando a tempestade, ou\n' +
+            'infernal de sua morte. E a piedade, tal como um recém-nascido despido, cavalgando a tempestade, ou\n' +
             'querubim celeste que montasse nos corcéis invisíveis das rajadas, há de atirar esse ato inominável contra\n' +
             'os olhos de todas as pessoas, até que o vento as lágrimas afoguem. Esporas não possuo, para os flancos\n' +
             'picar do meu projeto, mas somente a empolada ambição que, ultrapassando no salto a sela, vai cair sobre\n' +
@@ -8024,7 +8024,7 @@ export default [
           text: 'LADY MACBETH - Que animal foi, então, que teve a idéia de me participar esse projeto? Quando\n' +
             'ousastes fazê-lo éreis um homem, e querendo ser mais do que então éreis tanto mais homem a ficar\n' +
             'viríeis. Lugar e tempo então não concordavam; no entanto desejáveis ajeitá-los; e ora que se acomodam\n' +
-            'por si mesmos, essa boa vontade vos abate! Já amamentei e sei como é inefável amar a criança que meu leite mama; mas no momento em que me olhasse, rindo, o seio lhe tirara da boquinha desdentada e acabeça lhe partira, se tivesse jurado, como o havíeis em relação a isso.',
+            'por si mesmos, essa boa vontade vos abate! Já amamentei e sei como é inefável amar a criança que meu leite mama; mas no momento em que me olhasse, rindo, o seio lhe tirara da boquinha desdentada e a cabeça lhe partira, se tivesse jurado, como o havíeis em relação a isso.',
           footnote: []
         },
         {
@@ -9633,7 +9633,7 @@ export default [
       title: 'Macbeth',
       author: 'William Shakespeare',
       section: 'Ato II',
-      img: 'macbeth2',
+      img: 'macbeth4',
       imgIndex: '5',
       titleURL: 'macbeth',
       authorURL: 'william-shakespeare',
@@ -17618,7 +17618,7 @@ export default [
       title: 'Macbeth',
       author: 'William Shakespeare',
       section: 'Ato IV',
-      img: 'macbeth4',
+      img: 'macbeth2',
       imgIndex: '5',
       titleURL: 'macbeth',
       authorURL: 'william-shakespeare',
