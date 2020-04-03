@@ -8,7 +8,15 @@
   font-size: 130%;
   color: color(sepia-font);
 
+  @include tablet {
+    font-size: 115%;
+    padding: 3em 2em;
+  }
+
   h1 {
+    @include tablet {
+      font-size: 2em;
+    }
     padding-bottom: 1em;
     text-align: center;
   }
@@ -19,6 +27,9 @@
   }
 
   h4 {
+    @include tablet {
+      font-size: 1.3em;
+    }
     padding-top: 1em;
     padding-bottom: 0.5em;
     color: color(brown-dark);
