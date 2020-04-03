@@ -4,38 +4,51 @@
 @import './document';
 
 .privacy-policy-view-container {
-  padding: 3em 8em;
-  font-size: 130%;
-  color: color(sepia-font);
 
-  @include tablet {
-    font-size: 115%;
-    padding: 3em 2em;
+  .document-view-container{
+    margin-right: 10px;
+    margin-top: 30px;
   }
 
-  h1 {
+  .content {
+    padding-right: 8em;
+    padding-left: 8em;
+    padding-bottom: 3em;
+    font-size: 130%;
+    color: color(sepia-font);
+    font-family: Georgia, "Times New Roman", serif;
+
     @include tablet {
-      font-size: 2em;
+      //font-size: 120%;
+      padding-right: 2em;
+      padding-left: 2em;
+      padding-bottom: 3em;
     }
-    padding-bottom: 1em;
-    text-align: center;
-  }
 
-  strong{
-    color: color(brown-dark);
-    font-weight: normal;
-  }
-
-  h4 {
-    @include tablet {
-      font-size: 1.3em;
+    h1 {
+      @include tablet {
+        font-size: 2em;
+      }
+      padding-bottom: 1em;
+      text-align: center;
     }
-    padding-top: 1em;
-    padding-bottom: 0.5em;
-    color: color(brown-dark);
-  }
 
-  .last-paragraph{
-    padding-top: 2em;
+    strong {
+      color: color(brown-dark);
+      font-weight: normal;
+    }
+
+    h4 {
+      @include tablet {
+        font-size: 1.3em;
+      }
+      padding-top: 1em;
+      padding-bottom: 0.5em;
+      color: color(brown-dark);
+    }
+
+    .last-paragraph {
+      padding-top: 2em;
+    }
   }
 }

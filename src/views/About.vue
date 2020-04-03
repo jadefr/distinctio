@@ -62,7 +62,7 @@
       </div>
       <br>
       <!-- Paragraph -->
-      <p>Ao acessar, usar ou navegar pelo <em>Distinctio</em>, você concorda, expressa e voluntariamente, com todas as cláusulas
+      <p>Ao acessar o <em>Distinctio</em>, você concorda, expressa e voluntariamente, com todas as cláusulas
       de nossa <a href="/politica-de-privacidade">Política de Privacidade</a>.</p>
       <!-- Paragraph -->
       <p id="last-paragraph">Caso tenha <span class="green-text">sugestões</span>, envie-as <a
