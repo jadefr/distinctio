@@ -22,7 +22,7 @@
       <!-- Title -->
       <h1>Guia de Uso</h1>
       <!-- Subtitle -->
-      <h2><i>Distinctio</i> é uma galeria de textos antigos</h2>
+      <h2><em>Distinctio</em> é uma galeria de textos antigos</h2>
     </header>
 
     <!-- Text -->
@@ -40,7 +40,7 @@
         <span class="line"><span class="bullet">4.</span> Barra de <span class="green-text">progresso</span> (<i>na borda do topo</i>): <span
           class="answer">indica a porcentagem já lida</span></span>
       </div>
-      <!-- Footnotes -->
+      <!-- Footnote -->
       <div id="footnote">
         <p><span id="asterisk">*</span> Botões visíveis somente em tablet ou celular</p>
       </div>
@@ -61,6 +61,9 @@
         <span class="line"><span class="bullet-second">Firefox: </span> na caixa que surge acima da palavra, clique nos <span class="green-text">três pontinho</span> e, em seguida, em <span class="green-text">Pesquisa Google</span></span>
       </div>
       <br>
+      <!-- Paragraph -->
+      <p>Ao acessar, usar ou navegar pelo <em>Distinctio</em>, você concorda, expressa e voluntariamente, com todas as cláusulas
+      de nossa <a href="/politica-de-privacidade">Política de Privacidade</a>.</p>
       <!-- Paragraph -->
       <p id="last-paragraph">Caso tenha <span class="green-text">sugestões</span>, envie-as <a
         href="https://jadeferreira.com.br/#contato">aqui</a></p>

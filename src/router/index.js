@@ -6,6 +6,7 @@ import Document from '../views/Document.vue'
 import Author from '../views/Author.vue'
 import Title from '../views/Title.vue'
 import About from '../views/About.vue'
+import PrivacyPolicy from '../views/PrivacyPolicy'
 
 Vue.use(VueRouter)
 
@@ -39,6 +40,11 @@ const routes = [
     path: '/guia-de-uso',
     name: 'About',
     component: About
+  },
+  {
+    path: '/politica-de-privacidade',
+    name: 'PrivacyPolicy',
+    component: PrivacyPolicy
   }
 ]
 
