@@ -8,35 +8,6 @@
   font-size: 130%;
   color: color(sepia-font);
 
-  // Borders
-  .borders {
-    #top, #bottom, #left, #right {
-      background: color(brown-dark);
-      position: fixed;
-    }
-    #left, #right {
-      top: 0; bottom: 0;
-      width: 10px;
-
-      @include mobile {
-        width: 6px;
-      }
-    }
-    #left { left: 0; }
-    #right { right: 0; }
-
-    #top, #bottom {
-      left: 0; right: 0;
-      height: 10px;
-
-      @include mobile {
-        height: 6px;
-      }
-    }
-    #top { top: 0; }
-    #bottom { bottom: 0; }
-  }
-
   h1 {
     padding-bottom: 1em;
     text-align: center;

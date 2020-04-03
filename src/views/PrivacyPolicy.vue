@@ -2,11 +2,13 @@
   <div class="privacy-policy-view-container">
 
     <!-- Borders -->
-    <div class="borders">
-      <div id="left"></div>
-      <div id="right"></div>
-      <div id="top"></div>
-      <div id="bottom"></div>
+    <div class="document-view-container">
+      <div class="borders">
+        <div id="left"></div>
+        <div id="right"></div>
+        <div id="top"></div>
+        <div id="bottom"></div>
+      </div>
     </div>
 
     <h1>Política de privacidade</h1>
