@@ -1,7 +1,7 @@
 # distinctio
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
-http://distinctio.jadeferreira.com.br/
+http://distinto.io/
 
 ## Atributos
 * UX agradável
@@ -43,7 +43,7 @@ http://distinctio.jadeferreira.com.br/
 * RF7: Deve-se utilizar o localStorage para armazenar a altura do texto
 
 ## Rotas
-* / --> Home page (landing page)
+* / --> Home page
 * /galeria --> Exposição de todos os textos disponíveis
 * /galeria/:autor --> Exposição de todos os textos de determinado autor
 * /galeria/:autor/:livro --> Exposição de todos os textos de determinado livro
