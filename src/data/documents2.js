@@ -14,9 +14,9 @@ export default [
       paragraphs: [
         {
           text: 'Uma noite, há muitos anos, passeava eu com um amigo no terraço do Teatro de\n' +
-          'S. Pedro de Alcântara. Era entre o segundo e o terceiro ato da peça <i>A Sentença\n' +
-          'ou o Tribunal do Júri</i>. Só me ficou o título, e foi justamente o título que nos levou\n' +
-          'a falar da instituição e de um fato que nunca mais me esqueceu.',
+            'S. Pedro de Alcântara. Era entre o segundo e o terceiro ato da peça <i>A Sentença\n' +
+            'ou o Tribunal do Júri</i>. Só me ficou o título, e foi justamente o título que nos levou\n' +
+            'a falar da instituição e de um fato que nunca mais me esqueceu.',
           footnote: [
             {
               index: '',
@@ -26,49 +26,49 @@ export default [
         },
         {
           text: '— Fui sempre contrário ao júri, — disse-me aquele amigo, — não pela instituição\n' +
-          'em si, que é liberal, mas porque me repugna condenar alguém, e por aquele\n' +
-          'preceito do Evangelho; “Não queirais julgar para que não sejais julgados”. Não\n' +
-          'obstante, servi duas vezes. O tribunal era então no antigo Aljube, fim da Rua\n' +
-          'dos Ourives, princípio da Ladeira da Conceição.',
+            'em si, que é liberal, mas porque me repugna condenar alguém, e por aquele\n' +
+            'preceito do Evangelho; “Não queirais julgar para que não sejais julgados”. Não\n' +
+            'obstante, servi duas vezes. O tribunal era então no antigo Aljube, fim da Rua\n' +
+            'dos Ourives, princípio da Ladeira da Conceição.',
           footnote: []
         },
         {
           text: 'Tal era o meu escrúpulo que, salvo dois, absolvi todos os réus. Com efeito, os\n' +
-          'crimes não me pareceram provados; um ou dois processos eram mal feitos. O\n' +
-          'primeiro réu que condenei era um moço limpo, acusado de haver furtado certa\n' +
-          'quantia, não grande, antes pequena, com falsificação de um papel. Não negou o\n' +
-          'fato, nem podia fazê-lo, contestou que lhe coubesse a iniciativa ou inspiração do\n' +
-          'crime. Alguém, que não citava, foi que lhe lembrou esse modo de acudir a uma\n' +
-          'necessidade urgente; mas Deus, que via os corações, daria ao criminoso\n' +
-          'verdadeiro o merecido castigo. Disse isso sem ênfase, triste, a palavra surda, os\n' +
-          'olhos mortos, com tal palidez que metia pena; o promotor público achou nessa\n' +
-          'mesma cor do gesto a confissão do crime. Ao contrário, o defensor mostrou que\n' +
-          'o abatimento e a palidez significavam a lástima da inocência caluniada.',
+            'crimes não me pareceram provados; um ou dois processos eram mal feitos. O\n' +
+            'primeiro réu que condenei era um moço limpo, acusado de haver furtado certa\n' +
+            'quantia, não grande, antes pequena, com falsificação de um papel. Não negou o\n' +
+            'fato, nem podia fazê-lo, contestou que lhe coubesse a iniciativa ou inspiração do\n' +
+            'crime. Alguém, que não citava, foi que lhe lembrou esse modo de acudir a uma\n' +
+            'necessidade urgente; mas Deus, que via os corações, daria ao criminoso\n' +
+            'verdadeiro o merecido castigo. Disse isso sem ênfase, triste, a palavra surda, os\n' +
+            'olhos mortos, com tal palidez que metia pena; o promotor público achou nessa\n' +
+            'mesma cor do gesto a confissão do crime. Ao contrário, o defensor mostrou que\n' +
+            'o abatimento e a palidez significavam a lástima da inocência caluniada.',
           footnote: []
         },
         {
           text: 'Poucas vezes terei assistido a debate tão brilhante. O discurso do promotor foi\n' +
-          'curto, mas forte, indignado, com um tom que parecia ódio, e não era. A defesa,\n' +
-          'além do talento do advogado, tinha a circunstância de ser a estréia dele na\n' +
-          'tribuna. Parentes, colegas e amigos esperavam o primeiro discurso do rapaz, e\n' +
-          'não perderam na espera. O discurso foi admirável, e teria salvo o réu, se ele\n' +
-          'pudesse ser salvo, mas o crime metia-se pelos olhos dentro. O advogado morreu\n' +
-          'dois anos depois, em 1865. Quem sabe o que se perdeu nele! Eu, acredite,\n' +
-          'quando vejo morrer um moço de talento, sinto mais que quando morre um\n' +
-          'velho... Mas vamos ao que ia contando. Houve réplica do promotor e tréplica do\n' +
-          'defensor. O presidente do tribunal resumiu os debates, e, lidos os quesitos,\n' +
-          'foram entregues ao presidente do Conselho, que era eu.',
+            'curto, mas forte, indignado, com um tom que parecia ódio, e não era. A defesa,\n' +
+            'além do talento do advogado, tinha a circunstância de ser a estréia dele na\n' +
+            'tribuna. Parentes, colegas e amigos esperavam o primeiro discurso do rapaz, e\n' +
+            'não perderam na espera. O discurso foi admirável, e teria salvo o réu, se ele\n' +
+            'pudesse ser salvo, mas o crime metia-se pelos olhos dentro. O advogado morreu\n' +
+            'dois anos depois, em 1865. Quem sabe o que se perdeu nele! Eu, acredite,\n' +
+            'quando vejo morrer um moço de talento, sinto mais que quando morre um\n' +
+            'velho... Mas vamos ao que ia contando. Houve réplica do promotor e tréplica do\n' +
+            'defensor. O presidente do tribunal resumiu os debates, e, lidos os quesitos,\n' +
+            'foram entregues ao presidente do Conselho, que era eu.',
           footnote: []
         },
         {
           text: 'Um dos jurados do Conselho, cheio de corpo e ruivo, parecia mais que ninguém\n' +
-          'convencido do delito e do delinqüente. O processo foi examinado, os quesitos\n' +
-          'lidos, e as respostas dadas (onze votos contra um); só o jurado ruivo estava\n' +
-          'inquieto. No fim, como os votos assegurassem a condenação, ficou satisfeito,\n' +
-          'disse que seria um ato de fraqueza, ou coisa pior, a absolvição que lhe\n' +
-          'déssemos. Um dos jurados, certamente o que votara pela negativa, — proferiu\n' +
-          'algumas palavras de defesa do moço. O ruivo, — chamava-se Lopes, — replicou\n' +
-          'com aborrecimento:',
+            'convencido do delito e do delinqüente. O processo foi examinado, os quesitos\n' +
+            'lidos, e as respostas dadas (onze votos contra um); só o jurado ruivo estava\n' +
+            'inquieto. No fim, como os votos assegurassem a condenação, ficou satisfeito,\n' +
+            'disse que seria um ato de fraqueza, ou coisa pior, a absolvição que lhe\n' +
+            'déssemos. Um dos jurados, certamente o que votara pela negativa, — proferiu\n' +
+            'algumas palavras de defesa do moço. O ruivo, — chamava-se Lopes, — replicou\n' +
+            'com aborrecimento:',
           footnote: []
         },
         {
@@ -81,50 +81,50 @@ export default [
         },
         {
           text: '— Não estou debatendo, estou defendendo o meu voto, continuou Lopes. O\n' +
-          'crime está mais que provado. O sujeito nega, porque todo o réu nega, mas o\n' +
-          'certo é que ele cometeu a falsidade, e que falsidade! Tudo por uma miséria,\n' +
-          'duzentos mil-réis! Suje-se gordo! Quer sujar-se? Suje-se gordo!',
+            'crime está mais que provado. O sujeito nega, porque todo o réu nega, mas o\n' +
+            'certo é que ele cometeu a falsidade, e que falsidade! Tudo por uma miséria,\n' +
+            'duzentos mil-réis! Suje-se gordo! Quer sujar-se? Suje-se gordo!',
           footnote: []
         },
         {
           text: '“Suje-se gordo!” Confesso-lhe que fiquei de boca aberta, não que entendesse a\n' +
-          'frase, ao contrário, nem a entendi nem a achei limpa, e foi por isso mesmo que\n' +
-          'fiquei de boca aberta. Afinal caminhei e bati à porta, abriram-nos, fui à mesa do\n' +
-          'juiz, dei as respostas do Conselho e o réu saiu condenado. O advogado apelou;\n' +
-          'se a sentença foi confirmada ou a apelação aceita, não sei; perdi o negócio de\n' +
-          'vista.',
+            'frase, ao contrário, nem a entendi nem a achei limpa, e foi por isso mesmo que\n' +
+            'fiquei de boca aberta. Afinal caminhei e bati à porta, abriram-nos, fui à mesa do\n' +
+            'juiz, dei as respostas do Conselho e o réu saiu condenado. O advogado apelou;\n' +
+            'se a sentença foi confirmada ou a apelação aceita, não sei; perdi o negócio de\n' +
+            'vista.',
           footnote: []
         },
         {
           text: 'Quando saí do tribunal, vim pensando na frase do Lopes, e pareceu-me entendê-la.\n' +
-          '“Suje-se gordo!” era como se dissesse que o condenado era mais que ladrão,\n' +
-          'era um ladrão reles, um ladrão de nada. Achei esta explicação na esquina da\n' +
-          'Rua de S. Pedro; vinha ainda pela dos Ourives. Cheguei a desandar um pouco, a\n' +
-          'ver se descobria o Lopes para lhe apertar a mão; nem sombra de Lopes. No dia\n' +
-          'seguinte, lendo nos jornais os nossos nomes, dei com o nome todo dele; não\n' +
-          'valia a pena procurá-lo, nem me ficou de cor. Assim são as páginas da vida,\n' +
-          'como dizia meu filho quando fazia versos, e acrescentava que as páginas vão\n' +
-          'passando umas sobre outras, esquecidas apenas lidas. Rimava assim, mas não\n' +
-          'me lembra a forma dos versos.',
+            '“Suje-se gordo!” era como se dissesse que o condenado era mais que ladrão,\n' +
+            'era um ladrão reles, um ladrão de nada. Achei esta explicação na esquina da\n' +
+            'Rua de S. Pedro; vinha ainda pela dos Ourives. Cheguei a desandar um pouco, a\n' +
+            'ver se descobria o Lopes para lhe apertar a mão; nem sombra de Lopes. No dia\n' +
+            'seguinte, lendo nos jornais os nossos nomes, dei com o nome todo dele; não\n' +
+            'valia a pena procurá-lo, nem me ficou de cor. Assim são as páginas da vida,\n' +
+            'como dizia meu filho quando fazia versos, e acrescentava que as páginas vão\n' +
+            'passando umas sobre outras, esquecidas apenas lidas. Rimava assim, mas não\n' +
+            'me lembra a forma dos versos.',
           footnote: []
         },
         {
           text: 'Em prosa disse-me ele, muito tempo depois, que eu não devia faltar ao júri,\n' +
-          'para o qual acabava de ser designado. Respondi-lhe que não compareceria, e\n' +
-          'citei o preceito evangélico; ele teimou, dizendo ser um dever de cidadão, um\n' +
-          'serviço gratuito, que ninguém que se prezasse podia negar ao seu país. Fui e\n' +
-          'julguei três processos.',
+            'para o qual acabava de ser designado. Respondi-lhe que não compareceria, e\n' +
+            'citei o preceito evangélico; ele teimou, dizendo ser um dever de cidadão, um\n' +
+            'serviço gratuito, que ninguém que se prezasse podia negar ao seu país. Fui e\n' +
+            'julguei três processos.',
           footnote: []
         },
         {
           text: 'Um destes era de um empregado do Banco do Trabalho Honrado, o caixa,\n' +
-          'acusado de um desvio de dinheiro. Ouvira falar no caso, que os jornais deram\n' +
-          'sem grande minúcia, e aliás eu lia pouco as notícias de crimes. O acusado\n' +
-          'apareceu e foi sentar-se no famoso banco dos réus. Era um homem magro e\n' +
-          'ruivo. Fitei-o bem, e estremeci; pareceu-me ver o meu colega daquele\n' +
-          'julgamento de anos antes. Não poderia reconhecê-lo logo por estar agora\n' +
-          'magro, mas era a mesma cor dos cabelos e das barbas, o mesmo ar, e por fim a\n' +
-          'mesma voz e o mesmo nome: Lopes.',
+            'acusado de um desvio de dinheiro. Ouvira falar no caso, que os jornais deram\n' +
+            'sem grande minúcia, e aliás eu lia pouco as notícias de crimes. O acusado\n' +
+            'apareceu e foi sentar-se no famoso banco dos réus. Era um homem magro e\n' +
+            'ruivo. Fitei-o bem, e estremeci; pareceu-me ver o meu colega daquele\n' +
+            'julgamento de anos antes. Não poderia reconhecê-lo logo por estar agora\n' +
+            'magro, mas era a mesma cor dos cabelos e das barbas, o mesmo ar, e por fim a\n' +
+            'mesma voz e o mesmo nome: Lopes.',
           footnote: []
         },
         {
@@ -137,72 +137,72 @@ export default [
         },
         {
           text: 'Já me não lembravam os três primeiros nomes, o quarto era o mesmo, e os\n' +
-          'outros sinais vieram confirmando as reminiscências; não me tardou reconhecer a\n' +
-          'pessoa exata daquele dia remoto. Digo-lhe aqui com verdade que todas essas\n' +
-          'circunstâncias me impediram de acompanhar atentamente o interrogatório, e\n' +
-          'muitas coisas me escaparam. Quando me dispus a ouvi-lo bem, estava quase no\n' +
-          'fim. Lopes negava com firmeza tudo o que lhe era perguntado, ou respondia de\n' +
-          'maneira que trazia uma complicação ao processo. Circulava os olhos sem medo\n' +
-          'nem ansiedade; não sei até se com uma pontinha de riso nos cantos da boca.',
+            'outros sinais vieram confirmando as reminiscências; não me tardou reconhecer a\n' +
+            'pessoa exata daquele dia remoto. Digo-lhe aqui com verdade que todas essas\n' +
+            'circunstâncias me impediram de acompanhar atentamente o interrogatório, e\n' +
+            'muitas coisas me escaparam. Quando me dispus a ouvi-lo bem, estava quase no\n' +
+            'fim. Lopes negava com firmeza tudo o que lhe era perguntado, ou respondia de\n' +
+            'maneira que trazia uma complicação ao processo. Circulava os olhos sem medo\n' +
+            'nem ansiedade; não sei até se com uma pontinha de riso nos cantos da boca.',
           footnote: []
         },
         {
           text: 'Seguiu-se a leitura do processo. Era uma falsidade e um desvio de cento e dez\n' +
-          'contos de réis. Não lhe digo como se descobriu o crime nem o criminoso, por já\n' +
-          'ser tarde; a orquestra está afinando os instrumentos. O que lhe digo com\n' +
-          'certeza é que a leitura dos autos me impressionou muito, o inquérito, os\n' +
-          'documentos, a tentativa de fuga do caixa e uma série de circunstâncias\n' +
-          'agravantes; por fim o depoimento das testemunhas. Eu ouvia ler ou falar e\n' +
-          'olhava para o Lopes. Também ele ouvia, mas com o rosto alto, mirando o\n' +
-          'escrivão, o presidente, o teto e as pessoas que o iam julgar; entre elas eu.\n' +
-          'Quando olhou para mim não me reconheceu; fitou-me algum tempo e sorriu,\n' +
-          'como fazia aos outros.',
+            'contos de réis. Não lhe digo como se descobriu o crime nem o criminoso, por já\n' +
+            'ser tarde; a orquestra está afinando os instrumentos. O que lhe digo com\n' +
+            'certeza é que a leitura dos autos me impressionou muito, o inquérito, os\n' +
+            'documentos, a tentativa de fuga do caixa e uma série de circunstâncias\n' +
+            'agravantes; por fim o depoimento das testemunhas. Eu ouvia ler ou falar e\n' +
+            'olhava para o Lopes. Também ele ouvia, mas com o rosto alto, mirando o\n' +
+            'escrivão, o presidente, o teto e as pessoas que o iam julgar; entre elas eu.\n' +
+            'Quando olhou para mim não me reconheceu; fitou-me algum tempo e sorriu,\n' +
+            'como fazia aos outros.',
           footnote: []
         },
         {
           text: 'Todos esses gestos do homem serviram à acusação e à defesa, tal como\n' +
-          'serviram, tempos antes, os gestos contrários do outro acusado. O promotor\n' +
-          'achou neles a revelação clara do cinismo, o advogado mostrou que só a\n' +
-          'inocência e a certeza da absolvição podiam trazer aquela paz de espírito.',
+            'serviram, tempos antes, os gestos contrários do outro acusado. O promotor\n' +
+            'achou neles a revelação clara do cinismo, o advogado mostrou que só a\n' +
+            'inocência e a certeza da absolvição podiam trazer aquela paz de espírito.',
           footnote: []
         },
         {
           text: 'Enquanto os dois oradores falavam, vim pensando na fatalidade de estar ali, no\n' +
-          'mesmo banco do outro, este homem que votara a condenação dele, e\n' +
-          'naturalmente repeti comigo o texto evangélico: “Não queirais julgar, para que\n' +
-          'não sejais julgados”. Confesso-lhe que mais de uma vez me senti frio. Não é que\n' +
-          'eu mesmo viesse a cometer algum desvio de dinheiro, mas podia, em ocasião de\n' +
-          'raiva, matar alguém ou ser caluniado de desfalque. Aquele que julgava outrora,\n' +
-          'era agora julgado também.',
+            'mesmo banco do outro, este homem que votara a condenação dele, e\n' +
+            'naturalmente repeti comigo o texto evangélico: “Não queirais julgar, para que\n' +
+            'não sejais julgados”. Confesso-lhe que mais de uma vez me senti frio. Não é que\n' +
+            'eu mesmo viesse a cometer algum desvio de dinheiro, mas podia, em ocasião de\n' +
+            'raiva, matar alguém ou ser caluniado de desfalque. Aquele que julgava outrora,\n' +
+            'era agora julgado também.',
           footnote: []
         },
         {
           text: 'Ao pé da palavra bíblica lembrou-me de repente a do mesmo Lopes: “Suje-se\n' +
-          'gordo!” Não imagina o sacudimento que me deu esta lembrança. Evoquei tudo o\n' +
-          'que contei agora, o discursinho que lhe ouvi na sala secreta, até àquelas\n' +
-          'palavras: “Suje-se gordo!” Vi que não era um ladrão reles, um ladrão de nada,\n' +
-          'sim de grande valor. O verbo é que definia duramente a ação. “Suje-se gordo!”\n' +
-          'Queria dizer que o homem não se devia levar a um ato daquela espécie sem a\n' +
-          'grossura da soma. A ninguém cabia sujar-se por quatro patacas. Quer sujar-se?\n' +
-          'Suje-se gordo!',
+            'gordo!” Não imagina o sacudimento que me deu esta lembrança. Evoquei tudo o\n' +
+            'que contei agora, o discursinho que lhe ouvi na sala secreta, até àquelas\n' +
+            'palavras: “Suje-se gordo!” Vi que não era um ladrão reles, um ladrão de nada,\n' +
+            'sim de grande valor. O verbo é que definia duramente a ação. “Suje-se gordo!”\n' +
+            'Queria dizer que o homem não se devia levar a um ato daquela espécie sem a\n' +
+            'grossura da soma. A ninguém cabia sujar-se por quatro patacas. Quer sujar-se?\n' +
+            'Suje-se gordo!',
           footnote: []
         },
         {
           text: 'Idéias e palavras iam assim rolando na minha cabeça, sem eu dar pelo resumo\n' +
-          'dos debates que o presidente do tribunal fazia. Tinha acabado, leu os quesitos e\n' +
-          'recolhemo-nos à sala secreta. Posso dizer-lhe aqui em particular que votei\n' +
-          'afirmativamente, tão certo me pareceu o desvio dos cento e dez contos. Havia,\n' +
-          'entre outros documentos, uma carta de Lopes que fazia evidente o crime. Mas\n' +
-          'parece que nem todos leram com os mesmos olhos que eu. Votaram comigo dois\n' +
-          'jurados. Nove negaram a criminalidade do Lopes, a sentença de absolvição foi\n' +
-          'lavrada e lida, e o acusado saiu para a rua. A diferença da votação era tamanha\n' +
-          'que cheguei a duvidar comigo se teria acertado. Podia ser que não. Agora\n' +
-          'mesmo sinto uns repelões de consciência. Felizmente, se o Lopes não cometeu\n' +
-          'deveras o crime, não recebeu a pena do meu voto, e esta consideração acaba\n' +
-          'por me consolar do erro, mas os repelões voltam. O melhor de tudo é não julgar\n' +
-          'ninguém para não vir a ser julgado. Suje-se gordo! suje-se magro! suje-se como\n' +
-          'lhe parecer! o mais seguro é não julgar ninguém... Acabou a música, vamos\n' +
-          'para as nossas cadeiras.',
+            'dos debates que o presidente do tribunal fazia. Tinha acabado, leu os quesitos e\n' +
+            'recolhemo-nos à sala secreta. Posso dizer-lhe aqui em particular que votei\n' +
+            'afirmativamente, tão certo me pareceu o desvio dos cento e dez contos. Havia,\n' +
+            'entre outros documentos, uma carta de Lopes que fazia evidente o crime. Mas\n' +
+            'parece que nem todos leram com os mesmos olhos que eu. Votaram comigo dois\n' +
+            'jurados. Nove negaram a criminalidade do Lopes, a sentença de absolvição foi\n' +
+            'lavrada e lida, e o acusado saiu para a rua. A diferença da votação era tamanha\n' +
+            'que cheguei a duvidar comigo se teria acertado. Podia ser que não. Agora\n' +
+            'mesmo sinto uns repelões de consciência. Felizmente, se o Lopes não cometeu\n' +
+            'deveras o crime, não recebeu a pena do meu voto, e esta consideração acaba\n' +
+            'por me consolar do erro, mas os repelões voltam. O melhor de tudo é não julgar\n' +
+            'ninguém para não vir a ser julgado. Suje-se gordo! suje-se magro! suje-se como\n' +
+            'lhe parecer! o mais seguro é não julgar ninguém... Acabou a música, vamos\n' +
+            'para as nossas cadeiras.',
           footnote: []
         }
       ]
@@ -1709,7 +1709,7 @@ export default [
         },
         {
           text: 'E desses dois processos correlativos, um não nos é manifesto? Pois o ato de morrer é\n' +
-          'bem visível, não é isso mesmo?',
+            'bem visível, não é isso mesmo?',
           footnote: [],
           bold: []
         },
@@ -1720,8 +1720,8 @@ export default [
         },
         {
           text: 'Que faremos, então? Continuou; não atribuiremos a esse processo de geração o seu\n' +
-          'contrário, ou admitiremos que nesse ponto a natureza é manca? Não será preciso aceitarmos\n' +
-          'um processo gerador oposto ao de morrer?',
+            'contrário, ou admitiremos que nesse ponto a natureza é manca? Não será preciso aceitarmos\n' +
+            'um processo gerador oposto ao de morrer?',
           footnote: [],
           bold: []
         },
@@ -1742,7 +1742,7 @@ export default [
         },
         {
           text: 'Logo, continuou, se o reviver é um fato, terá de ser uma geração no sentido dos\n' +
-          'mortos para os vivos: a revivescência.',
+            'mortos para os vivos: a revivescência.',
           footnote: [],
           bold: []
         },
@@ -1753,15 +1753,15 @@ export default [
         },
         {
           text: 'Desse modo, ficamos também de acordo que tanto os vivos provêm dos mortos como\n' +
-          'os mortos dos vivos. Sendo assim, quer parecer-me que apresentamos um argumento\n' +
-          'bastante forte para afirmar que as almas dos mortos terão necessariamente de estar em\n' +
-          'alguma parte, de onde voltam a viver.',
+            'os mortos dos vivos. Sendo assim, quer parecer-me que apresentamos um argumento\n' +
+            'bastante forte para afirmar que as almas dos mortos terão necessariamente de estar em\n' +
+            'alguma parte, de onde voltam a viver.',
           footnote: [],
           bold: []
         },
         {
           text: 'A meu parecer, Sócrates, replicou, é a conclusão forçosa de tudo o que admitimos até\n' +
-          'aqui.',
+            'aqui.',
           footnote: [],
           bold: []
         },
@@ -1771,10 +1771,10 @@ export default [
         },
         {
           text: 'Observa também, Cebete, continuou, que não chegamos a esse acordo\n' +
-          'aereamente, segundo me parece. Porque se um desses processos não fosse compensado pelo\n' +
-          'seu contrário, girando, por assim dizer, em círculo, mas sempre se fizesse a geração em\n' +
-          'linha reta, de um dos contrários para o seu oposto, sem nunca voltar desta para aquele, nem andar em sentido inverso: fica sabendo que tudo acabaria numa forma única e ficaria num\n' +
-          'só estado, cessando, por isso mesmo, a geração.',
+            'aereamente, segundo me parece. Porque se um desses processos não fosse compensado pelo\n' +
+            'seu contrário, girando, por assim dizer, em círculo, mas sempre se fizesse a geração em\n' +
+            'linha reta, de um dos contrários para o seu oposto, sem nunca voltar desta para aquele, nem andar em sentido inverso: fica sabendo que tudo acabaria numa forma única e ficaria num\n' +
+            'só estado, cessando, por isso mesmo, a geração.',
           footnote: [],
           bold: [
             {
@@ -1790,29 +1790,29 @@ export default [
         },
         {
           text: 'Não é difícil, continuou, compreender o sentido de minhas palavras. No caso, por\n' +
-          'exemplo, de existir o sono, porém sem haver o correspondente despertar do que estiver\n' +
-          'dormindo, bem sabes que acabaria por transformar em banalidade a fábula de Eudimião, a\n' +
-          'qual não seria percebida em parte alguma, porque tudo o mais ficaria como ele, num sono\n' +
-          'universal. E se todas as coisas se misturassem, sem virem a separar-se, dentro de pouco\n' +
-          'tempo seria um fato aquilo de Anaxógaras: a confusão geral. A mesma coisa se daria,\n' +
-          'amigo Cebete, se viesse a perecer quanto participa da vida, e, depois de morto, se\n' +
-          'conservasse sempre no mesmo estado, sem nunca renascer; não seria inevitável vir tudo a\n' +
-          'ficar morto e nada mais viver? Se o que é vivo provém de algo diferente da morte e acaba\n' +
-          'por morrer: como evitar que tudo acabe por desaparecer na morte?',
+            'exemplo, de existir o sono, porém sem haver o correspondente despertar do que estiver\n' +
+            'dormindo, bem sabes que acabaria por transformar em banalidade a fábula de Eudimião, a\n' +
+            'qual não seria percebida em parte alguma, porque tudo o mais ficaria como ele, num sono\n' +
+            'universal. E se todas as coisas se misturassem, sem virem a separar-se, dentro de pouco\n' +
+            'tempo seria um fato aquilo de Anaxógaras: a confusão geral. A mesma coisa se daria,\n' +
+            'amigo Cebete, se viesse a perecer quanto participa da vida, e, depois de morto, se\n' +
+            'conservasse sempre no mesmo estado, sem nunca renascer; não seria inevitável vir tudo a\n' +
+            'ficar morto e nada mais viver? Se o que é vivo provém de algo diferente da morte e acaba\n' +
+            'por morrer: como evitar que tudo acabe por desaparecer na morte?',
           footnote: [],
           bold: []
         },
         {
           text: 'Não há meio, Sócrates, respondeu Cebete, segundo penso; quer parecer-me que te\n' +
-          'assiste toda a razão.',
+            'assiste toda a razão.',
           footnote: [],
           bold: []
         },
         {
           text: 'A mim também, Cebete, continuou, se me afigura muito certo, não havendo\n' +
-          'possibilidade de engano da nossa parte, pois ficamos de acordo nesse ponto. Sim, o reviver\n' +
-          'é um fato, os vivos provêm dos mortos, as almas dos mortos existem, sendo melhor a sorte\n' +
-          'das boas e pior a das más.',
+            'possibilidade de engano da nossa parte, pois ficamos de acordo nesse ponto. Sim, o reviver\n' +
+            'é um fato, os vivos provêm dos mortos, as almas dos mortos existem, sendo melhor a sorte\n' +
+            'das boas e pior a das más.',
           footnote: [],
           bold: []
         },
@@ -1822,11 +1822,11 @@ export default [
         },
         {
           text: 'É também, Sócrates, voltou Cebete a falar, o que se conclui daquele outro\n' +
-          'argumento – se for verdadeiro – que costumas apresentar, sobre ser reminiscência o\n' +
-          'conhecimento, conforme o qual nós devemos forçosamente ter aprendido num tempo\n' +
-          'anterior o de que nos recordamos agora, o que seria impossível, se nossa alma não\n' +
-          'preexistisse algures, antes de assumir a forma humana. Isso vem provar que a alma deve ser\n' +
-          'algo imortal',
+            'argumento – se for verdadeiro – que costumas apresentar, sobre ser reminiscência o\n' +
+            'conhecimento, conforme o qual nós devemos forçosamente ter aprendido num tempo\n' +
+            'anterior o de que nos recordamos agora, o que seria impossível, se nossa alma não\n' +
+            'preexistisse algures, antes de assumir a forma humana. Isso vem provar que a alma deve ser\n' +
+            'algo imortal',
           footnote: [],
           bold: [
             {
@@ -1837,36 +1837,36 @@ export default [
         },
         {
           text: 'Porém Cebete, interrompeu-o Símias, que provas há sobre isso? Aviva-me a\n' +
-          'memória, pois não me lembro agora quais sejam.',
+            'memória, pois não me lembro agora quais sejam.',
           footnote: [],
           bold: []
         },
         {
           text: 'Bastará uma, respondeu Cebete, eloquentíssima: interrogando os homens, se as\n' +
-          'perguntas forem bem conduzidas, eles darão por si mesmos respostas acertadas, o de que\n' +
-          'não seriam capazes se já não possuíssem o conhecimento e a razão reta. Depois disso, se os\n' +
-          'pusermos diante de figuras geométricas ou coisas do mesmo gênero, ficará demonstrado a\n' +
-          'saciedade que tudo realmente se passa desse modo.',
+            'perguntas forem bem conduzidas, eles darão por si mesmos respostas acertadas, o de que\n' +
+            'não seriam capazes se já não possuíssem o conhecimento e a razão reta. Depois disso, se os\n' +
+            'pusermos diante de figuras geométricas ou coisas do mesmo gênero, ficará demonstrado a\n' +
+            'saciedade que tudo realmente se passa desse modo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Se isso não basta, Símias, interveio Sócrates, para convencer-te, vê se considerando a\n' +
-          'questão por outro prisma, chegarás a concordar conosco. Duvidas que seja apenas recordar\n' +
-          'o que denominamos aprender?',
+            'questão por outro prisma, chegarás a concordar conosco. Duvidas que seja apenas recordar\n' +
+            'o que denominamos aprender?',
           footnote: [],
           bold: []
         },
         {
           text: 'Não direi que duvide, respondeu Símias. O que eu quero é justamente isso sobre\n' +
-          'discutimos: recordar-me. Com a exposição de Cebete cheguei quase a relembrar-me e\n' +
-          'convencer-me. Não obstante, gostaria de saber como vais desenvolver o tema.',
+            'discutimos: recordar-me. Com a exposição de Cebete cheguei quase a relembrar-me e\n' +
+            'convencer-me. Não obstante, gostaria de saber como vais desenvolver o tema.',
           footnote: [],
           bold: []
         },
         {
           text: 'Eu? Deste modo, replicou. Num ponto estamos de acordo: que para recordar-se\n' +
-          'alguém de alguma coisa, é preciso ter tido antes o conhecimento dessa coisa.',
+            'alguém de alguma coisa, é preciso ter tido antes o conhecimento dessa coisa.',
           footnote: [],
           bold: []
         },
@@ -1877,11 +1877,11 @@ export default [
         },
         {
           text: 'E não poderemos declarar-nos também de acordo a respeito de mais outro ponto, que\n' +
-          'o conhecimento alcançado em certas condições tem o nome de reminiscência? Refiro-me\n' +
-          'ao seguinte: quando alguém vê ou ouve alguma coisa, ou a percebe de outra maneira, e não\n' +
-          'apenas adquire o conhecimento dessa coisa como lhe ocorre a idéia de outra que não é\n' +
-          'objeto do mesmo conhecimento, porém de outro, não teremos o direito de dizer que essa\n' +
-          'pessoa se recordou do que lhe veio ao pensamento?',
+            'o conhecimento alcançado em certas condições tem o nome de reminiscência? Refiro-me\n' +
+            'ao seguinte: quando alguém vê ou ouve alguma coisa, ou a percebe de outra maneira, e não\n' +
+            'apenas adquire o conhecimento dessa coisa como lhe ocorre a idéia de outra que não é\n' +
+            'objeto do mesmo conhecimento, porém de outro, não teremos o direito de dizer que essa\n' +
+            'pessoa se recordou do que lhe veio ao pensamento?',
           footnote: [],
           bold: []
         },
@@ -1902,9 +1902,9 @@ export default [
         },
         {
           text: 'E não sabes o que se passa com os amantes, quando vêem a lira, a roupa, ou qualquer\n' +
-          'outro objeto de uso de seus amados? Reconhecem a lira e formam no espírito a imagem do\n' +
-          'mancebo a quem a lira pertence. Reminiscência é isso: ver alguém freqüentemente a Símias\n' +
-          'e recordar-se de Cebete. Há mil outros exemplos do mesmo tipo.',
+            'outro objeto de uso de seus amados? Reconhecem a lira e formam no espírito a imagem do\n' +
+            'mancebo a quem a lira pertence. Reminiscência é isso: ver alguém freqüentemente a Símias\n' +
+            'e recordar-se de Cebete. Há mil outros exemplos do mesmo tipo.',
           footnote: [],
           bold: []
         },
@@ -1915,8 +1915,8 @@ export default [
         },
         {
           text: 'Não constitui isso, perguntou, uma espécie de reminiscência? Principalmente quando\n' +
-          'se dá com relação a coisa de que poderíamos estar esquecidos, pela ação do tempo ou por\n' +
-          'falta de atenção.',
+            'se dá com relação a coisa de que poderíamos estar esquecidos, pela ação do tempo ou por\n' +
+            'falta de atenção.',
           footnote: [],
           bold: []
         },
@@ -1927,8 +1927,8 @@ export default [
         },
         {
           text: 'E então? Continuou: não é possível lembrar-se alguém de um homem, ao ver a\n' +
-          'pintura de um cavalo ou de uma lira, ou então, ao ver o retrato de Símias, recordar-se de\n' +
-          'Cebete?',
+            'pintura de um cavalo ou de uma lira, ou então, ao ver o retrato de Símias, recordar-se de\n' +
+            'Cebete?',
           footnote: [],
           bold: []
         },
@@ -1949,7 +1949,7 @@ export default [
         },
         {
           text: 'XIX – E não é certo que em todos esses casos a reminiscência tanto provém dos\n' +
-          'semelhantes como dos dessemelhantes?',
+            'semelhantes como dos dessemelhantes?',
           footnote: [],
           bold: [
             {
@@ -1965,7 +1965,7 @@ export default [
         },
         {
           text: 'E no caso de lembrar-se alguém de alguma coisa à vista de seu semelhante, não será\n' +
-          'forçosos perceber essa pessoa se a semelhança é perfeita ou se apresenta alguma falha?',
+            'forçosos perceber essa pessoa se a semelhança é perfeita ou se apresenta alguma falha?',
           footnote: [],
           bold: []
         },
@@ -1976,9 +1976,9 @@ export default [
         },
         {
           text: 'Considera, então, se tudo não se passa deste modo. Afirmamos que há alguma coisa a\n' +
-          'que damos o nome de igual; não imagino a hipótese de que um pedaço de pau ser igual a\n' +
-          'outro, nem uma pedra a outra pedra, nem nada semelhante; refiro-me ao que se acha acima\n' +
-          'de tudo isso; a igualdade em si. Diremos que existe ou que não existe?',
+            'que damos o nome de igual; não imagino a hipótese de que um pedaço de pau ser igual a\n' +
+            'outro, nem uma pedra a outra pedra, nem nada semelhante; refiro-me ao que se acha acima\n' +
+            'de tudo isso; a igualdade em si. Diremos que existe ou que não existe?',
           footnote: [],
           bold: []
         },
@@ -1999,10 +1999,10 @@ export default [
         },
         {
           text: 'E onde formos buscar esse conhecimento? Não foi naquilo a que nos referimos há\n' +
-          'pouco, à vista de um pau ou de uma pedra e de outras coisas iguais, que nos surgiu a idéia\n' +
-          'de igualdade, que difere delas? Ou não te parece diferir? Considera também o seguinte: por\n' +
-          'vezes, a mesma pedra ou o mesmo lenho, sem se modificarem, não te afiguram ora iguais,\n' +
-          'ora desiguais?',
+            'pouco, à vista de um pau ou de uma pedra e de outras coisas iguais, que nos surgiu a idéia\n' +
+            'de igualdade, que difere delas? Ou não te parece diferir? Considera também o seguinte: por\n' +
+            'vezes, a mesma pedra ou o mesmo lenho, sem se modificarem, não te afiguram ora iguais,\n' +
+            'ora desiguais?',
           footnote: [],
           bold: []
         },
@@ -2013,7 +2013,7 @@ export default [
         },
         {
           text: 'E então? O igual já se te apresentou alguma vez como desigual, e a igualdade como\n' +
-          'desigualdade?',
+            'desigualdade?',
           footnote: [],
           bold: []
         },
@@ -2024,7 +2024,7 @@ export default [
         },
         {
           text: 'Por conseguinte, continuou, não são a mesma coisa esses objeto iguais e a igualdade\n' +
-          'em si.',
+            'em si.',
           footnote: [],
           bold: []
         },
@@ -2035,7 +2035,7 @@ export default [
         },
         {
           text: 'Não obstante, disse, foi desses iguais, diferentes da igualdade, que concebeste e\n' +
-          'adquiriste o conhecimento desta última.',
+            'adquiriste o conhecimento desta última.',
           footnote: [],
           bold: []
         },
@@ -2056,8 +2056,8 @@ export default [
         },
         {
           text: 'Isso, aliás, continuou, é indiferente. Desde que, à vista de um objeto, pensas em\n' +
-          'outro, seja ou não seja semelhante ao primeiro, necessariamente o que se dá nesse caso é\n' +
-          'reminiscência.',
+            'outro, seja ou não seja semelhante ao primeiro, necessariamente o que se dá nesse caso é\n' +
+            'reminiscência.',
           footnote: [],
           bold: []
         },
@@ -2068,8 +2068,8 @@ export default [
         },
         {
           text: 'E então? Prosseguiu: que se passa conosco, com relação aos pedaços de pau iguais e a\n' +
-          'tudo o mais a que nos referimos há pouco? Afiguram-se-nos iguais à igualdade em si, ou\n' +
-          'lhes falta alguma coisa para serem como a igualdade? Ou não falta nada?',
+            'tudo o mais a que nos referimos há pouco? Afiguram-se-nos iguais à igualdade em si, ou\n' +
+            'lhes falta alguma coisa para serem como a igualdade? Ou não falta nada?',
           footnote: [],
           bold: []
         },
@@ -2080,16 +2080,16 @@ export default [
         },
         {
           text: 'Estamos, por conseguinte, de acordo, que quando alguém vê um determinado objeto e\n' +
-          'diz: O objeto que tenho neste momento diante dos olhos aspira a ser como outro objeto real,\n' +
-          'porém fica muito aquém dele, sem conseguir alcançá-lo, visto lhe ser inferior: essa pessoa,\n' +
-          'dizia, ao fazer semelhante observação, tinha necessariamente o conhecimento do objeto\n' +
-          'com o qual ela disse que o outro se assemelhava, porém era inferior.',
+            'diz: O objeto que tenho neste momento diante dos olhos aspira a ser como outro objeto real,\n' +
+            'porém fica muito aquém dele, sem conseguir alcançá-lo, visto lhe ser inferior: essa pessoa,\n' +
+            'dizia, ao fazer semelhante observação, tinha necessariamente o conhecimento do objeto\n' +
+            'com o qual ela disse que o outro se assemelhava, porém era inferior.',
           footnote: [],
           bold: []
         },
         {
           text: 'Forçosamente. E então? Não se passará a mesma coisa conosco, em relação às coisas\n' +
-          'iguais e à igualdade em si mesma?',
+            'iguais e à igualdade em si mesma?',
           footnote: [],
           bold: []
         },
@@ -2100,8 +2100,8 @@ export default [
         },
         {
           text: 'É preciso, portanto, que tenhamos conhecido a igualdade antes do tempo em que,\n' +
-          'vendo pela primeira vez objetos iguais, observamos que todos eles se esforçavam por\n' +
-          'alcançá-la porém lhe eram inferiores.',
+            'vendo pela primeira vez objetos iguais, observamos que todos eles se esforçavam por\n' +
+            'alcançá-la porém lhe eram inferiores.',
           footnote: [],
           bold: []
         },
@@ -2112,21 +2112,21 @@ export default [
         },
         {
           text: 'Como também nos declaramos de acordo em que não poderíamos fazer semelhante\n' +
-          'observação nem ficar em condições de fazê-la, a não ser por meio da vista ou do tato, ou de\n' +
-          'qualquer outro sentido. Não estabeleço diferenças.',
+            'observação nem ficar em condições de fazê-la, a não ser por meio da vista ou do tato, ou de\n' +
+            'qualquer outro sentido. Não estabeleço diferenças.',
           footnote: [],
           bold: []
         },
         {
           text: 'De fato, Sócrates, são equivalentes; pelo menos no que respeita ao tema em\n' +
-          'discussão.',
+            'discussão.',
           footnote: [],
           bold: []
         },
         {
           text: 'De qualquer forma, é por meio dos sentidos que observamos tenderem para a\n' +
-          'igualdade em si todas as coisas percebidas como iguais, porém sem jamais alcançá-la. Ou\n' +
-          'que diremos?',
+            'igualdade em si todas as coisas percebidas como iguais, porém sem jamais alcançá-la. Ou\n' +
+            'que diremos?',
           footnote: [],
           bold: []
         },
@@ -2137,9 +2137,9 @@ export default [
         },
         {
           text: 'Logo, antes de começarmos a ver, a ouvir, ou a empregar os demais sentidos, já\n' +
-          'devemos ter adquirido em alguma parte o conhecimento do que seja a igualdade em si, para\n' +
-          'ficarmos em condições de relacionar com ela as igualdades que os sentidos nos dão a\n' +
-          'conhecer e afirmar que estas se esforçam por alcançá-la, porém lhe são inferiores.',
+            'devemos ter adquirido em alguma parte o conhecimento do que seja a igualdade em si, para\n' +
+            'ficarmos em condições de relacionar com ela as igualdades que os sentidos nos dão a\n' +
+            'conhecer e afirmar que estas se esforçam por alcançá-la, porém lhe são inferiores.',
           footnote: [],
           bold: []
         },
@@ -2150,7 +2150,7 @@ export default [
         },
         {
           text: 'E não é certo que vemos e ouvimos e fazemos uso dos demais sentidos logo após o\n' +
-          'nascimento?',
+            'nascimento?',
           footnote: [],
           bold: []
         },
@@ -2161,7 +2161,7 @@ export default [
         },
         {
           text: 'Será preciso, então, é o que afirmamos, já termos antes disso o conhecimento da\n' +
-          'igualdade.',
+            'igualdade.',
           footnote: [],
           bold: []
         },
@@ -2172,7 +2172,7 @@ export default [
         },
         {
           text: 'Antes do nascimento, por conseguinte, ao que parece, é que necessariamente o\n' +
-          'adquirimos.',
+            'adquirimos.',
           footnote: [],
           bold: []
         },
@@ -2183,12 +2183,12 @@ export default [
         },
         {
           text: 'XX – Logo, se o adquirimos antes do nascimento e nascemos com ele, é porque\n' +
-          'conhecemos antes do nascimento e ao nascer tanto o igual, o maior e o menor, como as\n' +
-          'demais noções da mesma natureza. Pois tanto é válido nosso argumento para a igualdade\n' +
-          'como para o belo em si mesmo e o bem em si mesmo, a justiça, a piedade e tudo o mais,\n' +
-          'como disse, a que pusemos a marca de O próprio que é, assim nas perguntas que\n' +
-          'formulamos como nas respostas apresentadas. A esse modo, adquirimos necessariamente\n' +
-          'antes de nascer o conhecimento de tudo isso.',
+            'conhecemos antes do nascimento e ao nascer tanto o igual, o maior e o menor, como as\n' +
+            'demais noções da mesma natureza. Pois tanto é válido nosso argumento para a igualdade\n' +
+            'como para o belo em si mesmo e o bem em si mesmo, a justiça, a piedade e tudo o mais,\n' +
+            'como disse, a que pusemos a marca de O próprio que é, assim nas perguntas que\n' +
+            'formulamos como nas respostas apresentadas. A esse modo, adquirimos necessariamente\n' +
+            'antes de nascer o conhecimento de tudo isso.',
           footnote: [],
           bold: [
             {
@@ -2204,9 +2204,9 @@ export default [
         },
         {
           text: 'E se, depois de adquirido tal conhecimento não o esquecêssemos, desde o nascimento\n' +
-          'o possuiríamos e o conservaríamos toda a vida. Pois conhecer, de fato, consiste apenas no\n' +
-          'seguinte: conservar o conhecimento adquirido, sem vir nunca a perdê-lo. O que\n' +
-          'denominamos esquecer, Símias, não será precisamente a perda do conhecimento?',
+            'o possuiríamos e o conservaríamos toda a vida. Pois conhecer, de fato, consiste apenas no\n' +
+            'seguinte: conservar o conhecimento adquirido, sem vir nunca a perdê-lo. O que\n' +
+            'denominamos esquecer, Símias, não será precisamente a perda do conhecimento?',
           footnote: [],
           bold: []
         },
@@ -2217,10 +2217,10 @@ export default [
         },
         {
           text: 'Se, em verdade, segundo penso, antes de nascer já tínhamos tal conhecimento e o\n' +
-          'perdemos ao nascer, e depois, aplicando nossos sentidos a esses objetos, voltamos a\n' +
-          'adquirir o conhecimento que já possuíramos num tempo anterior: o que denominamos\n' +
-          'aprender não será a recuperação de um conhecimento muito nosso? E não estaremos\n' +
-          'empregando a expressão correta, se dermos a esse processo o nome de reminiscência?',
+            'perdemos ao nascer, e depois, aplicando nossos sentidos a esses objetos, voltamos a\n' +
+            'adquirir o conhecimento que já possuíramos num tempo anterior: o que denominamos\n' +
+            'aprender não será a recuperação de um conhecimento muito nosso? E não estaremos\n' +
+            'empregando a expressão correta, se dermos a esse processo o nome de reminiscência?',
           footnote: [],
           bold: []
         },
@@ -2231,12 +2231,12 @@ export default [
         },
         {
           text: 'Pois já se nos revelou como possível, ao percebemos alguma coisa, pela vista ou pelo\n' +
-          'ouvido, ou por qualquer outro sentido, pensar em outra de que nos havíamos esquecido,\n' +
-          'mas que se associa com a primeira por parecer-se com ela ou por lhe ser dessemelhante.\n' +
-          'Desse modo, como disse, uma das duas há de ser, por força: ou nascemos com tal\n' +
-          'conhecimento e o conservamos durante toda a vida, ou então as pessoas das quais dizemos\n' +
-          'que aprendem posteriormente, o que fazem é recordar, vindo a ser o conhecimento\n' +
-          'reminiscência.',
+            'ouvido, ou por qualquer outro sentido, pensar em outra de que nos havíamos esquecido,\n' +
+            'mas que se associa com a primeira por parecer-se com ela ou por lhe ser dessemelhante.\n' +
+            'Desse modo, como disse, uma das duas há de ser, por força: ou nascemos com tal\n' +
+            'conhecimento e o conservamos durante toda a vida, ou então as pessoas das quais dizemos\n' +
+            'que aprendem posteriormente, o que fazem é recordar, vindo a ser o conhecimento\n' +
+            'reminiscência.',
           footnote: [],
           bold: []
         },
@@ -2247,7 +2247,7 @@ export default [
         },
         {
           text: 'XXI – Então, que escolhes, Símias? Nascemos com o conhecimento ou nos\n' +
-          'recordamos ulteriormente do que conhecemos ante?',
+            'recordamos ulteriormente do que conhecemos ante?',
           footnote: [],
           bold: [
             {
@@ -2263,7 +2263,7 @@ export default [
         },
         {
           text: 'Como? Sobre isto podes perfeitamente decidir-te e dizer o que pensas: quem sabe,\n' +
-          'está em condições de dar as razões do que sabe, ou não?',
+            'está em condições de dar as razões do que sabe, ou não?',
           footnote: [],
           bold: []
         },
@@ -2274,13 +2274,13 @@ export default [
         },
         {
           text: 'E és de parecer que todo o mundo possa dar as razões das questões que acabamos de\n' +
-          'tratar?',
+            'tratar?',
           footnote: [],
           bold: []
         },
         {
           text: 'Tomara que o pudessem! Porém receio muito que amanhã a estas horas não haja aqui\n' +
-          'uma só pessoa em condições de fazê-lo.',
+            'uma só pessoa em condições de fazê-lo.',
           footnote: [],
           bold: []
         },
@@ -2301,7 +2301,7 @@ export default [
         },
         {
           text: 'E quando é que nossas almas adquirem esses conhecimento? Não há de ser a partir do\n' +
-          'momento em que nascemos como homens.',
+            'momento em que nascemos como homens.',
           footnote: [],
           bold: []
         },
@@ -2322,20 +2322,20 @@ export default [
         },
         {
           text: 'Logo, Símias, as almas existem antes de assumirem a forma humana, separadas dos\n' +
-          'corpos, e possuírem entendimento.',
+            'corpos, e possuírem entendimento.',
           footnote: [],
           bold: []
         },
         {
           text: 'A menos, Sócrates, que adquiramos tal conhecimento ao nascer, pois ainda falta\n' +
-          'considerar esse tempo.',
+            'considerar esse tempo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Que seja, companheiro! Mas então, em que tempo perdemos esse conhecimento? Ao\n' +
-          'nascermos não dispomos dele, como acabamos de admitir. Ou será que o perdemos no\n' +
-          'momento exato em que o adquirimos? Poderás indicar outro tempo?',
+            'nascermos não dispomos dele, como acabamos de admitir. Ou será que o perdemos no\n' +
+            'momento exato em que o adquirimos? Poderás indicar outro tempo?',
           footnote: [],
           bold: []
         },
@@ -2346,10 +2346,10 @@ export default [
         },
         {
           text: 'XXII – Nossa situação, Símias, não será a seguinte? Se existe, realmente, tudo isso\n' +
-          'com que vivemos a encher a boca: o belo e o bom e todas as essências desse tipo, e se a elas\n' +
-          'referimos tudo o que nos chega por intermédio dos sentidos, como a algo preexistente, que\n' +
-          'encontramos em nós mesmos e com que o comparamos: será forçoso que , assim como\n' +
-          'elas, exista nossa alma antes de nascermos, e que sem aquelas estas não existiriam?',
+            'com que vivemos a encher a boca: o belo e o bom e todas as essências desse tipo, e se a elas\n' +
+            'referimos tudo o que nos chega por intermédio dos sentidos, como a algo preexistente, que\n' +
+            'encontramos em nós mesmos e com que o comparamos: será forçoso que , assim como\n' +
+            'elas, exista nossa alma antes de nascermos, e que sem aquelas estas não existiriam?',
           footnote: [],
           bold: [
             {
@@ -2360,10 +2360,10 @@ export default [
         },
         {
           text: 'Mais que exata, falou Símias, me parece, Sócrates, a mesma necessidade; é muito\n' +
-          'segura a posição a que se acolhe o argumento, no que entende com a afinidade entre as\n' +
-          'essências a que te referiste, e nossa alma, antes de nascermos. Não sei de nada tão claro\n' +
-          'como dizer que todos esses conceitos existem na mais elevada acepção do termo: o belo, o\n' +
-          'bem e tudo o mais que enumeraste há pouco. Essa demonstração me satisfaz plenamente.',
+            'segura a posição a que se acolhe o argumento, no que entende com a afinidade entre as\n' +
+            'essências a que te referiste, e nossa alma, antes de nascermos. Não sei de nada tão claro\n' +
+            'como dizer que todos esses conceitos existem na mais elevada acepção do termo: o belo, o\n' +
+            'bem e tudo o mais que enumeraste há pouco. Essa demonstração me satisfaz plenamente.',
           footnote: [],
           bold: []
         },
@@ -2374,19 +2374,19 @@ export default [
         },
         {
           text: 'A ele também satisfaz, respondeu Símias, segundo penso, muito embora seja o\n' +
-          'homem mais difícil de aceitar a opinião dos outros. Mas creio que já esse encontra\n' +
-          'convencido de que nossa alma existe antes de nascermos.',
+            'homem mais difícil de aceitar a opinião dos outros. Mas creio que já esse encontra\n' +
+            'convencido de que nossa alma existe antes de nascermos.',
           footnote: [],
           bold: []
         },
         {
           text: 'XXIII – Porém Sócrates, que ela continue a existir depois de nossa morte é o que não\n' +
-          'me parece suficientemente demonstrado, pois ainda está de pé a opinião do vulgo a que\n' +
-          'Cebete se referiu há pouco: Quem sabe se no instante preciso em que o homem morre, a\n' +
-          'alma se dispersa, sendo esse, justamente, o seu fim? Que impede, de fato que ela nasça\n' +
-          'algures e se constitua de outros elementos e exista antes de alcançar o corpo humano, mas\n' +
-          'depois de entrar no corpo, quando tiver de separar-se dele, também acabe de uma vez e\n' +
-          'venha a destruir-se?',
+            'me parece suficientemente demonstrado, pois ainda está de pé a opinião do vulgo a que\n' +
+            'Cebete se referiu há pouco: Quem sabe se no instante preciso em que o homem morre, a\n' +
+            'alma se dispersa, sendo esse, justamente, o seu fim? Que impede, de fato que ela nasça\n' +
+            'algures e se constitua de outros elementos e exista antes de alcançar o corpo humano, mas\n' +
+            'depois de entrar no corpo, quando tiver de separar-se dele, também acabe de uma vez e\n' +
+            'venha a destruir-se?',
           footnote: [],
           bold: [
             {
@@ -2397,27 +2397,27 @@ export default [
         },
         {
           text: 'Falaste bem, Símias, observou Cebete. Parece que só foi demonstrado metade do que\n' +
-          'era de mister, a saber: que nossa alma existe antes de nascermos; ainda falta provar, por\n' +
-          'conseguinte, que depois de morrermos ela não existirá menos do que antes do nascimento.\n' +
-          'Só assim ficará completa a demonstração.',
+            'era de mister, a saber: que nossa alma existe antes de nascermos; ainda falta provar, por\n' +
+            'conseguinte, que depois de morrermos ela não existirá menos do que antes do nascimento.\n' +
+            'Só assim ficará completa a demonstração.',
           footnote: [],
           bold: []
         },
         {
           text: 'Foi completada agora mesmo, Símias e Cebete, observou Sócrates; bastará juntardes\n' +
-          'o presente argumento ao que admitimos antes, de que tudo o que vive só nasce do que é\n' +
-          'morto. Porque se as almas existem antes do nascimento e se, necessariamente, para\n' +
-          'começarem a vida e existirem, não poderão provir de outra parte a não ser da morte do que\n' +
-          'está morto, não será forçoso que continuem a existir depois da morte, para renascerem?\n' +
-          'Como disse, essa parte já foi demonstrada.',
+            'o presente argumento ao que admitimos antes, de que tudo o que vive só nasce do que é\n' +
+            'morto. Porque se as almas existem antes do nascimento e se, necessariamente, para\n' +
+            'começarem a vida e existirem, não poderão provir de outra parte a não ser da morte do que\n' +
+            'está morto, não será forçoso que continuem a existir depois da morte, para renascerem?\n' +
+            'Como disse, essa parte já foi demonstrada.',
           footnote: [],
           bold: []
         },
         {
           text: 'XXIV – Porém verifico, Símias e Cebete, que ambos vós folgaríeis de examinar mais\n' +
-          'a fundo essa questão, pois, como as crianças, temeis, de fato, que o vento arraste a alma e a\n' +
-          'disperse no momento em que ela deixa o corpo, máxime se na hora em que morre alguém o\n' +
-          'céu não estiver sereno e soprar vento forte.',
+            'a fundo essa questão, pois, como as crianças, temeis, de fato, que o vento arraste a alma e a\n' +
+            'disperse no momento em que ela deixa o corpo, máxime se na hora em que morre alguém o\n' +
+            'céu não estiver sereno e soprar vento forte.',
           footnote: [],
           bold: [
             {
@@ -2428,36 +2428,36 @@ export default [
         },
         {
           text: 'E Cebete, desatando a rir, Faze de conta, Sócrates, observou, que estamos com medo,\n' +
-          'e procura convencer-nos. Ou melhor: será preferível admitires, não que temos medo, mas\n' +
-          'que talvez haja dentro de nós uma criança que se assusta com essas cosias. Trata, por\n' +
-          'conseguinte, de convencê-la a não ter medo da morte como do bicho-papão.',
+            'e procura convencer-nos. Ou melhor: será preferível admitires, não que temos medo, mas\n' +
+            'que talvez haja dentro de nós uma criança que se assusta com essas cosias. Trata, por\n' +
+            'conseguinte, de convencê-la a não ter medo da morte como do bicho-papão.',
           footnote: [],
           bold: []
         },
         {
           text: 'Para tanto, lhes falou Sócrates, será preciso exorcizá-la diariamente, até passar o\n' +
-          'medo.',
+            'medo.',
           footnote: [],
           bold: []
         },
         {
           text: 'E onde, Sócrates, perguntou, encontraremos um bom exorcizador, uma vez que nos\n' +
-          'abandonas?',
+            'abandonas?',
           footnote: [],
           bold: []
         },
         {
           text: 'A Hélade é grande, Cebete, replicou, e nela há muitos homens de merecimento.\n' +
-          'Grandes também sãos as gerações bárbaras, que precisareis esquadrinhar para encontrar um\n' +
-          'mágico nessas condições, sem olhar despesas nem fadiga, pois em nada mais poderíeis\n' +
-          'aplicar o vosso dinheiro. Mas convém promoverdes essa busca também entre vós outros,\n' +
-          'pois talvez não seja fácil encontrar quem se desincumba disso melhor do que vós mesmos.',
+            'Grandes também sãos as gerações bárbaras, que precisareis esquadrinhar para encontrar um\n' +
+            'mágico nessas condições, sem olhar despesas nem fadiga, pois em nada mais poderíeis\n' +
+            'aplicar o vosso dinheiro. Mas convém promoverdes essa busca também entre vós outros,\n' +
+            'pois talvez não seja fácil encontrar quem se desincumba disso melhor do que vós mesmos.',
           footnote: [],
           bold: []
         },
         {
           text: 'É o que faremos, falou Cebete. Porém se levares gosto nisso, voltemos para o ponto\n' +
-          'em que ficamos antes.',
+            'em que ficamos antes.',
           footnote: [],
           bold: []
         },
@@ -2468,10 +2468,10 @@ export default [
         },
         {
           text: 'XXV – Agora o de que precisamos, falou Sócrates, é perguntar a nós mesmo mais ou\n' +
-          'menos o seguinte: Com que coisas é natural semelhante processo de dispersão, com quais\n' +
-          'devemos ter medo de que isso aconteça, e com quais não devemos? De seguida, teremos de\n' +
-          'examinar a qual das classes pertence a alma, para daí concluirmos se precisamos alegrarnos\n' +
-          'ou temer do que venha a acontecer com a nossa.',
+            'menos o seguinte: Com que coisas é natural semelhante processo de dispersão, com quais\n' +
+            'devemos ter medo de que isso aconteça, e com quais não devemos? De seguida, teremos de\n' +
+            'examinar a qual das classes pertence a alma, para daí concluirmos se precisamos alegrarnos\n' +
+            'ou temer do que venha a acontecer com a nossa.',
           footnote: [],
           bold: [
             {
@@ -2487,9 +2487,9 @@ export default [
         },
         {
           text: 'E não é verdade que as coisas, artificial ou naturalmente compostas é que devem\n' +
-          'acabar por dispersar-se nos elementos originais? E o inverso: não será o que não for\n' +
-          'composto, antes de tudo, a única coisa que não convém passar por esse processo de\n' +
-          'dissociação?',
+            'acabar por dispersar-se nos elementos originais? E o inverso: não será o que não for\n' +
+            'composto, antes de tudo, a única coisa que não convém passar por esse processo de\n' +
+            'dissociação?',
           footnote: [],
           bold: []
         },
@@ -2500,8 +2500,8 @@ export default [
         },
         {
           text: 'E também não é certo que há muita probalidade de não serem compostas as coisas\n' +
-          'que sempre se mantêm no mesmo estado e nunca se alteram, como serão compostas as que\n' +
-          'ora se apresentam de uma forma, ora de outra, e mudam a cada instante?',
+            'que sempre se mantêm no mesmo estado e nunca se alteram, como serão compostas as que\n' +
+            'ora se apresentam de uma forma, ora de outra, e mudam a cada instante?',
           footnote: [],
           bold: []
         },
@@ -2512,39 +2512,39 @@ export default [
         },
         {
           text: 'Então, prosseguiu, retomemos o tema de nossa discussão anterior. Aquela idéia ou\n' +
-          'essência a que em nossas perguntas e respostas atribuímos a verdadeira existência,\n' +
-          'conserva-se sempre a mesma e de igual modo, ou ora é de uma forma, ora de outra? O igual\n' +
-          'em si, o belo em sim, todas as coisas em si mesmas, o ser, admitem qualquer alteração? Ou\n' +
-          'cada uma dessas realidades, uniformes e existentes por si mesmas, não se comportará\n' +
-          'sempre da mesma forma, sem jamais admitir de nenhum jeito a menor alteração?',
+            'essência a que em nossas perguntas e respostas atribuímos a verdadeira existência,\n' +
+            'conserva-se sempre a mesma e de igual modo, ou ora é de uma forma, ora de outra? O igual\n' +
+            'em si, o belo em sim, todas as coisas em si mesmas, o ser, admitem qualquer alteração? Ou\n' +
+            'cada uma dessas realidades, uniformes e existentes por si mesmas, não se comportará\n' +
+            'sempre da mesma forma, sem jamais admitir de nenhum jeito a menor alteração?',
           footnote: [],
           bold: []
         },
         {
           text: 'Forçosamente, Sócrates, falou Cebete, sempre permanecerá a mesma e do mesmo\n' +
-          'jeito.',
+            'jeito.',
           footnote: [],
           bold: []
         },
         {
           text: 'E com relação à multiplicidade das coisas belas: homens, cavalos, vestes e tudo o\n' +
-          'mais da mesma natureza, que ou são iguais ou belas e recebem a própria designação\n' +
-          'daquelas realidades: conservam-se sempre idênticas ou, diferentemente das essências, não\n' +
-          'são jamais idênticas, nem com relação às outras nem, por assim dizer, consigo mesmas?',
+            'mais da mesma natureza, que ou são iguais ou belas e recebem a própria designação\n' +
+            'daquelas realidades: conservam-se sempre idênticas ou, diferentemente das essências, não\n' +
+            'são jamais idênticas, nem com relação às outras nem, por assim dizer, consigo mesmas?',
           footnote: [],
           bold: []
         },
         {
           text: 'Isso, justamente, Sócrates, é o que se observa, respondeu Cebete, nunca se conservam\n' +
-          'as mesmas.',
+            'as mesmas.',
           footnote: [],
           bold: []
         },
         {
           text: 'E não é certo também que todas essas coisas se podem ver e tocar ou perceber por\n' +
-          'intermédio de qualquer outro sentido, ao passo que as essências, que se conservam sempre\n' +
-          'iguais a si mesmas, só podem ser apreendidas pelo raciocínio, por serem todas elas\n' +
-          'invisíveis e estarem fora do alcance da visão?',
+            'intermédio de qualquer outro sentido, ao passo que as essências, que se conservam sempre\n' +
+            'iguais a si mesmas, só podem ser apreendidas pelo raciocínio, por serem todas elas\n' +
+            'invisíveis e estarem fora do alcance da visão?',
           footnote: [],
           bold: []
         },
@@ -2555,7 +2555,7 @@ export default [
         },
         {
           text: 'XXVI – Achas, então, perguntou, que podemos admitir duas espécies de coisas: umas\n' +
-          'visíveis e outras invisíveis?',
+            'visíveis e outras invisíveis?',
           footnote: [],
           bold: [
             {
@@ -2571,7 +2571,7 @@ export default [
         },
         {
           text: 'Sendo que as invisíveis são sempre idênticas a si mesmas, e as visíveis, o contrário\n' +
-          'disso?',
+            'disso?',
           footnote: [],
           bold: []
         },
@@ -2592,7 +2592,7 @@ export default [
         },
         {
           text: 'E com qual daquelas classes diremos que o corpo é mais conforme e tem mais\n' +
-          'afinidade?',
+            'afinidade?',
           footnote: [],
           bold: []
         },
@@ -2613,7 +2613,7 @@ export default [
         },
         {
           text: 'Mas, quando falamos do que é ou não é visível, é sempre com vista à natureza\n' +
-          'humana. Ou achas que seja com relação a outra?',
+            'humana. Ou achas que seja com relação a outra?',
           footnote: [],
           bold: []
         },
@@ -2644,7 +2644,7 @@ export default [
         },
         {
           text: 'Sendo assim, a alma é mais conforme à espécie invisível do que o corpo, e este mais à\n' +
-          'visível.',
+            'visível.',
           footnote: [],
           bold: []
         },
@@ -2655,11 +2655,11 @@ export default [
         },
         {
           text: 'XXVII – Mas também dissemos há alguns instantes, que quando a alma se serve do\n' +
-          'corpo para considerar alguma coisa por intermédio da vista ou do ouvido, ou por qualquer\n' +
-          'outro sentido – pois considerar seja o que for por meio dos sentidos é fazê-lo por\n' +
-          'intermédio do corpo – é arrastada por ele para o que nunca se conserva no mesmo estado,\n' +
-          'passando a divagar e a perturbar-se, e ficando tomada de vertigens, como se estivesse\n' +
-          'embriagada, pelo fato de entrar em contato com tais coisas?',
+            'corpo para considerar alguma coisa por intermédio da vista ou do ouvido, ou por qualquer\n' +
+            'outro sentido – pois considerar seja o que for por meio dos sentidos é fazê-lo por\n' +
+            'intermédio do corpo – é arrastada por ele para o que nunca se conserva no mesmo estado,\n' +
+            'passando a divagar e a perturbar-se, e ficando tomada de vertigens, como se estivesse\n' +
+            'embriagada, pelo fato de entrar em contato com tais coisas?',
           footnote: [],
           bold: [
             {
@@ -2675,10 +2675,10 @@ export default [
         },
         {
           text: 'E o contrário disso: quando ela examina sozinha alguma coisa, volta-se para o que é\n' +
-          'puro, sempiterno, e que sempre se comporta do mesmo modo, e por lhe ter afinidade, vive\n' +
-          'com ele enquanto permanecer consigo mesma e lhe for permitido, deixando, assim, de\n' +
-          'divagar e pondo-se como relação com o que é sempre igual e imutável, por esta em contato\n' +
-          'com ele. A esse estado, justamente, é que damos o nome de pensamento.',
+            'puro, sempiterno, e que sempre se comporta do mesmo modo, e por lhe ter afinidade, vive\n' +
+            'com ele enquanto permanecer consigo mesma e lhe for permitido, deixando, assim, de\n' +
+            'divagar e pondo-se como relação com o que é sempre igual e imutável, por esta em contato\n' +
+            'com ele. A esse estado, justamente, é que damos o nome de pensamento.',
           footnote: [],
           bold: []
         },
@@ -2689,14 +2689,14 @@ export default [
         },
         {
           text: 'E agora, de acordo com o presente argumento e o anterior, com qual dessas duas\n' +
-          'espécies a alma se mostra semelhante e revela maior afinidade?',
+            'espécies a alma se mostra semelhante e revela maior afinidade?',
           footnote: [],
           bold: []
         },
         {
           text: 'No meu modo de pensar, Sócrates, respondeu, não há quem deixe de concordar, por\n' +
-          'mais obtuso que seja, se te acompanhar o raciocínio, que em tudo e por tudo a alma tem\n' +
-          'mais semelhança com o que sempre se conserva o mesmo do que com o que varia.',
+            'mais obtuso que seja, se te acompanhar o raciocínio, que em tudo e por tudo a alma tem\n' +
+            'mais semelhança com o que sempre se conserva o mesmo do que com o que varia.',
           footnote: [],
           bold: []
         },
@@ -2712,10 +2712,10 @@ export default [
         },
         {
           text: 'XXVIII – Examina agora a questão da seguinte maneira: enquanto se mantêm juntos\n' +
-          'o corpo e a alma, impõe a natureza a um dele obedecer e servir e ao outro comandar e\n' +
-          'dominar. Sob esse aspecto, qual deles se assemelha ao divino e qual ao mortal? Não te\n' +
-          'parece que o divino é naturalmente feito para comandar e dirigir, e o mortal para obedecer e\n' +
-          'servir?',
+            'o corpo e a alma, impõe a natureza a um dele obedecer e servir e ao outro comandar e\n' +
+            'dominar. Sob esse aspecto, qual deles se assemelha ao divino e qual ao mortal? Não te\n' +
+            'parece que o divino é naturalmente feito para comandar e dirigir, e o mortal para obedecer e\n' +
+            'servir?',
           footnote: [],
           bold: [
             {
@@ -2741,11 +2741,11 @@ export default [
         },
         {
           text: 'Considera agora, Cebete, continuou, se de tudo o que dissemos não se conclui que ao\n' +
-          'que for divino, imortal, inteligível, de uma só forma, indissolúvel, sempre no mesmo estado\n' +
-          'e semelhante a si próprio é com o que alma mais se parece; e o contrário: ao humano,\n' +
-          'mortal e ininteligível, multiforme, dissolúvel e jamais igual a si mesmo, com isso é que o\n' +
-          'corpo se parece? Poderemos, amigo Cebete, argumentar de outro modo e dizer que não é\n' +
-          'dessa maneira?',
+            'que for divino, imortal, inteligível, de uma só forma, indissolúvel, sempre no mesmo estado\n' +
+            'e semelhante a si próprio é com o que alma mais se parece; e o contrário: ao humano,\n' +
+            'mortal e ininteligível, multiforme, dissolúvel e jamais igual a si mesmo, com isso é que o\n' +
+            'corpo se parece? Poderemos, amigo Cebete, argumentar de outro modo e dizer que não é\n' +
+            'dessa maneira?',
           footnote: [],
           bold: []
         },
@@ -2760,7 +2760,7 @@ export default [
         },
         {
           text: 'E então? Se for assim, não ficará o corpo sujeito a dissolver-se depressa,\n' +
-          'conservando-se a alma indissolúvel ou num estado que muito disso se aproxima?',
+            'conservando-se a alma indissolúvel ou num estado que muito disso se aproxima?',
           footnote: [],
           bold: [
             {
@@ -2776,14 +2776,14 @@ export default [
         },
         {
           text: 'Observa ainda, continuou, como depois que o homem morre, sua porção visível, o\n' +
-          'corpo, a que damos o nome de cadáver, colocado também num lugar visível, embora o\n' +
-          'sujeito a dissolver-se, a desagregar-se, de imediato não revela nenhuma dessas alterações,\n' +
-          'conservando-se intacto por tempo relativamente longo; e se, no momento da morte, o corpo\n' +
-          'estiver em boas condições, sendo boa, igualmente, a estação do ano, então conserva-se\n' +
-          'muito mais tempo. Quando o corpo é descarnado e embalsamado, tal como se faz no Egito,\n' +
-          'ele permanece quase inteiro por tempo incalculável. Aliás, até mesmo no corpo em\n' +
-          'decomposição, alguma de suas partes: ossos, tendões; e tudo mais do gênero, são, por assim\n' +
-          'dizer, imortais. Não é isso mesmo?',
+            'corpo, a que damos o nome de cadáver, colocado também num lugar visível, embora o\n' +
+            'sujeito a dissolver-se, a desagregar-se, de imediato não revela nenhuma dessas alterações,\n' +
+            'conservando-se intacto por tempo relativamente longo; e se, no momento da morte, o corpo\n' +
+            'estiver em boas condições, sendo boa, igualmente, a estação do ano, então conserva-se\n' +
+            'muito mais tempo. Quando o corpo é descarnado e embalsamado, tal como se faz no Egito,\n' +
+            'ele permanece quase inteiro por tempo incalculável. Aliás, até mesmo no corpo em\n' +
+            'decomposição, alguma de suas partes: ossos, tendões; e tudo mais do gênero, são, por assim\n' +
+            'dizer, imortais. Não é isso mesmo?',
           footnote: [],
           bold: []
         },
@@ -2794,16 +2794,16 @@ export default [
         },
         {
           text: 'Ao passo que a alma, a porção invisível, que vai para um lugar semelhante a ela,\n' +
-          'nobre, puro e invisível, o verdadeiro Hades, ou seja, o Invisível, para junto de um deus\n' +
-          'sábio e bom, para onde também, se Deus quiser, dentro de pouco irá minha alma: essa alma\n' +
-          'dizia, com semelhante origem e constituição. Ao separar-se do corpo, no mesmo instante se\n' +
-          'dissiparia e viria a destruir, conforme crê a maioria dos homens: Nunca, meus caros Símias\n' +
-          'e Cebete! Pelo contrário; o que se dá é o seguinte: se ela é pura no momento de sua\n' +
-          'libertação e não arrastar consigo nada corpóreo, por isso mesmo que durante a vida nunca\n' +
-          'mantivera comércio voluntário com o corpo, porém sempre evitara, recolhida em si mesma\n' +
-          'e tendo sempre isso como preocupação exclusiva, que outra coisa não é senão filosofar, no\n' +
-          'rigoroso sentido da expressão, e preparar-se para morrer facilmente... Pois tudo isso não\n' +
-          'será um exercício para a morte?',
+            'nobre, puro e invisível, o verdadeiro Hades, ou seja, o Invisível, para junto de um deus\n' +
+            'sábio e bom, para onde também, se Deus quiser, dentro de pouco irá minha alma: essa alma\n' +
+            'dizia, com semelhante origem e constituição. Ao separar-se do corpo, no mesmo instante se\n' +
+            'dissiparia e viria a destruir, conforme crê a maioria dos homens: Nunca, meus caros Símias\n' +
+            'e Cebete! Pelo contrário; o que se dá é o seguinte: se ela é pura no momento de sua\n' +
+            'libertação e não arrastar consigo nada corpóreo, por isso mesmo que durante a vida nunca\n' +
+            'mantivera comércio voluntário com o corpo, porém sempre evitara, recolhida em si mesma\n' +
+            'e tendo sempre isso como preocupação exclusiva, que outra coisa não é senão filosofar, no\n' +
+            'rigoroso sentido da expressão, e preparar-se para morrer facilmente... Pois tudo isso não\n' +
+            'será um exercício para a morte?',
           footnote: [],
           bold: []
         },
@@ -2814,10 +2814,10 @@ export default [
         },
         {
           text: 'Assim constituída, dirigi-se para o que lhe assemelha, para o invisível, divino, imortal\n' +
-          'e inteligível, onde, ao chegar, vive feliz, liberta do erro, da ignorância, do medo, dos\n' +
-          'amores selvagens e dos outros males da condição humana, passando tal como se diz dos\n' +
-          'iniciados, a viver o resto do tempo na companhia dos deuses. Falaremos desse jeito, Cebete,\n' +
-          'ou de outra forma?',
+            'e inteligível, onde, ao chegar, vive feliz, liberta do erro, da ignorância, do medo, dos\n' +
+            'amores selvagens e dos outros males da condição humana, passando tal como se diz dos\n' +
+            'iniciados, a viver o resto do tempo na companhia dos deuses. Falaremos desse jeito, Cebete,\n' +
+            'ou de outra forma?',
           footnote: [],
           bold: []
         },
@@ -2835,12 +2835,12 @@ export default [
         },
         {
           text: 'No caso, porém, conforme penso, de estar manchada e impura ao separar-se do corpo,\n' +
-          'por ter convivido sempre com ele, cuidado dele e o ter amado e estar fascinada por ele e por\n' +
-          'seus apetites e deleites, a ponto de só aceitar como verdadeiro o que tivesse forma corpórea,\n' +
-          'que se pode ver, tocar, beber, comer, ou servir para o amor; e se ela, que se habituou a\n' +
-          'odiar, temer e evitar o que é obscuro e invisível para os olhos, porém inteligível e\n' +
-          'apreensível com à filosofia: acreditas que uma alma nessas condições esteja recolhida em si\n' +
-          'mesma e sem mistura no momento em que deixar o corpo?',
+            'por ter convivido sempre com ele, cuidado dele e o ter amado e estar fascinada por ele e por\n' +
+            'seus apetites e deleites, a ponto de só aceitar como verdadeiro o que tivesse forma corpórea,\n' +
+            'que se pode ver, tocar, beber, comer, ou servir para o amor; e se ela, que se habituou a\n' +
+            'odiar, temer e evitar o que é obscuro e invisível para os olhos, porém inteligível e\n' +
+            'apreensível com à filosofia: acreditas que uma alma nessas condições esteja recolhida em si\n' +
+            'mesma e sem mistura no momento em que deixar o corpo?',
           footnote: [],
           bold: []
         },
@@ -2851,8 +2851,8 @@ export default [
         },
         {
           text: 'Porém segundo penso, de todo em todo saturada de elementos corpóreos que com ela\n' +
-          'cresceram como resultado de sua familiaridade e contínua comunicação com o corpo, de\n' +
-          'que nunca se separou e de que sempre cuidara.',
+            'cresceram como resultado de sua familiaridade e contínua comunicação com o corpo, de\n' +
+            'que nunca se separou e de que sempre cuidara.',
           footnote: [],
           bold: []
         },
@@ -2863,10 +2863,10 @@ export default [
         },
         {
           text: 'Então, meu caro, terás de admitir que tudo isso é espesso, terreno e visível. A alma,\n' +
-          'com essa sobrecarga, torna-se pesada e é de novo arrastada para a região visível, de medo\n' +
-          'do Invisível – o Hades, como e diz – e rola por entre os monumentos e túmulos, na\n' +
-          'proximidade dos quais têm sido vistos fantasmas tenebrosos, semelhantes aos espectros\n' +
-          'dessas almas que não se libertaram puras de corpo e que se tornaram visível.',
+            'com essa sobrecarga, torna-se pesada e é de novo arrastada para a região visível, de medo\n' +
+            'do Invisível – o Hades, como e diz – e rola por entre os monumentos e túmulos, na\n' +
+            'proximidade dos quais têm sido vistos fantasmas tenebrosos, semelhantes aos espectros\n' +
+            'dessas almas que não se libertaram puras de corpo e que se tornaram visível.',
           footnote: [],
           bold: []
         },
@@ -2877,9 +2877,9 @@ export default [
         },
         {
           text: 'Sim, é muito possível, Cebete, e também que essas almas não sejam dos bons, porém\n' +
-          'dos maus, que se vêem obrigadas a vagar por esse lugares, como castigo de sua conduta\n' +
-          'durante a vida, que fora péssima. E assim ficam a vagar, até que o apetite do elemento\n' +
-          'corporal a que sempre estão ligadas volte a prendê-las noutros corpos.',
+            'dos maus, que se vêem obrigadas a vagar por esse lugares, como castigo de sua conduta\n' +
+            'durante a vida, que fora péssima. E assim ficam a vagar, até que o apetite do elemento\n' +
+            'corporal a que sempre estão ligadas volte a prendê-las noutros corpos.',
           footnote: [],
           bold: []
         },
@@ -2889,7 +2889,7 @@ export default [
         },
         {
           text: 'Como é natural, voltam a ser aprisionadas em naturezas de costumes iguais\n' +
-          'aos que elas praticaram em vida.',
+            'aos que elas praticaram em vida.',
           footnote: [],
           bold: [
             {
@@ -2905,7 +2905,7 @@ export default [
         },
         {
           text: 'É o seguinte: as que eram dadas à glutonaria, ao orgulho ou à embriaguez desbragada,\n' +
-          'entram naturalmente nos corpos de asnos e de animais congêneres. Não te parece?',
+            'entram naturalmente nos corpos de asnos e de animais congêneres. Não te parece?',
           footnote: [],
           bold: []
         },
@@ -2916,7 +2916,7 @@ export default [
         },
         {
           text: 'As que cometeram injustiças, a tirania ou a rapina, passam para a geração dos lobos,\n' +
-          'dos açores e dos abutres. Para onde mais podemos dizer que vão as almas dessa natureza?',
+            'dos açores e dos abutres. Para onde mais podemos dizer que vão as almas dessa natureza?',
           footnote: [],
           bold: []
         },
@@ -2927,7 +2927,7 @@ export default [
         },
         {
           text: 'E não é evidente, continuou, que o mesmo se passa com os demais, por se orientarem\n' +
-          'todas elas no sentido de suas próprias tendências?',
+            'todas elas no sentido de suas próprias tendências?',
           footnote: [],
           bold: []
         },
@@ -2938,8 +2938,8 @@ export default [
         },
         {
           text: 'Logo, disse, os mais felizes e que vão para os melhores lugares são os que praticam a\n' +
-          'virtude cívica e social que dominamos temperança e justiça, por força apenas do hábito e da\n' +
-          'disposição própria, sem a participação da filosofia e da inteligência.',
+            'virtude cívica e social que dominamos temperança e justiça, por força apenas do hábito e da\n' +
+            'disposição própria, sem a participação da filosofia e da inteligência.',
           footnote: [],
           bold: []
         },
@@ -2950,7 +2950,7 @@ export default [
         },
         {
           text: 'Por ser natural que passem para uma raça sociável e mansa, de abelhas, vespas ou\n' +
-          'formigas, ou até para a mesma raça, a humana, a fim de gerarem homens moderados.',
+            'formigas, ou até para a mesma raça, a humana, a fim de gerarem homens moderados.',
           footnote: [],
           bold: []
         },
@@ -2965,11 +2965,11 @@ export default [
         },
         {
           text: 'Para a raça dos deuses não é permitido passar os que não praticaram a\n' +
-          'Filosofia nem partiram inteiramente puros, mas apenas os amigos da Sabedoria. É por isso,\n' +
-          'meus caros Símias e Cebete, que os verdadeiros filósofos se acautelam contra os apetites do\n' +
-          'corpo, resistem-lhes e não se deixam dominar por eles; não têm medo da pobreza nem da\n' +
-          'ruína de sua própria casa, como a maioria dos homens, amigos das riquezas, nem temem a falta de honrarias e a vida inglória, como se dá com os amantes do poder e das distinções.\n' +
-          'Não é essa a razão de se absterem de tudo?',
+            'Filosofia nem partiram inteiramente puros, mas apenas os amigos da Sabedoria. É por isso,\n' +
+            'meus caros Símias e Cebete, que os verdadeiros filósofos se acautelam contra os apetites do\n' +
+            'corpo, resistem-lhes e não se deixam dominar por eles; não têm medo da pobreza nem da\n' +
+            'ruína de sua própria casa, como a maioria dos homens, amigos das riquezas, nem temem a falta de honrarias e a vida inglória, como se dá com os amantes do poder e das distinções.\n' +
+            'Não é essa a razão de se absterem de tudo?',
           footnote: [],
           bold: [
             {
@@ -2985,10 +2985,10 @@ export default [
         },
         {
           text: 'Não, por Zeus, retorquiu. Por isso mesmo, Cebete, todos os que cuidam da alma e não\n' +
-          'vivem simplesmente para o culto do corpo, dizem adeus a tudo isso e não seguem o\n' +
-          'caminho dos que não sabem para onde vão. Convencidos de que não devemos fazer nada\n' +
-          'em contrário à Filosofia nem ao que ela prescreve para libertar-nos e purificar-nos, voltamse\n' +
-          'para esse lado, seguindo na direção por ela aconselhada.',
+            'vivem simplesmente para o culto do corpo, dizem adeus a tudo isso e não seguem o\n' +
+            'caminho dos que não sabem para onde vão. Convencidos de que não devemos fazer nada\n' +
+            'em contrário à Filosofia nem ao que ela prescreve para libertar-nos e purificar-nos, voltamse\n' +
+            'para esse lado, seguindo na direção por ela aconselhada.',
           footnote: [],
           bold: []
         },
@@ -3008,25 +3008,25 @@ export default [
         },
         {
           text: 'Vou dizer-te, respondeu. Estão perfeitamente cientes os amigos da Sabedoria, que\n' +
-          'quando a Filosofia passa a dirigir-lhes a alma, esta se encontra como que ligada e\n' +
-          'aglutinada ao corpo, por intermédio do qual é forçada a ver a realidade como através das\n' +
-          'grades de um cárcere, em lugar de o fazer sozinha e por si mesma, porém atolada na mais\n' +
-          'absoluta ignorância. O que há de terrível nesse liames, reconhece-o a Filosofia, é\n' +
-          'consistirem nos prazeres e ser próprio prisioneiro quem mais coopera para manietar-se.\n' +
-          'Como disse, os amigos da Sabedoria estão cientes de que, ao tomar conta de sua alma em\n' +
-          'tal estado, a Filosofia lhe fala com doçura e procura libertá-la, mostrando-lhe quão cheio de\n' +
-          'ilusões é o conhecimento adquirido por meio dos olhos, quão enganador o dos ouvidos e\n' +
-          'dos mais sentidos, aconselhando-a a abandoná-los e a não fazer uso deles se não só o\n' +
-          'necessário, e a recolher-se e concentrar-se em si mesma e só a acreditar em si própria e no\n' +
-          'que ela em si mesma aprender da realidade em si, e o inverso: a não aceitar como\n' +
-          'verdadeiro tudo o que ela considerar por meios que em cada caso se modificam, pois as\n' +
-          'coisas desses gênero são sensíveis e visíveis, ao passo que é inteligível e invisível o que ela\n' +
-          'vê por si mesma. Convencida de que não deve opor-se a semelhante libertação, a alma do\n' +
-          'verdadeiro filósofo abstém dos prazeres, das paixões e dos temores, tanto quanto possível,\n' +
-          'certa de que sempre que alguém se alegra em extremo, ou teme, ou deseja, ou sofre, o mal\n' +
-          'daí resultante não é o que se poderia imaginar, como seria o caso, por exemplo, de adoecer\n' +
-          'ou vir a arruinar-se por causa das paixões: o maior e o pior dos males é o que não se deixa\n' +
-          'perceber.',
+            'quando a Filosofia passa a dirigir-lhes a alma, esta se encontra como que ligada e\n' +
+            'aglutinada ao corpo, por intermédio do qual é forçada a ver a realidade como através das\n' +
+            'grades de um cárcere, em lugar de o fazer sozinha e por si mesma, porém atolada na mais\n' +
+            'absoluta ignorância. O que há de terrível nesse liames, reconhece-o a Filosofia, é\n' +
+            'consistirem nos prazeres e ser próprio prisioneiro quem mais coopera para manietar-se.\n' +
+            'Como disse, os amigos da Sabedoria estão cientes de que, ao tomar conta de sua alma em\n' +
+            'tal estado, a Filosofia lhe fala com doçura e procura libertá-la, mostrando-lhe quão cheio de\n' +
+            'ilusões é o conhecimento adquirido por meio dos olhos, quão enganador o dos ouvidos e\n' +
+            'dos mais sentidos, aconselhando-a a abandoná-los e a não fazer uso deles se não só o\n' +
+            'necessário, e a recolher-se e concentrar-se em si mesma e só a acreditar em si própria e no\n' +
+            'que ela em si mesma aprender da realidade em si, e o inverso: a não aceitar como\n' +
+            'verdadeiro tudo o que ela considerar por meios que em cada caso se modificam, pois as\n' +
+            'coisas desses gênero são sensíveis e visíveis, ao passo que é inteligível e invisível o que ela\n' +
+            'vê por si mesma. Convencida de que não deve opor-se a semelhante libertação, a alma do\n' +
+            'verdadeiro filósofo abstém dos prazeres, das paixões e dos temores, tanto quanto possível,\n' +
+            'certa de que sempre que alguém se alegra em extremo, ou teme, ou deseja, ou sofre, o mal\n' +
+            'daí resultante não é o que se poderia imaginar, como seria o caso, por exemplo, de adoecer\n' +
+            'ou vir a arruinar-se por causa das paixões: o maior e o pior dos males é o que não se deixa\n' +
+            'perceber.',
           footnote: [],
           bold: []
         },
@@ -3037,9 +3037,9 @@ export default [
         },
         {
           text: 'É que toda alma humana, nos casos de prazer ou de sofrimento intensos, é\n' +
-          'forçosamente levada a crer que o objeto causador de semelhante emoção é o que há de mais\n' +
-          'claro e verdadeiro, quando, de fato, não é assim. De regra, trata-se de coisas visíveis, não é\n' +
-          'isso mesmo?',
+            'forçosamente levada a crer que o objeto causador de semelhante emoção é o que há de mais\n' +
+            'claro e verdadeiro, quando, de fato, não é assim. De regra, trata-se de coisas visíveis, não é\n' +
+            'isso mesmo?',
           footnote: [],
           bold: []
         },
@@ -3050,7 +3050,7 @@ export default [
         },
         {
           text: 'E não é quando passa por tudo isso que a alma se encontra mais intimamente presa ao\n' +
-          'corpo?',
+            'corpo?',
           footnote: [],
           bold: []
         },
@@ -3061,13 +3061,13 @@ export default [
         },
         {
           text: 'Porque os prazeres e os sofrimentos são como que dotados de um cravo com o qual\n' +
-          'transfixam a alma e a prendem ao corpo, deixando-a corpórea e levando-o a acreditar que\n' +
-          'tudo o que o corpo diz é verdadeiro. Ora, pelo fato de ser da mesma opinião que o corpo e\n' +
-          'de se comprazer com ele, é obrigada, segundo penso, a adotar seus costumes e alimentos,\n' +
-          'sem jamais poder chegar ao Hades em estado de pureza, pois é sempre saturada do corpo\n' +
-          'que ela o deixa. Resultado: logo depois, volta a cair noutro corpo, onde cria raízes como se\n' +
-          'tivesse sido semeada nele, ficando de todo alheia da companhia do divino, do que é puro e\n' +
-          'de uma só forma.',
+            'transfixam a alma e a prendem ao corpo, deixando-a corpórea e levando-o a acreditar que\n' +
+            'tudo o que o corpo diz é verdadeiro. Ora, pelo fato de ser da mesma opinião que o corpo e\n' +
+            'de se comprazer com ele, é obrigada, segundo penso, a adotar seus costumes e alimentos,\n' +
+            'sem jamais poder chegar ao Hades em estado de pureza, pois é sempre saturada do corpo\n' +
+            'que ela o deixa. Resultado: logo depois, volta a cair noutro corpo, onde cria raízes como se\n' +
+            'tivesse sido semeada nele, ficando de todo alheia da companhia do divino, do que é puro e\n' +
+            'de uma só forma.',
           footnote: [],
           bold: []
         },
@@ -3082,7 +3082,7 @@ export default [
         },
         {
           text: 'Essa é a razão, Cebete, de serem temperantes e corajosos os verdadeiros\n' +
-          'amigos do saber, não pelo que imagina o povo. Ou achas que sim?',
+            'amigos do saber, não pelo que imagina o povo. Ou achas que sim?',
           footnote: [],
           bold: [
             {
@@ -3098,15 +3098,15 @@ export default [
         },
         {
           text: 'Não, de fato; a alma do filósofo não raciocina desse jeito nem pensa que a filosofia\n' +
-          'deva libertá-la, para, depois de livre, entregar-se de novo aos prazeres e às dores e voltar a\n' +
-          'acorrentar-se, deixando írrito seu esforço anterior e como que empenhada em fazer o\n' +
-          'inverso do trabalho de Penélope em sua teia. Ao contrário: alcançando a calmaria das\n' +
-          'paixões e guiando-se pela razão, sem nunca a abandonar, contempla o que é verdadeiro e\n' +
-          'divino e que paira acima das opiniões, certa de que precisará viver assim a vida toda, para\n' +
-          'depois da morte, unir-se ao que lhe for aparentado e da mesma natureza, liberta das\n' +
-          'misérias humanas. Não é de admirar, Símias e Cebete, que uma alma alimentada desse jeito\n' +
-          'e com semelhante ocupação não tenha medo de desmembrar-se quando se retirar do corpo,\n' +
-          'e de ser dispersada pelos ventos, dissipando-se do todo, sem vir a ficar em parte alguma.',
+            'deva libertá-la, para, depois de livre, entregar-se de novo aos prazeres e às dores e voltar a\n' +
+            'acorrentar-se, deixando írrito seu esforço anterior e como que empenhada em fazer o\n' +
+            'inverso do trabalho de Penélope em sua teia. Ao contrário: alcançando a calmaria das\n' +
+            'paixões e guiando-se pela razão, sem nunca a abandonar, contempla o que é verdadeiro e\n' +
+            'divino e que paira acima das opiniões, certa de que precisará viver assim a vida toda, para\n' +
+            'depois da morte, unir-se ao que lhe for aparentado e da mesma natureza, liberta das\n' +
+            'misérias humanas. Não é de admirar, Símias e Cebete, que uma alma alimentada desse jeito\n' +
+            'e com semelhante ocupação não tenha medo de desmembrar-se quando se retirar do corpo,\n' +
+            'e de ser dispersada pelos ventos, dissipando-se do todo, sem vir a ficar em parte alguma.',
           footnote: [],
           bold: []
         },
@@ -3116,9 +3116,9 @@ export default [
         },
         {
           text: 'A essas palavras de Sócrates, seguiu-se prolongado silêncio. Como se\n' +
-          'poderia observar, o próprio Sócrates meditava no tema desenvolvido na conversação, o que,\n' +
-          'aliás, acontecia com quase todos os presentes. Cebete e Símias falaram de socapa alguma\n' +
-          'coisa, o que foi percebido por Sócrates, que lhes disse:',
+            'poderia observar, o próprio Sócrates meditava no tema desenvolvido na conversação, o que,\n' +
+            'aliás, acontecia com quase todos os presentes. Cebete e Símias falaram de socapa alguma\n' +
+            'coisa, o que foi percebido por Sócrates, que lhes disse:',
           footnote: [],
           bold: [
             {
@@ -3129,58 +3129,58 @@ export default [
         },
         {
           text: 'E então? Perguntou: quem sabe se sois de parecer que ainda falta dizer algo? Em\n' +
-          'verdade, muitas dúvidas. E objeções poderiam ser levantadas por quem se dispusesse a\n' +
-          'aprofundar o tema. Se tratais agora de outro assunto, não digo nada; porém se o nosso\n' +
-          'mesmo é que vos atrapalha, expõem sem acanhamento o que vos parecer indicado para\n' +
-          'melhor esclarecimento da questão, ou permiti que eu também tome parte no diálogo, no\n' +
-          'caso de julgardes que com a minha cooperação podeis vencer mais facilmente as\n' +
-          'dificuldades.',
+            'verdade, muitas dúvidas. E objeções poderiam ser levantadas por quem se dispusesse a\n' +
+            'aprofundar o tema. Se tratais agora de outro assunto, não digo nada; porém se o nosso\n' +
+            'mesmo é que vos atrapalha, expõem sem acanhamento o que vos parecer indicado para\n' +
+            'melhor esclarecimento da questão, ou permiti que eu também tome parte no diálogo, no\n' +
+            'caso de julgardes que com a minha cooperação podeis vencer mais facilmente as\n' +
+            'dificuldades.',
           footnote: [],
           bold: []
         },
         {
           text: 'Símias, então, falou: Sendo assim, Sócrates, vou dizer-te a verdade. Já faz tempo que\n' +
-          'estamos em dúvida e procuramos animar-nos reciprocamente a dirigir-te perguntas, pelo\n' +
-          'desejo de ouvir-te falar, porém temos medo de incomodar-te por causa do presente\n' +
-          'infortúnio.',
+            'estamos em dúvida e procuramos animar-nos reciprocamente a dirigir-te perguntas, pelo\n' +
+            'desejo de ouvir-te falar, porém temos medo de incomodar-te por causa do presente\n' +
+            'infortúnio.',
           footnote: [],
           bold: []
         },
         {
           text: 'Ouvindo-o expressar-se desse modo, respondeu Sócrates, esboçando um sorriso: Ora,\n' +
-          'Símias! Dificilmente chegarei a convencer os outros homens que não considero nenhuma\n' +
-          'desgraça minha situação neste momento, se nem a vós mesmos consigo persuadir, por terdes receio de eu estar agora com ânimo diferente. Pelo que vejo, considerais-me inferior\n' +
-          'aos cisnes, pois quando estes percebem que estão perto de morrer, por terem cantado a vida\n' +
-          'toda, mais vezes e melhor põem se a cantar, contentes de partirem para junto do deus de\n' +
-          'que são os servidores. Porém com seu medo característico da morte, os homens caluniam os\n' +
-          'cisnes, com afirmarem que eles cantam por chorarem a morte, de tristeza, sem refletirem\n' +
-          'que nenhum ave canta quando tem fome ou frio, ou quando presa de outra angústia, nem\n' +
-          'mesmo o rouxinol, a andorinha ou a poupa, cujo canto, segundo dizem, serve de alimentar a\n' +
-          'dor. Porém não creio que nenhum deles cante por estarem tristes, muito menos os cisnes.\n' +
-          'Ao contrário: por pertencerem a Apolo, segundo penso, têm o Dom da profecia, e por\n' +
-          'preverem as delícias do Hades, cantam e se alegram nesse dia muito mais do que antes. Eu,\n' +
-          'de minha parte, também me considero servidor igual da divindade, como os cisnes, e a ela\n' +
-          'consagrado, e por ser dotado pelo meu senhor de não menor Dom de profecia, não deixarei\n' +
-          'a vida com menos coragem do que eles. Por isso, podeis falar à vontade e formular as\n' +
-          'perguntas que entenderdes todo o tempo que o permitirem os onze cidadãos de Atenas.',
+            'Símias! Dificilmente chegarei a convencer os outros homens que não considero nenhuma\n' +
+            'desgraça minha situação neste momento, se nem a vós mesmos consigo persuadir, por terdes receio de eu estar agora com ânimo diferente. Pelo que vejo, considerais-me inferior\n' +
+            'aos cisnes, pois quando estes percebem que estão perto de morrer, por terem cantado a vida\n' +
+            'toda, mais vezes e melhor põem se a cantar, contentes de partirem para junto do deus de\n' +
+            'que são os servidores. Porém com seu medo característico da morte, os homens caluniam os\n' +
+            'cisnes, com afirmarem que eles cantam por chorarem a morte, de tristeza, sem refletirem\n' +
+            'que nenhum ave canta quando tem fome ou frio, ou quando presa de outra angústia, nem\n' +
+            'mesmo o rouxinol, a andorinha ou a poupa, cujo canto, segundo dizem, serve de alimentar a\n' +
+            'dor. Porém não creio que nenhum deles cante por estarem tristes, muito menos os cisnes.\n' +
+            'Ao contrário: por pertencerem a Apolo, segundo penso, têm o Dom da profecia, e por\n' +
+            'preverem as delícias do Hades, cantam e se alegram nesse dia muito mais do que antes. Eu,\n' +
+            'de minha parte, também me considero servidor igual da divindade, como os cisnes, e a ela\n' +
+            'consagrado, e por ser dotado pelo meu senhor de não menor Dom de profecia, não deixarei\n' +
+            'a vida com menos coragem do que eles. Por isso, podeis falar à vontade e formular as\n' +
+            'perguntas que entenderdes todo o tempo que o permitirem os onze cidadãos de Atenas.',
           footnote: [],
           bold: []
         },
         {
           text: 'Perfeito, falou Símias, pois então vou dizer-te quais são as minhas dúvidas, para\n' +
-          'depois indicar este aqui os pontos de tua exposição com que ele não concorda. Sobre esses\n' +
-          'assunto, Sócrates, creio estar de acordo contigo, que se nesta vida não for impossível saber\n' +
-          'a essa respeito algo definitivo, é extremamente difícil. Mas também será prova de fraqueza\n' +
-          'deixar de analisar por todos os modos o que foi dito, e não abandonar o assunto enquanto\n' +
-          'não sentirmos cansaço. Neste passo vemo-nos ante o dilema: aprender e descobrir o de que\n' +
-          'se trata, ou, no caso de não ser isso possível, adotar a melhor opinião e a mais difícil de\n' +
-          'contestar, e nela instalando-nos à guisa de jangada, procurar fazer a travessia da vida, na\n' +
-          'hipótese de não conseguir isso mesmo com maior facilidade e menos perigo numa\n' +
-          'embarcação mais firme, ou seja, com alguma palavra divina. Assim, não ficarei acanhado\n' +
-          'agora de interrogar-te, já que tu próprio mo aconselhas, nem precisarei censurar-me de\n' +
-          'futuro por não te haver dito hoje o que pensava. O fato, Sócrates, é que quando reflito no\n' +
-          'que disseste, ou seja comigo mesmo ou na companhia deste aqui, tenho a impressão de que\n' +
-          'nem tudo ficou bem fundamentado.',
+            'depois indicar este aqui os pontos de tua exposição com que ele não concorda. Sobre esses\n' +
+            'assunto, Sócrates, creio estar de acordo contigo, que se nesta vida não for impossível saber\n' +
+            'a essa respeito algo definitivo, é extremamente difícil. Mas também será prova de fraqueza\n' +
+            'deixar de analisar por todos os modos o que foi dito, e não abandonar o assunto enquanto\n' +
+            'não sentirmos cansaço. Neste passo vemo-nos ante o dilema: aprender e descobrir o de que\n' +
+            'se trata, ou, no caso de não ser isso possível, adotar a melhor opinião e a mais difícil de\n' +
+            'contestar, e nela instalando-nos à guisa de jangada, procurar fazer a travessia da vida, na\n' +
+            'hipótese de não conseguir isso mesmo com maior facilidade e menos perigo numa\n' +
+            'embarcação mais firme, ou seja, com alguma palavra divina. Assim, não ficarei acanhado\n' +
+            'agora de interrogar-te, já que tu próprio mo aconselhas, nem precisarei censurar-me de\n' +
+            'futuro por não te haver dito hoje o que pensava. O fato, Sócrates, é que quando reflito no\n' +
+            'que disseste, ou seja comigo mesmo ou na companhia deste aqui, tenho a impressão de que\n' +
+            'nem tudo ficou bem fundamentado.',
           footnote: [],
           bold: []
         },
@@ -3190,7 +3190,7 @@ export default [
         },
         {
           text: 'Sócrates respondeu: Talvez, companheiro, lhe falou, estejas com a razão;\n' +
-          'porém explica o que não te parece bem fundamentado.',
+            'porém explica o que não te parece bem fundamentado.',
           footnote: [],
           bold: [
             {
@@ -3201,28 +3201,28 @@ export default [
         },
         {
           text: 'É que seria possível alegar a mesma coisa, continuou, a respeito da harmonia e da lira\n' +
-          'com suas cordas, a saber: que a harmonia é algo invisível, incorpóreo e sumamente belo\n' +
-          'numa lira bem afinada, e que esta, por sua vez, é corpo, com também o são as cordas,\n' +
-          'coisas materiais, compostas, terrenas e de natureza morta. Ora, no caso de alguém quebrar a\n' +
-          'lira e cortar ou arrebentar as cordas, alguém poderia argumentar como o fizeste:\n' +
-          'forçosamente aquela harmonia ainda vive, pois não foi destruída; pois não é possível\n' +
-          'subsistir a lira depois de se partirem as cordas, e as próprias cordas, todas elas de natureza\n' +
-          'morta, e desaparecer a harmonia, da mesma natureza e da família do divino e do imortal,\n' +
-          'que assim viria a ser destruída até mesmo antes do que é perecível. Não, prosseguiria essa\n' +
-          'pessoa; necessariamente a harmonia terá de continuar em qualquer parte, por ser forçoso\n' +
-          'que a madeira apodreça primeiro, e as cordas, antes de acontecer àquela alguma coisa. A\n' +
-          'esses respeito, Sócrates, creio que tu mesmo já consideraste que a noção da alma admitida\n' +
-          'por nós é mais ou menos a seguinte: Da mesma foram que temos o corpo distendido e\n' +
-          'coeso pelo calor e o frio, o seco e o úmido, e tudo o mais do mesmo gênero, viria a ser\n' +
-          'nossa alma a mistura e a harmonia de todos esses elementos, quando combinados em justa\n' +
-          'proporção. Ora, se nossa alma for uma espécie de harmonia, é evidente que, ao ficar\n' +
-          'relaxado o corpo, ou distendido em excesso, por doenças e outras perturbações,\n' +
-          'forçosamente a alma fenecerá logo, em que pese à sua natureza divina, tal como se dá com\n' +
-          'as outras harmonias, tanto as resultantes de sons como das demais obras dos artista; ao\n' +
-          'passo que os despojos do corpo perduram por muito tempo, até que o fogo os destrua ou\n' +
-          'venham a apodrecer. Vê, portanto, o que devemos opor a esses argumentos, no caso de\n' +
-          'alguém nos vir dizer que a alma, por ser a mistura dos elementos do corpo, é a primeira a\n' +
-          'fenecer naquilo que chamamos morte.',
+            'com suas cordas, a saber: que a harmonia é algo invisível, incorpóreo e sumamente belo\n' +
+            'numa lira bem afinada, e que esta, por sua vez, é corpo, com também o são as cordas,\n' +
+            'coisas materiais, compostas, terrenas e de natureza morta. Ora, no caso de alguém quebrar a\n' +
+            'lira e cortar ou arrebentar as cordas, alguém poderia argumentar como o fizeste:\n' +
+            'forçosamente aquela harmonia ainda vive, pois não foi destruída; pois não é possível\n' +
+            'subsistir a lira depois de se partirem as cordas, e as próprias cordas, todas elas de natureza\n' +
+            'morta, e desaparecer a harmonia, da mesma natureza e da família do divino e do imortal,\n' +
+            'que assim viria a ser destruída até mesmo antes do que é perecível. Não, prosseguiria essa\n' +
+            'pessoa; necessariamente a harmonia terá de continuar em qualquer parte, por ser forçoso\n' +
+            'que a madeira apodreça primeiro, e as cordas, antes de acontecer àquela alguma coisa. A\n' +
+            'esses respeito, Sócrates, creio que tu mesmo já consideraste que a noção da alma admitida\n' +
+            'por nós é mais ou menos a seguinte: Da mesma foram que temos o corpo distendido e\n' +
+            'coeso pelo calor e o frio, o seco e o úmido, e tudo o mais do mesmo gênero, viria a ser\n' +
+            'nossa alma a mistura e a harmonia de todos esses elementos, quando combinados em justa\n' +
+            'proporção. Ora, se nossa alma for uma espécie de harmonia, é evidente que, ao ficar\n' +
+            'relaxado o corpo, ou distendido em excesso, por doenças e outras perturbações,\n' +
+            'forçosamente a alma fenecerá logo, em que pese à sua natureza divina, tal como se dá com\n' +
+            'as outras harmonias, tanto as resultantes de sons como das demais obras dos artista; ao\n' +
+            'passo que os despojos do corpo perduram por muito tempo, até que o fogo os destrua ou\n' +
+            'venham a apodrecer. Vê, portanto, o que devemos opor a esses argumentos, no caso de\n' +
+            'alguém nos vir dizer que a alma, por ser a mistura dos elementos do corpo, é a primeira a\n' +
+            'fenecer naquilo que chamamos morte.',
           footnote: [],
           bold: []
         },
@@ -3232,13 +3232,13 @@ export default [
         },
         {
           text: 'Sócrates se conservou durante algum tempo com o olhar parado, como era\n' +
-          'seu costume; depois falou, sorrindo: A objeção de Símias, declarou, é procedente. Se algum\n' +
-          'de vós estiver em melhores condições do que eu, por que não responde a ele? O argumento\n' +
-          'dele é muito feliz. Porém antes de formular qualquer resposta, sou de parecer que devemos\n' +
-          'primeiro ouvir o que tem Cebete a opor à nossa tese, pois assim ganharemos tempo para\n' +
-          'refletir no que será preciso dizer. E depois de ouvir a ambos, dar-lhes-emos nossa\n' +
-          'aprovação, se nos parecerem bem afinados os argumentos; caso contrário; dizendo logo o\n' +
-          'que te deixa atrapalhado.',
+            'seu costume; depois falou, sorrindo: A objeção de Símias, declarou, é procedente. Se algum\n' +
+            'de vós estiver em melhores condições do que eu, por que não responde a ele? O argumento\n' +
+            'dele é muito feliz. Porém antes de formular qualquer resposta, sou de parecer que devemos\n' +
+            'primeiro ouvir o que tem Cebete a opor à nossa tese, pois assim ganharemos tempo para\n' +
+            'refletir no que será preciso dizer. E depois de ouvir a ambos, dar-lhes-emos nossa\n' +
+            'aprovação, se nos parecerem bem afinados os argumentos; caso contrário; dizendo logo o\n' +
+            'que te deixa atrapalhado.',
           footnote: [],
           bold: [
             {
@@ -3249,49 +3249,49 @@ export default [
         },
         {
           text: 'Vou dizer, respondeu Cebete. A meu parecer, nosso argumento não saiu do lugar e\n' +
-          'continua como alvo das mesmas objeções de antes. Que nossa alma já existisse antes de\n' +
-          'assumir esta forma, é proposição que não me repugna aceitar, por engenhosa e – salvo\n' +
-          'imodéstia de minha parte – suficientemente demonstrada. Porém que subsista algures\n' +
-          'depois de estarmos mortos, com isso é que não posso concordar. Não aceito, também o\n' +
-          'reparo de Símias, quando afirma que a alma não é mais forte nem mais durável do que o\n' +
-          'corpo, pois sob ambos os aspectos ela se distingue imensamente dele. Por que então, lhe\n' +
-          'diria o argumento, ainda te mostras incrédulo, se estás vendo que depois da morte do\n' +
-          'homem sua porção mais fraca ainda subsiste? Não te parece que a porção mais durável terá\n' +
-          'forçosamente de sobreviver igual tempo? Vê agora se o que digo contém alguma\n' +
-          'substância. Para maior comodidade vou socorrer-me, como o fez Símias, de uma imagem.\n' +
-          'Para mim, falar desse jeito é o mesmo que fazer as seguintes considerações a respeito de\n' +
-          'um velho tecelão que acabasse de morrer: o homem não está morto: continua vivo em\n' +
-          'alguma parte; e para prova dessa afirmação, apresentasse a roupa que ele então trazia no\n' +
-          'corpo, tecida por ele mesmo, conservada e sem ter ainda perecido. E se alguém se\n' +
-          'mostrasse incrédulo, poderia perguntar o que é por natureza mais durável, imaginaria ter\n' +
-          'demonstrado que com maioria de razões o homem terá de estar bem, visto não haver\n' +
-          'perecido o que por natureza é menos durável. Porém a meu ver, Símias, a realidade, é muito\n' +
-          'diferente. Presta atenção ao seguinte: Não há quem não veja quanto é fraco semelhante\n' +
-          'argumento. Havendo gasto muitas roupas por ele próprio tecidas, o nosso homem morreu,\n' +
-          'de fato, depois de todas, e não foram poucas, porém antes da última, segundo penso; mas\n' +
-          'nem por isso o homem é inferior ou mais fraco do que a roupa. Essa imagem, quero crer, se\n' +
-          'aplica tanto à alma como ao corpo, e quem argumentasse desse modo com relação ao\n' +
-          'corpo, falaria com muito mais propriedade, a saber: que a alma é mais durável e o corpo\n' +
-          'mais fraco e transitório, pois fora acertado acrescentar que cada alma consome vários\n' +
-          'corpos, principalmente quando vive muitos anos. Se o corpo se escoa e se deliquesce\n' +
-          'enquanto o homem vive, a alma retece de contínuo o que for consumido. Forçoso será, por\n' +
-          'conseguinte, que, no instante de morrer, ainda esteja a alma com a última vestimenta por\n' +
-          'ela feia, só vindo a morrer antes da última. Desaparecida a alma, mostra, de pronto, o corpo\n' +
-          'sua fraqueza natural e se desmancha pela putrefação. Por isso mesmo, com base nesses\n' +
-          'argumentos não podemos confiar que nossa alma subsista algures depois da morte. E se\n' +
-          'alguém concedesse ao expositor de tua proposição mais ainda do que fazes e lhe desse de\n' +
-          'barato não penas que nossas almas existem antes do tempo do nascimento, sendo que nada\n' +
-          'impede, até mesmo depois de nossa morte, existirem algumas e continuarem a existir, e\n' +
-          'muitas vezes renascerem e tornarem a morrer, por serem de natureza bastante forte para\n' +
-          'suportar esses nascimentos sucessivos: se lhe concedêssemos esse ponto, de todo o jeito ele\n' +
-          'se recusaria a admitir que a alma não se esgota nesses nascimentos sucessivos, para acabar\n' +
-          'numa dessas últimas mortes, por desaparecer de todo. Dessa morte última, poderia\n' +
-          'acrescentar, e dessa decomposição do corpo que leva para a alma a destruição, ninguém\n' +
-          'pode ter conhecimento, por não estar em nós experimentá-la. Se as coisas se passam mesmo\n' +
-          'dessa forma, por força terá de ser irracional a confiança de qualquer pessoa diante da morte,\n' +
-          'a menos que esse alguém pudesse demonstrar que a alma é absolutamente imortal e\n' +
-          'imperecível. Sendo isso impossível, não há como evitar que o moribundo se arreceie de que\n' +
-          'no instante em que sua alma se desaparecer do corpo, venha a desaparecer de todo.',
+            'continua como alvo das mesmas objeções de antes. Que nossa alma já existisse antes de\n' +
+            'assumir esta forma, é proposição que não me repugna aceitar, por engenhosa e – salvo\n' +
+            'imodéstia de minha parte – suficientemente demonstrada. Porém que subsista algures\n' +
+            'depois de estarmos mortos, com isso é que não posso concordar. Não aceito, também o\n' +
+            'reparo de Símias, quando afirma que a alma não é mais forte nem mais durável do que o\n' +
+            'corpo, pois sob ambos os aspectos ela se distingue imensamente dele. Por que então, lhe\n' +
+            'diria o argumento, ainda te mostras incrédulo, se estás vendo que depois da morte do\n' +
+            'homem sua porção mais fraca ainda subsiste? Não te parece que a porção mais durável terá\n' +
+            'forçosamente de sobreviver igual tempo? Vê agora se o que digo contém alguma\n' +
+            'substância. Para maior comodidade vou socorrer-me, como o fez Símias, de uma imagem.\n' +
+            'Para mim, falar desse jeito é o mesmo que fazer as seguintes considerações a respeito de\n' +
+            'um velho tecelão que acabasse de morrer: o homem não está morto: continua vivo em\n' +
+            'alguma parte; e para prova dessa afirmação, apresentasse a roupa que ele então trazia no\n' +
+            'corpo, tecida por ele mesmo, conservada e sem ter ainda perecido. E se alguém se\n' +
+            'mostrasse incrédulo, poderia perguntar o que é por natureza mais durável, imaginaria ter\n' +
+            'demonstrado que com maioria de razões o homem terá de estar bem, visto não haver\n' +
+            'perecido o que por natureza é menos durável. Porém a meu ver, Símias, a realidade, é muito\n' +
+            'diferente. Presta atenção ao seguinte: Não há quem não veja quanto é fraco semelhante\n' +
+            'argumento. Havendo gasto muitas roupas por ele próprio tecidas, o nosso homem morreu,\n' +
+            'de fato, depois de todas, e não foram poucas, porém antes da última, segundo penso; mas\n' +
+            'nem por isso o homem é inferior ou mais fraco do que a roupa. Essa imagem, quero crer, se\n' +
+            'aplica tanto à alma como ao corpo, e quem argumentasse desse modo com relação ao\n' +
+            'corpo, falaria com muito mais propriedade, a saber: que a alma é mais durável e o corpo\n' +
+            'mais fraco e transitório, pois fora acertado acrescentar que cada alma consome vários\n' +
+            'corpos, principalmente quando vive muitos anos. Se o corpo se escoa e se deliquesce\n' +
+            'enquanto o homem vive, a alma retece de contínuo o que for consumido. Forçoso será, por\n' +
+            'conseguinte, que, no instante de morrer, ainda esteja a alma com a última vestimenta por\n' +
+            'ela feia, só vindo a morrer antes da última. Desaparecida a alma, mostra, de pronto, o corpo\n' +
+            'sua fraqueza natural e se desmancha pela putrefação. Por isso mesmo, com base nesses\n' +
+            'argumentos não podemos confiar que nossa alma subsista algures depois da morte. E se\n' +
+            'alguém concedesse ao expositor de tua proposição mais ainda do que fazes e lhe desse de\n' +
+            'barato não penas que nossas almas existem antes do tempo do nascimento, sendo que nada\n' +
+            'impede, até mesmo depois de nossa morte, existirem algumas e continuarem a existir, e\n' +
+            'muitas vezes renascerem e tornarem a morrer, por serem de natureza bastante forte para\n' +
+            'suportar esses nascimentos sucessivos: se lhe concedêssemos esse ponto, de todo o jeito ele\n' +
+            'se recusaria a admitir que a alma não se esgota nesses nascimentos sucessivos, para acabar\n' +
+            'numa dessas últimas mortes, por desaparecer de todo. Dessa morte última, poderia\n' +
+            'acrescentar, e dessa decomposição do corpo que leva para a alma a destruição, ninguém\n' +
+            'pode ter conhecimento, por não estar em nós experimentá-la. Se as coisas se passam mesmo\n' +
+            'dessa forma, por força terá de ser irracional a confiança de qualquer pessoa diante da morte,\n' +
+            'a menos que esse alguém pudesse demonstrar que a alma é absolutamente imortal e\n' +
+            'imperecível. Sendo isso impossível, não há como evitar que o moribundo se arreceie de que\n' +
+            'no instante em que sua alma se desaparecer do corpo, venha a desaparecer de todo.',
           footnote: [],
           bold: []
         },
@@ -3302,26 +3302,26 @@ export default [
 
         {
           text: 'Ao ouvi-los falar dessa maneira, todos nós nos sentimos\n' +
-          'desagradavelmente impressionados, conforme depois confessamos a nós mesmos;\n' +
-          'firmemente convencidos como ficáramos, ante os argumentos anteriores, as palavras de\n' +
-          'agora como que nos deixavam inquietos e nos levavam outra vez a duvidar, tanto com\n' +
-          'relação ao que já fora dito como ao que ainda restava por dizer. Ou éramos maus juízes ou\n' +
-          'o assunto não admitia prova.',
+            'desagradavelmente impressionados, conforme depois confessamos a nós mesmos;\n' +
+            'firmemente convencidos como ficáramos, ante os argumentos anteriores, as palavras de\n' +
+            'agora como que nos deixavam inquietos e nos levavam outra vez a duvidar, tanto com\n' +
+            'relação ao que já fora dito como ao que ainda restava por dizer. Ou éramos maus juízes ou\n' +
+            'o assunto não admitia prova.',
           footnote: [],
           bold: []
         },
         {
           text: '<b>Equécrates –</b>Pelos deuses, Fedão! Compreendo o que se passou convosco, pois\n' +
-          'agora mesmo, perguntei-me em que argumento poderemos confiar daqui por diante, se o\n' +
-          'que Sócrates acabou de desenvolver, com ser tão convincente, perdeu de todo o crédito? É\n' +
-          'maravilhosa a atração que sobre mim sempre exerceu, e ainda exerce, a doutrina de que\n' +
-          'nossa alma é uma espécie de harmonia. O que acabaste de expor me fez lembrar que até ao\n' +
-          'presente eu a aceitava. Mas agora necessito de novos argumentos para convencer-me de\n' +
-          'que a alma não morre juntamente com o corpo. Dize logo, por Zeus, de que modo Sócrates\n' +
-          'prosseguiu na sua argumentação? Porventura revelou desânimo, como disseste ter\n' +
-          'acontecido com todos vós, ou, pelo contrário, defendeu a sua opinião com a serenidade\n' +
-          'habitual? Foi completa ou falha nalgum ponto sua defesa? Conta-nos tudo com a maior\n' +
-          'exatidão possível.',
+            'agora mesmo, perguntei-me em que argumento poderemos confiar daqui por diante, se o\n' +
+            'que Sócrates acabou de desenvolver, com ser tão convincente, perdeu de todo o crédito? É\n' +
+            'maravilhosa a atração que sobre mim sempre exerceu, e ainda exerce, a doutrina de que\n' +
+            'nossa alma é uma espécie de harmonia. O que acabaste de expor me fez lembrar que até ao\n' +
+            'presente eu a aceitava. Mas agora necessito de novos argumentos para convencer-me de\n' +
+            'que a alma não morre juntamente com o corpo. Dize logo, por Zeus, de que modo Sócrates\n' +
+            'prosseguiu na sua argumentação? Porventura revelou desânimo, como disseste ter\n' +
+            'acontecido com todos vós, ou, pelo contrário, defendeu a sua opinião com a serenidade\n' +
+            'habitual? Foi completa ou falha nalgum ponto sua defesa? Conta-nos tudo com a maior\n' +
+            'exatidão possível.',
           footnote: [],
           bold: [
             {
@@ -3332,12 +3332,12 @@ export default [
         },
         {
           text: '<b>Fedão –</b> Em verdade, Equécrates, por mais que antes eu tivesse admirado Sócrates,\n' +
-          'nunca me senti tão arrebatado naquele instante. Não é de espantar que um homem do seu\n' +
-          'estofo pudesse sair-se bem em semelhante conjuntura. Mas o que nele, primeiro de tudo,\n' +
-          'me admirou ao extremo foi a maneira delicada, cordial e deferente com o que acolheu as\n' +
-          'objeções dos moços; depois, a sagacidade com que observou o efeito de suas palavras sobre\n' +
-          'nós e, por último, como soube curar-nos: de fugitivos e derrotados, fez-nos voltar e\n' +
-          'concitou-nos a segui-lo, para considerarmos junto o argumento.',
+            'nunca me senti tão arrebatado naquele instante. Não é de espantar que um homem do seu\n' +
+            'estofo pudesse sair-se bem em semelhante conjuntura. Mas o que nele, primeiro de tudo,\n' +
+            'me admirou ao extremo foi a maneira delicada, cordial e deferente com o que acolheu as\n' +
+            'objeções dos moços; depois, a sagacidade com que observou o efeito de suas palavras sobre\n' +
+            'nós e, por último, como soube curar-nos: de fugitivos e derrotados, fez-nos voltar e\n' +
+            'concitou-nos a segui-lo, para considerarmos junto o argumento.',
           footnote: [],
           bold: [
             {
@@ -3358,10 +3358,10 @@ export default [
         },
         {
           text: '<b>Fedão –</b> Vou te dizer como foi. Aconteceu que eu me achava, justamente à sua\n' +
-          'direita, num banquinho ao pé do catre, ficando ele num plano muito mais alto. Afagandome\n' +
-          'a cabeça e abarcando com a mão os cabelos que me cobriam a nuca – pois sempre que\n' +
-          'se lhe oferecia ocasião graceja a respeito de minha cabeleira – me disse: Decerto é amanhã,\n' +
-          'Fedão, que vais pôr abaixo esta bela cabeleira?',
+            'direita, num banquinho ao pé do catre, ficando ele num plano muito mais alto. Afagandome\n' +
+            'a cabeça e abarcando com a mão os cabelos que me cobriam a nuca – pois sempre que\n' +
+            'se lhe oferecia ocasião graceja a respeito de minha cabeleira – me disse: Decerto é amanhã,\n' +
+            'Fedão, que vais pôr abaixo esta bela cabeleira?',
           footnote: [],
           bold: [
             {
@@ -3387,10 +3387,10 @@ export default [
         },
         {
           text: 'Hoje mesmo, disse, cortarei a minha, como farás com a tua, se nosso argumento vier\n' +
-          'a morrer e nos revelarmos incapazes de lhe dar lume e vida. De minha parte, se eu estivesse\n' +
-          'em teu lugar e o argumento me escorregasse por entre os dedos, faria um juramento à\n' +
-          'feição dos Argivos, de não deixar crescer os cabelos enquanto não vencesse em luta franca\n' +
-          'a proposição de Símias e Cibete.',
+            'a morrer e nos revelarmos incapazes de lhe dar lume e vida. De minha parte, se eu estivesse\n' +
+            'em teu lugar e o argumento me escorregasse por entre os dedos, faria um juramento à\n' +
+            'feição dos Argivos, de não deixar crescer os cabelos enquanto não vencesse em luta franca\n' +
+            'a proposição de Símias e Cibete.',
           footnote: [],
           bold: []
         },
@@ -3406,7 +3406,7 @@ export default [
         },
         {
           text: 'Bem, chamarei, lhe respondi; porém não na qualidade de Herácles: Iolau é que vai\n' +
-          'chamar Herácles em seu auxílio.',
+            'chamar Herácles em seu auxílio.',
           footnote: [],
           bold: []
         },
@@ -3436,14 +3436,14 @@ export default [
         },
         {
           text: 'Para não ficarmos misólogos, disse, como outros ficam misantropos. O que de pior\n' +
-          'pode acontecer a qualquer pessoa é tornar-se inimigo da palavra. A misologia e a\n' +
-          'misantropia têm a mesma origem. O ódio aos homens nasce do excesso de confiança sem\n' +
-          'razão de ser, quando consideramos alguém fiel, sincero e verdadeiro, e logo depois\n' +
-          'descobrimos que se trata de pessoa corrupta e desleal, e depois outra mais nas mesmas\n' +
-          'condições. Vindo isso a repetir-se várias vezes com o mesmo paciente, principalmente se se\n' +
-          'tratar de amigos íntimos e companheiros de alto crédito, depois de decepções seguidas,\n' +
-          'acaba essa pessoa por odiar os homens e acreditar que ninguém é sincero. Nunca observaste\n' +
-          'que é assim mesmo que as coisas se passam.',
+            'pode acontecer a qualquer pessoa é tornar-se inimigo da palavra. A misologia e a\n' +
+            'misantropia têm a mesma origem. O ódio aos homens nasce do excesso de confiança sem\n' +
+            'razão de ser, quando consideramos alguém fiel, sincero e verdadeiro, e logo depois\n' +
+            'descobrimos que se trata de pessoa corrupta e desleal, e depois outra mais nas mesmas\n' +
+            'condições. Vindo isso a repetir-se várias vezes com o mesmo paciente, principalmente se se\n' +
+            'tratar de amigos íntimos e companheiros de alto crédito, depois de decepções seguidas,\n' +
+            'acaba essa pessoa por odiar os homens e acreditar que ninguém é sincero. Nunca observaste\n' +
+            'que é assim mesmo que as coisas se passam.',
           footnote: [],
           bold: []
         },
@@ -3454,10 +3454,10 @@ export default [
         },
         {
           text: 'E não é isso vergonhoso? Continuou. Pois é claro que esse indivíduo procura o\n' +
-          'convívio com seus semelhantes sem conhecer devidamente a natureza humana, pois se\n' +
-          'dispusesse de alguma experiência nas suas relações com eles, teria compreendido como é\n' +
-          'realmente o mundo, isto é, que são poucos os indivíduos inteiramente bons ou maus de\n' +
-          'todo, e que a maioria constitui o meio-termo.',
+            'convívio com seus semelhantes sem conhecer devidamente a natureza humana, pois se\n' +
+            'dispusesse de alguma experiência nas suas relações com eles, teria compreendido como é\n' +
+            'realmente o mundo, isto é, que são poucos os indivíduos inteiramente bons ou maus de\n' +
+            'todo, e que a maioria constitui o meio-termo.',
           footnote: [],
           bold: []
         },
@@ -3468,11 +3468,11 @@ export default [
         },
         {
           text: 'É o mesmo que acontece, prosseguiu, com as pessoas excessivamente baixas ou\n' +
-          'excessivamente altas. Julgas que pode haver nada mais raro do que encontrarmos um\n' +
-          'homem muito grande ou muito pequeno, ou um cão, ou seja o que for? O mesmo se diga do\n' +
-          'veloz e do lento, do feio e do belo, do branco e do preto. Ou não percebeste que em tudo\n' +
-          'isso os extremos são raros e pouco numerosos, e os da mediania, extremamente freqüentes\n' +
-          'e em grande número?',
+            'excessivamente altas. Julgas que pode haver nada mais raro do que encontrarmos um\n' +
+            'homem muito grande ou muito pequeno, ou um cão, ou seja o que for? O mesmo se diga do\n' +
+            'veloz e do lento, do feio e do belo, do branco e do preto. Ou não percebeste que em tudo\n' +
+            'isso os extremos são raros e pouco numerosos, e os da mediania, extremamente freqüentes\n' +
+            'e em grande número?',
           footnote: [],
           bold: []
         },
@@ -3483,7 +3483,7 @@ export default [
         },
         {
           text: 'E não te parece, continuou, que se se organizasse um concurso de maldade, os\n' +
-          'primeiros se apresentariam em número muito reduzido?',
+            'primeiros se apresentariam em número muito reduzido?',
           footnote: [],
           bold: []
         },
@@ -3494,15 +3494,15 @@ export default [
         },
         {
           text: 'Sim, muito provável, continuou. Porém não é sob esses aspecto que os argumentos se\n' +
-          'parecem com os homens. Neste passo não fiz senão seguir tua orientação. A semelhança\n' +
-          'consiste no seguinte: quando se admite a exatidão de um argumento, sem ser-se versado na\n' +
-          'arte da dialética, pode acontecer que logo depois ele nos pareça falso, às vezes com\n' +
-          'fundamento, outras vezes sem nenhum, e depois mais outro e mais outra da mesma\n' +
-          'natureza. Como sabes, é o que se verifica com os disputadores de razões contraditórias, que\n' +
-          'acabam por considerar-se os maiores sábios, por serem os únicos a reconhecer que nada há\n' +
-          'de são e firme, nem nas coisas, nem no raciocínio, encontrando-se tudo, em verdade, em\n' +
-          'permanente agitação, tal como se dá com as águas do Euripo, sem permanecer nada, um só\n' +
-          'instante, no mesmo estado.',
+            'parecem com os homens. Neste passo não fiz senão seguir tua orientação. A semelhança\n' +
+            'consiste no seguinte: quando se admite a exatidão de um argumento, sem ser-se versado na\n' +
+            'arte da dialética, pode acontecer que logo depois ele nos pareça falso, às vezes com\n' +
+            'fundamento, outras vezes sem nenhum, e depois mais outro e mais outra da mesma\n' +
+            'natureza. Como sabes, é o que se verifica com os disputadores de razões contraditórias, que\n' +
+            'acabam por considerar-se os maiores sábios, por serem os únicos a reconhecer que nada há\n' +
+            'de são e firme, nem nas coisas, nem no raciocínio, encontrando-se tudo, em verdade, em\n' +
+            'permanente agitação, tal como se dá com as águas do Euripo, sem permanecer nada, um só\n' +
+            'instante, no mesmo estado.',
           footnote: [],
           bold: []
         },
@@ -3513,11 +3513,11 @@ export default [
         },
         {
           text: 'E se, de fato, existe raciocínio verdadeiro e estável, capaz de ser compreendido, não\n' +
-          'seria de lastimar, Fedão, no caso de ouvir alguém esses argumentos que ora parecem\n' +
-          'verdadeiros ora falsos, em vez de inculpar-se ou à sua própria incapacidade, acabasse por\n' +
-          'irritar-se e comprazer-se em tirar de si a culpa para lançar no raciocínio, e passar, daí por\n' +
-          'diante, o resto da vida a odiá-lo e a depreciá-lo, com o que só alcançaria privar-se da\n' +
-          'verdade e do conhecimento das coisas?',
+            'seria de lastimar, Fedão, no caso de ouvir alguém esses argumentos que ora parecem\n' +
+            'verdadeiros ora falsos, em vez de inculpar-se ou à sua própria incapacidade, acabasse por\n' +
+            'irritar-se e comprazer-se em tirar de si a culpa para lançar no raciocínio, e passar, daí por\n' +
+            'diante, o resto da vida a odiá-lo e a depreciá-lo, com o que só alcançaria privar-se da\n' +
+            'verdade e do conhecimento das coisas?',
           footnote: [],
           bold: []
         },
@@ -3532,27 +3532,27 @@ export default [
         },
         {
           text: 'Assim, continuou, de início precisamos acautelar-nos contra semelhante perigo;\n' +
-          'não permitamos o ingresso em nossa alma da idéia de que não há nada são em nosso\n' +
-          'raciocínio; digamos, isso sim, que nós é que ainda não estamos suficientemente sãos, mas\n' +
-          'que devemos esforçar-nos para alcançar esse desiderato, tu e os demais, por causa da vida\n' +
-          'que ainda tendes pela frente; eu, por motivo, justamente, da morte. Receio muito que , neste\n' +
-          'momento em que a morte é tudo, não me haja como filósofo ou amigo da sabedoria., como\n' +
-          'se dá com os indivíduos muito ignorantes. Estes tais, quando debatem algum tema, não se\n' +
-          'preocupam absolutamente de saber como são, de fato, as coisas a respeito de que tanto\n' +
-          'discutem, senão em deixar convencidos os circunstantes de suas próprias asserções. Nisso\n' +
-          'põem todo o empenho. Eu, também, num ponto apenas, agora, me diferencio deles: não me\n' +
-          'esforço por demonstrar aos presentes a verdade do que afirmo, a não ser como acessório,\n' +
-          'mas por convencer-me, tanto quanto possível, a mim mesmo. Meu cálculo, companheiro, é\n' +
-          'o seguinte; observa quanto o argumento é interesseiro: Se for verdade o que eu disse, só\n' +
-          'haverá vantagem em fortalecermos essa convicção; porém se nada mais houver depois da\n' +
-          'morte, pelo menos não importunarei os presentes com minhas lamentações no pouquinho\n' +
-          'de tempo que ainda me resta para viver. Aliás, esse estado de coisas não vai durar muito, o\n' +
-          'que seria mau; acabará dentro de pouco. Preparado desse modo, Símias e Cebete,\n' +
-          'continuou, é que aceitou a discussão. Quanto a vós outros, se me aceitardes um conselho,\n' +
-          'concedei pouca atenção a Sócrates, porém muito mais a verdade; se vos parecer que há\n' +
-          'verdade no que eu digo, concordai comigo; caso contrário, resisti quanto puderdes,\n' +
-          'acautelando-vos para que no meu entusiasmo não venha a enganar-vos e a mim próprio e\n' +
-          'me retire como as abelhas, deixando em todos vós o aguilhão.',
+            'não permitamos o ingresso em nossa alma da idéia de que não há nada são em nosso\n' +
+            'raciocínio; digamos, isso sim, que nós é que ainda não estamos suficientemente sãos, mas\n' +
+            'que devemos esforçar-nos para alcançar esse desiderato, tu e os demais, por causa da vida\n' +
+            'que ainda tendes pela frente; eu, por motivo, justamente, da morte. Receio muito que , neste\n' +
+            'momento em que a morte é tudo, não me haja como filósofo ou amigo da sabedoria., como\n' +
+            'se dá com os indivíduos muito ignorantes. Estes tais, quando debatem algum tema, não se\n' +
+            'preocupam absolutamente de saber como são, de fato, as coisas a respeito de que tanto\n' +
+            'discutem, senão em deixar convencidos os circunstantes de suas próprias asserções. Nisso\n' +
+            'põem todo o empenho. Eu, também, num ponto apenas, agora, me diferencio deles: não me\n' +
+            'esforço por demonstrar aos presentes a verdade do que afirmo, a não ser como acessório,\n' +
+            'mas por convencer-me, tanto quanto possível, a mim mesmo. Meu cálculo, companheiro, é\n' +
+            'o seguinte; observa quanto o argumento é interesseiro: Se for verdade o que eu disse, só\n' +
+            'haverá vantagem em fortalecermos essa convicção; porém se nada mais houver depois da\n' +
+            'morte, pelo menos não importunarei os presentes com minhas lamentações no pouquinho\n' +
+            'de tempo que ainda me resta para viver. Aliás, esse estado de coisas não vai durar muito, o\n' +
+            'que seria mau; acabará dentro de pouco. Preparado desse modo, Símias e Cebete,\n' +
+            'continuou, é que aceitou a discussão. Quanto a vós outros, se me aceitardes um conselho,\n' +
+            'concedei pouca atenção a Sócrates, porém muito mais a verdade; se vos parecer que há\n' +
+            'verdade no que eu digo, concordai comigo; caso contrário, resisti quanto puderdes,\n' +
+            'acautelando-vos para que no meu entusiasmo não venha a enganar-vos e a mim próprio e\n' +
+            'me retire como as abelhas, deixando em todos vós o aguilhão.',
           footnote: [],
           bold: [
             {
@@ -3567,13 +3567,13 @@ export default [
         },
         {
           text: 'Porém prossigamos, continuou. Inicialmente, lembrai-me do que dissestes, se\n' +
-          'vos parecer que não me recordo muito bem de tudo, Ou muito me engano, Símias, ou tens\n' +
-          'dúvidas de receio de que a alma, apesar de mais bela e divina do que o corpo, pereça antes\n' +
-          'deste, por ser uma espécie de harmonia. Cebete terá admitido que a alma é mais durável do\n' +
-          'que o corpo, mas que ninguém pode saber se depois de gastar sucessivamente muitos\n' +
-          'corpos, não acabará também por desaparecer, quando abandonar o último corpo, vindo a ser\n' +
-          'isso, precisamente, a morte: a destruição da alma, visto não parar nunca o corpo de morrer.\n' +
-          'Não é isso mesmo, Símias e Cebete, o que precisamos examinar?',
+            'vos parecer que não me recordo muito bem de tudo, Ou muito me engano, Símias, ou tens\n' +
+            'dúvidas de receio de que a alma, apesar de mais bela e divina do que o corpo, pereça antes\n' +
+            'deste, por ser uma espécie de harmonia. Cebete terá admitido que a alma é mais durável do\n' +
+            'que o corpo, mas que ninguém pode saber se depois de gastar sucessivamente muitos\n' +
+            'corpos, não acabará também por desaparecer, quando abandonar o último corpo, vindo a ser\n' +
+            'isso, precisamente, a morte: a destruição da alma, visto não parar nunca o corpo de morrer.\n' +
+            'Não é isso mesmo, Símias e Cebete, o que precisamos examinar?',
           footnote: [],
           bold: [
             {
@@ -3589,7 +3589,7 @@ export default [
         },
         {
           text: 'E os argumentos anteriores, prosseguiu, aceitai-os por junto, ou admitis alguns e\n' +
-          'rejeitai outros?',
+            'rejeitai outros?',
           footnote: [],
           bold: []
         },
@@ -3600,29 +3600,29 @@ export default [
         },
         {
           text: 'E que dizeis, então, continuou, daquilo do começo de que aprender é recordar, e que\n' +
-          'se for assim, a nossa alma terá de existir em alguma parte, antes de vir a ficar presa ao\n' +
-          'corpo?',
+            'se for assim, a nossa alma terá de existir em alguma parte, antes de vir a ficar presa ao\n' +
+            'corpo?',
           footnote: [],
           bold: []
         },
         {
           text: 'Quanto a mim, falou Cebete, convenceste-me à maravilha com tua exposição, não\n' +
-          'havendo outro argumento que até agora me tivesse despertado maior entusiasmo.',
+            'havendo outro argumento que até agora me tivesse despertado maior entusiasmo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Comigo, falou Símias, dá-se a mesma coisa, sendo difícil de conceber que eu venha a\n' +
-          'mudar de opinião.',
+            'mudar de opinião.',
           footnote: [],
           bold: []
         },
         {
           text: 'Então, falou Sócrates: No entanto, forasteiro de Tebas, é o que terás de fazer, se\n' +
-          'continuares a dizer que a harmonia é algo composto, e a alma, uma espécie de harmonia\n' +
-          'resultante da tensão dos elementos constitutivos do corpo. Pois decerto não te permitirás\n' +
-          'afirmar que a harmonia, sendo um composto, é anterior aos elementos de que é formada.\n' +
-          'Ou afirmarás isso mesmo?',
+            'continuares a dizer que a harmonia é algo composto, e a alma, uma espécie de harmonia\n' +
+            'resultante da tensão dos elementos constitutivos do corpo. Pois decerto não te permitirás\n' +
+            'afirmar que a harmonia, sendo um composto, é anterior aos elementos de que é formada.\n' +
+            'Ou afirmarás isso mesmo?',
           footnote: [],
           bold: []
         },
@@ -3633,11 +3633,11 @@ export default [
         },
         {
           text: 'E não percebes, continuou, que é justamente o que se dá ,quando declaras que a alma\n' +
-          'existia antes de ingressar no corpo do homem e de lhe assumir a forma, porém é composta\n' +
-          'de elementos que até então não existiam? Harmonia não é o que afirmas em tua\n' +
-          'comparação; ao contrário: primeiro existem a lira, as cordas e os sons, sem nenhuma\n' +
-          'harmonia. Esta é a última a formar-se, como é também a que desaparece mais cedo. De que\n' +
-          'modo porás em consonância esta asserção com o que disseste antes?',
+            'existia antes de ingressar no corpo do homem e de lhe assumir a forma, porém é composta\n' +
+            'de elementos que até então não existiam? Harmonia não é o que afirmas em tua\n' +
+            'comparação; ao contrário: primeiro existem a lira, as cordas e os sons, sem nenhuma\n' +
+            'harmonia. Esta é a última a formar-se, como é também a que desaparece mais cedo. De que\n' +
+            'modo porás em consonância esta asserção com o que disseste antes?',
           footnote: [],
           bold: []
         },
@@ -3648,7 +3648,7 @@ export default [
         },
         {
           text: 'No entanto, prosseguiu, se é preciso haver consonância, é quando se trata de\n' +
-          'harmonia.',
+            'harmonia.',
           footnote: [],
           bold: []
         },
@@ -3659,21 +3659,21 @@ export default [
         },
         {
           text: 'Tuas proposições são desarmônicas, disse. Por conseguinte, qual delas escolhes: a de\n' +
-          'que aprender é recordar ou a de que a alma é a harmonia?',
+            'que aprender é recordar ou a de que a alma é a harmonia?',
           footnote: [],
           bold: []
         },
         {
           text: 'Sobre todos os pontos, Sócrates, eu prefiro a primeira, porque a outra foi aceita sem\n' +
-          'demonstração, por parecer-me verossímil e algum tanto conveniente, razão de admiti-la a\n' +
-          'maioria dos homens. No entanto, estou certo de que as demonstrações nessas comparações\n' +
-          'não passam de impostura, capazes de iludir-nos se não tomarmos as devidas precauções,\n' +
-          'em geometria com em tudo mais. Mas o argumento relativo ao conhecimento e à\n' +
-          'reminiscência se baseia num princípio digno de aceitação, pois foi asseverado que nossa\n' +
-          'alma existe antes mesmo de ingressar no corpo, como o exige tua relação com a essência\n' +
-          'daquilo que denominamos O que é. Ora, essa proposição, conforme estou convencido, foi\n' +
-          'por mim adotada com argumentos muito sólidos. Daí, ver me forçado, ao que parece, a não\n' +
-          'permitir que nem eu, nem ninguém afirme que a alma é harmonia.',
+            'demonstração, por parecer-me verossímil e algum tanto conveniente, razão de admiti-la a\n' +
+            'maioria dos homens. No entanto, estou certo de que as demonstrações nessas comparações\n' +
+            'não passam de impostura, capazes de iludir-nos se não tomarmos as devidas precauções,\n' +
+            'em geometria com em tudo mais. Mas o argumento relativo ao conhecimento e à\n' +
+            'reminiscência se baseia num princípio digno de aceitação, pois foi asseverado que nossa\n' +
+            'alma existe antes mesmo de ingressar no corpo, como o exige tua relação com a essência\n' +
+            'daquilo que denominamos O que é. Ora, essa proposição, conforme estou convencido, foi\n' +
+            'por mim adotada com argumentos muito sólidos. Daí, ver me forçado, ao que parece, a não\n' +
+            'permitir que nem eu, nem ninguém afirme que a alma é harmonia.',
           footnote: [],
           bold: []
         },
@@ -3683,8 +3683,8 @@ export default [
         },
         {
           text: 'E o seguinte, Símias, perguntou, como te parece: és de opinião que a\n' +
-          'harmonia, ou qualquer outro composto, poderá proceder de maneira diferente da dos\n' +
-          'elementos se que é feito?',
+            'harmonia, ou qualquer outro composto, poderá proceder de maneira diferente da dos\n' +
+            'elementos se que é feito?',
           footnote: [],
           bold: [
             {
@@ -3700,7 +3700,7 @@ export default [
         },
         {
           text: 'Como também não poderá, segundo penso, fazer ou sofrer o que quer que seja que\n' +
-          'não façam ou sofram aqueles elementos.',
+            'não façam ou sofram aqueles elementos.',
           footnote: [],
           bold: []
         },
@@ -3721,7 +3721,7 @@ export default [
         },
         {
           text: 'Logo, de nenhum jeito a harmonia poderá mover-se ou soar, ou fazer seja o que for\n' +
-          'em contrário dos elementos?',
+            'em contrário dos elementos?',
           footnote: [],
           bold: []
         },
@@ -3732,8 +3732,8 @@ export default [
         },
         {
           text: 'Pois não é certo que se ela estiver mais harmonizada ou em grau maior, a admitirmos\n' +
-          'que seja possível semelhante hipótese, tanto mais harmonizada será e em maior grau, e se\n' +
-          'estiver menos e em grau menor, será menos harmonizada e em grau menor?',
+            'que seja possível semelhante hipótese, tanto mais harmonizada será e em maior grau, e se\n' +
+            'estiver menos e em grau menor, será menos harmonizada e em grau menor?',
           footnote: [],
           bold: []
         },
@@ -3744,8 +3744,8 @@ export default [
         },
         {
           text: 'E da alma, justificar-se-á dizer a mesma coisa, que revela diferença, embora mínima,\n' +
-          'em ser mais alma e em grau maior do que outra, ou menos alma e em grau menor, nisso,\n' +
-          'justamente, de ser alma?',
+            'em ser mais alma e em grau maior do que outra, ou menos alma e em grau menor, nisso,\n' +
+            'justamente, de ser alma?',
           footnote: [],
           bold: []
         },
@@ -3756,8 +3756,8 @@ export default [
         },
         {
           text: 'Passemos adiante, continuou, por Zeus! De uma alma não dizemos que é dotada de\n' +
-          'razão e de virtude, e que é boa, e de outra, pelo contrário, que é destruída de senso, viciosa\n' +
-          'e má? E não estão certos os que afirmam semelhante proposição?',
+            'razão e de virtude, e que é boa, e de outra, pelo contrário, que é destruída de senso, viciosa\n' +
+            'e má? E não estão certos os que afirmam semelhante proposição?',
           footnote: [],
           bold: []
         },
@@ -3768,23 +3768,23 @@ export default [
         },
         {
           text: 'Sendo assim, os que admitem que a alma é harmonia, como explicarão a existência\n' +
-          'dessas qualidades na alma, a saber, a virtude e o vício? Dirão, porventura, que se trata de\n' +
-          'uma harmonia ou desarmonia de outra espécie? Que uma delas, a boa, foi harmonizada e\n' +
-          'que, por ser harmonia, possui em si mesma essa modalidade de harmonia, enquanto a outra,\n' +
-          'por não estar harmonizada, carece absolutamente de harmonia?',
+            'dessas qualidades na alma, a saber, a virtude e o vício? Dirão, porventura, que se trata de\n' +
+            'uma harmonia ou desarmonia de outra espécie? Que uma delas, a boa, foi harmonizada e\n' +
+            'que, por ser harmonia, possui em si mesma essa modalidade de harmonia, enquanto a outra,\n' +
+            'por não estar harmonizada, carece absolutamente de harmonia?',
           footnote: [],
           bold: []
         },
         {
           text: 'Não sei o que responda, falou Símias; porém quero crer que o adepto dessa doutrina\n' +
-          'se expressaria mais ou menos nesses termos.',
+            'se expressaria mais ou menos nesses termos.',
           footnote: [],
           bold: []
         },
         {
           text: 'No entanto, num ponto já ficamos de acordo, continuou: que nenhuma alma é mais\n' +
-          'alma ou menos alma do que outra, o que eqüivale a aceitar que nenhuma harmonia poderá\n' +
-          'ser mais harmonia ou maior – ou o inverso – do que outra, não é verdade?',
+            'alma ou menos alma do que outra, o que eqüivale a aceitar que nenhuma harmonia poderá\n' +
+            'ser mais harmonia ou maior – ou o inverso – do que outra, não é verdade?',
           footnote: [],
           bold: []
         },
@@ -3795,7 +3795,7 @@ export default [
         },
         {
           text: 'Ora, se a harmonia não admite graus, não se concebe, também, que possa ficar mais\n' +
-          'ou menos harmonizada. Não é isso mesmo?',
+            'ou menos harmonizada. Não é isso mesmo?',
           footnote: [],
           bold: []
         },
@@ -3806,7 +3806,7 @@ export default [
         },
         {
           text: 'Mas a harmonia que não for nem mais harmonizada nem menos, poderá participar em\n' +
-          'grau diferente da harmonia, ou sempre o fará na mesma proporção?',
+            'grau diferente da harmonia, ou sempre o fará na mesma proporção?',
           footnote: [],
           bold: []
         },
@@ -3817,7 +3817,7 @@ export default [
         },
         {
           text: 'Sendo assim, a alma, uma vez que não será isso mesmo, alma, nem mais nem menos,\n' +
-          'do que outra, também não poderá ser mais ou menos harmonizada.',
+            'do que outra, também não poderá ser mais ou menos harmonizada.',
           footnote: [],
           bold: []
         },
@@ -3838,7 +3838,7 @@ export default [
         },
         {
           text: 'Nessas condições, ainda, como poderia uma alma participar em grau maior ou menor\n' +
-          'do que outra, da virtude ou do vício, se o vício for desarmonia e a virtude, harmonia?',
+            'do que outra, da virtude ou do vício, se o vício for desarmonia e a virtude, harmonia?',
           footnote: [],
           bold: []
         },
@@ -3849,8 +3849,8 @@ export default [
         },
         {
           text: 'Logo, Símias, se bem considerarmos, nunca a alma poderá participar do vício, se ela\n' +
-          'for, de fato, harmonia, pois a harmonia, evidentemente, sendo sempre de maneira perfeita o\n' +
-          'que é, a saber, harmonia, não participará da desarmonia.',
+            'for, de fato, harmonia, pois a harmonia, evidentemente, sendo sempre de maneira perfeita o\n' +
+            'que é, a saber, harmonia, não participará da desarmonia.',
           footnote: [],
           bold: []
         },
@@ -3871,7 +3871,7 @@ export default [
         },
         {
           text: 'Como decorrência, portanto, de nosso argumento anterior, as almas de todos os seres\n' +
-          'vivos são igualmente boas, se forem, por natureza, igualmente almas.',
+            'vivos são igualmente boas, se forem, por natureza, igualmente almas.',
           footnote: [],
           bold: []
         },
@@ -3882,7 +3882,7 @@ export default [
         },
         {
           text: 'E parecer-te-ia também certa a explicação, continuou, e que nosso argumento viria a\n' +
-          'parar nisso, se fosse verdadeira a hipótese de que a alma é harmonia?',
+            'parar nisso, se fosse verdadeira a hipótese de que a alma é harmonia?',
           footnote: [],
           bold: []
         },
@@ -3893,7 +3893,7 @@ export default [
         },
         {
           text: 'XLII – E agora, falou, de tudo o que há no homem, não dirás ser a alma, justamente,\n' +
-          'que domina, máxime quando dotada de prudência?',
+            'que domina, máxime quando dotada de prudência?',
           footnote: [],
           bold: [
             {
@@ -3914,8 +3914,8 @@ export default [
         },
         {
           text: 'Por outro lado, não admitimos antes que, no caso de ser harmonia, nunca poderia\n' +
-          'ficar a alma em dissonância com as tensões, os relaxamentos e as vibrações de seus\n' +
-          'elementos componentes, e que, pelo contrário, ela sempre os seguiria, sem nunca dirigi-los?',
+            'ficar a alma em dissonância com as tensões, os relaxamentos e as vibrações de seus\n' +
+            'elementos componentes, e que, pelo contrário, ela sempre os seguiria, sem nunca dirigi-los?',
           footnote: [],
           bold: []
         },
@@ -3926,10 +3926,10 @@ export default [
         },
         {
           text: 'E agora? O que verificamos não é que ela faz precisamente o contrário, dirigindo\n' +
-          'todos os elementos de que a imaginamos composta, opondo-se-lhes em quase tudo durante\n' +
-          'a vida inteira e dominando-os de mil modos, às vezes por meio de castigos violentos e\n' +
-          'dolorosos, do âmbito da ginástica e da medicina, às vezes por meios suasórios, com ameaças ou admoestações, em franco diálogo com os apetites, as cóleras e os temores? É\n' +
-          'como imagina Homero isso mesmo na Odisséia quando diz que Odisseu.',
+            'todos os elementos de que a imaginamos composta, opondo-se-lhes em quase tudo durante\n' +
+            'a vida inteira e dominando-os de mil modos, às vezes por meio de castigos violentos e\n' +
+            'dolorosos, do âmbito da ginástica e da medicina, às vezes por meios suasórios, com ameaças ou admoestações, em franco diálogo com os apetites, as cóleras e os temores? É\n' +
+            'como imagina Homero isso mesmo na Odisséia quando diz que Odisseu.',
           footnote: [],
           bold: []
         },
@@ -3945,9 +3945,9 @@ export default [
         },
         {
           text: 'Pensas, então, que, ao compor essa passagem, ele considerava a alma uma espécie de\n' +
-          'harmonia, capaz de ser dirigida pelas disposições do corpo, ou o contrário, própria para\n' +
-          'dirigi-lo e dominá-lo, por ser algo, justamente, muito mais divino do que uma simples\n' +
-          'harmonia?',
+            'harmonia, capaz de ser dirigida pelas disposições do corpo, ou o contrário, própria para\n' +
+            'dirigi-lo e dominá-lo, por ser algo, justamente, muito mais divino do que uma simples\n' +
+            'harmonia?',
           footnote: [],
           bold: []
         },
@@ -3958,8 +3958,8 @@ export default [
         },
         {
           text: 'Por conseguinte, meu caro, de jeito nenhum ficará bem para nós afirmar que a alma é\n' +
-          'uma espécie de harmonia. Pois desse modo, ao que parece, não nos poríamos nem de\n' +
-          'acordo com Homero, o divino poeta, nem mesmo conosco.',
+            'uma espécie de harmonia. Pois desse modo, ao que parece, não nos poríamos nem de\n' +
+            'acordo com Homero, o divino poeta, nem mesmo conosco.',
           footnote: [],
           bold: []
         },
@@ -3974,8 +3974,8 @@ export default [
         },
         {
           text: 'Muito bem, falou Sócrates; tudo indica que Harmonia, a divindade tebana, já\n' +
-          'se nos tornou propícia. E agora, Cebete, continuou, de que jeito aplacaremos Cadmo, e com\n' +
-          'que argumentos?',
+            'se nos tornou propícia. E agora, Cebete, continuou, de que jeito aplacaremos Cadmo, e com\n' +
+            'que argumentos?',
           footnote: [],
           bold: [
             {
@@ -3986,40 +3986,40 @@ export default [
         },
         {
           text: 'Tenho certeza de que tu mesmo os encontrarás falou Cebete. Tua argumentação a\n' +
-          'respeito da harmonia foi notável; ultrapassou de muito minha expectativa. Quando Símias\n' +
-          'te opôs suas dificuldades, eu tinha quase certeza que não seria possível refutar a teoria por\n' +
-          'ele apresentada. Daí minha grande surpresa, por ver que ela não resistiu ao primeiro assalto\n' +
-          'da tua. Nada me admiraria, por conseguinte, se acontecesse a mesma coisa com o\n' +
-          'argumento de Cadmo.',
+            'respeito da harmonia foi notável; ultrapassou de muito minha expectativa. Quando Símias\n' +
+            'te opôs suas dificuldades, eu tinha quase certeza que não seria possível refutar a teoria por\n' +
+            'ele apresentada. Daí minha grande surpresa, por ver que ela não resistiu ao primeiro assalto\n' +
+            'da tua. Nada me admiraria, por conseguinte, se acontecesse a mesma coisa com o\n' +
+            'argumento de Cadmo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Não fales demais, caro amigo, interpelou-o Sócrates, para que algum mau-olhado não\n' +
-          'venha desarticular nosso próximo discurso. Porém deixemos isso a cargo da divindade; o\n' +
-          'que nos compete é congregar esforços, como aconselha Homero, para ver o que disseste\n' +
-          'tem algum valor. Resume-se no seguinte o que procuras: Exiges provas de que nossa alma é\n' +
-          'imperecível e imortal, para que o filósofo que esteja no ponto de morrer se encoraje e\n' +
-          'acredite que depois da morte se sentirá muito melhor no outro mundo do que se vivesse de\n' +
-          'maneira diferente até o fim, e não se mostre corajoso por modo estulto e irracional. A\n' +
-          'demonstração de que a alma é algo forte e semelhante à divindade, e que existia antes de\n' +
-          'nos tornamos homens, não impede, segundo disseste, que tudo isso não prova que ela seja\n' +
-          'mortal, mas tão-somente que é relativamente durável e que antes poderá ter vivido algures\n' +
-          'um tempo indefinido e aprendido e praticado muita coisa. Mas nem por isso será imortal.\n' +
-          'Seu ingresso no corpo poderá ser o começo de sua própria destruição, uma espécie de\n' +
-          'doença. Assim, cansada de carregar o fardo desta vida, acabará por desaparecer no que\n' +
-          'denominamos morte Conforme dizes, é indiferente ingressar ela no corpo uma só vez ou\n' +
-          'muitas, no que respeite ao medo que todos nós manifestamos. Aliás, justifica-se esse medo,\n' +
-          'a menos que se trate de pessoa insensata, por não estarmos em condições de demonstrar que\n' +
-          'a alma é imortal. Esse é, mais ou menos, Cebete, o sentido de tuas palavras. De caso\n' +
-          'pensado, insisto no mesmo argumentos, para que não nos escape nenhuma particularidade e\n' +
-          'possas, caso queiras, acrescentar ou tirar alguma coisa.',
+            'venha desarticular nosso próximo discurso. Porém deixemos isso a cargo da divindade; o\n' +
+            'que nos compete é congregar esforços, como aconselha Homero, para ver o que disseste\n' +
+            'tem algum valor. Resume-se no seguinte o que procuras: Exiges provas de que nossa alma é\n' +
+            'imperecível e imortal, para que o filósofo que esteja no ponto de morrer se encoraje e\n' +
+            'acredite que depois da morte se sentirá muito melhor no outro mundo do que se vivesse de\n' +
+            'maneira diferente até o fim, e não se mostre corajoso por modo estulto e irracional. A\n' +
+            'demonstração de que a alma é algo forte e semelhante à divindade, e que existia antes de\n' +
+            'nos tornamos homens, não impede, segundo disseste, que tudo isso não prova que ela seja\n' +
+            'mortal, mas tão-somente que é relativamente durável e que antes poderá ter vivido algures\n' +
+            'um tempo indefinido e aprendido e praticado muita coisa. Mas nem por isso será imortal.\n' +
+            'Seu ingresso no corpo poderá ser o começo de sua própria destruição, uma espécie de\n' +
+            'doença. Assim, cansada de carregar o fardo desta vida, acabará por desaparecer no que\n' +
+            'denominamos morte Conforme dizes, é indiferente ingressar ela no corpo uma só vez ou\n' +
+            'muitas, no que respeite ao medo que todos nós manifestamos. Aliás, justifica-se esse medo,\n' +
+            'a menos que se trate de pessoa insensata, por não estarmos em condições de demonstrar que\n' +
+            'a alma é imortal. Esse é, mais ou menos, Cebete, o sentido de tuas palavras. De caso\n' +
+            'pensado, insisto no mesmo argumentos, para que não nos escape nenhuma particularidade e\n' +
+            'possas, caso queiras, acrescentar ou tirar alguma coisa.',
           footnote: [],
           bold: []
         },
         {
           text: 'Ao que Cebete respondeu: Por enquanto, nada tenho a acrescentar ou a retirar; foi\n' +
-          'isso mesmo que eu disse.',
+            'isso mesmo que eu disse.',
           footnote: [],
           bold: []
         },
@@ -4029,10 +4029,10 @@ export default [
         },
         {
           text: 'Durante algum tempo Sócrates se conservou calado, como se refletisse a sós\n' +
-          'consigo. Depois continuou: O problema com que te ocupas, Cebete, é de suma importância;\n' +
-          'precisaremos investigar a fundo a natureza do nascimento e da morte. Se ter parecer, vou\n' +
-          'contar-te o que se passou comigo nesse particular. Depois, se achares o que eu disser de\n' +
-          'alguma utilidade para reforçar a tua tese, podes utilizá-los como bem entenderes.',
+            'consigo. Depois continuou: O problema com que te ocupas, Cebete, é de suma importância;\n' +
+            'precisaremos investigar a fundo a natureza do nascimento e da morte. Se ter parecer, vou\n' +
+            'contar-te o que se passou comigo nesse particular. Depois, se achares o que eu disser de\n' +
+            'alguma utilidade para reforçar a tua tese, podes utilizá-los como bem entenderes.',
           footnote: [],
           bold: [
             {
@@ -4048,26 +4048,26 @@ export default [
         },
         {
           text: 'Então, ouve o que passo a relatar-te. O fato, Cebete, é quando eu era moço sentia-me\n' +
-          'tomado do desejo irresistível de adquirir esse conhecimento a que dão o nome de História\n' +
-          'Natural. Afigurava-se-me, realmente, maravilhoso conhecer a causa de tudo, o porquê do\n' +
-          'nascimento e da morte de cada coisa, e a razão de existirem. Vezes sem conta me punha a\n' +
-          'refletir em todos os sentidos, inicialmente a respeito de questões como a seguinte: Será\n' +
-          'quando o calor e o frio passam por uma espécie de fermentação, conforme alguns afirmam,\n' +
-          'que se formam os animais? É por meio do sangue que pensamos? Ou do ar? Ou do fogo?\n' +
-          'Ou nada disso estará certo, vindo a ser o cérebro que dá origem às sensações da vista, do\n' +
-          'ouvido e do olfato, das quais surgiria a memória e a opinião, e, da memória e da opinião,\n' +
-          'uma vez, tornadas calmas, nasceria o conhecimento? De seguida, ocupei-me com a\n' +
-          'corrupção das coisas e com as modificações do céu e da terra, para chegar à conclusão de\n' +
-          'que nada de proveitoso se tirava de minha inaptidão para considerações dessa natureza.\n' +
-          'Vou dar-te uma prova eloquente disso mesmo. Para as coisas que, segundo meu próprio\n' +
-          'parecer e de outras pessoas, eu conhecia bem, a tal ponto me deixaram cego semelhantes\n' +
-          'especulações, que cheguei a desaprender até mesmo o que antes eu presumia conhecer,\n' +
-          'entre outras, por exemplo, por que o homem cresce. Até então, eu imaginava ser evidente\n' +
-          'para toda gente que o homem cre3sce porque come e bebe; pois quando, pela alimentação,\n' +
-          'a carne se junta à carne e o osso ao osso, e, sempre de acordo com o mesmo processo, as\n' +
-          'demais partes do corpo são acrescidas de elementos afins, a massa que antes era pequena se\n' +
-          'torna volumosa, do que resulta ficar grande o homem pequeno. Era assim que eu pensava.\n' +
-          'Não te parece razoável?',
+            'tomado do desejo irresistível de adquirir esse conhecimento a que dão o nome de História\n' +
+            'Natural. Afigurava-se-me, realmente, maravilhoso conhecer a causa de tudo, o porquê do\n' +
+            'nascimento e da morte de cada coisa, e a razão de existirem. Vezes sem conta me punha a\n' +
+            'refletir em todos os sentidos, inicialmente a respeito de questões como a seguinte: Será\n' +
+            'quando o calor e o frio passam por uma espécie de fermentação, conforme alguns afirmam,\n' +
+            'que se formam os animais? É por meio do sangue que pensamos? Ou do ar? Ou do fogo?\n' +
+            'Ou nada disso estará certo, vindo a ser o cérebro que dá origem às sensações da vista, do\n' +
+            'ouvido e do olfato, das quais surgiria a memória e a opinião, e, da memória e da opinião,\n' +
+            'uma vez, tornadas calmas, nasceria o conhecimento? De seguida, ocupei-me com a\n' +
+            'corrupção das coisas e com as modificações do céu e da terra, para chegar à conclusão de\n' +
+            'que nada de proveitoso se tirava de minha inaptidão para considerações dessa natureza.\n' +
+            'Vou dar-te uma prova eloquente disso mesmo. Para as coisas que, segundo meu próprio\n' +
+            'parecer e de outras pessoas, eu conhecia bem, a tal ponto me deixaram cego semelhantes\n' +
+            'especulações, que cheguei a desaprender até mesmo o que antes eu presumia conhecer,\n' +
+            'entre outras, por exemplo, por que o homem cresce. Até então, eu imaginava ser evidente\n' +
+            'para toda gente que o homem cre3sce porque come e bebe; pois quando, pela alimentação,\n' +
+            'a carne se junta à carne e o osso ao osso, e, sempre de acordo com o mesmo processo, as\n' +
+            'demais partes do corpo são acrescidas de elementos afins, a massa que antes era pequena se\n' +
+            'torna volumosa, do que resulta ficar grande o homem pequeno. Era assim que eu pensava.\n' +
+            'Não te parece razoável?',
           footnote: [],
           bold: []
         },
@@ -4078,10 +4078,10 @@ export default [
         },
         {
           text: 'Reflete também no seguinte: Sempre considerei suficiente, quando alguém parecia\n' +
-          'alto ao lado de outra pessoa de pequena estatura, dizer que a ultrapassava de uma cabeça, o\n' +
-          'mesmo acontecendo com um cavalo em confronto com o outro. Mais claramente, ainda: o\n' +
-          'número dez se me afigurava maior do que o número oito por ajuntar-se dois a este último,\n' +
-          'como o cúbito duplo seria maior do que o simples por ultrapassá-lo de metade.',
+            'alto ao lado de outra pessoa de pequena estatura, dizer que a ultrapassava de uma cabeça, o\n' +
+            'mesmo acontecendo com um cavalo em confronto com o outro. Mais claramente, ainda: o\n' +
+            'número dez se me afigurava maior do que o número oito por ajuntar-se dois a este último,\n' +
+            'como o cúbito duplo seria maior do que o simples por ultrapassá-lo de metade.',
           footnote: [],
           bold: []
         },
@@ -4092,18 +4092,18 @@ export default [
         },
         {
           text: 'Como estou longe, por Zeus, continuou, de imaginar que conheço a causa de tudo\n' +
-          'isso! Pois nunca chego a compreender, no caso de acrescentar uma unidade a outra, se é a\n' +
-          'unidade a que esta última foi acrescentada que se tornou duas, ou se foi a acrescentada,\n' +
-          'juntamente com a primeira, que ficaram duas, pelo fato de uma ter sido acrescentada à\n' +
-          'outra. Não podia entender que, estando separadas, cada uma era uma unidade, não duas, e\n' +
-          'que o fato de ficarem juntas foi a causa de se tornarem duas, a saber, por terem sido postas\n' +
-          'lado a lado. Do mesmo modo, não conseguia convencer-me de ser essa a causa de tornar-se\n' +
-          'duas a unidade, a saber: a divisão. Seria precisamente o oposto do que antes nos ensejara\n' +
-          'duas unidades: naquela ocasião, foi isso conseguido por se aproximarem as duas e ficarem\n' +
-          'lado a lado; agora, porém, a causa foi a separação e o afastamento delas duas. Assim,\n' +
-          'também, não acredito saber como se gera a unidade, nem, para dizer tudo, como nasce ou\n' +
-          'morre ou existe seja o que for, a aceitarmos o princípio desse método. Prefiro arriscar-me\n' +
-          'noutra direção; esse caminho não me serve.',
+            'isso! Pois nunca chego a compreender, no caso de acrescentar uma unidade a outra, se é a\n' +
+            'unidade a que esta última foi acrescentada que se tornou duas, ou se foi a acrescentada,\n' +
+            'juntamente com a primeira, que ficaram duas, pelo fato de uma ter sido acrescentada à\n' +
+            'outra. Não podia entender que, estando separadas, cada uma era uma unidade, não duas, e\n' +
+            'que o fato de ficarem juntas foi a causa de se tornarem duas, a saber, por terem sido postas\n' +
+            'lado a lado. Do mesmo modo, não conseguia convencer-me de ser essa a causa de tornar-se\n' +
+            'duas a unidade, a saber: a divisão. Seria precisamente o oposto do que antes nos ensejara\n' +
+            'duas unidades: naquela ocasião, foi isso conseguido por se aproximarem as duas e ficarem\n' +
+            'lado a lado; agora, porém, a causa foi a separação e o afastamento delas duas. Assim,\n' +
+            'também, não acredito saber como se gera a unidade, nem, para dizer tudo, como nasce ou\n' +
+            'morre ou existe seja o que for, a aceitarmos o princípio desse método. Prefiro arriscar-me\n' +
+            'noutra direção; esse caminho não me serve.',
           footnote: [],
           bold: []
         },
@@ -4113,31 +4113,31 @@ export default [
         },
         {
           text: 'Ao ouvir, porém, certa vez alguém ler num livro de Anaxágora – segundo\n' +
-          'dizia – que a mente é organizadora e causa de tudo, fiquei satisfeitíssimo com semelhante\n' +
-          'causa, por parecer-me de algum modo, muito certo que a mente fosse a causa de tudo,\n' +
-          'tendo imaginado que, a ser assim mesmo, como coordenadora do Universo, a mente\n' +
-          'disporia cada coisa particular pela melhor maneira possível. Se alguém quisesse explicar a\n' +
-          'causa de como alguma coisa nasce ou morre ou existe, teria apenas de descobrir qual é a\n' +
-          'melhor maneira para ela de existir, sofrer ou produzir seja o que for. Segundo esse critério,\n' +
-          'só o que importa ao homem considerar, tanto em relação a si mesmo como a tudo o mais, é\n' +
-          'o modo melhor e mais perfeito. Desse jeito, ficaria necessariamente conhecendo o pior, por\n' +
-          'ambos serem objeto do mesmo conhecimento. Depois dessas reflexões, alegrei-me ao\n' +
-          'pensar que havia encontrado em Anaxágoras um professor da causa das coisas como havia\n' +
-          'muito eu desejava, que começaria por dizer-me se a Terra é chata ou redonda, e depois me\n' +
-          'explicaria a causa e a necessidade dessa forma, recorrendo sempre ao princípio do melhor,\n' +
-          'com demonstrar que para a Terra era melhor mesmo ser assim. No caso de dizer que a\n' +
-          'Terra se encontra no centro, explicaria porque motivo é melhor para ela ficar no centro. Se\n' +
-          'ele me demonstrasse esse ponto, decidir-me-ia, de uma vez por todas, a não procurar outra\n' +
-          'espécie de causa. O mesmo faria com relação ao Sol, à Lua, e aos outros astros, no que diz\n' +
-          'respeito à sua velocidade relativa, o ponto de conversão e demais acidente a que estão\n' +
-          'sujeitos, bem como a razão de ser melhor para cada um deles fazer o que fazem ou sofrer o\n' +
-          'que sofrem. Um momento sequer não podia admitir que, depois de afirmar que tudo está\n' +
-          'ordenado pela mente, indicasse outra causa que não a de ser melhor para tudo proceder\n' +
-          'como procedem. Ao atribuir uma causa particular a cada coisa e ao conjunto, estava certo\n' +
-          'de que no mesmo ponto demonstraria o que para cada um era melhor e em que consistia\n' +
-          'para todos o bem comum. Por nada do mundo abriria mão dessa esperança. Por isso,\n' +
-          'havendo tomado do livro com sofreguidão, li-o de um fôlego, para poder ficar conhecendo,\n' +
-          'o mais depressa possível, tanto o melhor com o pior.',
+            'dizia – que a mente é organizadora e causa de tudo, fiquei satisfeitíssimo com semelhante\n' +
+            'causa, por parecer-me de algum modo, muito certo que a mente fosse a causa de tudo,\n' +
+            'tendo imaginado que, a ser assim mesmo, como coordenadora do Universo, a mente\n' +
+            'disporia cada coisa particular pela melhor maneira possível. Se alguém quisesse explicar a\n' +
+            'causa de como alguma coisa nasce ou morre ou existe, teria apenas de descobrir qual é a\n' +
+            'melhor maneira para ela de existir, sofrer ou produzir seja o que for. Segundo esse critério,\n' +
+            'só o que importa ao homem considerar, tanto em relação a si mesmo como a tudo o mais, é\n' +
+            'o modo melhor e mais perfeito. Desse jeito, ficaria necessariamente conhecendo o pior, por\n' +
+            'ambos serem objeto do mesmo conhecimento. Depois dessas reflexões, alegrei-me ao\n' +
+            'pensar que havia encontrado em Anaxágoras um professor da causa das coisas como havia\n' +
+            'muito eu desejava, que começaria por dizer-me se a Terra é chata ou redonda, e depois me\n' +
+            'explicaria a causa e a necessidade dessa forma, recorrendo sempre ao princípio do melhor,\n' +
+            'com demonstrar que para a Terra era melhor mesmo ser assim. No caso de dizer que a\n' +
+            'Terra se encontra no centro, explicaria porque motivo é melhor para ela ficar no centro. Se\n' +
+            'ele me demonstrasse esse ponto, decidir-me-ia, de uma vez por todas, a não procurar outra\n' +
+            'espécie de causa. O mesmo faria com relação ao Sol, à Lua, e aos outros astros, no que diz\n' +
+            'respeito à sua velocidade relativa, o ponto de conversão e demais acidente a que estão\n' +
+            'sujeitos, bem como a razão de ser melhor para cada um deles fazer o que fazem ou sofrer o\n' +
+            'que sofrem. Um momento sequer não podia admitir que, depois de afirmar que tudo está\n' +
+            'ordenado pela mente, indicasse outra causa que não a de ser melhor para tudo proceder\n' +
+            'como procedem. Ao atribuir uma causa particular a cada coisa e ao conjunto, estava certo\n' +
+            'de que no mesmo ponto demonstraria o que para cada um era melhor e em que consistia\n' +
+            'para todos o bem comum. Por nada do mundo abriria mão dessa esperança. Por isso,\n' +
+            'havendo tomado do livro com sofreguidão, li-o de um fôlego, para poder ficar conhecendo,\n' +
+            'o mais depressa possível, tanto o melhor com o pior.',
           footnote: [],
           bold: [
             {
@@ -4152,44 +4152,44 @@ export default [
         },
         {
           text: 'Porém, não demorei, companheiro, a cair do alto dessa maravilhosa\n' +
-          'expectativa, ao prosseguir na leitura e verificar que o nosso homem não recorria à mente\n' +
-          'para nada, nem a qualquer outra causa para a explicação da ordem natural das coisas, senão\n' +
-          'só o ar, ao éter, à água, e uma infinidade mais de causas extravagantes. Quis parecer-me\n' +
-          'que com ele acontecia como com quem começasse por declarar que tudo o que Sócrates faz\n' +
-          'é determinado pela inteligência, para depois, ao tentar apresentar a causa de cada um dos\n' +
-          'meus atos, afirmar, de início, que a razão de encontrar-me sentado agora neste lugar é ter o\n' +
-          'corpo composto de ossos e músculos, por serem os ossos duros e separados uns dos outros\n' +
-          'pelas articulações, e os músculos de tal modo constituídos que podem contrair-se ou\n' +
-          'relaxar-se, e por cobrirem os ossos, juntamente com a carne e a pele que os envolvem.\n' +
-          'Sendo móveis os ossos em suas articulações, pela contração ou relaxamento dos músculos\n' +
-          'fico em condições de dobrar neste momento os membros, razão de estar agora sentado aqui\n' +
-          'com as pernas flectidas. A mesma coisa se daria, se a respeito de nossa conversação\n' +
-          'indicasse como causa a voz, o ar, os sons, e mil outras particularidades do mesmo tipo,\n' +
-          'porém se esquecesse de mencionar as verdadeiras causas, a saber: pelo fato de haverem\n' +
-          'acordado os Atenienses em condenar-me, pareceu-me, também, melhor ficar sentado aqui,\n' +
-          'e mais justo submeter-se neste local à pena cominada. Sim, é isso, pelo cão! Pois de muito,\n' +
-          'quero crer, este músculos e estes ossos estariam em Mégara ou entre o Beócios, movidos\n' +
-          'pela idéia do melhor, se não me parecesse muito mais justo e belo, em vez de evadir-me e\n' +
-          'fugir, submeter-me à pena que a cidade me impusera. É o cúmulo do absurdo dar o nome\n' +
-          'de causa a semelhantes coisas. Se alguém dissesse que sem ossos e músculos e tudo o mais\n' +
-          'que tenho no corpo eu não seria capaz de pôr em prática nenhuma resolução, só falaria\n' +
-          'verdade. Porém afirmar que é por causa disso que eu faço o que eu faço, e que, assim\n' +
-          'procedendo, me valho da inteligência, porém não em virtude da escolha do melhor, é levar\n' +
-          'ao extremo a imprecisão da linguagem e revelar-se incapaz de compreender que uma coisa\n' +
-          'é a verdadeira causa, e outra, muito diferente, aquilo que sem a causa jamais poderá ser\n' +
-          'causa. A meu parecer, é justamente isso o que faz a maioria dos homens, como que a tatear\n' +
-          'nas trevas, empregando um termo impróprio e o designando como causa. Daí, envolver um\n' +
-          'deles a Terra num turbilhão e deixá-la imóvel debaixo do céu, enquanto outro a concebe à\n' +
-          'maneira de uma gamela larga, que tem como suporte o ar. Quanto à potência que\n' +
-          'determinou a atual disposição das coisas pela melhor maneira, nem a procuram nem\n' +
-          'concebem que seja dotada de algum poder superior, por se julgarem capazes de encontrar\n' +
-          'algum Atlante mais forte e mais imortal do que ela, para manter coeso o conjunto das\n' +
-          'coisas. Mas que o bem, de fato, e a necessidade abarquem e liguem todas as coisas, é o que\n' +
-          'não admitem de nenhum modo. De minha parte, para ficar sabendo como atua semelhante\n' +
-          'causa, de muito bom grado me faria discípulo de quem quer que fosse. Mas, uma vez que\n' +
-          'não a conheço nem me acho em condições de descobri-la por mim próprio nem de aprender\n' +
-          'com outros o que ela seja: queres que te faça uma descrição completa, Cebete, de como\n' +
-          'empreendi o segundo roteiro de navegação para a investigação da causa?',
+            'expectativa, ao prosseguir na leitura e verificar que o nosso homem não recorria à mente\n' +
+            'para nada, nem a qualquer outra causa para a explicação da ordem natural das coisas, senão\n' +
+            'só o ar, ao éter, à água, e uma infinidade mais de causas extravagantes. Quis parecer-me\n' +
+            'que com ele acontecia como com quem começasse por declarar que tudo o que Sócrates faz\n' +
+            'é determinado pela inteligência, para depois, ao tentar apresentar a causa de cada um dos\n' +
+            'meus atos, afirmar, de início, que a razão de encontrar-me sentado agora neste lugar é ter o\n' +
+            'corpo composto de ossos e músculos, por serem os ossos duros e separados uns dos outros\n' +
+            'pelas articulações, e os músculos de tal modo constituídos que podem contrair-se ou\n' +
+            'relaxar-se, e por cobrirem os ossos, juntamente com a carne e a pele que os envolvem.\n' +
+            'Sendo móveis os ossos em suas articulações, pela contração ou relaxamento dos músculos\n' +
+            'fico em condições de dobrar neste momento os membros, razão de estar agora sentado aqui\n' +
+            'com as pernas flectidas. A mesma coisa se daria, se a respeito de nossa conversação\n' +
+            'indicasse como causa a voz, o ar, os sons, e mil outras particularidades do mesmo tipo,\n' +
+            'porém se esquecesse de mencionar as verdadeiras causas, a saber: pelo fato de haverem\n' +
+            'acordado os Atenienses em condenar-me, pareceu-me, também, melhor ficar sentado aqui,\n' +
+            'e mais justo submeter-se neste local à pena cominada. Sim, é isso, pelo cão! Pois de muito,\n' +
+            'quero crer, este músculos e estes ossos estariam em Mégara ou entre o Beócios, movidos\n' +
+            'pela idéia do melhor, se não me parecesse muito mais justo e belo, em vez de evadir-me e\n' +
+            'fugir, submeter-me à pena que a cidade me impusera. É o cúmulo do absurdo dar o nome\n' +
+            'de causa a semelhantes coisas. Se alguém dissesse que sem ossos e músculos e tudo o mais\n' +
+            'que tenho no corpo eu não seria capaz de pôr em prática nenhuma resolução, só falaria\n' +
+            'verdade. Porém afirmar que é por causa disso que eu faço o que eu faço, e que, assim\n' +
+            'procedendo, me valho da inteligência, porém não em virtude da escolha do melhor, é levar\n' +
+            'ao extremo a imprecisão da linguagem e revelar-se incapaz de compreender que uma coisa\n' +
+            'é a verdadeira causa, e outra, muito diferente, aquilo que sem a causa jamais poderá ser\n' +
+            'causa. A meu parecer, é justamente isso o que faz a maioria dos homens, como que a tatear\n' +
+            'nas trevas, empregando um termo impróprio e o designando como causa. Daí, envolver um\n' +
+            'deles a Terra num turbilhão e deixá-la imóvel debaixo do céu, enquanto outro a concebe à\n' +
+            'maneira de uma gamela larga, que tem como suporte o ar. Quanto à potência que\n' +
+            'determinou a atual disposição das coisas pela melhor maneira, nem a procuram nem\n' +
+            'concebem que seja dotada de algum poder superior, por se julgarem capazes de encontrar\n' +
+            'algum Atlante mais forte e mais imortal do que ela, para manter coeso o conjunto das\n' +
+            'coisas. Mas que o bem, de fato, e a necessidade abarquem e liguem todas as coisas, é o que\n' +
+            'não admitem de nenhum modo. De minha parte, para ficar sabendo como atua semelhante\n' +
+            'causa, de muito bom grado me faria discípulo de quem quer que fosse. Mas, uma vez que\n' +
+            'não a conheço nem me acho em condições de descobri-la por mim próprio nem de aprender\n' +
+            'com outros o que ela seja: queres que te faça uma descrição completa, Cebete, de como\n' +
+            'empreendi o segundo roteiro de navegação para a investigação da causa?',
           footnote: [],
           bold: [
             {
@@ -4209,19 +4209,19 @@ export default [
         },
         {
           text: 'De seguida, continuou, já cansado de considerar as coisas, houve que era\n' +
-          'preciso precatar-me para não acontecer comigo o que se dá com as pessoas que observam e\n' +
-          'contemplam o Sol quando há eclipse: por vezes perdem a vista, se não olham apenas para a\n' +
-          'imagem dele na água ou nalgum meio semelhante. Pensei nessa possibilidade e receei ficar\n' +
-          'com alma inteiramente cega, se fixasse os olhos nas coisas e procurasse alcançá-las por\n' +
-          'meio de um dos sentidos. Pareceu-me aconselhável acolher-me ao pensamento, para nele\n' +
-          'contemplar a verdadeira natureza das coisas. É muito provável que minha comparação\n' +
-          'claudique um pouco, pois estou longe de admitir que quem considera as coisas por meio do\n' +
-          'pensamento só contemple suas imagens, o que não se dá com que as vê na realidade. De\n' +
-          'qualquer modo, meu caminho foi esse. Em cada caso particular, parto sempre do princípio\n' +
-          'que se me afigura mais forte, considerando verdadeiro o que com ele concorda, ou se trate\n' +
-          'de causas ou do que for, e como falso o que não afina com ele. Vou expor-te com maior\n' +
-          'clareza minha maneira de pensar, pois quer parecer-me que não a apreendeste muito bem.\n' +
-          'Não muito, por Zeus, respondeu Cebete.',
+            'preciso precatar-me para não acontecer comigo o que se dá com as pessoas que observam e\n' +
+            'contemplam o Sol quando há eclipse: por vezes perdem a vista, se não olham apenas para a\n' +
+            'imagem dele na água ou nalgum meio semelhante. Pensei nessa possibilidade e receei ficar\n' +
+            'com alma inteiramente cega, se fixasse os olhos nas coisas e procurasse alcançá-las por\n' +
+            'meio de um dos sentidos. Pareceu-me aconselhável acolher-me ao pensamento, para nele\n' +
+            'contemplar a verdadeira natureza das coisas. É muito provável que minha comparação\n' +
+            'claudique um pouco, pois estou longe de admitir que quem considera as coisas por meio do\n' +
+            'pensamento só contemple suas imagens, o que não se dá com que as vê na realidade. De\n' +
+            'qualquer modo, meu caminho foi esse. Em cada caso particular, parto sempre do princípio\n' +
+            'que se me afigura mais forte, considerando verdadeiro o que com ele concorda, ou se trate\n' +
+            'de causas ou do que for, e como falso o que não afina com ele. Vou expor-te com maior\n' +
+            'clareza minha maneira de pensar, pois quer parecer-me que não a apreendeste muito bem.\n' +
+            'Não muito, por Zeus, respondeu Cebete.',
           footnote: [],
           bold: [
             {
@@ -4236,11 +4236,11 @@ export default [
         },
         {
           text: 'No entanto, prosseguiu, o que eu digo não é novo, mas o que sempre afirmei,\n' +
-          'tanto noutras ocasiões como em nossa argumentação recente. Vou tentar mostrar-te a\n' +
-          'natureza da causa por mim estudada, voltando a tratar daquilo mesmo de que tenho falado\n' +
-          'toda a vida, para, de saída, admitir que existe o belo em si, e o bem, e o grande, e tudo o\n' +
-          'mais da mesma espécie. Se me aceitares esse ponto e concordares que existem, tenho\n' +
-          'esperança de mostrar-te a causa e provar a imortalidade da alma.',
+            'tanto noutras ocasiões como em nossa argumentação recente. Vou tentar mostrar-te a\n' +
+            'natureza da causa por mim estudada, voltando a tratar daquilo mesmo de que tenho falado\n' +
+            'toda a vida, para, de saída, admitir que existe o belo em si, e o bem, e o grande, e tudo o\n' +
+            'mais da mesma espécie. Se me aceitares esse ponto e concordares que existem, tenho\n' +
+            'esperança de mostrar-te a causa e provar a imortalidade da alma.',
           footnote: [],
           bold: [
             {
@@ -4251,14 +4251,14 @@ export default [
         },
         {
           text: 'Admite que já concedi tudo, falou Cebete, para não atrasares ainda mais tua\n' +
-          'exposição.',
+            'exposição.',
           footnote: [],
           bold: []
         },
         {
           text: 'Então, considera o que se segue, continuou, para ver se estás de acordo comigo. O\n' +
-          'que me parece é que se existe algo belo além do belo em si, só poderá ser belo por\n' +
-          'participar do belo em si. O mesmo afirmo de tudo o mais. Admites essa espécie de causa?',
+            'que me parece é que se existe algo belo além do belo em si, só poderá ser belo por\n' +
+            'participar do belo em si. O mesmo afirmo de tudo o mais. Admites essa espécie de causa?',
           footnote: [],
           bold: []
         },
@@ -4269,17 +4269,17 @@ export default [
         },
         {
           text: 'Então, já não compreendo, continuou, as outras causas, de pura erudição, nem\n' +
-          'consigo explicá-las. E se, para justificar a beleza de alguma coisa, alguém me falar de sua\n' +
-          'cor brilhante, ou da forma, ou do que quer que seja, deixo tudo o mais de lado, que só\n' +
-          'contribui para atrapalhar-me, e me atenho única e simplesmente, talvez mesmo com uma\n' +
-          'boa dose de ingenuidade, ao meu ponto de vista, a saber, que nada mais a deixa bela senão\n' +
-          'tão só a presença ou comunicação daquela beleza em sim, qualquer que seja o meio ou\n' +
-          'caminho de se lhe acrescentar. De tudo o mais não faço grande cabedal; o que digo é que é\n' +
-          'pela beleza em si que as coisas belas são belas. Na minha opinião, essa é a maneira mais\n' +
-          'certa de responder, tanto a mim mesmo como aos outros. Firmando-me nessa posição,\n' +
-          'tenho certeza de não vir a cair e de que tanto eu como qualquer pessoa em idênticas\n' +
-          'circunstâncias poderá responder com segurança que é pela beleza que as coisas belas são\n' +
-          'belas. Não te parece?',
+            'consigo explicá-las. E se, para justificar a beleza de alguma coisa, alguém me falar de sua\n' +
+            'cor brilhante, ou da forma, ou do que quer que seja, deixo tudo o mais de lado, que só\n' +
+            'contribui para atrapalhar-me, e me atenho única e simplesmente, talvez mesmo com uma\n' +
+            'boa dose de ingenuidade, ao meu ponto de vista, a saber, que nada mais a deixa bela senão\n' +
+            'tão só a presença ou comunicação daquela beleza em sim, qualquer que seja o meio ou\n' +
+            'caminho de se lhe acrescentar. De tudo o mais não faço grande cabedal; o que digo é que é\n' +
+            'pela beleza em si que as coisas belas são belas. Na minha opinião, essa é a maneira mais\n' +
+            'certa de responder, tanto a mim mesmo como aos outros. Firmando-me nessa posição,\n' +
+            'tenho certeza de não vir a cair e de que tanto eu como qualquer pessoa em idênticas\n' +
+            'circunstâncias poderá responder com segurança que é pela beleza que as coisas belas são\n' +
+            'belas. Não te parece?',
           footnote: [],
           bold: []
         },
@@ -4290,7 +4290,7 @@ export default [
         },
         {
           text: 'Como é por meio da grandeza que o grande é grande e o maior é maior, e pelo da\n' +
-          'pequenez que o pequeno é pequeno.',
+            'pequenez que o pequeno é pequeno.',
           footnote: [],
           bold: []
         },
@@ -4301,16 +4301,16 @@ export default [
         },
         {
           text: 'Logo, também não concordarias com que dissesse que um homem é maior do que\n' +
-          'outro uma cabeça, nem que é menor é também uma cabeça menor do que o primeiro, porém\n' +
-          'persistirias na defesa de tua proposição, de que na tua maneira de pensar tudo o que é\n' +
-          'grande só pode ser grande por causa da grandeza, nada mais, sendo esta, a grandeza, que\n' +
-          'deixa grandes as coisas, como o pequeno só será pequeno por causa da pequenez, vindo a\n' +
-          'ser isto mesmo, a pequenez, que deixa pequeno o pequeno, de medo, quero crer, no caso de\n' +
-          'afirmares que um homem é maior ou menor do que o outro uma cabeça, que pudesse\n' +
-          'alguém objetar-te, primeiro, que é pela mesma coisa que o maior é maior e o menor é\n' +
-          'menor; depois, que, sendo pequena a cabeça, é por meio dela que o maior é maior,\n' +
-          'verdadeiro disparate: vir a ser alguém grande por causa do que é pequeno. Não te arreceias\n' +
-          'disso?',
+            'outro uma cabeça, nem que é menor é também uma cabeça menor do que o primeiro, porém\n' +
+            'persistirias na defesa de tua proposição, de que na tua maneira de pensar tudo o que é\n' +
+            'grande só pode ser grande por causa da grandeza, nada mais, sendo esta, a grandeza, que\n' +
+            'deixa grandes as coisas, como o pequeno só será pequeno por causa da pequenez, vindo a\n' +
+            'ser isto mesmo, a pequenez, que deixa pequeno o pequeno, de medo, quero crer, no caso de\n' +
+            'afirmares que um homem é maior ou menor do que o outro uma cabeça, que pudesse\n' +
+            'alguém objetar-te, primeiro, que é pela mesma coisa que o maior é maior e o menor é\n' +
+            'menor; depois, que, sendo pequena a cabeça, é por meio dela que o maior é maior,\n' +
+            'verdadeiro disparate: vir a ser alguém grande por causa do que é pequeno. Não te arreceias\n' +
+            'disso?',
           footnote: [],
           bold: []
         },
@@ -4321,9 +4321,9 @@ export default [
         },
         {
           text: 'Como também recearias dizer, continuou, que dez e dois mais do que oito, sendo\n' +
-          'essa a razão de ultrapassá-lo, não pela quantidade e por causa da quantidade, como o cúbito\n' +
-          'maior é uma metade maior do que o simples, não por causa da grandeza. O perigo é o\n' +
-          'mesmo.',
+            'essa a razão de ultrapassá-lo, não pela quantidade e por causa da quantidade, como o cúbito\n' +
+            'maior é uma metade maior do que o simples, não por causa da grandeza. O perigo é o\n' +
+            'mesmo.',
           footnote: [],
           bold: []
         },
@@ -4334,24 +4334,24 @@ export default [
         },
         {
           text: 'E então? No caso de uma unidade ser acrescentada a outra, não terás medo de dizer\n' +
-          'que essa adição foi a causa de formar-se o dois, ou, na hipótese de ser a unidade cortada ao\n' +
-          'meio, que foi a divisão? E não protestarias em altas vozes que não sabes como uma coisa\n' +
-          'possa transformar-se noutra, a não ser pela participação da essência própria da natureza que\n' +
-          'ela própria participa e que, no caso concreto da geração do dois, não saberás informar outra\n' +
-          'causa se não for a participação da dualidade? Dessa dualidade é que terá de participar o que\n' +
-          'tiver de ficar dois, como participará da unidade, tudo o que vier a ser um. Quanto às\n' +
-          'divisões e acrescentamentos e demais sutilezas do mesmo gênero, mandarás todas elas\n' +
-          'passear, deixando o cuidado da resposta a quem for mais sábio do que tu. Quanto a ti, de\n' +
-          'medo, como se diz, da própria sombra e de tua inexperiência, e firmado naquele\n' +
-          'pressuposto seguríssimo, responderias daquele jeito. E no caso de investir o adversário\n' +
-          'contra tua própria tese, não lhe darias atenção nem responderias a ele sem primeiro\n' +
-          'verificares se as consequências de seu postulado são dissonantes ou harmônicas. E na\n' +
-          'hipótese de fundamentar tua proposição, fá-lo-ias da mesma forma, com admitir um novo\n' +
-          'princípio, que se te afigurasse mais valioso, até conseguires resultado satisfatório. Ao\n' +
-          'contrário dos disputadores, não confundireis com suas consequências o princípio em\n' +
-          'discussão, caso quisesses alcançar alguma realidade. Com esta, ao que parece, é que\n' +
-          'nenhum deles se preocupa no mínimo. Com todo o seu saber, o que fazem é baralhar tudo,\n' +
-          'muitos anchos de si mesmos. Tu, porém, se te incluis entre os filósofos, farás o que te disse.',
+            'que essa adição foi a causa de formar-se o dois, ou, na hipótese de ser a unidade cortada ao\n' +
+            'meio, que foi a divisão? E não protestarias em altas vozes que não sabes como uma coisa\n' +
+            'possa transformar-se noutra, a não ser pela participação da essência própria da natureza que\n' +
+            'ela própria participa e que, no caso concreto da geração do dois, não saberás informar outra\n' +
+            'causa se não for a participação da dualidade? Dessa dualidade é que terá de participar o que\n' +
+            'tiver de ficar dois, como participará da unidade, tudo o que vier a ser um. Quanto às\n' +
+            'divisões e acrescentamentos e demais sutilezas do mesmo gênero, mandarás todas elas\n' +
+            'passear, deixando o cuidado da resposta a quem for mais sábio do que tu. Quanto a ti, de\n' +
+            'medo, como se diz, da própria sombra e de tua inexperiência, e firmado naquele\n' +
+            'pressuposto seguríssimo, responderias daquele jeito. E no caso de investir o adversário\n' +
+            'contra tua própria tese, não lhe darias atenção nem responderias a ele sem primeiro\n' +
+            'verificares se as consequências de seu postulado são dissonantes ou harmônicas. E na\n' +
+            'hipótese de fundamentar tua proposição, fá-lo-ias da mesma forma, com admitir um novo\n' +
+            'princípio, que se te afigurasse mais valioso, até conseguires resultado satisfatório. Ao\n' +
+            'contrário dos disputadores, não confundireis com suas consequências o princípio em\n' +
+            'discussão, caso quisesses alcançar alguma realidade. Com esta, ao que parece, é que\n' +
+            'nenhum deles se preocupa no mínimo. Com todo o seu saber, o que fazem é baralhar tudo,\n' +
+            'muitos anchos de si mesmos. Tu, porém, se te incluis entre os filósofos, farás o que te disse.',
           footnote: [],
           bold: []
         },
@@ -4362,8 +4362,8 @@ export default [
         },
         {
           text: '<b>Equécrates –</b>Por Zeus, Fedão, nem lhe seria possível expressar-se de outro modo,\n' +
-          'pois me parece de clareza meridiana semelhante explanação, até mesmo para quem for\n' +
-          'dotado de parco entendimento.',
+            'pois me parece de clareza meridiana semelhante explanação, até mesmo para quem for\n' +
+            'dotado de parco entendimento.',
           footnote: [],
           bold: [
             {
@@ -4374,7 +4374,7 @@ export default [
         },
         {
           text: '<b>Fedão –</b> Perfeitamente, Equécrates; todos os circunstantes foram desse mesmo\n' +
-          'parecer.',
+            'parecer.',
           footnote: [],
           bold: [
             {
@@ -4385,7 +4385,7 @@ export default [
         },
         {
           text: '<b>Equécrates –</b>Que é também o de todos nós que não participamos do colóquio e te\n' +
-          'ouvimos neste momento.',
+            'ouvimos neste momento.',
           footnote: [],
           bold: [{
             firstIndex: 0,
@@ -4402,10 +4402,10 @@ export default [
         },
         {
           text: '<b>Fedão –</b> Segundo creio, depois de lhe concederem esse ponto e de admitirem a\n' +
-          'existência real das idéias e que é da sua participação que as diferentes coisas recebem\n' +
-          'determinação particular, perguntou Sócrates o seguinte: Se é assim que falas, continuou,\n' +
-          'quando dizes que Símias é maior do que Sócrates porém menor do que Fedão, não equivale\n' +
-          'isso a dizer que em Símias se encontram ambas: grandeza e pequenez?',
+            'existência real das idéias e que é da sua participação que as diferentes coisas recebem\n' +
+            'determinação particular, perguntou Sócrates o seguinte: Se é assim que falas, continuou,\n' +
+            'quando dizes que Símias é maior do que Sócrates porém menor do que Fedão, não equivale\n' +
+            'isso a dizer que em Símias se encontram ambas: grandeza e pequenez?',
           footnote: [],
           bold: [
             {
@@ -4421,9 +4421,9 @@ export default [
         },
         {
           text: 'No entanto, admites que a expressão: Símias ultrapassa Sócrates, não deve ser tomada\n' +
-          'no sentido literal; não é por sua própria natureza, por ser Símias, que ele o ultrapassa, mas\n' +
-          'por sua grandeza ocasional, como não ultrapassa Sócrates por este ser Sócrates, mas pela\n' +
-          'pequenez deste, no que entende com a grandeza do outro.',
+            'no sentido literal; não é por sua própria natureza, por ser Símias, que ele o ultrapassa, mas\n' +
+            'por sua grandeza ocasional, como não ultrapassa Sócrates por este ser Sócrates, mas pela\n' +
+            'pequenez deste, no que entende com a grandeza do outro.',
           footnote: [],
           bold: []
         },
@@ -4434,7 +4434,7 @@ export default [
         },
         {
           text: 'Como também ele não será ultrapassado por Fedão, por este ser Fedão, mas em\n' +
-          'virtude da grandeza de Fedão em comparação com a pequenez de Símias.',
+            'virtude da grandeza de Fedão em comparação com a pequenez de Símias.',
           footnote: [],
           bold: []
         },
@@ -4445,9 +4445,9 @@ export default [
         },
         {
           text: 'Desse modo, aplica-se a Símias, a um só tempo, o apelido de grande e de pequeno,\n' +
-          'por estar ele a meio caminho dos dois, excedendo com sua grandeza a pequenez de um\n' +
-          'deles e reconhecendo no outro a grandeza que vence sua pequenez. Depois, acrescentou\n' +
-          'sorrindo: Minha linguagem parece de escrivão; mas o que eu disse está certo.',
+            'por estar ele a meio caminho dos dois, excedendo com sua grandeza a pequenez de um\n' +
+            'deles e reconhecendo no outro a grandeza que vence sua pequenez. Depois, acrescentou\n' +
+            'sorrindo: Minha linguagem parece de escrivão; mas o que eu disse está certo.',
           footnote: [],
           bold: []
         },
@@ -4458,16 +4458,16 @@ export default [
         },
         {
           text: 'Falei desse jeito por desejar que compartilhes de minha maneira de pensar. O que me\n' +
-          'parece, é que tanto a grandeza em si mesma não deseja ser grande e pequena ao mesmo\n' +
-          'tempo, como a própria grandeza presente em nós não aceita jamais aceita a pequenez nem\n' +
-          'consente em ser ultrapassada. De duas uma terá de ser: ou ela foge e sai do caminho quando\n' +
-          'dela aproxima seu contrário, a pequenez, ou, com sua chegada, deixa de existir. O que de\n' +
-          'nenhum modo deseja, havendo admitido e recebido a pequenez, sem deixar de ser o que\n' +
-          'era, continuou sendo pequeno, ao passo que a grandeza, com ser grande, jamais consente\n' +
-          'em ser pequena. O mesmo vale para a pequenez em nós, que nunca se decide a tornar-se\n' +
-          'grande ou a ser isso mesmo, o que se também se dá com todos os contrários, enquanto cada\n' +
-          'um é o que é, recusam-se a tornar-se e ser ao mesmo tempo o seu contrário, retirando-se ou\n' +
-          'desaparecendo quando essa conjuntura se apresenta.',
+            'parece, é que tanto a grandeza em si mesma não deseja ser grande e pequena ao mesmo\n' +
+            'tempo, como a própria grandeza presente em nós não aceita jamais aceita a pequenez nem\n' +
+            'consente em ser ultrapassada. De duas uma terá de ser: ou ela foge e sai do caminho quando\n' +
+            'dela aproxima seu contrário, a pequenez, ou, com sua chegada, deixa de existir. O que de\n' +
+            'nenhum modo deseja, havendo admitido e recebido a pequenez, sem deixar de ser o que\n' +
+            'era, continuou sendo pequeno, ao passo que a grandeza, com ser grande, jamais consente\n' +
+            'em ser pequena. O mesmo vale para a pequenez em nós, que nunca se decide a tornar-se\n' +
+            'grande ou a ser isso mesmo, o que se também se dá com todos os contrários, enquanto cada\n' +
+            'um é o que é, recusam-se a tornar-se e ser ao mesmo tempo o seu contrário, retirando-se ou\n' +
+            'desaparecendo quando essa conjuntura se apresenta.',
           footnote: [],
           bold: []
         },
@@ -4478,10 +4478,10 @@ export default [
         },
         {
           text: 'LI – Nesse instante um dos presentes falou, não saberei dizer com segurança quem\n' +
-          'tivesse sido: Pelos deuses! Em nossa prática de há pouco não foi dito justamente o oposto\n' +
-          'do que é afirmado agora, que do maior nasce o menor, e vice-versa, do menor o maior, e\n' +
-          'que essa é, precisamente, a maneira de nascerem os contrários, de seus respectivos\n' +
-          'contrários? No entanto, quer parecer-me que afirmaste não ser isso possível.',
+            'tivesse sido: Pelos deuses! Em nossa prática de há pouco não foi dito justamente o oposto\n' +
+            'do que é afirmado agora, que do maior nasce o menor, e vice-versa, do menor o maior, e\n' +
+            'que essa é, precisamente, a maneira de nascerem os contrários, de seus respectivos\n' +
+            'contrários? No entanto, quer parecer-me que afirmaste não ser isso possível.',
           footnote: [],
           bold: [
             {
@@ -4492,31 +4492,31 @@ export default [
         },
         {
           text: 'Sócrates, que se inclinara para melhor ouvi-lo, então falou: A observação é corajosa,\n' +
-          'porém não apanhaste bem a diferença entre o que foi dito antes e a presente afirmativa. O\n' +
-          'que então dissemos é que a coisa contrário nasce da que lhe é contrária, porém agora que o\n' +
-          'contrário jamais admite ser seu próprio contrário, nem em nós nem na natureza. Naquela\n' +
-          'ocasião, meu caro, falávamos de coisa que têm contrários; agora, porém tratamos dos\n' +
-          'próprios contrários inerentes as coisas, cuja presença empresta a todas a respectiva\n' +
-          'designação. Ora, o que afirmamos é que esses contrários, justamente, não admitem\n' +
-          'transição de um para outro.',
+            'porém não apanhaste bem a diferença entre o que foi dito antes e a presente afirmativa. O\n' +
+            'que então dissemos é que a coisa contrário nasce da que lhe é contrária, porém agora que o\n' +
+            'contrário jamais admite ser seu próprio contrário, nem em nós nem na natureza. Naquela\n' +
+            'ocasião, meu caro, falávamos de coisa que têm contrários; agora, porém tratamos dos\n' +
+            'próprios contrários inerentes as coisas, cuja presença empresta a todas a respectiva\n' +
+            'designação. Ora, o que afirmamos é que esses contrários, justamente, não admitem\n' +
+            'transição de um para outro.',
           footnote: [],
           bold: []
         },
         {
           text: 'Ao dizer isso, voltou-se para Cebete e lhe falou: Porventura, Cebete, lhe disse,\n' +
-          'deixou-te atrapalhado a objeção deste aqui?',
+            'deixou-te atrapalhado a objeção deste aqui?',
           footnote: [],
           bold: []
         },
         {
           text: 'Não é o meu caso, respondeu Cebete, conquanto não possa dizer que tudo para mim\n' +
-          'esteja claro.',
+            'esteja claro.',
           footnote: [],
           bold: []
         },
         {
           text: 'Mas o fato, prosseguiu, é que já assentamos que nunca o contrário pode ser o\n' +
-          'contrário de si mesmo.',
+            'contrário de si mesmo.',
           footnote: [],
           bold: []
         },
@@ -4527,8 +4527,8 @@ export default [
         },
         {
           text: 'LII – Então, considera também o seguinte, continuou, para ver se estás de acordo\n' +
-          'comigo. Não há alguma coisa a que damos o nome de quente, e outra que denominamos\n' +
-          'frio?',
+            'comigo. Não há alguma coisa a que damos o nome de quente, e outra que denominamos\n' +
+            'frio?',
           footnote: [],
           bold: []
         },
@@ -4559,8 +4559,8 @@ export default [
         },
         {
           text: 'Mas, estou certo de que também admires que nunca poderá a neve, como neve,\n' +
-          'conforme dissemos há pouco, depois de receber o calor, continuar a ser o que era: neve com\n' +
-          'calor. Com a aproximação do calor, ou ela se retira ou vem a fenecer.',
+            'conforme dissemos há pouco, depois de receber o calor, continuar a ser o que era: neve com\n' +
+            'calor. Com a aproximação do calor, ou ela se retira ou vem a fenecer.',
           footnote: [],
           bold: []
         },
@@ -4571,7 +4571,7 @@ export default [
         },
         {
           text: 'Tal qual como o fogo: com a chegada do frio, retira-se ou perece; de jeito nenhum,\n' +
-          'depois de receber o frio, se atreveria a ser o que antes era: fogo, a um tempo, e frio.',
+            'depois de receber o frio, se atreveria a ser o que antes era: fogo, a um tempo, e frio.',
           footnote: [],
           bold: []
         },
@@ -4582,10 +4582,10 @@ export default [
         },
         {
           text: 'Pode acontecer, continuou, nalguns exemplos desse tipo, que não somente a idéia em\n' +
-          'si mesma tenha o direito de conservar eternamente o mesmo nome, como também algo\n' +
-          'diferente que, sem ser daquela idéia, apresenta-se, enquanto existe, com sua forma. É\n' +
-          'possível que com o seguinte exemplo eu deixe mais claro meu pensamento. O número\n' +
-          'ímpar terá de conservar sempre esse nome com o que designamos. Ou não?',
+            'si mesma tenha o direito de conservar eternamente o mesmo nome, como também algo\n' +
+            'diferente que, sem ser daquela idéia, apresenta-se, enquanto existe, com sua forma. É\n' +
+            'possível que com o seguinte exemplo eu deixe mais claro meu pensamento. O número\n' +
+            'ímpar terá de conservar sempre esse nome com o que designamos. Ou não?',
           footnote: [],
           bold: []
         },
@@ -4596,16 +4596,16 @@ export default [
         },
         {
           text: 'Mas, é só com ele que isso acontece – é o que pergunto – ou com mais alguma coisa\n' +
-          'que, sem ser, de fato, o ímpar em si mesmo, ao lado do seu próprio nome terá forçosamente\n' +
-          'de ser sempre denominado dessa maneira, por ser de tal natureza, que nunca pode dispensar\n' +
-          'o ímpar? Com isso, quero referir-me ao que se passa com o conceito da tríade e muitos\n' +
-          'outros da mesma espécie. Considera apenas o número três. Não te parece que ele precisará\n' +
-          'sempre ser designado, a um só tempo, pelo seu próprio nome e pelo do ímpar, apesar de\n' +
-          'não ser o nome ímpar a mesma coisa que três? Seja como for, de tal modo é constituída a\n' +
-          'natureza do três, do cinco e de toda uma metade dos números, que apesar de cada um deles\n' +
-          'não ser a mesma coisa que o ímpar, sempre terão de ser ímpares. O mesmo se passa com o\n' +
-          'dois, o quatro e toda a outra metade dos números, que, sem serem o par, sempre terão de ser\n' +
-          'partes. Admites isso ou não?',
+            'que, sem ser, de fato, o ímpar em si mesmo, ao lado do seu próprio nome terá forçosamente\n' +
+            'de ser sempre denominado dessa maneira, por ser de tal natureza, que nunca pode dispensar\n' +
+            'o ímpar? Com isso, quero referir-me ao que se passa com o conceito da tríade e muitos\n' +
+            'outros da mesma espécie. Considera apenas o número três. Não te parece que ele precisará\n' +
+            'sempre ser designado, a um só tempo, pelo seu próprio nome e pelo do ímpar, apesar de\n' +
+            'não ser o nome ímpar a mesma coisa que três? Seja como for, de tal modo é constituída a\n' +
+            'natureza do três, do cinco e de toda uma metade dos números, que apesar de cada um deles\n' +
+            'não ser a mesma coisa que o ímpar, sempre terão de ser ímpares. O mesmo se passa com o\n' +
+            'dois, o quatro e toda a outra metade dos números, que, sem serem o par, sempre terão de ser\n' +
+            'partes. Admites isso ou não?',
           footnote: [],
           bold: []
         },
@@ -4616,11 +4616,11 @@ export default [
         },
         {
           text: 'Presta agora atenção, disse, ao que me disponho a demonstrar. Trata-se do seguinte: é\n' +
-          'fora de dúvida que não são apenas os contrários que se excluem reciprocamente, mas todas\n' +
-          'as coisas que, sem serem contrárias entre si, não admitem a idéia contrária da que lhes é\n' +
-          'própria, à aproximação da qual ou cedem o lugar ou vêm a perecer. Pois já não dissemos\n' +
-          'que o número três primeiro deixará de existir ou sofrerá seja o que for, antes de vir a ficar\n' +
-          'par, por ser, de fato, o que é, precisamente três?',
+            'fora de dúvida que não são apenas os contrários que se excluem reciprocamente, mas todas\n' +
+            'as coisas que, sem serem contrárias entre si, não admitem a idéia contrária da que lhes é\n' +
+            'própria, à aproximação da qual ou cedem o lugar ou vêm a perecer. Pois já não dissemos\n' +
+            'que o número três primeiro deixará de existir ou sofrerá seja o que for, antes de vir a ficar\n' +
+            'par, por ser, de fato, o que é, precisamente três?',
           footnote: [],
           bold: []
         },
@@ -4641,7 +4641,7 @@ export default [
         },
         {
           text: 'Logo, não são apenas as idéias contrárias que não admitem a aproximação recíproca;\n' +
-          'há outras, também, que não aceitam essa aproximação dos contrários.',
+            'há outras, também, que não aceitam essa aproximação dos contrários.',
           footnote: [],
           bold: []
         },
@@ -4656,7 +4656,7 @@ export default [
         },
         {
           text: 'E não acharias bom, continuou, determinarmos, na medida do possível, quais\n' +
-          'essas idéias?',
+            'essas idéias?',
           footnote: [],
           bold: [
             {
@@ -4672,7 +4672,7 @@ export default [
         },
         {
           text: 'Não serão, Cebete, prosseguiu, as que forçam as coisas de que elas se apoderam a\n' +
-          'conservar tanto a sua própria forma como a que sempre lhes é contrária?',
+            'conservar tanto a sua própria forma como a que sempre lhes é contrária?',
           footnote: [],
           bold: []
         },
@@ -4683,7 +4683,7 @@ export default [
         },
         {
           text: 'O que declaramos neste momento. Como muito bem sabes, todas as coisas de que se\n' +
-          'apossa a idéia do número três, tanto terão, por força, de ser três como ímpares.',
+            'apossa a idéia do número três, tanto terão, por força, de ser três como ímpares.',
           footnote: [],
           bold: []
         },
@@ -4694,7 +4694,7 @@ export default [
         },
         {
           text: 'Ora bem; o que dizemos é que a idéia contrária à forma eu a constitui nunca pode\n' +
-          'entrar nela.',
+            'entrar nela.',
           footnote: [],
           bold: []
         },
@@ -4755,17 +4755,17 @@ export default [
         },
         {
           text: 'Pois era isso, precisamente, que eu queria determinar: as coisas que, sem serem\n' +
-          'contrárias entre si, não admitem o seu contrário. Será o caso do três quem, sem ser o\n' +
-          'contrário do par, de forma alguma o aceita, pois ele lhe opõe sempre o seu contrário, como\n' +
-          'faz o dois com o ímpar, o fogo com o frio e um infinito mais de exemplos. Dize-me agora\n' +
-          'se não concluirias que não é apenas o contrário que não recebe o seu contrário, porém tudo\n' +
-          'o que leva a idéia do contrário da coisa que o recebe, não admite nesta o contrário daquilo\n' +
-          'que ele leva. Recapitulemos tudo o que dissemos até aqui, pois não há mal em ouvir a\n' +
-          'mesma coisa várias vezes: O número cinco não admite a idéia de par, nem o dez, o dobro\n' +
-          'daquele, a de ímpar. Por sua vez, o duplo é o contrário de outra coisa, porém não admite a\n' +
-          'idéia do ímpar, como também não a admitem os números sesquiálteros, o meio e outras\n' +
-          'frações do mesmo tipo, nem a idéia de todo, de terço e de tudo o mais da mesma natureza,\n' +
-          'se é que me acompanhas e estás de acordo comigo.',
+            'contrárias entre si, não admitem o seu contrário. Será o caso do três quem, sem ser o\n' +
+            'contrário do par, de forma alguma o aceita, pois ele lhe opõe sempre o seu contrário, como\n' +
+            'faz o dois com o ímpar, o fogo com o frio e um infinito mais de exemplos. Dize-me agora\n' +
+            'se não concluirias que não é apenas o contrário que não recebe o seu contrário, porém tudo\n' +
+            'o que leva a idéia do contrário da coisa que o recebe, não admite nesta o contrário daquilo\n' +
+            'que ele leva. Recapitulemos tudo o que dissemos até aqui, pois não há mal em ouvir a\n' +
+            'mesma coisa várias vezes: O número cinco não admite a idéia de par, nem o dez, o dobro\n' +
+            'daquele, a de ímpar. Por sua vez, o duplo é o contrário de outra coisa, porém não admite a\n' +
+            'idéia do ímpar, como também não a admitem os números sesquiálteros, o meio e outras\n' +
+            'frações do mesmo tipo, nem a idéia de todo, de terço e de tudo o mais da mesma natureza,\n' +
+            'se é que me acompanhas e estás de acordo comigo.',
           footnote: [],
           bold: []
         },
@@ -4780,15 +4780,15 @@ export default [
         },
         {
           text: 'Então, repete tudo isso do começo, continuou, porém não me responda com\n' +
-          'minhas próprias palavras, mas de outra forma, tomando-me como modelo. O que digo é\n' +
-          'que, além da resposta certa que eu apresentei no começo, encontrou outra de não menor\n' +
-          'confiança no que ficou dito depois. De fato, se me perguntasses: Que precisas haver no\n' +
-          'corpo para que ele fique quente? Não te daria a resposta, certa, sem dúvida, porém ingênua,\n' +
-          'que é o calor, porém outra muito mais aprimorada, com base em nossa exposição anterior:\n' +
-          'fogo. Como também se me perguntasses o que precisa haver no corpo, para que ele adoeça,\n' +
-          'não responderia que é a doença, porém alguma febre. E no caso de perguntares o que\n' +
-          'precisa haver num número para ser ímpar, não me referira a imparidade, mas à unidade, e\n' +
-          'assim sucessivamente. Agora vê se apanhaste bem meu pensamento.',
+            'minhas próprias palavras, mas de outra forma, tomando-me como modelo. O que digo é\n' +
+            'que, além da resposta certa que eu apresentei no começo, encontrou outra de não menor\n' +
+            'confiança no que ficou dito depois. De fato, se me perguntasses: Que precisas haver no\n' +
+            'corpo para que ele fique quente? Não te daria a resposta, certa, sem dúvida, porém ingênua,\n' +
+            'que é o calor, porém outra muito mais aprimorada, com base em nossa exposição anterior:\n' +
+            'fogo. Como também se me perguntasses o que precisa haver no corpo, para que ele adoeça,\n' +
+            'não responderia que é a doença, porém alguma febre. E no caso de perguntares o que\n' +
+            'precisa haver num número para ser ímpar, não me referira a imparidade, mas à unidade, e\n' +
+            'assim sucessivamente. Agora vê se apanhaste bem meu pensamento.',
           footnote: [],
           bold: [
             {
@@ -4854,7 +4854,7 @@ export default [
         },
         {
           text: 'De onde vem, que a alma nunca poderá aceitar o contrário daquilo que ela sempre\n' +
-          'traz consigo; é o que se conclui de tudo o que dissemos até agora.',
+            'traz consigo; é o que se conclui de tudo o que dissemos até agora.',
           footnote: [],
           bold: []
         },
@@ -4924,7 +4924,7 @@ export default [
         },
         {
           text: 'Muito bem. Podemos afirmar, por conseguinte, que isso ficou demonstrado? Ou\n' +
-          'como te parece?',
+            'como te parece?',
           footnote: [],
           bold: []
         },
@@ -4935,7 +4935,7 @@ export default [
         },
         {
           text: 'E agora, Cebete, continuou: se o ímpar fosse indestrutível por força das coisas, não\n' +
-          'teria também de ser indestrutível o três?',
+            'teria também de ser indestrutível o três?',
           footnote: [],
           bold: []
         },
@@ -4946,8 +4946,8 @@ export default [
         },
         {
           text: 'E se o não-quente também fosse por necessidade indestrutível, sempre que alguém\n' +
-          'aproximasse da neve o fogo, não se retiraria a neve intacta e sem derreter-se? Não\n' +
-          'pereceria, é claro, e por mais que ficasse exposta ao calor, não o receberia.',
+            'aproximasse da neve o fogo, não se retiraria a neve intacta e sem derreter-se? Não\n' +
+            'pereceria, é claro, e por mais que ficasse exposta ao calor, não o receberia.',
           footnote: [],
           bold: []
         },
@@ -4968,16 +4968,16 @@ export default [
         },
         {
           text: 'E não será também preciso falarmos nesses mesmo termos no que entende com o\n' +
-          'mortal? Se o imortal também for imperecível, a alma, sempre que a morte se aproximar\n' +
-          'dela, não poderá morrer; pois de acordo com o que dissemos antes, ela não admitirá a morte\n' +
-          'nem virá a morrer, da mesma forma que o três, conforme vimos, nunca poderá ser par, e\n' +
-          'com ele o ímpar, nem o fogo ficará frio nem o calor que há no fogo. Porém o que impede –\n' +
-          'poderia alguém objetar – que o ímpar, muito embora não fique par à aproximação do par, e\n' +
-          'sobre isso, já nos declaramos de acordo, venha, de fato, a perecer, por transformar-se em\n' +
-          'par? A quem tal objetasse, não poderíamos responder que não perece, pois o ímpar não é\n' +
-          'indestrutível. Porém se isso houvesse sido aceito antes por nós, fora fácil retorquir que à\n' +
-          'aproximação do para o ímpar e o três se retiram. Da mesma maneira responderíamos com\n' +
-          'respeito ao calor, ao fogo e a tudo o mais. Ou não?',
+            'mortal? Se o imortal também for imperecível, a alma, sempre que a morte se aproximar\n' +
+            'dela, não poderá morrer; pois de acordo com o que dissemos antes, ela não admitirá a morte\n' +
+            'nem virá a morrer, da mesma forma que o três, conforme vimos, nunca poderá ser par, e\n' +
+            'com ele o ímpar, nem o fogo ficará frio nem o calor que há no fogo. Porém o que impede –\n' +
+            'poderia alguém objetar – que o ímpar, muito embora não fique par à aproximação do par, e\n' +
+            'sobre isso, já nos declaramos de acordo, venha, de fato, a perecer, por transformar-se em\n' +
+            'par? A quem tal objetasse, não poderíamos responder que não perece, pois o ímpar não é\n' +
+            'indestrutível. Porém se isso houvesse sido aceito antes por nós, fora fácil retorquir que à\n' +
+            'aproximação do para o ímpar e o três se retiram. Da mesma maneira responderíamos com\n' +
+            'respeito ao calor, ao fogo e a tudo o mais. Ou não?',
           footnote: [],
           bold: []
         },
@@ -4988,14 +4988,14 @@ export default [
         },
         {
           text: 'Sendo assim, agora, com relação ao imortal, uma vez admitido por nós dois que\n' +
-          'também é imperecível, a alma, terá de ser por força imperecível. Caso contrário,\n' +
-          'precisaríamos lançar mão de outro argumento.',
+            'também é imperecível, a alma, terá de ser por força imperecível. Caso contrário,\n' +
+            'precisaríamos lançar mão de outro argumento.',
           footnote: [],
           bold: []
         },
         {
           text: 'Não por causa disso, retorquiu; dificilmente poderia haver que não admitisse a\n' +
-          'destruição, se o imortal, com ser eterno, fosse passível de acabar.',
+            'destruição, se o imortal, com ser eterno, fosse passível de acabar.',
           footnote: [],
           bold: []
         },
@@ -5005,7 +5005,7 @@ export default [
         },
         {
           text: 'Quanto a Deus, falou Sócrates, ao que suponho, e à idéia da vida e a tudo o\n' +
-          'mais que possa haver de imortal, todos estão de acordo em que nunca podem parecer.',
+            'mais que possa haver de imortal, todos estão de acordo em que nunca podem parecer.',
           footnote: [],
           bold: [
             {
@@ -5016,13 +5016,13 @@ export default [
         },
         {
           text: 'Sim, por Zeus, todos os homens, respondeu, e, com maioria de razões, os próprios\n' +
-          'deuses.',
+            'deuses.',
           footnote: [],
           bold: []
         },
         {
           text: 'Era, uma vez que o imortal é imperecível, a alma, sendo imortal, não terá de ser, da\n' +
-          'mesma forma, imperecível?',
+            'mesma forma, imperecível?',
           footnote: [],
           bold: []
         },
@@ -5033,7 +5033,7 @@ export default [
         },
         {
           text: 'Logo, como parece , ao aproximar-se dos homens a morte, o que neles for mortal terá\n' +
-          'de perecer, enquanto sua porção imortal cede o lugar à morte e continua sã e incorruptível.',
+            'de perecer, enquanto sua porção imortal cede o lugar à morte e continua sã e incorruptível.',
           footnote: [],
           bold: []
         },
@@ -5044,33 +5044,33 @@ export default [
         },
         {
           text: 'É certíssimo, por conseguinte, Cebete, continuou, ser a alma imortal e imperecível, e\n' +
-          'existirem realmente nossas almas no Hades.',
+            'existirem realmente nossas almas no Hades.',
           footnote: [],
           bold: []
         },
         {
           text: 'Enquanto a mim, Sócrates, falou Cebete, nada tenho a objetar contra teus\n' +
-          'argumentos, nem o que alegar para não admiti-los. Porém no caso de Símias ou qualquer\n' +
-          'outro querer dizer alguma coisa, fará bem em não se conservar calado, pois não sei que\n' +
-          'melhor oportunidade do que esta poderá encontrar quem se disponha a falar ou a ouvir seja\n' +
-          'o que for a respeito destas questões.',
+            'argumentos, nem o que alegar para não admiti-los. Porém no caso de Símias ou qualquer\n' +
+            'outro querer dizer alguma coisa, fará bem em não se conservar calado, pois não sei que\n' +
+            'melhor oportunidade do que esta poderá encontrar quem se disponha a falar ou a ouvir seja\n' +
+            'o que for a respeito destas questões.',
           footnote: [],
           bold: []
         },
         {
           text: 'Eu também, falou Símias, não vejo razão para não aceitar o que foi dito. Dada,\n' +
-          'porém, a grandeza da matéria e por não confiar muito na fraqueza de matéria e por não\n' +
-          'confiar muito na fraqueza humana, sou forçado a declarar que ainda alimento algumas\n' +
-          'dúvidas com respeito ao que foi explanado.',
+            'porém, a grandeza da matéria e por não confiar muito na fraqueza de matéria e por não\n' +
+            'confiar muito na fraqueza humana, sou forçado a declarar que ainda alimento algumas\n' +
+            'dúvidas com respeito ao que foi explanado.',
           footnote: [],
           bold: []
         },
         {
           text: 'Não é só isso, Símias, falou Sócrates como muito bem te exprimiste, até mesmo\n' +
-          'nossas proposições iniciais, por dignas de confiança que pareçam, precisam ser\n' +
-          'consideradas mais a fundo, e, uma vez suficientemente analisadas, estou certo de que\n' +
-          'acompanhareis a argumentação, na medida da capacidade de compreensão do homem, até\n' +
-          'que, tudo esclarecido, nada mais tenhais a investigar.',
+            'nossas proposições iniciais, por dignas de confiança que pareçam, precisam ser\n' +
+            'consideradas mais a fundo, e, uma vez suficientemente analisadas, estou certo de que\n' +
+            'acompanhareis a argumentação, na medida da capacidade de compreensão do homem, até\n' +
+            'que, tudo esclarecido, nada mais tenhais a investigar.',
           footnote: [],
           bold: []
         },
@@ -5085,35 +5085,35 @@ export default [
         },
         {
           text: 'Porém devemos senhores, considerar também o seguinte: se a alma for\n' +
-          'imortal, exigirá cuidados de nossa parte não apenas nesta porção do tempo que\n' +
-          'denominamos vida, senão o tempo todo em universal, parecendo que se expõe a um grande\n' +
-          'perigo quem não atender esse aspecto da questão. Pois se a morte fosse o fim de tudo, que\n' +
-          'imensa vantagem não seria para os desonestos, com a morte livrarem-se do corpo e da\n' +
-          'ruindade muito própria juntamente com a alma? Agora, porém, que se nos revelou imortal,\n' +
-          'não resta à alma outra possibilidade, se não for tornar-se, quanto possível, melhor e mais\n' +
-          'sensata. Ao chegar ao Hades, nada mais leva consigo a não ser a instrução e a educação,\n' +
-          'justamente, ao que se diz, o que mais favorece ou prejudica o morto desde o início de sua\n' +
-          'viagem para lá. O que contam é o seguinte: ou morrer alguém, o demônio que em vida lhe\n' +
-          'tocou por sorte se encarrega de levá-lo a um lugar em que se reúnem os mortos para serem\n' +
-          'julgados e de onde são conduzidos para o Hades com guias incumbidos de indicar-lhes o\n' +
-          'caminho. Depois de terem o destino merecido e de lá permanecerem o tempo indispensável,\n' +
-          'outro guia os traz de volta, após numerosos e longos períodos de tempo. Esse caminho não\n' +
-          'é o que diz Télefo, de Ésquilo, ao afirmar que o caminho do Hades é simples; a meu ver\n' +
-          'nem é simples nem único. Se fosse o caso, seria dispensável guia, pois ninguém se perde\n' +
-          'onde a estrada é uma só. O que parece é que ele é cheio de voltas e bifurcações. Digo isso\n' +
-          'com base nos ritos sagrados e cerimônias aqui em uso. De qualquer forma, a alma prudente\n' +
-          'e moderada acompanha seu guia, perfeitamente consciente do que se passa com ela; mas,\n' +
-          'como disse há pouco, a que se agarra avidamente ao corpo esvoaça durante muito tempo\n' +
-          'em torno dele e do mundo visível, e depois de grande relutância e de sofrimentos sem\n' +
-          'conta, é por fim arrastada dali, à força e com dificuldade pelo demônio incumbido de\n' +
-          'conduzi-la. Uma vez alcançado o lugar em que se encontram, outras almas, a que se acha\n' +
-          'impura pela prática do mal, de homicídios injustos ou de crimes semelhantes, irmãos\n' +
-          'daqueles e iguais aos que soem praticar almas irmãs, de umas alma como essa todas se\n' +
-          'afastam, evitam-na, não havendo guia nem companheiro de jornada que com ela se\n' +
-          'associe. Tomada de grande perplexidade, vagueia por todos os lugares até escoar-se certo\n' +
-          'tempo, depois do que a arrasta a Necessidade para a moradia que lhe foi determinada. A\n' +
-          'que atravessou a vida com pureza e moderação e alcançou deuses por guias e\n' +
-          'companheiros de jornada, obtém moradia apropriada.',
+            'imortal, exigirá cuidados de nossa parte não apenas nesta porção do tempo que\n' +
+            'denominamos vida, senão o tempo todo em universal, parecendo que se expõe a um grande\n' +
+            'perigo quem não atender esse aspecto da questão. Pois se a morte fosse o fim de tudo, que\n' +
+            'imensa vantagem não seria para os desonestos, com a morte livrarem-se do corpo e da\n' +
+            'ruindade muito própria juntamente com a alma? Agora, porém, que se nos revelou imortal,\n' +
+            'não resta à alma outra possibilidade, se não for tornar-se, quanto possível, melhor e mais\n' +
+            'sensata. Ao chegar ao Hades, nada mais leva consigo a não ser a instrução e a educação,\n' +
+            'justamente, ao que se diz, o que mais favorece ou prejudica o morto desde o início de sua\n' +
+            'viagem para lá. O que contam é o seguinte: ou morrer alguém, o demônio que em vida lhe\n' +
+            'tocou por sorte se encarrega de levá-lo a um lugar em que se reúnem os mortos para serem\n' +
+            'julgados e de onde são conduzidos para o Hades com guias incumbidos de indicar-lhes o\n' +
+            'caminho. Depois de terem o destino merecido e de lá permanecerem o tempo indispensável,\n' +
+            'outro guia os traz de volta, após numerosos e longos períodos de tempo. Esse caminho não\n' +
+            'é o que diz Télefo, de Ésquilo, ao afirmar que o caminho do Hades é simples; a meu ver\n' +
+            'nem é simples nem único. Se fosse o caso, seria dispensável guia, pois ninguém se perde\n' +
+            'onde a estrada é uma só. O que parece é que ele é cheio de voltas e bifurcações. Digo isso\n' +
+            'com base nos ritos sagrados e cerimônias aqui em uso. De qualquer forma, a alma prudente\n' +
+            'e moderada acompanha seu guia, perfeitamente consciente do que se passa com ela; mas,\n' +
+            'como disse há pouco, a que se agarra avidamente ao corpo esvoaça durante muito tempo\n' +
+            'em torno dele e do mundo visível, e depois de grande relutância e de sofrimentos sem\n' +
+            'conta, é por fim arrastada dali, à força e com dificuldade pelo demônio incumbido de\n' +
+            'conduzi-la. Uma vez alcançado o lugar em que se encontram, outras almas, a que se acha\n' +
+            'impura pela prática do mal, de homicídios injustos ou de crimes semelhantes, irmãos\n' +
+            'daqueles e iguais aos que soem praticar almas irmãs, de umas alma como essa todas se\n' +
+            'afastam, evitam-na, não havendo guia nem companheiro de jornada que com ela se\n' +
+            'associe. Tomada de grande perplexidade, vagueia por todos os lugares até escoar-se certo\n' +
+            'tempo, depois do que a arrasta a Necessidade para a moradia que lhe foi determinada. A\n' +
+            'que atravessou a vida com pureza e moderação e alcançou deuses por guias e\n' +
+            'companheiros de jornada, obtém moradia apropriada.',
           footnote: [],
           bold: [
             {
@@ -5128,24 +5128,24 @@ export default [
         },
         {
           text: 'A Terra apresenta um sem-número de lugares maravilhosos, não sendo nem\n' +
-          'de tão extensa nem da forma como a imaginam as que se comprazem em discorrer a seu\n' +
-          'respeito, conforme alguém mo demonstrou.',
+            'de tão extensa nem da forma como a imaginam as que se comprazem em discorrer a seu\n' +
+            'respeito, conforme alguém mo demonstrou.',
           footnote: [],
           bold: []
         },
         {
           text: 'Nessa altura falou Símias: Que queres dizer com isso, Sócrates? Sobre a Terra eu\n' +
-          'também já ouvi dizerem muita coisa; porém não o de que te mostras convencido. De muito\n' +
-          'bom grado te ouviria falar a esse respeito.',
+            'também já ouvi dizerem muita coisa; porém não o de que te mostras convencido. De muito\n' +
+            'bom grado te ouviria falar a esse respeito.',
           footnote: [],
           bold: []
         },
         {
           text: 'Para fazer essa descrição, Símias, não me parece necessária a arte de Glauco. Mas o\n' +
-          'que se me afigura mais difícil do que a arte de Glauco é provar a sua veracidade. É\n' +
-          'possível, até, que me falte capacidade para tanto; porém mesmo que a tivesse, o pouquinho\n' +
-          'de vida que me resta, Símias, não chegaria para tão longa exposição. Contudo não vejo\n' +
-          'impedimento em expor-te a idéia que faço da forma da Terra e de suas diferentes regiões.',
+            'que se me afigura mais difícil do que a arte de Glauco é provar a sua veracidade. É\n' +
+            'possível, até, que me falte capacidade para tanto; porém mesmo que a tivesse, o pouquinho\n' +
+            'de vida que me resta, Símias, não chegaria para tão longa exposição. Contudo não vejo\n' +
+            'impedimento em expor-te a idéia que faço da forma da Terra e de suas diferentes regiões.',
           footnote: [],
           bold: []
         },
@@ -5156,12 +5156,12 @@ export default [
         },
         {
           text: 'Para começar, principiou, fiquei convencido de que, se a Terra é de forma esférica e\n' +
-          'está colocada no meio do céu, para não cair não precisará nem de ar nem de qualquer outra\n' +
-          'necessidade da mesma natureza: por que para sustentar-se é suficiente a perfeita\n' +
-          'uniformidade do céu e seu equilíbrio natural. Pois uma coisa em equilíbrio natural. Pois\n' +
-          'uma coisa em equilíbrio no meio de qualquer elemento homogêneo, não se inclinará, no\n' +
-          'mínimo, para nenhum lado, mas se conservará sempre fixa e no mesmo estado. Foi esse o\n' +
-          'primeiro ponto, arrematou, que passei a admitir.',
+            'está colocada no meio do céu, para não cair não precisará nem de ar nem de qualquer outra\n' +
+            'necessidade da mesma natureza: por que para sustentar-se é suficiente a perfeita\n' +
+            'uniformidade do céu e seu equilíbrio natural. Pois uma coisa em equilíbrio natural. Pois\n' +
+            'uma coisa em equilíbrio no meio de qualquer elemento homogêneo, não se inclinará, no\n' +
+            'mínimo, para nenhum lado, mas se conservará sempre fixa e no mesmo estado. Foi esse o\n' +
+            'primeiro ponto, arrematou, que passei a admitir.',
           footnote: [],
           bold: []
         },
@@ -5172,40 +5172,40 @@ export default [
         },
         {
           text: 'Ao depois, continuou, que também se trata de algo imensamente grande e que nós\n' +
-          'outros, moradores da região que vai do Fásis às Colunas da Hércules, ocupamos uma\n' +
-          'porção insignificante da terra, em torno do mar à feição de formigas e rãs na beira de um\n' +
-          'charco. É que por toda a Terra há muitas concavidades, de forma e tamanho variáveis, para\n' +
-          'as quais converge água, vapor e ar. Porém a própria terra se acha pura no céu puro, onde\n' +
-          'estão os astros, denominado éter por quantos costumam discorrer sobre essas questões, cuja\n' +
-          'borra, precisamente, é tudo aquilo que não pára de depositar-se nas cavidades da terra.\n' +
-          'Quanto a nós, por não percebemos que moramos nessas concavidades, imaginamos viver\n' +
-          'em cima da Terra como se daria com quem morasse no meio do mar fundo e pensasse estar\n' +
-          'na superfície, e vendo através da água o Sol e os outros astros, tomaria o mar pelo céu. Por\n' +
-          'indolência e fraqueza muito próprias, nunca subiu até o espelho da água, nem viu nunca,\n' +
-          'depois de emergir do mar e de levantar a cabeça fora da água na direção desses lugares,\n' +
-          'quanto são mais puros e mais lindos do que o outro, o que também não poderia ter ouvido\n' +
-          'de nenhuma testemunha ocular. É exatamente o que se dá conosco. Habitantes de uma\n' +
-          'dessa concavidades da Terra, imaginamos morar em cima dela, e damos ao ar o nome de\n' +
-          'céu, como se o ar fosse o próprio céu em que se movimentam os astros. É igualzinha nossa\n' +
-          'situação: por indolência e fraqueza, não somos capazes de atingir o limite extremo do ar.\n' +
-          'Pois no caso de chegar alguém ao cimo ou de adquirir asas e de voar, emergiria e passaria a\n' +
-          'ver como os peixes aqui de baixo quando põem a cabeça fora da água e vêem o que se\n' +
-          'passa entre nós: de igual modo veria o que há por lá, e no caso de agüentar sua natureza\n' +
-          'por algum tempo semelhante vista, reconheceria ser aquele o verdadeiro céu, a verdadeira\n' +
-          'luz e a verdadeira terra. Sim, porque esta nossa terra, as pedras e toda a região que nos\n' +
-          'circunda estão estragadas e corroídas, tal como corroído está pela salsugem tudo o que há\n' +
-          'no mar. Nada cresce no mar digno de menção, nem há nada perfeito, por assim dizer;\n' +
-          'apenas cavernas, areia, lama a perder de vista e lodo por onde quer que haja terra, nada, em\n' +
-          'suma, que suporte cotejo com as coisas belas de nosso mundo. Mas aquelas, por sua vez,\n' +
-          'em confronto com as nossas, de muito as ultrapassam. Se fosse oportuno, contar-vos-ia um\n' +
-          'belo mito, Símias, digno de ser ouvido, de como é constituída essa terra situada embaixo do\n' +
-          'céu.',
+            'outros, moradores da região que vai do Fásis às Colunas da Hércules, ocupamos uma\n' +
+            'porção insignificante da terra, em torno do mar à feição de formigas e rãs na beira de um\n' +
+            'charco. É que por toda a Terra há muitas concavidades, de forma e tamanho variáveis, para\n' +
+            'as quais converge água, vapor e ar. Porém a própria terra se acha pura no céu puro, onde\n' +
+            'estão os astros, denominado éter por quantos costumam discorrer sobre essas questões, cuja\n' +
+            'borra, precisamente, é tudo aquilo que não pára de depositar-se nas cavidades da terra.\n' +
+            'Quanto a nós, por não percebemos que moramos nessas concavidades, imaginamos viver\n' +
+            'em cima da Terra como se daria com quem morasse no meio do mar fundo e pensasse estar\n' +
+            'na superfície, e vendo através da água o Sol e os outros astros, tomaria o mar pelo céu. Por\n' +
+            'indolência e fraqueza muito próprias, nunca subiu até o espelho da água, nem viu nunca,\n' +
+            'depois de emergir do mar e de levantar a cabeça fora da água na direção desses lugares,\n' +
+            'quanto são mais puros e mais lindos do que o outro, o que também não poderia ter ouvido\n' +
+            'de nenhuma testemunha ocular. É exatamente o que se dá conosco. Habitantes de uma\n' +
+            'dessa concavidades da Terra, imaginamos morar em cima dela, e damos ao ar o nome de\n' +
+            'céu, como se o ar fosse o próprio céu em que se movimentam os astros. É igualzinha nossa\n' +
+            'situação: por indolência e fraqueza, não somos capazes de atingir o limite extremo do ar.\n' +
+            'Pois no caso de chegar alguém ao cimo ou de adquirir asas e de voar, emergiria e passaria a\n' +
+            'ver como os peixes aqui de baixo quando põem a cabeça fora da água e vêem o que se\n' +
+            'passa entre nós: de igual modo veria o que há por lá, e no caso de agüentar sua natureza\n' +
+            'por algum tempo semelhante vista, reconheceria ser aquele o verdadeiro céu, a verdadeira\n' +
+            'luz e a verdadeira terra. Sim, porque esta nossa terra, as pedras e toda a região que nos\n' +
+            'circunda estão estragadas e corroídas, tal como corroído está pela salsugem tudo o que há\n' +
+            'no mar. Nada cresce no mar digno de menção, nem há nada perfeito, por assim dizer;\n' +
+            'apenas cavernas, areia, lama a perder de vista e lodo por onde quer que haja terra, nada, em\n' +
+            'suma, que suporte cotejo com as coisas belas de nosso mundo. Mas aquelas, por sua vez,\n' +
+            'em confronto com as nossas, de muito as ultrapassam. Se fosse oportuno, contar-vos-ia um\n' +
+            'belo mito, Símias, digno de ser ouvido, de como é constituída essa terra situada embaixo do\n' +
+            'céu.',
           footnote: [],
           bold: []
         },
         {
           text: 'Mas nem há dúvida, Sócrates, falou Símias; escutaremos teu mito com o maior\n' +
-          'prazer.',
+            'prazer.',
           footnote: [],
           bold: []
         },
@@ -5215,35 +5215,35 @@ export default [
         },
         {
           text: 'O que dizem, companheiro, para começar, é que essa terra fosse vista de cima\n' +
-          'por alguém, pareceria um desses balões de couro de doze peças de cores diferentes, de que\n' +
-          'são simples amostras as cores conhecidas entre nós que os pintores empregam. Toda aquela\n' +
-          'terra é assim, porém de cores muito mais pura e brilhantes; uma parte é de cor é púrpura e\n' +
-          'admiravelmente bela; outra é dourada; outra, ainda, com ser branca, é mais alva do que o\n' +
-          'giz e a neve, o mesmo acontecendo com todas as cores de que é feita, em muito maior\n' +
-          'número e mais belas do que quantas possamos já ter visto. Pois até mesmo as concavidades\n' +
-          'da terra, estando cheias de ar e de água, mostram uma cor de brilho especial, resultante da\n' +
-          'mistura de todas as cores, de forma que a Terra apresenta colorido de uniforme variedade.\n' +
-          'Nessa terra assim constituída, tudo cresce nas mesmas proporções: árvores, flores ou frutos.\n' +
-          'Comas montanhas dá-se o mesmo; as pedras, relativamente, são mais macias e translúcidas\n' +
-          'e de cores muito lindas, das quais são parcela insignificante nossas pedrazinhas tão\n' +
-          'apreciadas: sardônicas, jaspe e esmeraldas, e todas as outras da mesma natureza. As de lá\n' +
-          'são todas desse jeito e ainda mais belas. A causa disso, vamos encontrá-la no fato de serem\n' +
-          'puras aquelas pedras e não ficarem estragadas nem corroídas, como as nossas, pela\n' +
-          'putrefação e pala salsugem que convergem para os lugares cá de baixo e que deformam e\n' +
-          'deixam doente não somente as pedras e o solo, como também os animais e as plantas. Tudo\n' +
-          'isso enfeita aquela terra, também ouro e prata e o que mais houver do mesmo gênero, de\n' +
-          'tanta refulgência tudo em tão grande cópia espalhado pela vastidão da terra ,que sua vista é\n' +
-          'verdadeiramente edificante. Existem nela animais em profusão, e também em parte nas\n' +
-          'margens do ar, como nós moramos nas do mar, em parte nas ilhas cercadas de ar, perto dos\n' +
-          'continentes. Numa palavra: o ar para eles é com a água e o mar para nossas necessidades,\n' +
-          'assim como para eles o éter é o que para nós é o ar. As estações entre eles são de tal modo\n' +
-          'temperadas, que ninguém cai doente, vivendo todos muito mais tempo do que os homens cá\n' +
-          'de baixo. Quanto à vista, o ouvido o pensamento e demais atributos desse gênero, eles nos\n' +
-          'ultrapassam na mesma proporção em que o ar vence em pureza a água e o éter o próprio ar.\n' +
-          'Há também entre eles templos e bosques sagrados, nos quais viver efetivamente as\n' +
-          'divindades, bem como vozes, profecias e aparições dos deuses, que é como se comunicam\n' +
-          'com eles, de rosto a rosto. Ademais, vêem o sol, a lua e as estrelas com são na realidade,\n' +
-          'andando a par com tudo isso o restante de sua bem-aventurança.',
+            'por alguém, pareceria um desses balões de couro de doze peças de cores diferentes, de que\n' +
+            'são simples amostras as cores conhecidas entre nós que os pintores empregam. Toda aquela\n' +
+            'terra é assim, porém de cores muito mais pura e brilhantes; uma parte é de cor é púrpura e\n' +
+            'admiravelmente bela; outra é dourada; outra, ainda, com ser branca, é mais alva do que o\n' +
+            'giz e a neve, o mesmo acontecendo com todas as cores de que é feita, em muito maior\n' +
+            'número e mais belas do que quantas possamos já ter visto. Pois até mesmo as concavidades\n' +
+            'da terra, estando cheias de ar e de água, mostram uma cor de brilho especial, resultante da\n' +
+            'mistura de todas as cores, de forma que a Terra apresenta colorido de uniforme variedade.\n' +
+            'Nessa terra assim constituída, tudo cresce nas mesmas proporções: árvores, flores ou frutos.\n' +
+            'Comas montanhas dá-se o mesmo; as pedras, relativamente, são mais macias e translúcidas\n' +
+            'e de cores muito lindas, das quais são parcela insignificante nossas pedrazinhas tão\n' +
+            'apreciadas: sardônicas, jaspe e esmeraldas, e todas as outras da mesma natureza. As de lá\n' +
+            'são todas desse jeito e ainda mais belas. A causa disso, vamos encontrá-la no fato de serem\n' +
+            'puras aquelas pedras e não ficarem estragadas nem corroídas, como as nossas, pela\n' +
+            'putrefação e pala salsugem que convergem para os lugares cá de baixo e que deformam e\n' +
+            'deixam doente não somente as pedras e o solo, como também os animais e as plantas. Tudo\n' +
+            'isso enfeita aquela terra, também ouro e prata e o que mais houver do mesmo gênero, de\n' +
+            'tanta refulgência tudo em tão grande cópia espalhado pela vastidão da terra ,que sua vista é\n' +
+            'verdadeiramente edificante. Existem nela animais em profusão, e também em parte nas\n' +
+            'margens do ar, como nós moramos nas do mar, em parte nas ilhas cercadas de ar, perto dos\n' +
+            'continentes. Numa palavra: o ar para eles é com a água e o mar para nossas necessidades,\n' +
+            'assim como para eles o éter é o que para nós é o ar. As estações entre eles são de tal modo\n' +
+            'temperadas, que ninguém cai doente, vivendo todos muito mais tempo do que os homens cá\n' +
+            'de baixo. Quanto à vista, o ouvido o pensamento e demais atributos desse gênero, eles nos\n' +
+            'ultrapassam na mesma proporção em que o ar vence em pureza a água e o éter o próprio ar.\n' +
+            'Há também entre eles templos e bosques sagrados, nos quais viver efetivamente as\n' +
+            'divindades, bem como vozes, profecias e aparições dos deuses, que é como se comunicam\n' +
+            'com eles, de rosto a rosto. Ademais, vêem o sol, a lua e as estrelas com são na realidade,\n' +
+            'andando a par com tudo isso o restante de sua bem-aventurança.',
           footnote: [],
           bold: [
             {
@@ -5258,20 +5258,20 @@ export default [
         },
         {
           text: 'Assim é a natureza da terra em seu conjunto e das coisas que a circundam. Nas\n' +
-          'entranhas da terra, por todo o seu contorno notam-se numerosas concavidades, algumas\n' +
-          'mais profundas e patentes do que esta em que moramos, outras também profundas, porém\n' +
-          'com entrada mais angusta do que a nossa, havendo, ainda, umas tantas de menor fundura,\n' +
-          'porém mais largas do que esta. Todas essas regiões se comunicam entre si em muitos\n' +
-          'lugares por passagens subterrâneas, de largura variável, além de possuírem outras vias de\n' +
-          'acesso. Muita água corre de uma para outra, como nos grandes vasos, havendo, outrossim,\n' +
-          'embaixo da terra rios perenes de grandeza descomunal, de água quente e fria, e também\n' +
-          'muito fogo e grandes rios de fogo, bem como correntes de lama líquida, ora mais limpa, ora\n' +
-          'mais suja, tal como antes de lava os rios de lama da Sicília, e depois a própria lava. Essas\n' +
-          'diferentes regiões se enchem de semelhante matéria, de acordo com a direção ocasional da\n' +
-          'corrente. Essas águas se movimentam para cima e para baixo, como um pêndulo colocado\n' +
-          'no interior da terra. Semelhante oscilação deve provir do seguinte: Entre as aberturas da\n' +
-          'terra, uma há particularmente grande, que a atravessa em toda a sua extensão e a que se\n' +
-          'refere Homero nos seguintes termos:',
+            'entranhas da terra, por todo o seu contorno notam-se numerosas concavidades, algumas\n' +
+            'mais profundas e patentes do que esta em que moramos, outras também profundas, porém\n' +
+            'com entrada mais angusta do que a nossa, havendo, ainda, umas tantas de menor fundura,\n' +
+            'porém mais largas do que esta. Todas essas regiões se comunicam entre si em muitos\n' +
+            'lugares por passagens subterrâneas, de largura variável, além de possuírem outras vias de\n' +
+            'acesso. Muita água corre de uma para outra, como nos grandes vasos, havendo, outrossim,\n' +
+            'embaixo da terra rios perenes de grandeza descomunal, de água quente e fria, e também\n' +
+            'muito fogo e grandes rios de fogo, bem como correntes de lama líquida, ora mais limpa, ora\n' +
+            'mais suja, tal como antes de lava os rios de lama da Sicília, e depois a própria lava. Essas\n' +
+            'diferentes regiões se enchem de semelhante matéria, de acordo com a direção ocasional da\n' +
+            'corrente. Essas águas se movimentam para cima e para baixo, como um pêndulo colocado\n' +
+            'no interior da terra. Semelhante oscilação deve provir do seguinte: Entre as aberturas da\n' +
+            'terra, uma há particularmente grande, que a atravessa em toda a sua extensão e a que se\n' +
+            'refere Homero nos seguintes termos:',
           footnote: [],
           bold: [
             {
@@ -5282,29 +5282,29 @@ export default [
         },
         {
           text: 'Essa voragem profunda que em baixo da terra se encontra, e que por ele mesmo e\n' +
-          'muitos outros poetas é denominada Tártaro. É para essa abertura que confluem todos os\n' +
-          'rios, como é dela, também, que todos partem, adquirindo cada um as propriedades do\n' +
-          'terreno por onde passam. A razão de saírem de todos os rios dessa abertura e de voltarem\n' +
-          'para ela, é carecerem suas águas de fundo e de base; daí oscilarem e flutuarem para cima e\n' +
-          'para baixo. Concorrem para o mesmo efeito o ar e o vento que as envolvem, por\n' +
-          'acompanhá-las tanto quando se precipitam para as regiões do outro lado da terra como\n' +
-          'quando se dirigem para o lado de cá. E assim como o sopro de quem respira se encontra em\n' +
-          'constante movimento, na inspiração e na expiração, do mesmo modo o sopro predominante\n' +
-          'naquelas regiões, juntamente com as águas, quando entram e quando saem, produz ventos\n' +
-          'de irresistível violência. Ao se dirigirem as águas para os lugares que denominamos de\n' +
-          'baixo, afluem para os leitos das correntes desse lado e os enchem, como nos sistemas de\n' +
-          'irrigação; quando, inversamente, os abandonam e retornam para cá, voltam a encher os\n' +
-          'deste lado. Uma vez cheios, correm pelos canais e pela terra, seguindo as vias naturais do\n' +
-          'solo e passam a formar lagos, mares, rios e fontes. De lá, voltando a mergulhar na terra,\n' +
-          'depois de uma parte das águas circular por maios número de regiões e mais extensas,\n' +
-          'enquanto outras fazem trajeto pequeno em menos lugares, lançam-se outra vez no Tártaro,\n' +
-          'algumas muito mais abaixo do nível em que corriam, outras um pouco menos, conquanto\n' +
-          'desemboquem todas muito abaixo do ponto de partida. Alguns rios irrompem do lado\n' +
-          'oposto da saída, outros do mesmo lado; sim, casos há de descreverem um círculo completo:\n' +
-          'enrolando-se uma ou mais vezes em torno da terra, à feição de serpentes, descem o mais\n' +
-          'possível para de novo se lançarem no Tártaro. Os rios de ambos os lados podem baixar até\n' +
-          'o centro, porém não ultrapassá-lo, pois de cada lado a margem desses rios é de aclive\n' +
-          'acentuado.',
+            'muitos outros poetas é denominada Tártaro. É para essa abertura que confluem todos os\n' +
+            'rios, como é dela, também, que todos partem, adquirindo cada um as propriedades do\n' +
+            'terreno por onde passam. A razão de saírem de todos os rios dessa abertura e de voltarem\n' +
+            'para ela, é carecerem suas águas de fundo e de base; daí oscilarem e flutuarem para cima e\n' +
+            'para baixo. Concorrem para o mesmo efeito o ar e o vento que as envolvem, por\n' +
+            'acompanhá-las tanto quando se precipitam para as regiões do outro lado da terra como\n' +
+            'quando se dirigem para o lado de cá. E assim como o sopro de quem respira se encontra em\n' +
+            'constante movimento, na inspiração e na expiração, do mesmo modo o sopro predominante\n' +
+            'naquelas regiões, juntamente com as águas, quando entram e quando saem, produz ventos\n' +
+            'de irresistível violência. Ao se dirigirem as águas para os lugares que denominamos de\n' +
+            'baixo, afluem para os leitos das correntes desse lado e os enchem, como nos sistemas de\n' +
+            'irrigação; quando, inversamente, os abandonam e retornam para cá, voltam a encher os\n' +
+            'deste lado. Uma vez cheios, correm pelos canais e pela terra, seguindo as vias naturais do\n' +
+            'solo e passam a formar lagos, mares, rios e fontes. De lá, voltando a mergulhar na terra,\n' +
+            'depois de uma parte das águas circular por maios número de regiões e mais extensas,\n' +
+            'enquanto outras fazem trajeto pequeno em menos lugares, lançam-se outra vez no Tártaro,\n' +
+            'algumas muito mais abaixo do nível em que corriam, outras um pouco menos, conquanto\n' +
+            'desemboquem todas muito abaixo do ponto de partida. Alguns rios irrompem do lado\n' +
+            'oposto da saída, outros do mesmo lado; sim, casos há de descreverem um círculo completo:\n' +
+            'enrolando-se uma ou mais vezes em torno da terra, à feição de serpentes, descem o mais\n' +
+            'possível para de novo se lançarem no Tártaro. Os rios de ambos os lados podem baixar até\n' +
+            'o centro, porém não ultrapassá-lo, pois de cada lado a margem desses rios é de aclive\n' +
+            'acentuado.',
           footnote: [],
           bold: []
         },
@@ -5314,25 +5314,25 @@ export default [
         },
         {
           text: 'Há muitas outras caudais do mais variado aspecto, porém nessa multidão de\n' +
-          'rios há quatro, particularmente, dos quais o maior e mais afastado do centro, denominado\n' +
-          'Oceano, circunda a Terra inteira. De fronte deste e em sentido contrário deflui o Aqueronte,\n' +
-          'que além de atravessar muitas regiões desertas, corre por baixo da terra, até alcançar a\n' +
-          'Lagoa Aquerúsia, para onde vão as almas da maioria dos mortos, as quais, depois de ali\n' +
-          'permanecerem o tempo marcado pelo destino, umas mais outras menos, são reenviadas para\n' +
-          'renascerem em animais. O terceiro rio irrompe dentre os dois primeiros, para lançar-se,\n' +
-          'perto de sua origem, num lugar amplo e cheio de fogo, onde forma um lago maior do que o\n' +
-          'nosso mar, de água e lama ferventes. Daí, torvo de tanta lama, descreve um círculo e depois\n' +
-          'de contornar a terra e atravessar outros lugares, atinge o limite extremo da Lagoa\n' +
-          'Aquerúsia, sem que suas águas se misturem com as desta. Por fim, depois de muitas voltas\n' +
-          'sempre dentro da terra lança-se na porção mais baixa do Tártaro. Esse é que tem o nome de\n' +
-          'Piriflegetonte, cujas lavas jogam partículas incandescentes em diversos pontos da superfície\n' +
-          'da terra. Defronte dele, por sua vez, desemboca o quarto rio, a princípio numa região\n' +
-          'selvática e pavorosa, e, ao que se diz, toda ela de colorido azul escuro, denominada Estígia,\n' +
-          'sendo chamada Estige a lagoa em que ele vem lançar-se. Depois de nela cair e adquirirem\n' +
-          'suas águas propriedades terríveis, afunda pela terra, traçando voltas sem conta em sentido\n' +
-          'contrário às do Piriflegetonte, com o qual vai defrontar-se no lado oposto da lagoa\n' +
-          'Aquerúsia. Suas águas, também, não se misturam com as outras, vindo ele a desaguar no\n' +
-          'Tártaro defronte do Piriflegetonte. O nome desse rio, no dizer dos poetas, é Cócito.',
+            'rios há quatro, particularmente, dos quais o maior e mais afastado do centro, denominado\n' +
+            'Oceano, circunda a Terra inteira. De fronte deste e em sentido contrário deflui o Aqueronte,\n' +
+            'que além de atravessar muitas regiões desertas, corre por baixo da terra, até alcançar a\n' +
+            'Lagoa Aquerúsia, para onde vão as almas da maioria dos mortos, as quais, depois de ali\n' +
+            'permanecerem o tempo marcado pelo destino, umas mais outras menos, são reenviadas para\n' +
+            'renascerem em animais. O terceiro rio irrompe dentre os dois primeiros, para lançar-se,\n' +
+            'perto de sua origem, num lugar amplo e cheio de fogo, onde forma um lago maior do que o\n' +
+            'nosso mar, de água e lama ferventes. Daí, torvo de tanta lama, descreve um círculo e depois\n' +
+            'de contornar a terra e atravessar outros lugares, atinge o limite extremo da Lagoa\n' +
+            'Aquerúsia, sem que suas águas se misturem com as desta. Por fim, depois de muitas voltas\n' +
+            'sempre dentro da terra lança-se na porção mais baixa do Tártaro. Esse é que tem o nome de\n' +
+            'Piriflegetonte, cujas lavas jogam partículas incandescentes em diversos pontos da superfície\n' +
+            'da terra. Defronte dele, por sua vez, desemboca o quarto rio, a princípio numa região\n' +
+            'selvática e pavorosa, e, ao que se diz, toda ela de colorido azul escuro, denominada Estígia,\n' +
+            'sendo chamada Estige a lagoa em que ele vem lançar-se. Depois de nela cair e adquirirem\n' +
+            'suas águas propriedades terríveis, afunda pela terra, traçando voltas sem conta em sentido\n' +
+            'contrário às do Piriflegetonte, com o qual vai defrontar-se no lado oposto da lagoa\n' +
+            'Aquerúsia. Suas águas, também, não se misturam com as outras, vindo ele a desaguar no\n' +
+            'Tártaro defronte do Piriflegetonte. O nome desse rio, no dizer dos poetas, é Cócito.',
           footnote: [],
           bold: [
             {
@@ -5347,34 +5347,34 @@ export default [
         },
         {
           text: 'Sendo essa a disposição natural dos rios, quando os mortos chegam ao local\n' +
-          'determinado para cada um o seu demônio particular, antes de mais nada são julgados, tanto\n' +
-          'os que levaram vida bela e santa como os que viveram mal. Os classificados como de\n' +
-          'procedimento mediano, dirigem-se para o Aqueronte e sobem para as barcas que lhes são\n' +
-          'destinadas e que os transportam para a lagoa. Aí passam a residir e se purificam, e no caso\n' +
-          'de haverem cometido alguma falta, cumprem a pena imposta e são absolvidos ou\n' +
-          'recompensados, de acordo com o mérito de cada um. Os reconhecidamente incuráveis, por\n' +
-          'causa da enormidade de seus crimes, roubos de templos, repetidos e graves, homicídios\n' +
-          'iníquos e contra a lei, e muitos outros do mesmo tipo que se cometem por aí: esses lança-os\n' +
-          'no Tártaro a sorte merecida, de onde não sairão nunca mais. Os autores de faltas sanáveis,\n' +
-          'embora graves – seria o caso dos que, num momento de cólera, usaram de violência contra\n' +
-          'o pai ou a mãe, mas que se arrependeram o resto da vida, ou os que se tornaram homicidas\n' +
-          'por idênticos motivos – todos terão fatalmente de ser lançados o Tártaro. Porém m ano\n' +
-          'depois de ali caírem, as ondas jogam os assassinos para o Cócito, e os culpados de violência\n' +
-          'contra o pai e a mãe para o Piriflegetonte. Arrastados, assim, pela correnteza, quando\n' +
-          'atingem a Lagoa Aquerúsia, alguns chamam a vozes os que eles mesmos mataram, outros\n' +
-          'as vítimas de suas violências; e ao acorrerem todos a seus brados, imploram permissão de\n' +
-          'passar para a lagoa e de serem recebidos. Se conseguem com eles que os atendam,\n' +
-          'ingressam na lagoa, terminando logo ali seus sofrimentos; caso contrário, são mais uma vez\n' +
-          'levados para o Tártaro e deste, novamente, para os rios, prolongando-se, dessa forma, o\n' +
-          'castigo até conseguirem o perdão de suas vítimas. Essa pena lhes é imposta pelos juízes.\n' +
-          'Por último, os que são reconhecidos como de vida eminentemente santa, ficam dispensados\n' +
-          'de permanecer nessas moradas subterrâneas e, como egressos da prisão atingem, as regiões\n' +
-          'puras e passam a residir na terra. Entre esses, os que já se purificaram suficientemente por\n' +
-          'meio da filosofia, vivem daí por diante sem corpo e vão para moradias ainda mais belas do\n' +
-          'que as outras. Desisto de descrevê-las, à uma, por não ser fácil tarefa, à outras, por não\n' +
-          'dispor agora de tempo para tanto. Do que vos expusemos, Símias, precisamos tudo fazer\n' +
-          'para em vida adquirir virtude e sabedoria, pois bela é a recompensa e infinitamente grande\n' +
-          'a esperança.',
+            'determinado para cada um o seu demônio particular, antes de mais nada são julgados, tanto\n' +
+            'os que levaram vida bela e santa como os que viveram mal. Os classificados como de\n' +
+            'procedimento mediano, dirigem-se para o Aqueronte e sobem para as barcas que lhes são\n' +
+            'destinadas e que os transportam para a lagoa. Aí passam a residir e se purificam, e no caso\n' +
+            'de haverem cometido alguma falta, cumprem a pena imposta e são absolvidos ou\n' +
+            'recompensados, de acordo com o mérito de cada um. Os reconhecidamente incuráveis, por\n' +
+            'causa da enormidade de seus crimes, roubos de templos, repetidos e graves, homicídios\n' +
+            'iníquos e contra a lei, e muitos outros do mesmo tipo que se cometem por aí: esses lança-os\n' +
+            'no Tártaro a sorte merecida, de onde não sairão nunca mais. Os autores de faltas sanáveis,\n' +
+            'embora graves – seria o caso dos que, num momento de cólera, usaram de violência contra\n' +
+            'o pai ou a mãe, mas que se arrependeram o resto da vida, ou os que se tornaram homicidas\n' +
+            'por idênticos motivos – todos terão fatalmente de ser lançados o Tártaro. Porém m ano\n' +
+            'depois de ali caírem, as ondas jogam os assassinos para o Cócito, e os culpados de violência\n' +
+            'contra o pai e a mãe para o Piriflegetonte. Arrastados, assim, pela correnteza, quando\n' +
+            'atingem a Lagoa Aquerúsia, alguns chamam a vozes os que eles mesmos mataram, outros\n' +
+            'as vítimas de suas violências; e ao acorrerem todos a seus brados, imploram permissão de\n' +
+            'passar para a lagoa e de serem recebidos. Se conseguem com eles que os atendam,\n' +
+            'ingressam na lagoa, terminando logo ali seus sofrimentos; caso contrário, são mais uma vez\n' +
+            'levados para o Tártaro e deste, novamente, para os rios, prolongando-se, dessa forma, o\n' +
+            'castigo até conseguirem o perdão de suas vítimas. Essa pena lhes é imposta pelos juízes.\n' +
+            'Por último, os que são reconhecidos como de vida eminentemente santa, ficam dispensados\n' +
+            'de permanecer nessas moradas subterrâneas e, como egressos da prisão atingem, as regiões\n' +
+            'puras e passam a residir na terra. Entre esses, os que já se purificaram suficientemente por\n' +
+            'meio da filosofia, vivem daí por diante sem corpo e vão para moradias ainda mais belas do\n' +
+            'que as outras. Desisto de descrevê-las, à uma, por não ser fácil tarefa, à outras, por não\n' +
+            'dispor agora de tempo para tanto. Do que vos expusemos, Símias, precisamos tudo fazer\n' +
+            'para em vida adquirir virtude e sabedoria, pois bela é a recompensa e infinitamente grande\n' +
+            'a esperança.',
           footnote: [],
           bold: [
             {
@@ -5389,22 +5389,22 @@ export default [
         },
         {
           text: 'Afirmar, de modo positivo, que tudo seja como acabei de expor, não é\n' +
-          'próprio de homem sensato; mas que deve ser assim mesmo ou quase assim no que diz\n' +
-          'respeito a nossas almas e suas moradas, sendo a alma imortal como se nos revelou, é\n' +
-          'proposição que me parece digna de fé e muito própria para recompensar-nos do risco em\n' +
-          'que incorremos por aceitá-la como tal. É um belo risco, eis o que precisamos dizer a nós\n' +
-          'mesmos à guisa da formula de encantamento. Essa é a razão de me ter alongado neste mito.\n' +
-          'Confiado nele; é que pode tranqüilizar-se com relação a sua alma o homem que passou a\n' +
-          'vida sem dar o menor apreço aos prazeres do corpo e aos cuidados especiais que este\n' +
-          'requer, por considerá-los estranhos a si mesmo e capazes de produzir, justamente, o efeito\n' +
-          'oposto. Todo entregue aos deleites da instrução, com os quais adornava a alma, não como\n' +
-          'se o fizesse com algo estranho a ela, porém como jóias da mais feliz indicação: temperança,\n' +
-          'justiça, coragem, nobreza e verdade, espera o momento de partir para o Hades quando o\n' +
-          'destino o convocar. Vós também, Símias e Cebete, acrescentou, e todos os outros, tereis de\n' +
-          'fazer mais tarde essa viagem, cada um no seu tempo. A mim, porém, para falar como herói\n' +
-          'trágico, agora mesmo chama-me o destino. Mas esta quase na hora de tomar o banho. Acho\n' +
-          'melhor fazer isso antes de beber o veneno, para não dar às mulheres o trabalho de lavar o\n' +
-          'cadáver.',
+            'próprio de homem sensato; mas que deve ser assim mesmo ou quase assim no que diz\n' +
+            'respeito a nossas almas e suas moradas, sendo a alma imortal como se nos revelou, é\n' +
+            'proposição que me parece digna de fé e muito própria para recompensar-nos do risco em\n' +
+            'que incorremos por aceitá-la como tal. É um belo risco, eis o que precisamos dizer a nós\n' +
+            'mesmos à guisa da formula de encantamento. Essa é a razão de me ter alongado neste mito.\n' +
+            'Confiado nele; é que pode tranqüilizar-se com relação a sua alma o homem que passou a\n' +
+            'vida sem dar o menor apreço aos prazeres do corpo e aos cuidados especiais que este\n' +
+            'requer, por considerá-los estranhos a si mesmo e capazes de produzir, justamente, o efeito\n' +
+            'oposto. Todo entregue aos deleites da instrução, com os quais adornava a alma, não como\n' +
+            'se o fizesse com algo estranho a ela, porém como jóias da mais feliz indicação: temperança,\n' +
+            'justiça, coragem, nobreza e verdade, espera o momento de partir para o Hades quando o\n' +
+            'destino o convocar. Vós também, Símias e Cebete, acrescentou, e todos os outros, tereis de\n' +
+            'fazer mais tarde essa viagem, cada um no seu tempo. A mim, porém, para falar como herói\n' +
+            'trágico, agora mesmo chama-me o destino. Mas esta quase na hora de tomar o banho. Acho\n' +
+            'melhor fazer isso antes de beber o veneno, para não dar às mulheres o trabalho de lavar o\n' +
+            'cadáver.',
           footnote: [],
           bold: [
             {
@@ -5419,8 +5419,8 @@ export default [
         },
         {
           text: 'Depois de dizer essas palavras, falou Critão: Está bem, Sócrates; porém que\n' +
-          'determinações me deixas ou a estes aqui, a respeito de teus filhos, ou o que mais poderemos\n' +
-          'fazer por amor de ti, que nos fora grato executar?',
+            'determinações me deixas ou a estes aqui, a respeito de teus filhos, ou o que mais poderemos\n' +
+            'fazer por amor de ti, que nos fora grato executar?',
           footnote: [],
           bold: [
             {
@@ -5431,17 +5431,17 @@ export default [
         },
         {
           text: 'O que sempre vos digo, Critão, foi a sua resposta; nada tenho a acrescentar: se\n' +
-          'cuidardes de vós mesmos, tudo o que fizerdes será tanto por amor de mim e dos meus como\n' +
-          'de todos, ainda mesmo que nada me tivésseis prometido neste momento. Porém no caso de\n' +
-          'vos descuidardes de vós mesmos e de não orientardes a vida como que no rastro do que\n' +
-          'vos disse agora e no passado, por mais numerosos e solenes que fossem vossos juramentos\n' +
-          'neste instante, não avançareis um único passo.',
+            'cuidardes de vós mesmos, tudo o que fizerdes será tanto por amor de mim e dos meus como\n' +
+            'de todos, ainda mesmo que nada me tivésseis prometido neste momento. Porém no caso de\n' +
+            'vos descuidardes de vós mesmos e de não orientardes a vida como que no rastro do que\n' +
+            'vos disse agora e no passado, por mais numerosos e solenes que fossem vossos juramentos\n' +
+            'neste instante, não avançareis um único passo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Quanto a isso, respondeu, esforçar-nos-emos para viver dessa maneira. Mas, como\n' +
-          'devemos sepultar-te?',
+            'devemos sepultar-te?',
           footnote: [],
           bold: []
         },
@@ -5452,20 +5452,20 @@ export default [
         },
         {
           text: 'Depois, sorriu de mansinho e disse, olhando para o nosso lado: Não consigo,\n' +
-          'senhores, convencer Critão de que eu sou o Sócrates que neste momento conversa com ele\n' +
-          'e comenta seus argumentos; toma-me por quem ele irá ver morto dentro de pouco. Por isso\n' +
-          'pergunta como deverá sepultar-me. Quanto ao que vos tenho dito tantas vezes, que depois\n' +
-          'de beber o veneno não ficarei convosco mais irei compartilhar da dita dos bemaventurados,\n' +
-          'ele acha que eu só falo assim para tranqüilizar-vos e a mim também. Servime,\n' +
-          'pois, de fiador junto de Critão, porém que seja essa fiança o oposto da que ele prestou\n' +
-          'perante os juízes. Empenhou, então, a palavra em como eu ficaria; por vossa vez, afirmailhe,\n' +
-          'que não ficarei depois de morto, porém sairei daqui e partirei, para que ele se mostre\n' +
-          'mais paciente e não se aflija tanto por minha causa, quando vir queimarem ou enterrarem\n' +
-          'meu corpo, no pressuposto de que eu esteja sofrendo enormemente, nem diga nos meus\n' +
-          'funerais que expõe Sócrates, ou o carrega, ou o sepulta. Fica sabendo, continuou, meu\n' +
-          'admirável Critão, que a imprecisão da linguagem, além de ser um defeito em si mesma,\n' +
-          'produz mal às almas. Importa criares coragem e dizer que é meu corpo que vais enterrar;\n' +
-          'depois sepulta-o como te aprouver e como te parecer mais de acordo com as leis.',
+            'senhores, convencer Critão de que eu sou o Sócrates que neste momento conversa com ele\n' +
+            'e comenta seus argumentos; toma-me por quem ele irá ver morto dentro de pouco. Por isso\n' +
+            'pergunta como deverá sepultar-me. Quanto ao que vos tenho dito tantas vezes, que depois\n' +
+            'de beber o veneno não ficarei convosco mais irei compartilhar da dita dos bemaventurados,\n' +
+            'ele acha que eu só falo assim para tranqüilizar-vos e a mim também. Servime,\n' +
+            'pois, de fiador junto de Critão, porém que seja essa fiança o oposto da que ele prestou\n' +
+            'perante os juízes. Empenhou, então, a palavra em como eu ficaria; por vossa vez, afirmailhe,\n' +
+            'que não ficarei depois de morto, porém sairei daqui e partirei, para que ele se mostre\n' +
+            'mais paciente e não se aflija tanto por minha causa, quando vir queimarem ou enterrarem\n' +
+            'meu corpo, no pressuposto de que eu esteja sofrendo enormemente, nem diga nos meus\n' +
+            'funerais que expõe Sócrates, ou o carrega, ou o sepulta. Fica sabendo, continuou, meu\n' +
+            'admirável Critão, que a imprecisão da linguagem, além de ser um defeito em si mesma,\n' +
+            'produz mal às almas. Importa criares coragem e dizer que é meu corpo que vais enterrar;\n' +
+            'depois sepulta-o como te aprouver e como te parecer mais de acordo com as leis.',
           footnote: [],
           bold: []
         },
@@ -5475,15 +5475,15 @@ export default [
         },
         {
           text: 'Tendo acabado de falar, levantou-se e foi para outro compartimento, a fim de\n' +
-          'banhar-se. Critão o acompanhou; a nós mandou que esperássemos. Ali ficamos, então, a\n' +
-          'conversar e comentar tudo o que ele dissera e a discorrer sobre o nosso grande infortúnio.\n' +
-          'Sentíamos, em verdade, como quem houvesse perdido o pai e tivesse de ficar órfão para o\n' +
-          'resto da vida. Depois de tomar banho, trouxeram-lhe os filhos – dois ainda eram pequenos;\n' +
-          'o outro, mais crescido. – Chegaram também as mulheres de casa, com as quais ele\n' +
-          'conversou na frente de Critão, e depois de lhes haver feito certas recomendações, pediu que\n' +
-          'retirassem dali as mulheres e os meninos e veio para o nosso lado. O sol já estava quase a\n' +
-          'desaparecer, pois Sócrates havia ficado lá dentro bastante tempo. Ao vir do banho, sentouse,\n' +
-          'porém não conversou muito. Achegou-se-lhe o comissário dos Onze, que lhe disse:',
+            'banhar-se. Critão o acompanhou; a nós mandou que esperássemos. Ali ficamos, então, a\n' +
+            'conversar e comentar tudo o que ele dissera e a discorrer sobre o nosso grande infortúnio.\n' +
+            'Sentíamos, em verdade, como quem houvesse perdido o pai e tivesse de ficar órfão para o\n' +
+            'resto da vida. Depois de tomar banho, trouxeram-lhe os filhos – dois ainda eram pequenos;\n' +
+            'o outro, mais crescido. – Chegaram também as mulheres de casa, com as quais ele\n' +
+            'conversou na frente de Critão, e depois de lhes haver feito certas recomendações, pediu que\n' +
+            'retirassem dali as mulheres e os meninos e veio para o nosso lado. O sol já estava quase a\n' +
+            'desaparecer, pois Sócrates havia ficado lá dentro bastante tempo. Ao vir do banho, sentouse,\n' +
+            'porém não conversou muito. Achegou-se-lhe o comissário dos Onze, que lhe disse:',
           footnote: [],
           bold: [
             {
@@ -5494,45 +5494,45 @@ export default [
         },
         {
           text: 'Sócrates, falou, de ti não terei de queixar-me como dos outros, que se zangam comigo\n' +
-          'e rompem em palavras e pragas, quando os convido a tomar o veneno por determinação\n' +
-          'superior. No teu caso, pelo contrário, durante todo este tempo e em várias outras\n' +
-          'oportunidades, pude reconhecer em ti o homem mais nobre, mais delicado e melhor de\n' +
-          'quantos para aqui têm vindo. Hoje, especialmente, tenho certeza de que não te zangarás\n' +
-          'comigo, pois sabes muito bem que é dos outros a culpa. E agora, já que ficaste ciente do\n' +
-          'que vim anunciar-te. Adeus; suporta o inevitável da melhor maneira possível.',
+            'e rompem em palavras e pragas, quando os convido a tomar o veneno por determinação\n' +
+            'superior. No teu caso, pelo contrário, durante todo este tempo e em várias outras\n' +
+            'oportunidades, pude reconhecer em ti o homem mais nobre, mais delicado e melhor de\n' +
+            'quantos para aqui têm vindo. Hoje, especialmente, tenho certeza de que não te zangarás\n' +
+            'comigo, pois sabes muito bem que é dos outros a culpa. E agora, já que ficaste ciente do\n' +
+            'que vim anunciar-te. Adeus; suporta o inevitável da melhor maneira possível.',
           footnote: [],
           bold: []
         },
         {
           text: 'E desatando a chorar, deu as costas e retirou-se. Sócrates olhou para ele disse: Adeus,\n' +
-          'também para ti; faremos isso mesmo.',
+            'também para ti; faremos isso mesmo.',
           footnote: [],
           bold: []
         },
         {
           text: 'Depois, voltando-se para o nosso lado: Que homem delicado! Disse. Durante todo\n' +
-          'este tempo , vinha sempre ver-me e várias vezes conversou comigo. Excelente criatura.\n' +
-          'Agora mesmo, quanta generosidade revela com esse choro por minha causa! Porém vamos,\n' +
-          'Critão; obedeçamos-lhe; tragam logo o veneno, se estiver pronto; senão, cuide de preparálo\n' +
-          'o encarregado disso.',
+            'este tempo , vinha sempre ver-me e várias vezes conversou comigo. Excelente criatura.\n' +
+            'Agora mesmo, quanta generosidade revela com esse choro por minha causa! Porém vamos,\n' +
+            'Critão; obedeçamos-lhe; tragam logo o veneno, se estiver pronto; senão, cuide de preparálo\n' +
+            'o encarregado disso.',
           footnote: [],
           bold: []
         },
         {
           text: 'Critão observou: O que eu acho, Sócrates, lhe disse, é que o sol ainda está por cima\n' +
-          'das montanhas; não baixou de todo. Sei também que muitos tomaram o veneno bem depois\n' +
-          'da intimação e de comerem e beberem à farta; sim, alguns mesmo depois de relações\n' +
-          'amorosas com que lhe apetecesse. Não te apresses; temos tempo.',
+            'das montanhas; não baixou de todo. Sei também que muitos tomaram o veneno bem depois\n' +
+            'da intimação e de comerem e beberem à farta; sim, alguns mesmo depois de relações\n' +
+            'amorosas com que lhe apetecesse. Não te apresses; temos tempo.',
           footnote: [],
           bold: []
         },
         {
           text: 'E Sócrates: É natural, Critão, assim falou, que esses tais procedessem conforme\n' +
-          'disseste, por imaginarem que disse lhes adviria alguma vantagem. Mas é também natural\n' +
-          'não proceder eu dessa maneira, pois não vejo o que posso vir a lucrar em beber o veneno\n' +
-          'um pouco mais tarde, se não for tornar-me ridículo a meus próprios olhos, por agarrar-me\n' +
-          'dessa maneira à vida e tentar economizar o que já não existe. Vamos, continuou: obedeceme\n' +
-          'e só faças o que eu digo.',
+            'disseste, por imaginarem que disse lhes adviria alguma vantagem. Mas é também natural\n' +
+            'não proceder eu dessa maneira, pois não vejo o que posso vir a lucrar em beber o veneno\n' +
+            'um pouco mais tarde, se não for tornar-me ridículo a meus próprios olhos, por agarrar-me\n' +
+            'dessa maneira à vida e tentar economizar o que já não existe. Vamos, continuou: obedeceme\n' +
+            'e só faças o que eu digo.',
           footnote: [],
           bold: []
         },
@@ -5542,9 +5542,9 @@ export default [
         },
         {
           text: ' Ouvindo-o, Critão fez sinal ao menino que se encontrava mais perto. Este\n' +
-          'saiu e voltou pouco depois em companhia do encarregado de lhe dar o veneno, que já o\n' +
-          'trazia espremido na taça. Ao ver o homem, Sócrates perguntou-lhe. E agora, meu caro: já\n' +
-          'que entendes destas coisas, que precisarei fazer?',
+            'saiu e voltou pouco depois em companhia do encarregado de lhe dar o veneno, que já o\n' +
+            'trazia espremido na taça. Ao ver o homem, Sócrates perguntou-lhe. E agora, meu caro: já\n' +
+            'que entendes destas coisas, que precisarei fazer?',
           footnote: [],
           bold: [
             {
@@ -5555,15 +5555,15 @@ export default [
         },
         {
           text: 'Nada mais, respondeu, do que andar depois de beber, até sentires peso nas pernas, e\n' +
-          'em seguidas deitar-te. Assim o veneno atuará.',
+            'em seguidas deitar-te. Assim o veneno atuará.',
           footnote: [],
           bold: []
         },
         {
           text: 'Depois dessas palavras, estendeu a Sócrates a taça, que a tomou das mãos dele com\n' +
-          'toda a tranquilidade, sem o menor tremor nem alteração da cor ou das feições. Mirando por\n' +
-          'baixo o homem, com aquele seu olhar de touro, perguntou-lhe: Que me dizes? E se eu\n' +
-          'fizesse uma libação com um pouquinho disto aqui? É permitido ou não?',
+            'toda a tranquilidade, sem o menor tremor nem alteração da cor ou das feições. Mirando por\n' +
+            'baixo o homem, com aquele seu olhar de touro, perguntou-lhe: Que me dizes? E se eu\n' +
+            'fizesse uma libação com um pouquinho disto aqui? É permitido ou não?',
           footnote: [],
           bold: []
         },
@@ -5574,42 +5574,42 @@ export default [
         },
         {
           text: 'Compreendo, retrucou. Mas pelo menos é permitido, e até um dever, pedir aos deuses\n' +
-          'que façam feliz a passagem deste mundo para o outro. É o que peço. Prouvera que me\n' +
-          'atendam!',
+            'que façam feliz a passagem deste mundo para o outro. É o que peço. Prouvera que me\n' +
+            'atendam!',
           footnote: [],
           bold: []
         },
         {
           text: 'Depois de assim falar, levou a taça aos lábios e com toda a naturalidade, sem vacilar\n' +
-          'um nada, bebeu até à última gota. Até esse momento, quase todos tínhamos conseguido\n' +
-          'reter as lágrimas; porém quando o vimos beber e que havia bebido tudo, ninguém mais\n' +
-          'aguentou. Eu também não me contive: chorei à lágrima viva. Cobrindo a cabeça, lastimei o\n' +
-          'meu infortúnio; sim, não era por desgraça que eu chorava, mas a minha própria sorte, por\n' +
-          'ver de que espécie de amigo me veria privado. Critão levantou-se antes de mim, por não\n' +
-          'poder reter as lágrimas. Apolodoro, que desde o começo não havia parado de chorar, pôs se\n' +
-          'a urrar, comovendo seu pranto e lamentações até o íntimo todos os presentes, com exceção\n' +
-          'do próprio Sócrates.',
+            'um nada, bebeu até à última gota. Até esse momento, quase todos tínhamos conseguido\n' +
+            'reter as lágrimas; porém quando o vimos beber e que havia bebido tudo, ninguém mais\n' +
+            'aguentou. Eu também não me contive: chorei à lágrima viva. Cobrindo a cabeça, lastimei o\n' +
+            'meu infortúnio; sim, não era por desgraça que eu chorava, mas a minha própria sorte, por\n' +
+            'ver de que espécie de amigo me veria privado. Critão levantou-se antes de mim, por não\n' +
+            'poder reter as lágrimas. Apolodoro, que desde o começo não havia parado de chorar, pôs se\n' +
+            'a urrar, comovendo seu pranto e lamentações até o íntimo todos os presentes, com exceção\n' +
+            'do próprio Sócrates.',
           footnote: [],
           bold: []
         },
         {
           text: 'Que é isso, gente incompreensível? Perguntou. Mandei sair as mulheres, para evitar\n' +
-          'esses exageros. Sempre soube que só se deve morrer com palavras de bom agouro.\n' +
-          'Acalmai-vos! Sede homens!',
+            'esses exageros. Sempre soube que só se deve morrer com palavras de bom agouro.\n' +
+            'Acalmai-vos! Sede homens!',
           footnote: [],
           bold: []
         },
         {
           text: 'Ouvindo-o falar dessa maneira, sentimo-nos envergonhados e paramos de chorar. E\n' +
-          'ele, sem deixar de andar, ao sentir as pernas pesadas, deitou-se de costas, como\n' +
-          'recomendara o homem do veneno. Este, a intervalos, apalpava-lhe os pés e as pernas.\n' +
-          'Depois, apertando com mais força os pés, perguntou se sentia alguma coisa. Respondeu que\n' +
-          'não. De seguida, sem deixar de comprimir-lhe a perna, do artelho para cima, mostrou-nos\n' +
-          'que começava a ficar frio e a enrijecer. Apalpando-o mais uma vez, declarou-nos que no\n' +
-          'momento em que aquilo chegasse ao coração, ele partiria. Já se lhe tinha esfriado quase\n' +
-          'todo o baixo-ventre, quando, descobrindo o rosto – pois o havia tapado antes – disse, e\n' +
-          'foram suas últimas palavras: Critão, exclamou, devemos um galo a Asclépio. Não te\n' +
-          'esqueças de saldar essa dívida!',
+            'ele, sem deixar de andar, ao sentir as pernas pesadas, deitou-se de costas, como\n' +
+            'recomendara o homem do veneno. Este, a intervalos, apalpava-lhe os pés e as pernas.\n' +
+            'Depois, apertando com mais força os pés, perguntou se sentia alguma coisa. Respondeu que\n' +
+            'não. De seguida, sem deixar de comprimir-lhe a perna, do artelho para cima, mostrou-nos\n' +
+            'que começava a ficar frio e a enrijecer. Apalpando-o mais uma vez, declarou-nos que no\n' +
+            'momento em que aquilo chegasse ao coração, ele partiria. Já se lhe tinha esfriado quase\n' +
+            'todo o baixo-ventre, quando, descobrindo o rosto – pois o havia tapado antes – disse, e\n' +
+            'foram suas últimas palavras: Critão, exclamou, devemos um galo a Asclépio. Não te\n' +
+            'esqueças de saldar essa dívida!',
           footnote: [],
           bold: []
         },
@@ -5620,14 +5620,14 @@ export default [
         },
         {
           text: 'A essa pergunta, já não respondeu. Decorrido mais algum tempo, deu um estremeção.\n' +
-          'O homem o descobriu; tinha o olhar parado. Percebendo isso, Critão fechou-lhe os olhos e\n' +
-          'a boca.',
+            'O homem o descobriu; tinha o olhar parado. Percebendo isso, Critão fechou-lhe os olhos e\n' +
+            'a boca.',
           footnote: [],
           bold: []
         },
         {
           text: 'Tal foi o fim do nosso amigo, Equécrates, do homem, podemos afirmá-lo, que entre\n' +
-          'todos os que nos foi dado conhecer, era o melhor e também o mais sábio e mais justo.',
+            'todos os que nos foi dado conhecer, era o melhor e também o mais sábio e mais justo.',
           footnote: [],
           bold: []
         },
@@ -6129,7 +6129,7 @@ export default [
             'que consolas e elevas,\n' +
             '<br>' +
             'vem, desperta,\n' +
- '<br>' +
+            '<br>' +
             'matriz da eternidade e d’O sem-fim,\n' +
             '<br>' +
             'ó mãe de Deus, canta e roga por mim.',
@@ -19165,6 +19165,158 @@ export default [
             'astuciosa tirania; o julgamento dos cruéis ministros do carniceiro morto e sua esposa tão infernal quanto\n' +
             'ele e que, segundo consta, pôs termo à vida com violência, por suas próprias mãos: tudo isso e quanto\n' +
             'mais ainda for preciso, pela graça da Graça a cabo havemos de levar na medida do tempo e do lugar. Convido-vos, assim, de mui bom grado, para que em Scone me vejais coroado. <br>(<i>Fanfarras. Saem.</i>)',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
+      title: 'O Alienista',
+      author: 'Machado de Assis',
+      section: 'Capítulo I',
+      img: 'machado3',
+      imgIndex: '',
+      titleURL: 'o-alienista',
+      authorURL: 'machado-de-assis',
+      sectionURL: 'capitulo-I',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>DE COMO ITAGUAÍ GANHOU UMA CASA DE ORATES</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: 'As crônicas da vila de Itaguaí dizem que em tempos remotos vivera ali um certo médico, o\n' +
+            'Dr. Simão Bacamarte, filho da nobreza da terra e o maior dos médicos do Brasil, de\n' +
+            'Portugal e das Espanhas. Estudara em Coimbra e Pádua. Aos trinta e quatro anos regressou\n' +
+            'ao Brasil, não podendo el-rei alcançar dele que ficasse em Coimbra, regendo a\n' +
+            'universidade, ou em Lisboa, expedindo os negócios da monarquia.',
+          footnote: []
+        },
+        {
+          text: '— A ciência, disse ele a Sua Majestade, é o meu emprego único; Itaguaí é o meu universo.',
+          footnote: []
+        },
+        {
+          text: 'Dito isso, meteu-se em Itaguaí, e entregou-se de corpo e alma ao estudo da ciência,\n' +
+            'alternando as curas com as leituras, e demonstrando os teoremas com cataplasmas. Aos\n' +
+            'quarenta anos casou com D. Evarista da Costa e Mascarenhas, senhora de vinte e cinco\n' +
+            'anos, viúva de um juiz de fora, e não bonita nem simpática. Um dos tios dele, caçador de\n' +
+            'pacas perante o Eterno, e não menos franco, admirou-se de semelhante escolha e disse-lho.\n' +
+            'Simão Bacamarte explicou-lhe que D. Evarista reunia condições fisiológicas e anatômicas\n' +
+            'de primeira ordem, digeria com facilidade, dormia regularmente, tinha bom pulso, e\n' +
+            'excelente vista; estava assim apta para dar-lhe filhos robustos, sãos e inteligentes. Se além dessas prendas,—únicas dignas da preocupação de um sábio, D. Evarista era mal composta de feições, longe de lastimá-lo, agradecia-o a Deus, porquanto não corria o risco de preterir os interesses da ciência na contemplação exclusiva, miúda e vulgar da consorte.',
+          footnote: []
+        },
+        {
+          text: 'D. Evarista mentiu às esperanças do Dr. Bacamarte, não lhe deu filhos robustos nem\n' +
+            'mofinos. A índole natural da ciência é a longanimidade; o nosso médico esperou três anos,\n' +
+            'depois quatro, depois cinco. Ao cabo desse tempo fez um estudo profundo da matéria, releu\n' +
+            'todos os escritores árabes e outros, que trouxera para Itaguaí, enviou consultas às\n' +
+            'universidades italianas e alemãs, e acabou por aconselhar à mulher um regímen alimentício\n' +
+            'especial. A ilustre dama, nutrida exclusivamente com a bela carne de porco de Itaguaí, não\n' +
+            'atendeu às admoestações do esposo; e à sua resistência, — explicável, mas inqualificável, —\n' +
+            'devemos a total extinção da dinastia dos Bacamartes.',
+          footnote: []
+        },
+        {
+          text: 'Mas a ciência tem o inefável dom de curar todas as mágoas; o nosso médico mergulhou\n' +
+            'inteiramente no estudo e na prática da medicina. Foi então que um dos recantos desta lhe\n' +
+            'chamou especialmente a atenção, — o recanto psíquico, o exame de patologia cerebral. Não\n' +
+            'havia na colônia, e ainda no reino, uma só autoridade em semelhante matéria, mal\n' +
+            'explorada, ou quase inexplorada. Simão Bacamarte compreendeu que a ciência lusitana, e\n' +
+            'particularmente a brasileira, podia cobrir-se de "louros imarcescíveis", — expressão usada\n' +
+            'por ele mesmo, mas em um arroubo de intimidade doméstica; exteriormente era modesto,\n' +
+            'segundo convém aos sabedores.',
+          footnote: []
+        },
+        {
+          text: '— A saúde da alma, bradou ele, é a ocupação mais digna do médico.',
+          footnote: []
+        },
+        {
+          text: '— Do verdadeiro médico, emendou Crispim Soares, boticário da vila, e um dos seus amigos\n' +
+            'e comensais.',
+          footnote: []
+        },
+        {
+          text: 'A vereança de Itaguaí, entre outros pecados de que é argüida pelos cronistas, tinha o de não\n' +
+            'fazer caso dos dementes. Assim é que cada louco furioso era trancado em uma alcova, na\n' +
+            'própria casa, e, não curado, mas descurado, até que a morte o vinha defraudar do benefício\n' +
+            'da vida; os mansos andavam à solta pela rua. Simão Bacamarte entendeu desde logo\n' +
+            'reformar tão ruim costume; pediu licença à Câmara para agasalhar e tratar no edifício que\n' +
+            'ia construir todos os loucos de Itaguaí, e das demais vilas e cidades, mediante um\n' +
+            'estipêndio, que a Câmara lhe daria quando a família do enfermo o não pudesse fazer. A\n' +
+            'proposta excitou a curiosidade de toda a vila, e encontrou grande resistência, tão certo é que\n' +
+            'dificilmente se desarraigam hábitos absurdos, ou ainda maus. A idéia de meter os loucos na\n' +
+            'mesma casa, vivendo em comum, pareceu em si mesma sintoma de demência e não faltou\n' +
+            'quem o insinuasse à própria mulher do médico.',
+          footnote: []
+        },
+        {
+          text: '— Olhe, D. Evarista, disse-lhe o Padre Lopes, vigário do lugar, veja se seu marido dá um\n' +
+            'passeio ao Rio de Janeiro. Isso de estudar sempre, sempre, não é bom, vira o juízo.',
+          footnote: []
+        },
+        {
+          text: 'D. Evarista ficou aterrada. Foi ter com o marido, disse-lhe "que estava com desejos", um\n' +
+            'principalmente, o de vir ao Rio de Janeiro e comer tudo o que a ele lhe parecesse adequado\n' +
+            'a certo fim. Mas aquele grande homem, com a rara sagacidade que o distinguia, penetrou a\n' +
+            'intenção da esposa e redargüiu-lhe sorrindo que não tivesse medo. Dali foi à Câmara, onde\n' +
+            'os vereadores debatiam a proposta, e defendeu-a com tanta eloqüência, que a maioria\n' +
+          'resolveu autorizá-lo ao que pedira, votando ao mesmo tempo um imposto destinado a\n' +
+            'subsidiar o tratamento, alojamento e mantimento dos doidos pobres. A matéria do imposto\n' +
+            'não foi fácil achá-la; tudo estava tributado em Itaguaí. Depois de longos estudos, assentouse\n' +
+            'em permitir o uso de dois penachos nos cavalos dos enterros. Quem quisesse emplumar\n' +
+            'os cavalos de um coche mortuário pagaria dois tostões à Câmara, repetindo-se tantas vezes\n' +
+            'esta quantia quantas fossem as horas decorridas entre a do falecimento e a da última bênção\n' +
+            'na sepultura. O escrivão perdeu-se nos cálculos aritméticos do rendimento possível da nova\n' +
+            'taxa; e um dos vereadores, que não acreditava na empresa do médico, pediu que se\n' +
+            'relevasse o escrivão de um trabalho inútil.',
+          footnote: []
+        },
+        {
+          text: '— Os cálculos não são precisos, disse ele, porque o Dr. Bacamarte não arranja nada. Quem\n' +
+            'é que viu agora meter todos os doidos dentro da mesma casa?',
+          footnote: []
+        },
+        {
+          text: 'Enganava-se o digno magistrado; o médico arranjou tudo. Uma vez empossado da licença\n' +
+            'começou logo a construir a casa. Era na Rua Nova, a mais bela rua de Itaguaí naquele\n' +
+            'tempo; tinha cinqüenta janelas por lado, um pátio no centro, e numerosos cubículos para os\n' +
+            'hóspedes. Como fosse grande arabista, achou no Corão que Maomé declara veneráveis os\n' +
+            'doidos, pela consideração de que Alá lhes tira o juízo para que não pequem. A idéia\n' +
+            'pareceu-lhe bonita e profunda, e ele a fez gravar no frontispício da casa; mas, como tinha\n' +
+            'medo ao vigário, e por tabela ao bispo, atribuiu o pensamento a Benedito VIII, merecendo\n' +
+            'com essa fraude aliás pia, que o Padre Lopes lhe contasse, ao almoço, a vida daquele\n' +
+            'pontífice eminente.',
+          footnote: []
+        },
+        {
+          text: 'A Casa Verde foi o nome dado ao asilo, por alusão à cor das janelas, que pela primeira vez\n' +
+            'apareciam verdes em Itaguaí. Inaugurou-se com imensa pompa; de todas as vilas e\n' +
+            'povoações próximas, e até remotas, e da própria cidade do Rio de Janeiro, correu gente para\n' +
+            'assistir às cerimônias, que duraram sete dias. Muitos dementes já estavam recolhidos; e os\n' +
+            'parentes tiveram ocasião de ver o carinho paternal e a caridade cristã com que eles iam ser\n' +
+            'tratados. D. Evarista, contentíssima com a glória do marido, vestiu-se luxuosamente,\n' +
+            'cobriu-se de jóias, flores e sedas. Ela foi uma verdadeira rainha naqueles dias memoráveis;\n' +
+            'ninguém deixou de ir visitá-la duas e três vezes, apesar dos costumes caseiros e recatados\n' +
+            'do século, e não só a cortejavam como a louvavam; porquanto,—e este fato é um\n' +
+            'documento altamente honroso para a sociedade do tempo, —porquanto viam nela a feliz\n' +
+            'esposa de um alto espírito, de um varão ilustre, e, se lhe tinham inveja, era a santa e nobre\n' +
+            'inveja dos admiradores.',
+          footnote: []
+        },
+        {
+          text: 'Ao cabo de sete dias expiraram as festas públicas; Itaguaí, tinha finalmente uma casa de\n' +
+            'orates',
           footnote: []
         }
       ]
