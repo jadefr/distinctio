@@ -5644,7 +5644,7 @@ export default [
       title: 'A Desejada das Gentes',
       author: 'Machado de Assis',
       section: 'Conto',
-      img: 'machado',
+      img: 'machado2',
       imgIndex: '6',
       titleURL: 'a-desejada-das-gentes',
       authorURL: 'machado-de-assis',
@@ -14780,7 +14780,7 @@ export default [
       title: 'Relíquias de Casa Velha',
       author: 'Machado de Assis',
       section: 'Evolução',
-      img: 'machado3',
+      img: 'machado',
       imgIndex: '6',
       titleURL: 'reliquias-de-casa-velha',
       authorURL: 'machado-de-assis',
@@ -15312,7 +15312,7 @@ export default [
       title: 'A Inglesinha Barcelos',
       author: 'Machado de Assis',
       section: 'Conto',
-      img: 'machado',
+      img: 'machado3',
       imgIndex: '6',
       titleURL: 'a-inglesinha-barcelos',
       authorURL: 'machado-de-assis',
@@ -19175,7 +19175,7 @@ export default [
       title: 'O Alienista',
       author: 'Machado de Assis',
       section: 'Capítulo I',
-      img: 'machado3',
+      img: 'machado4',
       imgIndex: '',
       titleURL: 'o-alienista',
       authorURL: 'machado-de-assis',
@@ -19271,7 +19271,7 @@ export default [
             'a certo fim. Mas aquele grande homem, com a rara sagacidade que o distinguia, penetrou a\n' +
             'intenção da esposa e redargüiu-lhe sorrindo que não tivesse medo. Dali foi à Câmara, onde\n' +
             'os vereadores debatiam a proposta, e defendeu-a com tanta eloqüência, que a maioria\n' +
-          'resolveu autorizá-lo ao que pedira, votando ao mesmo tempo um imposto destinado a\n' +
+            'resolveu autorizá-lo ao que pedira, votando ao mesmo tempo um imposto destinado a\n' +
             'subsidiar o tratamento, alojamento e mantimento dos doidos pobres. A matéria do imposto\n' +
             'não foi fácil achá-la; tudo estava tributado em Itaguaí. Depois de longos estudos, assentouse\n' +
             'em permitir o uso de dois penachos nos cavalos dos enterros. Quem quisesse emplumar\n' +
@@ -19317,6 +19317,323 @@ export default [
         {
           text: 'Ao cabo de sete dias expiraram as festas públicas; Itaguaí, tinha finalmente uma casa de\n' +
             'orates',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
+      title: 'O Alienista',
+      author: 'Machado de Assis',
+      section: 'Capítulo II',
+      img: 'machado4',
+      imgIndex: '',
+      titleURL: 'o-alienista',
+      authorURL: 'machado-de-assis',
+      sectionURL: 'capitulo-II',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>TORRENTES DE LOUCOS</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: 'Três dias depois, numa expansão íntima com o boticário Crispim Soares, desvendou o\n' +
+            'alienista o mistério do seu coração.',
+          footnote: []
+        },
+        {
+          text: '— A caridade, Sr. Soares, entra decerto no meu procedimento, mas entra como tempero,\n' +
+            'como o sal das coisas, que é assim que interpreto o dito de São Paulo aos Coríntios: "Se eu\n' +
+            'conhecer quanto se pode saber, e não tiver caridade, não sou nada". O principal nesta minha\n' +
+            'obra da Casa Verde é estudar profundamente a loucura, os seus diversos graus, classificarlhe\n' +
+            'os casos, descobrir enfim a causa do fenômeno e o remédio universal. Este é o mistério\n' +
+            'do meu coração. Creio que com isto presto um bom serviço à humanidade.',
+          footnote: []
+        },
+        {
+          text: '— Um excelente serviço, corrigiu o boticário.',
+          footnote: []
+        },
+        {
+          text: '— Sem este asilo, continuou o alienista, pouco poderia fazer; ele dá-me, porém, muito\n' +
+            'maior campo aos meus estudos.',
+          footnote: []
+        },
+        {
+          text: '— Muito maior, acrescentou o outro.',
+          footnote: []
+        },
+        {
+          text: 'E tinha razão. De todas as vilas e arraiais vizinhos afluíam loucos à Casa Verde. Eram\n' +
+            'furiosos, eram mansos, eram monomaníacos, era toda a família dos deserdados do espírito.\n' +
+            'Ao cabo de quatro meses, a Casa Verde era uma povoação. Não bastaram os primeiros\n' +
+            'cubículos; mandou-se anexar uma galeria de mais trinta e sete. O Padre Lopes confessou\n' +
+            'que não imaginara a existência de tantos doidos no mundo, e menos ainda o inexplicável de\n' +
+            'alguns casos. Um, por exemplo, um rapaz bronco e vilão, que todos os dias, depois do\n' +
+            'almoço, fazia regularmente um discurso acadêmico, ornado de tropos, de antíteses, de\n' +
+            'apóstrofes, com seus recamos de grego e latim, e suas borlas de Cícero, Apuleio e\n' +
+            'Tertuliano. O vigário não queria acabar de crer. Quê! um rapaz que ele vira, três meses\n' +
+            'antes, jogando peteca na rua!',
+          footnote: []
+        },
+        {
+          text: '— Não digo que não, respondia-lhe o alienista; mas a verdade é o que Vossa\n' +
+            'Reverendíssima está vendo. Isto é todos os dias.',
+          footnote: []
+        },
+        {
+          text: '— Quanto a mim, tornou o vigário, só se pode explicar pela confusão das línguas na torre\n' +
+            'de Babel, segundo nos conta a Escritura; provavelmente, confundidas antigamente as\n' +
+            'línguas, é fácil trocá-las agora, desde que a razão não trabalhe...',
+          footnote: []
+        },
+        {
+          text: '— Essa pode ser, com efeito, a explicação divina do fenômeno, concordou o alienista,\n' +
+            'depois de refletir um instante, mas não é impossível que haja também alguma razão\n' +
+            'humana, e puramente científica, e disso trato...',
+          footnote: []
+        },
+        {
+          text: '— Vá que seja, e fico ansioso. Realmente!',
+          footnote: []
+        },
+        {
+          text: 'Os loucos por amor eram três ou quatro, mas só dois espantavam pelo curioso do delírio. O\n' +
+            'primeiro, um Falcão, rapaz de vinte e cinco anos, supunha-se estrela-d’alva, abria os braços\n' +
+            'e alargava as pernas, para dar-lhes certa feição de raios, e ficava assim horas esquecidas a\n' +
+            'perguntar se o sol já tinha saído para ele recolher-se. O outro andava sempre, sempre,\n' +
+            'sempre, à roda das salas ou do pátio, ao longo dos corredores, à procura do fim do mundo.\n' +
+            'Era um desgraçado, a quem a mulher deixou por seguir um peralvilho. Mal descobrira a\n' +
+            'fuga, armou-se de uma garrucha, e saiu-lhes no encalço; achou-os duas horas depois, ao pé\n' +
+            'de uma lagoa, matou-os a ambos com os maiores requintes de crueldade.',
+          footnote: []
+        },
+        {
+          text: 'O ciúme satisfez-se, mas o vingado estava louco. E então começou aquela ânsia de ir ao fim\n' +
+            'do mundo à cata dos fugitivos.',
+          footnote: []
+        },
+        {
+          text: 'A mania das grandezas tinha exemplares notáveis. O mais notável era um pobre-diabo,\n' +
+            'filho de um algibebe, que narrava às paredes ( porque não olhava nunca para nenhuma\n' +
+            'pessoa ) toda a sua genealogia, que era esta:',
+          footnote: []
+        },
+        {
+          text: '— Deus engendrou um ovo, o ovo engendrou a espada, a espada engendrou Davi, Davi\n' +
+            'engendrou a púrpura, a púrpura engendrou o duque, o duque engendrou o marquês, o\n' +
+            'marquês engendrou o conde, que sou eu.',
+          footnote: []
+        },
+        {
+          text: 'Dava uma pancada na testa, um estalo com os dedos, e repetia cinco, seis vezes seguidas:',
+          footnote: []
+        },
+        {
+          text: '— Deus engendrou um ovo, o ovo, etc.',
+          footnote: []
+        },
+        {
+          text: 'Outro da mesma espécie era um escrivão, que se vendia por mordomo do rei; outro era um\n' +
+            'boiadeiro de Minas, cuja mania era distribuir boiadas a toda a gente, dava trezentas cabeças\n' +
+            'a um, seiscentas a outro, mil e duzentas a outro, e não acabava mais. Não falo dos casos de\n' +
+            'monomania religiosa; apenas citarei um sujeito que, chamando-se João de Deus, dizia agora\n' +
+            'ser o deus João, e prometia o reino dos céus a quem o adorasse, e as penas do inferno aos\n' +
+            'outros; e depois desse, o licenciado Garcia, que não dizia nada, porque imaginava que no\n' +
+            'dia em que chegasse a proferir uma só palavra, todas as estrelas se despegariam do céu e\n' +
+            'abrasariam a terra; tal era o poder que recebera de Deus.',
+          footnote: []
+        },
+        {
+          text: 'Assim o escrevia ele no papel que o alienista lhe mandava dar, menos por caridade do que\n' +
+            'por interesse científico.',
+          footnote: []
+        },
+        {
+          text: 'Que, na verdade, a paciência do alienista era ainda mais extraordinária do que todas as\n' +
+            'manias hospedadas na Casa Verde; nada menos que assombrosa. Simão Bacamarte\n' +
+            'começou por organizar um pessoal de administração; e, aceitando essa idéia ao boticário\n' +
+            'Crispim Soares, aceitou-lhe também dois sobrinhos, a quem incumbiu da execução de um\n' +
+            'regimento que lhes deu, aprovado pela Câmara, da distribuição da comida e da roupa, e\n' +
+            'assim também da escrita, etc. Era o melhor que podia fazer, para somente cuidar do seu\n' +
+            'ofício.—A Casa Verde, disse ele ao vigário, é agora uma espécie de mundo, em que há o\n' +
+            'governo temporal e o governo <em>espiritual</em>. E o Padre Lopes ria deste pio trocado,—e\n' +
+            'acrescentava,—com o único fim de dizer também uma chalaça: —Deixe estar, deixe estar,\n' +
+            'que hei de mandá-lo denunciar ao papa.',
+          footnote: []
+        },
+        {
+          text: 'Uma vez desonerado da administração, o alienista procedeu a uma vasta classificação dos\n' +
+            'seus enfermos. Dividiu-os primeiramente em duas classes principais: os furiosos e os\n' +
+            'mansos; daí passou às subclasses, monomanias, delírios, alucinações diversas.',
+          footnote: []
+        },
+        {
+          text: 'Isto feito, começou um estudo aturado e contínuo; analisava os hábitos de cada louco, as\n' +
+            'horas de acesso, as aversões, as simpatias, as palavras, os gestos, as tendências; inquiria da\n' +
+            'vida dos enfermos, profissão, costumes, circunstâncias da revelação mórbida, acidentes da\n' +
+            'infância e da mocidade, doenças de outra espécie, antecedentes na família, uma devassa,\n' +
+            'enfim, como a não faria o mais atilado corregedor. E cada dia notava uma observação nova,\n' +
+            'uma descoberta interessante, um fenômeno extraordinário. Ao mesmo tempo estudava o\n' +
+            'melhor regímen, as substâncias medicamentosas, os meios curativos e os meios paliativos,\n' +
+            'não só os que vinham nos seus amados árabes, como os que ele mesmo descobria, à força\n' +
+            'de sagacidade e paciência. Ora, todo esse trabalho levava-lhe o melhor e o mais do tempo.\n' +
+            'Mal dormia e mal comia; e, ainda comendo, era como se trabalhasse, porque ora\n' +
+            'interrogava um texto antigo, ora ruminava uma questão, e ia muitas vezes de um cabo a\n' +
+            'outro do jantar sem dizer uma só palavra a D. Evarista.',
+          footnote: []
+        }
+      ]
+    }
+  },
+  {
+    document: {
+      title: 'O Alienista',
+      author: 'Machado de Assis',
+      section: 'Capítulo III',
+      img: 'machado4',
+      imgIndex: '',
+      titleURL: 'o-alienista',
+      authorURL: 'machado-de-assis',
+      sectionURL: 'capitulo-III',
+      content: '',
+      disclaimer: '',
+      paragraphs: [
+        {
+          text: '<br><center>DEUS SABE O QUE FAZ</center>',
+          footnote: [
+            {
+              index: '',
+              content: ''
+            }
+          ]
+        },
+        {
+          text: 'Ilustre dama, no fim de dois meses, achou-se a mais desgraçada das mulheres: caiu em\n' +
+            'profunda melancolia, ficou amarela, magra, comia pouco e suspirava a cada canto. Não\n' +
+            'ousava fazer-lhe nenhuma queixa ou reproche, porque respeitava nele o seu marido e\n' +
+            'senhor, mas padecia calada, e definhava a olhos vistos. Um dia, ao jantar, como lhe\n' +
+            'perguntasse o marido o que é que tinha, respondeu tristemente que nada; depois atreveu-se\n' +
+            'um pouco, e foi ao ponto de dizer que se considerava tão viúva como dantes. E acrescentou:',
+          footnote: []
+        },
+        {
+          text: '— Quem diria nunca que meia dúzia de lunáticos...',
+          footnote: []
+        },
+        {
+          text: 'Não acabou a frase; ou antes, acabou-a levantando os olhos ao teto, — os olhos, que eram a\n' +
+            'sua feição mais insinuante, — negros, grandes, lavados de uma luz úmida, como os da\n' +
+            'aurora. Quanto ao gesto, era o mesmo que empregara no dia em que Simão Bacamarte a\n' +
+            'pediu em casamento. Não dizem as crônicas se D. Evarista brandiu aquela arma com o\n' +
+            'perverso intuito de degolar de uma vez a ciência, ou, pelo menos, decepar-lhe as mãos; mas\n' +
+            'a conjetura é verossímil. Em todo caso, o alienista não lhe atribuiu intenção. E não se\n' +
+            'irritou o grande homem, não ficou sequer consternado. O metal de seus olhos não deixou de\n' +
+            'ser o mesmo metal, duro, liso, eterno, nem a menor prega veio quebrar a superfície da\n' +
+            'fronte quieta como a água de Botafogo. Talvez um sorriso lhe descerrou os lábios, por entre\n' +
+            'os quais filtrou esta palavra macia como o óleo do Cântico:',
+          footnote: []
+        },
+        {
+          text: '— Consinto que vás dar um passeio ao Rio de Janeiro.',
+          footnote: []
+        },
+        {
+          text: 'D. Evarista sentiu faltar-lhe o chão debaixo dos pés. Nunca dos nuncas vira o Rio de\n' +
+            'Janeiro, que posto não fosse sequer uma pálida sombra do que hoje é, todavia era alguma\n' +
+            'coisa mais do que Itaguaí, Ver o Rio de Janeiro, para ela, equivalia ao sonho do hebreu\n' +
+            'cativo. Agora, principalmente, que o marido assentara de vez naquela povoação interior,\n' +
+            'agora é que ela perdera as últimas esperanças de respirar os ares da nossa boa cidade; e\n' +
+            'justamente agora é que ele a convidava a realizar os seus desejos de menina e moça. D.\n' +
+            'Evarista não pôde dissimular o gosto de semelhante proposta. Simão Bacamarte pagou-lhe\n' +
+            'na mão e sorriu, — um sorriso tanto ou quanto filosófico, além de conjugal, em que parecia\n' +
+            'traduzir-se este pensamento: — "Não há remédio certo para as dores da alma; esta senhora\n' +
+            'definha, porque lhe parece que a não amo; dou-lhe o Rio de Janeiro, e consola-se". E\n' +
+            'porque era homem estudioso tomou nota da observação.',
+          footnote: []
+        },
+        {
+          text: 'Mas um dardo atravessou o coração de D. Evarista. Conteve-se, entretanto; limitou-se a\n' +
+            'dizer ao marido que, se ele não ia, ela não iria também, porque não havia de meter-se\n' +
+            'sozinha pelas estradas.',
+          footnote: []
+        },
+        {
+          text: '— Irá com sua tia, redargüiu o alienista.',
+          footnote: []
+        },
+        {
+          text: 'Note-se que D. Evarista tinha pensado nisso mesmo; mas não quisera pedi-lo nem insinuá-lo,\n' +
+            'em primeiro lugar porque seria impor grandes despesas ao marido, em segundo lugar\n' +
+            'porque era melhor, mais metódico e racional que a proposta viesse dele.',
+          footnote: []
+        },
+        {
+          text: '— Oh! mas o dinheiro que será preciso gastar! suspirou D. Evarista sem convicção.',
+          footnote: []
+        },
+        {
+          text: '— Que importa? Temos ganho muito, disse o marido. Ainda ontem o escriturário prestou-me\n' +
+            'contas. Queres ver?',
+          footnote: []
+        },
+        {
+          text: 'E levou-a aos livros. D. Evarista ficou deslumbrada. Era uma via-láctea de algarismos. E\n' +
+            'depois levou-a às arcas, onde estava o dinheiro.',
+          footnote: []
+        },
+        {
+          text: 'Deus! eram montes de ouro, eram mil cruzados sobre mil cruzados, dobrões sobre dobrões;\n' +
+            'era a opulência.',
+          footnote: []
+        },
+        {
+          text: 'Enquanto ela comia o ouro com os seus olhos negros, o alienista fitava-a, e dizia-lhe ao\n' +
+            'ouvido com a mais pérfida das alusões:',
+          footnote: []
+        },
+        {
+          text: '— Quem diria que meia dúzia de lunáticos...',
+          footnote: []
+        },
+        {
+          text: 'D. Evarista compreendeu, sorriu e respondeu com muita resignação:',
+          footnote: []
+        },
+        {
+          text: '— Deus sabe o que faz!',
+          footnote: []
+        },
+        {
+          text: 'Três meses depois efetuava-se a jornada. D. Evarista, a tia, a mulher do boticário, um\n' +
+            'sobrinho deste, um padre que o alienista conhecera em Lisboa, e que de aventura achava-se\n' +
+            'em Itaguaí cinco ou seis pajens, quatro mucamas, tal foi a comitiva que a população viu\n' +
+            'dali sair em certa manhã do mês de maio. As despedidas foram tristes para todos, menos\n' +
+            'para o alienista. Conquanto as lágrimas de D. Evarista fossem abundantes e sinceras, não\n' +
+            'chegaram a abalá-lo. Homem de ciência, e só de ciência, nada o consternava fora da\n' +
+            'ciência; e se alguma coisa o preocupava naquela ocasião, se ele deixava correr pela\n' +
+            'multidão um olhar inquieto e policial, não era outra coisa mais do que a idéia de que algum\n' +
+            'demente podia achar-se ali misturado com a gente de juízo.',
+          footnote: []
+        },
+        {
+          text: '—Adeus! soluçaram enfim as damas e o boticário.',
+          footnote: []
+        },
+        {
+          text: 'E partiu a comitiva. Crispim Soares, ao tornar a casa, trazia os olhos entre as duas orelhas\n' +
+            'da besta ruana em que vinha montado; Simão Bacamarte alongava os seus pelo horizonte\n' +
+            'adiante, deixando ao cavalo a responsabilidade do regresso. Imagem vivaz do gênio e do\n' +
+            'vulgo! Um fita o presente, com todas as suas lágrimas e saudades, outro devassa o futuro\n' +
+            'com todas as suas auroras.',
           footnote: []
         }
       ]

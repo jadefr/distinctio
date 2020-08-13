@@ -17,6 +17,7 @@ import kafka2 from '@/assets/img/kafka2.jpg'
 import brunoTolentino from '@/assets/img/brunoTolentino.jpg'
 import machado2 from '@/assets/img/machado2.jpg'
 import machado3 from '@/assets/img/machado3.jpg'
+import machado4 from '@/assets/img/machado4.jpg'
 import augustoAnjos from '@/assets/img/augustoAnjos.jpg'
 import oscarWilde from '@/assets/img/oscarWilde.jpg'
 import shakespeare from '@/assets/img/shakespeare.jpg'
@@ -27,5 +28,5 @@ import macbeth4 from '@/assets/img/macbeth4.jpg'
 
 export default {
   documents2,
-  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, mirceaEliade2, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, fernandoPessoa2, monteiroLobato, kafka, kafka2, brunoTolentino, machado2, machado3, augustoAnjos, oscarWilde, shakespeare, macbeth1, macbeth2, macbeth3, macbeth4]
+  imgs: [aristotle, cicero, marcoAurelio, mirceaEliade, mirceaEliade2, plato, seneca, machado, thomasMann, ecaQueiroz, fernandoPessoa, fernandoPessoa2, monteiroLobato, kafka, kafka2, brunoTolentino, machado2, machado3, machado4, augustoAnjos, oscarWilde, shakespeare, macbeth1, macbeth2, macbeth3, macbeth4]
 }
