@@ -21,37 +21,37 @@
           <ul>
             <div id="right-list">
               <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <a href="/galeria/seneca/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
                 <strong><a href="/galeria/seneca/">Sêneca</a></strong>
               </li>
               <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <a href="/galeria/marco-tulio-cicero/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
                 <strong><a href="/galeria/marco-tulio-cicero/">Cícero</a></strong>
               </li>
               <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <a href="/galeria/marco-aurelio/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
                 <strong><a href="/galeria/marco-aurelio/">Marco Aurélio</a></strong>
               </li>
               <li>
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <a href="/galeria/franz-kafka"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
                 <strong><a href="/galeria/franz-kafka">Franz Kafka</a></strong>
               </li>
             </div>
             <div id="left-list">
             <li>
-              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+              <a href="/galeria/platao/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
               <strong><a href="/galeria/platao/">Platão</a></strong>
             </li>
             <li>
-              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+              <a href="/galeria/william-shakespeare/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
               <strong><a href="/galeria/william-shakespeare/">Shakespeare</a></strong>
             </li>
             <li>
-              <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+              <a href="/galeria/machado-de-assis/"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
               <strong><a href="/galeria/machado-de-assis/">Machado de Assis</a></strong>
             </li>
               <li id="e-mais">
-                <b-icon icon="circle-fill" class="circle-icon"></b-icon>
+                <a href="/galeria"><b-icon icon="circle-fill" class="circle-icon"></b-icon></a>
                 <strong><a href="/galeria">e mais</a></strong>
               </li>
             </div>
