@@ -1,7 +1,7 @@
 # distinctio
 Galeria de textos antigos responsiva e com o fundo em sépia.
 
-http://distinto.io/
+https://distinto.io/
 
 ## Atributos
 * UX agradável
